@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="517"
+   height="709"
+   viewBox="0 0 136.78958 187.58958"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Vietnam road sign IE453c.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Vietnam road sign IE453c</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.52249848"
+     inkscape:cx="51.674792"
+     inkscape:cy="360.7666"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2214"
+       style="font-size:15.1831px;line-height:1.46;font-family:'Singapore Road Signs';-inkscape-font-specification:'Singapore Road Signs';text-align:center;text-anchor:middle;fill:#0a9646;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0265076;stroke-linecap:square;stroke-miterlimit:10;paint-order:stroke fill markers"
+       d="M 0,0 H 136.78958 V 187.58958 H 0 Z" />
+    <path
+       d="M 0,0 V 187.58958 H 136.78958 V 0 Z M 5.3351401,6.1526429 H 131.3828 V 182.4446 H 5.3351401 Z M 58.097881,19.668946 49.470801,52.542407 h 15.139331 l 1.08859,-32.873461 z m 12.944461,0 1.08859,32.873461 h 15.14689 l -8.6348,-32.873461 z M 9.6285102,56.703004 v 7.1984 l 11.8390008,4.106797 v 2.167045 h 5.44677 v -2.167045 c 0,0 8.05488,-1.162474 17.4703,-1.984145 7.53926,-0.6579 15.94939,-1.008101 21.787401,-1.030565 6.94332,-0.02219 17.20915,0.346533 26.01716,1.069111 9.701538,0.794879 17.646478,1.945707 17.646478,1.945707 v 2.167006 h 5.33483 v -2.167006 l 11.8388,-4.106795 V 56.703122 Z M 45.185501,70.122096 19.30445,169.00912 h 38.793431 l 5.382741,-98.887024 z m 28.011521,0 5.38273,98.887024 H 117.37303 L 91.492132,70.122096 Z"
+       style="font-size:15.1831px;line-height:1.46;font-family:'Singapore Road Signs';-inkscape-font-specification:'Singapore Road Signs';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.286162"
+       id="path2226"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccscsccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       d="m 123.06441,6.0976242 8.33792,2e-7 V 13.894962 L 13.978254,182.46869 l -8.6180327,-0.0295 -0.0322,-8.56167 z"
+       style="font-size:15.1831px;line-height:1.46;font-family:'Singapore Road Signs';-inkscape-font-specification:'Singapore Road Signs';text-align:center;text-anchor:middle;fill:#f00a0a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.450441;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2230" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Vietnam road sign IE453c</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
