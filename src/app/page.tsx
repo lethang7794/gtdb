@@ -3,10 +3,6 @@ import yaml from 'yaml'
 import Image from 'next/image'
 import { cache } from 'react'
 
-const roadSigns = {
-  P: [],
-}
-
 const directoryPath = 'road-signs'
 
 function getRoadSigns() {
@@ -24,7 +20,7 @@ const getRoadSignsFromYamlCached = cache(getRoadSignsFromYaml)
 export default async function Home() {
   // const signs = getRoadSignsCached()
   const data = getRoadSignsFromYamlCached()
-  const entries = Object.entries(data.signs) as [string, string][]
+  const entries = Object.entries(data.signs) as [string, { name: string }][]
 
   return (
     <main className="flex min-h-screen flex-col justify-between p-6 md:p-8">
@@ -44,20 +40,22 @@ export default async function Home() {
             </div>
           )
         })} */}
-        {entries?.map(([sign, val]) => {
-          const imgUrl = `${directoryPath}/${sign.replace('.', '')}.svg`
+        {entries?.map(([signKey, sign]) => {
+          const imgUrl = `${directoryPath}/${signKey.replace('.', '')}.svg`
           return (
             <div
-              key={sign}
+              key={signKey}
               className="flex items-center justify-start flex-col border"
             >
               <img
-                alt={sign}
+                alt={signKey}
                 src={imgUrl}
                 className="max-h-full h-20 aspect-square border"
               />
-              <div>{sign}</div>
-              <div className="line-clamp-3 text-balance text-center">{val}</div>
+              <div>{signKey}</div>
+              <div className="line-clamp-3 text-balance text-center">
+                {sign.name}
+              </div>
             </div>
           )
         })}

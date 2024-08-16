@@ -1,418 +1,835 @@
 signs:
-  P.101: Đường cấm
-  P.102: Cấm đi ngược chiều
-  P.103a: Cấm xe ôtô
-  P.103b: Cấm xe ôtô rẽ phải
-  P.103c: Cấm xe ôtô rẽ trái
-  P.104: Cấm xe máy
-  P.105: Cấm xe ôtô và xe máy
-  P.106a: Cấm xe ôtô tải
-  P.106b: Cấm xe ôtô tải trên XX tấn
-  P.106c: Cấm các xe chở hàng nguy hiểm
-  P.107: Cấm xe ôtô khách và xe ôtô tải
-  P.107a: Cấm xe ôtô khách
-  P.107b: Cấm xe ôtô taxi
-  P.108: Cấm xe kéo rơ-moóc
-  P.108a: Cấm xe sơ-mi rơ-moóc
-  P.109: Cấm máy kéo
-  P.110a: Cấm xe đạp
-  P.110b: Cấm xe đạp thồ
-  P.111a: Cấm xe gắn máy
-  P.111b: Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)
-  P.111c: Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)
-  P.111d: Cấm xe ba bánh loại không có động cơ (xe xích lô đạp, xe lôi đạp)
-  P.112: Cấm người đi bộ
-  P.113: Cấm xe người kéo, đẩy
-  P.114: Cấm xe súc vật kéo
-  P.115: Hạn chế trọng tải toàn bộ xe
-  P.116: Hạn chế tải trọng trên trục xe
-  P.117: Hạn chế chiều cao xe
-  P.118: Hạn chế chiều ngang xe
-  P.119: Hạn chế chiều dài xe
-  P.120: Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc
-  P.121: Cự ly tối thiểu giữa hai xe
-  P.123a: Cấm rẽ trái
-  P.123b: Cấm rẽ phải
-  P.124a1: Cấm quay đầu xe (trái)
-  P.124a2: Cấm quay đầu xe (phải)
-  P.124b1: Cấm ô tô quay đầu xe (trái)
-  P.124b2: Cấm ô tô quay đầu xe (phải)
-  P.124c: Cấm rẽ trái và quay đầu xe
-  P.124d: Cấm rẽ phải và quay đầu xe
-  P.124e: Cấm ô tô rẽ trái và quay đầu xe
-  P.124f: Cấm ô tô rẽ phải và quay đầu xe
-  P.125: Cấm vượt
-  P.126: Cấm xe ôtô tải vượt
-  P.127-20: Tốc độ tối đa cho phép 20 km/h
-  P.127-30: Tốc độ tối đa cho phép 30 km/h
-  P.127-40: Tốc độ tối đa cho phép 40 km/h
-  P.127-50: Tốc độ tối đa cho phép 50 km/h
-  P.127-60: Tốc độ tối đa cho phép 60 km/h
-  P.127-70: Tốc độ tối đa cho phép 70 km/h
-  P.127-80: Tốc độ tối đa cho phép 80 km/h
-  P.127-90: Tốc độ tối đa cho phép 90 km/h
-  P.127a: Tốc độ tối đa cho phép về ban đêm
-  P.127b: Biển ghép tốc độ tối đa cho phép trên từng làn đường
-  P.127c: Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường
-  DP.127a: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🤯
-  DP.127b: Biển hết tốc độ tối đa cho phép theo biển ghép P.127b
-  DP.127c: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🔍
-  P.128: Cấm sử dụng còi
-  P.129: Kiểm tra
-  P.130: Cấm dừng xe và đỗ xe
-  P.131a: Cấm đỗ xe
-  P.131b: Cấm đỗ xe ngày lẻ
-  P.131c: Cấm đỗ xe ngày chẵn
-  P.132: Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp
-  DP.133: Hết cấm vượt
-  DP.134: Hết tốc độ tối đa cho phép
-  DP.135: Hết tất cả các lệnh cấm
-  P.136: Cấm đi thẳng
-  P.137: Cấm rẽ trái, rẽ phải
-  P.138: Cấm đi thẳng, rẽ trái
-  P.139: Cấm đi thẳng, rẽ phải
-  P.140: Cấm xe công nông và các loại xe tương tự.
-  W.201a: Chỗ ngoặt nguy hiểm (vòng bên trái)
-  W.201b: Chỗ ngoặt nguy hiểm (vòng bên phải)
-  W.201c: Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên phải)
-  W.201d: Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên trái)
-  W.202a: Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)
-  W.202b: Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)
-  W.203a: Đường bị thu hẹp (cả 2 bên)
-  W.203b: Đường bị thu hẹp (bên trái)
-  W.203c: Đường bị thu hẹp (bên phải)
-  W.204: Đường hai chiều
-  W.205a: Giao nhau với đường cùng cấp
-  W.205b: Giao nhau với đường cùng cấp
-  W.205c: Giao nhau với đường cùng cấp
-  W.205d: Giao nhau với đường cùng cấp
-  W.205e: Giao nhau với đường cùng cấp
-  W.206: Giao nhau chạy theo vòng xuyến
-  W.207a: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207b: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207c: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207d: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207e: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207f: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207g: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207h: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207i: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207k: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.207l: Giao nhau với đường không ưu tiên (đường nhánh)
-  W.208: Giao nhau với đường ưu tiên (đường chính) 🪤 W.247
-  W.209: Giao nhau có tín hiệu đèn
-  W.210: Giao nhau với đường sắt có rào chắn
-  W.211a: Giao nhau với đường sắt không có rào chắn 🔗 W.242a, W.242b
-  W.211b: Giao nhau với đường tàu điện
-  W.212: Cầu hẹp
-  W.213: Cầu tạm
-  W.214: Cầu quay (cầu cất)
-  W.215a: (Kè,) vực sâu phía trước
-  W.215b: (Kè,) vực sâu bên đường (phía bên phải)
-  W.215c: (Kè,) vực sâu bên đường (phía bên trái)
-  W.216a: Đường ngầm
-  W.216b: Đường ngầm có nguy cơ lũ quét
-  W.217: Bến phà
-  W.218: Cửa chui
-  W.219: Dốc xuống nguy hiểm 🔗 S.501
-  W.220: Dốc lên nguy hiểm 🔗 S.501
-  W.221a: Đường lồi lõm
-  W.221b: Đường có gờ giảm tốc
-  W.222a: Đường trơn
-  W.222b: Lề đường nguy hiểm
-  W.223a: Vách núi nguy hiểm (bên trái)
-  W.223b: Vách núi nguy hiểm (bên phải)
-  W.224: (Đường) người đi bộ (cắt ngang)
-  W.225: Trẻ em 🔗 S.501
-  W.226: (Đường) người đi xe đạp (cắt ngang)
-  W.227: Công trường
-  W.228a: Đá lở (bên trái) 🔗 S.501
-  W.228b: Đá lở (bên phải) 🔗 S.501
-  W.228c: Sỏi đá bắn lên
-  W.228d: Nền đường yếu
-  W.229: (Dải) máy bay (lên xuống)
-  W.230: Gia súc
-  W.231: Thú rừng (vượt qua đường) 🔗 S.501
-  W.232: Gió ngang
-  W.233: Nguy hiểm khác
-  W.234: Giao nhau với đường hai chiều
-  W.235: Đường đôi (2 chiều phân biêt bằng dải phân cách cứng) 🪤 W.246a, W.246b, W.246c
-  W.236: Kết thúc đường đôi
-  W.237: Cầu vồng
-  W.238: Đường cao tốc (phía trước)
-  W.239a: Đường cáp điện (ở phía trên)
-  W.239b: Chiều cao tĩnh không thực tế 🔍
-  W.240: Đường hầm
-  W.241: Ùn tắc giao thông
-  W.242a: (Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray) 🔗 W.211a
-  W.242b: (Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray) 🔗 W.211a
-  W.243a: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m) 🔗 W.211a
-  W.243b: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m) 🔗 W.211a
-  W.243c: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m) 🔗 W.211a
-  W.244: Đoạn đường hay xảy ra tai nạn
-  W.245a: Đi chậm
-  W.245b: Đi chậm (có chỉ dẫn tiếng Anh)
-  W.246a: (Chú ý) chướng ngại vật - Vòng tránh sang 2 bên 🪤 W.235
-  W.246b: (Chú ý) chướng ngại vật - Vòng tránh sang bên trái 🪤 W.235
-  W.246c: (Chú ý) chướng ngại vật - Vòng tránh sang bên phải 🪤 W.235
-  W.247: (Chú ý) xe đỗ 🪤 W.208
-  R.122: Dừng lại
-  R.301: Hướng đi phải theo
-  R.301a: (Các xe) chỉ được đi thẳng
-  R.301b: (Các xe) chỉ được đi ngang qua phải (đặt sau nơi đường giao nhau)
-  R.301c: (Các xe) chỉ được đi ngang qua trái (đặt sau nơi đường giao nhau)
-  R.301d: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau) 🔍
-  R.301e: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau) 🔍
-  R.301f: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau) 🔍
-  R.301g: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411 🔍
-  R.301h: (Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu) (đặt sau nơi đường giao nhau) 🪤 R.411
-  R.302a: Hướng phải đi vòng chướng ngại vật (vòng sang phải) 🔗 P.102
-  R.302b: Hướng phải đi vòng chướng ngại vật (vòng sang trái) 🔗 P.102
-  R.302c: Hướng phải đi vòng chướng ngại vật (vòng sang trái hoặc phải)
-  R.303: Nơi giao nhau chạy theo vòng xuyến
-  R.304: Đường dành cho xe thô sơ
-  R.305: Đường dành cho người đi bộ
-  R.306: Tốc độ tối thiểu (cho phép)
-  R.307: Hết tốc độ tối thiểu
-  # R.308: Cầu vượt cắt qua
-  R.308a: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ trái'
-  R.308b: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ phải'
-  R.309: Ấn còi
-  # R.310: Hướng đi phải theo cho các xe chở hàng nguy hiểm
-  R.310a: Xe chở hàng nguy hiểm chỉ được rẽ trái
-  R.310b: Xe chở hàng nguy hiểm chỉ được đi thẳng
-  R.310c: Xe chở hàng nguy hiểm chỉ được rẽ phải
-  R.403a: Đường dành cho xe ôtô
-  R.403b: Đường dành cho xe ôtô, xe máy
-  R.403c: Đường dành cho xe buýt 🔍
-  R.403d: Đường dành cho xe ôtô con 🔍
-  R.403e: Đường dành cho xe máy
-  R.403f: Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍
-  R.404a: Hết đoạn đường dành cho xe ôtô
-  R.404b: Hết đoạn đường dành cho xe ôtô, xe máy
-  R.404c: Hết đoạn đường dành cho xe buýt
-  R.404d: Hết đoạn đường dành cho xe ôtô con
-  R.404e: Hết đoạn đường dành cho xe máy
-  R.404f: Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)
-  R.411: Hướng đi trên mỗi làn đường phải theo 🪤 R.301g,h
-  R.412: Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)
-  R.412a: Làn đường dành cho xe ôtô khách
-  R.412b: Làn đường dành cho xe ôtô con 🪤
-  R.412c: Làn đường dành cho xe ôtô tải
-  R.412d: Làn đường dành cho xe máy
-  R.412e: Làn đường dành cho xe buýt
-  R.412f: Làn đường dành cho xe ôtô 🪤
-  R.412g: Làn đường dành cho xe máy và xe đạp
-  R.412h: Làn đường dành cho xe đạp
-  R.412i: Kết thúc làn đường dành cho xe ôtô khách
-  R.412j: Kết thúc làn đường dành cho xe ôtô con
-  R.412k: Kết thúc làn đường dành cho xe ôtô tải
-  R.412l: Kết thúc làn đường dành cho xe máy
-  R.412m: Kết thúc làn đường dành cho xe buýt
-  R.412n: Kết thúc làn đường dành cho xe ôtô
-  R.412o: Kết thúc làn đường dành cho xe máy và xe đạp
-  R.412p: Kết thúc làn đường dành cho xe đạp
-  R.415a: Gộp làn đường theo phương tiện
-  R.415b: Kết thúc làn đường theo phương tiện
-  R.420: Bắt đầu khu đông dân cư
-  R.421: Hết khu đông dân cư
-  R.E,9a: Cấm đỗ xe trong khu vực
-  R.E,9b: Cấm đỗ xe theo giờ trong khu vực
-  R.E,9c: Khu vực đỗ xe
-  R.E,9d: Tốc độ tối đa trong khu vực
-  R.E,10a: Hết cấm đỗ xe trong khu vực
-  R.E,10b: Hết cấm đỗ xe theo giờ trong khu vực
-  R.E,10c: Hết khu vực đỗ xe
-  R.E,10d: Hết tốc độ tối đa trong khu vực
-  R.E,11a: Đường hầm
-  R.E,11b: Kết thúc đường hầm.
-  I.401: Bắt đầu đường ưu tiên
-  I.402: Hết đoạn đường ưu tiên
-  I.405: Đường cụt
-  I.405a: Đường cụt (ở lối rẽ phải)
-  I.405b: Đường cụt (ở lối rẽ trái)
-  I.405c: Đường cụt (phía trước)
-  I.406: Được ưu tiên qua đường hẹp 🔗 P.132
-  I.407: Đường một chiều
-  I.407a: Đường một chiều (đặt sau nơi đường giao nhau) 🔗 R.302, W.204
-  I.407b: Đường một chiều (đặt trước nơi đường giao nhau) 🔗 R.302, W.204
-  I.407c: Đường một chiều (đặt trước nơi đường giao nhau) 🔗 R.302, W.204
-  I.408: Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)
-  I.408a: Nơi đỗ xe một phần trên hè phố
-  I.409: Chỗ quay xe 🔗 S.502
-  I.410: Khu vực quay xe 🔗 S.502
-  I.413a: Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại) (Đặt ở đầu đường 1 chiều)
-  I.413b: Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)
-  I.413c: Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)
-  I.414: Chỉ hướng đường (đến địa danh, khu dân cư)
-  I.414a: Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
-  I.414b: Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
-  I.414c: Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
-  I.414d: Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
-  I.415: Mũi tên chỉ hướng đi (đến địa danh tiếp theo)
-  I.416: Đường tránh (do phía trước có đường cấm)
-  I.417: Chỉ hướng đường phải đi cho từng loại xe
-  I.418: Lối đi ở những vị trí cấm rẽ
-  I.419a: Chỉ dẫn địa giới
-  I.419b: Chỉ dẫn địa giới (trên tuyến đường đối ngoại)
-  I.422a: Di tích lịch sử
-  I.422b: Di tích lịch sử (trên tuyến đường đối ngoại)
-  I.423a: Vị trí người đi bộ sang ngang 🔗 W.224, R.305
-  I.423b: Vị trí người đi bộ sang ngang 🔗 W.224, R.305
-  I.423c: Điểm bắt đầu đường đi bộ
-  I.424a: Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)
-  I.424b: Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)
-  I.424c: Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)
-  I.424d: Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)
-  I.425: Bệnh viện
-  I.426: Trạm cấp cứu
-  I.427a: Trạm sửa chữa
-  I.427b: Trạm kiểm tra tải trọng (KTTT) xe
-  I.428: Trạm xăng dầu
-  I.429: Trạm rửa xe
-  I.430: Điện thoại
-  I.431: Trạm dừng nghỉ
-  I.432: Khách sạn
-  I.433a: Nơi nghỉ mát
-  I.433b: Nơi cắm trại
-  I.433c: Nhà nghỉ lưu động
-  I.433d: Nơi cắm trại, nhà nghỉ lưu động
-  I.433e: Nhà trọ
-  I.434a: Bến xe buýt 🪤 Hình xe khách
-  I.434b: Bến xe tải
-  I.435: Bến xe điện
-  I.436: Trạm cảnh sát giao thông (CSGT)
-  I.437: (Bắt đầu) đường cao tốc
-  I.439: Tên cầu (lý trình và tên đường)
-  I.440: Đoạn đường (đang) thi công
-  I.441a: Phía trước (500m) có công trường (đang) thi công
-  I.441b: Phía trước (100m) có công trường (đang) thi công
-  I.441c: Phía trước (50m) có công trường (đang) thi công
-  I.442: Chợ
-  I.443: Xe kéo rơ-moóc
-  I.444: Biển báo chỉ dẫn địa điểm (đặt trước nơi giao nhau)
-  I.444a: (Đường vào) ga tàu
-  I.444b: (Đường vào) sân bay
-  I.444c: (Đường vào) bãi đổ xe
-  I.444d: (Đường vào) bến xe khách 🪤 Bus station
-  I.444e: (Đường vào) trạm cấp cứu
-  I.444f: (Đường vào) bến tàu thủy
-  I.444g: (Đường vào) danh lam thắng cảnh, khu du lịch
-  I.444h: (Đường vào) trạm xăng dầu
-  I.444i: (Đường vào) trạm rửa xe
-  I.444j: (Đường vào) bến phà
-  I.444k: (Đường vào) ga tàu điện ngầm
-  I.444l: (Đường vào) nhà hàng ăn uống
-  I.444m: (Đường vào) trạm sửa chữa ôtô
-  I.445 (a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường
-  I.445a: Đường trơn (chạy chậm)
-  I.445b: Đường dốc (chạy chậm)
-  I.445c: Đường nhiều sương mù
-  I.445d: Nền đường yếu
-  I.445e: Xe lớn đi sát về bên phải
-  I.445f: Gió giang
-  I.445g: Đường hay xảy ra tai nạn
-  I.445h: Xuống dốc liên tục
-  I.446: Nơi đỗ xe dành cho người khuyết tật 🔗 P.131a, I.408
-  I.447: Cầu vượt liên thông 🔗 R.308, I414c,d
-  I.447a: Cầu vượt liên thông 🔗 R.308
-  I.447b: Cầu vượt liên thông 🔗 R.308
-  I.447c: Cầu vượt liên thông 🔗 R.308
-  I.447d: Cầu vượt liên thông 🔗 R.308
-  I.448: Đường cứu nạn (làn thoát xe khẩn cấp)
-  I.448a: Đường cứu nạn (cách 2km)
-  I.448b: Đường cứu nạn (cách 1km)
-  I.448c: Đường cứu nạn (cách 300m)
-  I.448d: Đường cứu nạn
-  I.449: Biển tên đường (tuyến đường đối ngoại)
-  IE.450a: Sơ đồ và khoảng cách đến nút giao với đường dẫn vào đường cao tốc
-  IE.450b: Sơ đồ đến nút giao với đường dẫn vào đường cao tốc
-  IE.451a: Khoảng cách đến lối vào đường cao tốc
-  IE.451b: Lối vào đường cao tốc
-  IE.452: Bắt đầu đường cao tốc
-  IE.452b: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
-  IE.452c: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
-  IE.453a: Khoảng cách đến điểm kết thúc đường cao tốc
-  IE.453b: Điểm kết thúc đường cao tốc 🪤
-  IE.453c: Hết đường cao tốc 🪤
-  IE.454a: Lối ra phía trước (cách 2km)
-  IE.454b: Lối ra phía trước (cách 1km) 🔗 IE.464b
-  IE.455: Khoảng cách đến các lối ra tiếp theo
-  IE.455a: Khoảng cách đến 2 lối ra tiếp theo
-  IE.455b: Khoảng cách đến 3 lối ra tiếp theo
-  IE.456: Trạm dừng nghỉ
-  IE.456a: '[Trạm dừng nghỉ] Khoảng cách'
-  IE.456b: '[Trạm dừng nghỉ] Hường đường (cách nút giao 150m)'
-  IE.456c: '[Trạm dừng nghỉ] Hướng đi (Lối vào)'
-  IE.457: Nơi đỗ xe trong trạm dừng nghỉ
-  IE.457a: '[Nơi đỗ xe trong trạm dừng nghỉ] Khoảng cách'
-  IE.457b: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
-  IE.458: Khoảng cách đến các trạm dừng nghỉ tiếp theo (đặt ngay sau khi ra khỏi trạm dừng nghỉ)
-  IE.459: Khu tham quan, du lịch
-  IE.459a: '[Khu tham quan, du lịch] Khoảng cách'
-  IE.459b: '[Khu tham quan, du lịch] Hướng đường'
-  IE.460: Cột (lý trình) kilômét
-  IE.461: Khu dịch vụ công cộng, giải trí
-  IE.461a: '[Khu dịch vụ công cộng, giải trí] Khoảng cách'
-  IE.461b: '[Khu dịch vụ công cộng, giải trí] Hướng đường'
-  IE.461c: '[Khu dịch vụ công cộng] Hướng đi (Lối vào)'
-  IE.461d: '[Khu giải trí] Hướng đi (Lối vào)'
-  IE.462: Tần số sóng radio (về thông tin giao thông, thời tiết)
-  IE.463: Trạm kiểm tra tải trọng xe
-  IE.463a: '[Trạm kiểm tra tải trọng xe] Khoảng cách'
-  IE.463b: '[Trạm kiểm tra tải trọng xe] Hướng đường'
-  IE.463c: '[Trạm kiểm tra tải trọng xe] Hướng đi (Lối vào)'
-  IE.464: Địa điểm và phương hướng
-  IE.464a: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều] 🪤 (đặt ở trước khu vực lối ra)'
-  IE.464b: '[Địa điểm và phương hướng - Hướng ra] 🪤 (đặt ở đường ra khỏi đường cao tốc)'
-  IE.465: Địa điểm và khoảng cách
-  IE.465a: '[Địa điểm và khoảng cách] 2 địa điểm'
-  IE.465b: '[Địa điểm và khoảng cách] 3 địa điểm'
-  IE.466: Sơ đồ lối ra một chiều
-  IE.467: Nhập làn 🔗 W.207g, W238
-  IE.467a: Nhập làn 🔗 W.207g, W238
-  IE.467b: Nhập làn (cách 250m) 🔗 W.207g, W238
-  IE.468: Chướng ngại vật phía trước
-  IE.468a: '[Chướng ngại vật] Đi hướng bên trái'
-  IE.468b: '[Chướng ngại vật] Đi hướng bên trái hoặc bên phải'
-  IE.468c: '[Chướng ngại vật] Đi hướng bên phải'
-  IE.469: Hướng rẽ
-  IE.469a: Hướng rẽ phải
-  IE.469b: Hướng rẽ trái
-  IE.470: Số điện thoại khẩn cấp
-  IE.471: Giữ khoảng cách lái xe an toàn
-  IE.472: Trạm thu phí
-  IE.472a: Trạm thu phí - Khoảng cách
-  IE.472b: Trạm thu phí
-  IE.473: Giảm tốc độ
-  IE.474: Lối ra (đường cao tốc)
-  S.501: Phạm vi tác dụng của biển
-  S.502: Khoảng cách đến đối tượng báo hiệu
-  S.503: Hướng tác dụng của biển
-  S.503b: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Phải'
-  S.503c: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái và phải'
-  S.503a: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái'
-  S.503d: '[Hướng tác dụng của biển - Song song với chiều đi] Trước'
-  S.503e: '[Hướng tác dụng của biển - Song song với chiều đi] Trước và sau'
-  S.503f: '[Hướng tác dụng của biển - Song song với chiều đi] Sau'
-  S.504: Làn đường
-  S.505a: Loại xe
-  S.505b: Loại xe hạn chế qua cầu
-  S.505c: Tải trọng trục hạn chế qua cầu
-  S.506: Hướng đường ưu tiên
-  S.506a: '[Hướng đường ưu tiên] (đặt ở đường ưu tiên)'
-  S.506b: '[Hướng đường (không) ưu tiên] (đặt ở đường không ưu tiên)'
-  S.507: Hướng rẽ 🔗 W.201, W.202
-  S.508: Biểu thị thời gian
-  S.509: Thuyết minh biển chính
-  S.509a: '[Thuyết minh biển chính] Chiều cao an toàn 🔗 W.239'
-  S.509b: '[Thuyết minh biển chính] Cấm đổ xe 🔗 P.130, P.131'
-  S.510a: (Chú ý) đường trơn có băng tuyết
-  S.510b: (Chú ý) đường sắt
-  S.G,7: '[Địa điểm] nơi cắm trại'
-  S.G,8: '[Địa điểm] nhà trọ'
-  S.G,9b: Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng
-  S.G,11: Số lượng làn và hướng đi cho từng làn
-  S.G,12a: Làn đường không lưu thông
-  S.G,12b: Làn đường không lưu thông
-  S.H,6: Ngoại lệ.
+  P.101:
+    name: Đường cấm
+  P.102:
+    name: Cấm đi ngược chiều
+  P.103a:
+    name: Cấm xe ôtô
+  P.103b:
+    name: Cấm xe ôtô rẽ phải
+  P.103c:
+    name: Cấm xe ôtô rẽ trái
+  P.104:
+    name: Cấm xe máy
+  P.105:
+    name: Cấm xe ôtô và xe máy
+  P.106a:
+    name: Cấm xe ôtô tải
+  P.106b:
+    name: Cấm xe ôtô tải trên XX tấn
+  P.106c:
+    name: Cấm các xe chở hàng nguy hiểm
+  P.107:
+    name: Cấm xe ôtô khách và xe ôtô tải
+  P.107a:
+    name: Cấm xe ôtô khách
+  P.107b:
+    name: Cấm xe ôtô taxi
+  P.108:
+    name: Cấm xe kéo rơ-moóc
+  P.108a:
+    name: Cấm xe sơ-mi rơ-moóc
+  P.109:
+    name: Cấm máy kéo
+  P.110a:
+    name: Cấm xe đạp
+  P.110b:
+    name: Cấm xe đạp thồ
+  P.111a:
+    name: Cấm xe gắn máy
+  P.111b:
+    name: Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)
+  P.111c:
+    name: Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)
+  P.111d:
+    name: Cấm xe ba bánh loại không có động cơ (xe xích lô đạp, xe lôi đạp)
+  P.112:
+    name: Cấm người đi bộ
+  P.113:
+    name: Cấm xe người kéo, đẩy
+  P.114:
+    name: Cấm xe súc vật kéo
+  P.115:
+    name: Hạn chế trọng tải toàn bộ xe
+  P.116:
+    name: Hạn chế tải trọng trên trục xe
+  P.117:
+    name: Hạn chế chiều cao xe
+  P.118:
+    name: Hạn chế chiều ngang xe
+  P.119:
+    name: Hạn chế chiều dài xe
+  P.120:
+    name: Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc
+  P.121:
+    name: Cự ly tối thiểu giữa hai xe
+  P.123a:
+    name: Cấm rẽ trái
+  P.123b:
+    name: Cấm rẽ phải
+  P.124a1:
+    name: Cấm quay đầu xe (trái)
+  P.124a2:
+    name: Cấm quay đầu xe (phải)
+  P.124b1:
+    name: Cấm ô tô quay đầu xe (trái)
+  P.124b2:
+    name: Cấm ô tô quay đầu xe (phải)
+  P.124c:
+    name: Cấm rẽ trái và quay đầu xe
+  P.124d:
+    name: Cấm rẽ phải và quay đầu xe
+  P.124e:
+    name: Cấm ô tô rẽ trái và quay đầu xe
+  P.124f:
+    name: Cấm ô tô rẽ phải và quay đầu xe
+  P.125:
+    name: Cấm vượt
+  P.126:
+    name: Cấm xe ôtô tải vượt
+  P.127-20:
+    name: Tốc độ tối đa cho phép 20 km/h
+  P.127-30:
+    name: Tốc độ tối đa cho phép 30 km/h
+  P.127-40:
+    name: Tốc độ tối đa cho phép 40 km/h
+  P.127-50:
+    name: Tốc độ tối đa cho phép 50 km/h
+  P.127-60:
+    name: Tốc độ tối đa cho phép 60 km/h
+  P.127-70:
+    name: Tốc độ tối đa cho phép 70 km/h
+  P.127-80:
+    name: Tốc độ tối đa cho phép 80 km/h
+  P.127-90:
+    name: Tốc độ tối đa cho phép 90 km/h
+  P.127a:
+    name: Tốc độ tối đa cho phép về ban đêm
+  P.127b:
+    name: Biển ghép tốc độ tối đa cho phép trên từng làn đường
+  P.127c:
+    name: Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường
+  DP.127a:
+    name: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🤯
+  DP.127b:
+    name: Biển hết tốc độ tối đa cho phép theo biển ghép P.127b
+  DP.127c:
+    name: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🔍
+  P.128:
+    name: Cấm sử dụng còi
+  P.129:
+    name: Kiểm tra
+  P.130:
+    name: Cấm dừng xe và đỗ xe
+  P.131a:
+    name: Cấm đỗ xe
+  P.131b:
+    name: Cấm đỗ xe ngày lẻ
+  P.131c:
+    name: Cấm đỗ xe ngày chẵn
+  P.132:
+    name: Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp
+  DP.133:
+    name: Hết cấm vượt
+  DP.134:
+    name: Hết tốc độ tối đa cho phép
+  DP.135:
+    name: Hết tất cả các lệnh cấm
+  P.136:
+    name: Cấm đi thẳng
+  P.137:
+    name: Cấm rẽ trái, rẽ phải
+  P.138:
+    name: Cấm đi thẳng, rẽ trái
+  P.139:
+    name: Cấm đi thẳng, rẽ phải
+  P.140:
+    name: Cấm xe công nông và các loại xe tương tự.
+  W.201a:
+    name: Chỗ ngoặt nguy hiểm (vòng bên trái)
+  W.201b:
+    name: Chỗ ngoặt nguy hiểm (vòng bên phải)
+  W.201c:
+    name: Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên phải)
+  W.201d:
+    name: Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên trái)
+  W.202a:
+    name: Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)
+  W.202b:
+    name: Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)
+  W.203a:
+    name: Đường bị thu hẹp (cả 2 bên)
+  W.203b:
+    name: Đường bị thu hẹp (bên trái)
+  W.203c:
+    name: Đường bị thu hẹp (bên phải)
+  W.204:
+    name: Đường hai chiều
+  W.205a:
+    name: Giao nhau với đường cùng cấp
+  W.205b:
+    name: Giao nhau với đường cùng cấp
+  W.205c:
+    name: Giao nhau với đường cùng cấp
+  W.205d:
+    name: Giao nhau với đường cùng cấp
+  W.205e:
+    name: Giao nhau với đường cùng cấp
+  W.206:
+    name: Giao nhau chạy theo vòng xuyến
+  W.207a:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207b:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207c:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207d:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207e:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207f:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207g:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207h:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207i:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207k:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207l:
+    name: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.208:
+    name: Giao nhau với đường ưu tiên (đường chính) 🪤 W.247
+  W.209:
+    name: Giao nhau có tín hiệu đèn
+  W.210:
+    name: Giao nhau với đường sắt có rào chắn
+  W.211a:
+    name: Giao nhau với đường sắt không có rào chắn 🔗 W.242a, W.242b
+  W.211b:
+    name: Giao nhau với đường tàu điện
+  W.212:
+    name: Cầu hẹp
+  W.213:
+    name: Cầu tạm
+  W.214:
+    name: Cầu quay (cầu cất)
+  W.215a:
+    name: (Kè,) vực sâu phía trước
+  W.215b:
+    name: (Kè,) vực sâu bên đường (phía bên phải)
+  W.215c:
+    name: (Kè,) vực sâu bên đường (phía bên trái)
+  W.216a:
+    name: Đường ngầm
+  W.216b:
+    name: Đường ngầm có nguy cơ lũ quét
+  W.217:
+    name: Bến phà
+  W.218:
+    name: Cửa chui
+  W.219:
+    name: Dốc xuống nguy hiểm 🔗 S.501
+  W.220:
+    name: Dốc lên nguy hiểm 🔗 S.501
+  W.221a:
+    name: Đường lồi lõm
+  W.221b:
+    name: Đường có gờ giảm tốc
+  W.222a:
+    name: Đường trơn
+  W.222b:
+    name: Lề đường nguy hiểm
+  W.223a:
+    name: Vách núi nguy hiểm (bên trái)
+  W.223b:
+    name: Vách núi nguy hiểm (bên phải)
+  W.224:
+    name: (Đường) người đi bộ (cắt ngang)
+  W.225:
+    name: Trẻ em 🔗 S.501
+  W.226:
+    name: (Đường) người đi xe đạp (cắt ngang)
+  W.227:
+    name: Công trường
+  W.228a:
+    name: Đá lở (bên trái) 🔗 S.501
+  W.228b:
+    name: Đá lở (bên phải) 🔗 S.501
+  W.228c:
+    name: Sỏi đá bắn lên
+  W.228d:
+    name: Nền đường yếu
+  W.229:
+    name: (Dải) máy bay (lên xuống)
+  W.230:
+    name: Gia súc
+  W.231:
+    name: Thú rừng (vượt qua đường) 🔗 S.501
+  W.232:
+    name: Gió ngang
+  W.233:
+    name: Nguy hiểm khác
+  W.234:
+    name: Giao nhau với đường hai chiều
+  W.235:
+    name: Đường đôi (2 chiều phân biêt bằng dải phân cách cứng) 🪤 W.246a, W.246b, W.246c
+  W.236:
+    name: Kết thúc đường đôi
+  W.237:
+    name: Cầu vồng
+  W.238:
+    name: Đường cao tốc (phía trước)
+  W.239a:
+    name: Đường cáp điện (ở phía trên)
+  W.239b:
+    name: Chiều cao tĩnh không thực tế 🔍
+  W.240:
+    name: Đường hầm
+  W.241:
+    name: Ùn tắc giao thông
+  W.242a:
+    name: (Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray) 🔗 W.211a
+  W.242b:
+    name: (Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray) 🔗 W.211a
+  W.243a:
+    name: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m) 🔗 W.211a
+  W.243b:
+    name: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m) 🔗 W.211a
+  W.243c:
+    name: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m) 🔗 W.211a
+  W.244:
+    name: Đoạn đường hay xảy ra tai nạn
+  W.245a:
+    name: Đi chậm
+  W.245b:
+    name: Đi chậm (có chỉ dẫn tiếng Anh)
+  W.246a:
+    name: (Chú ý) chướng ngại vật - Vòng tránh sang 2 bên 🪤 W.235
+  W.246b:
+    name: (Chú ý) chướng ngại vật - Vòng tránh sang bên trái 🪤 W.235
+  W.246c:
+    name: (Chú ý) chướng ngại vật - Vòng tránh sang bên phải 🪤 W.235
+  W.247:
+    name: (Chú ý) xe đỗ 🪤 W.208
+  R.122:
+    name: Dừng lại
+  R.301:
+    name: Hướng đi phải theo
+  R.301a:
+    name: (Các xe) chỉ được đi thẳng
+  R.301b:
+    name: (Các xe) chỉ được đi ngang qua phải (đặt sau nơi đường giao nhau)
+  R.301c:
+    name: (Các xe) chỉ được đi ngang qua trái (đặt sau nơi đường giao nhau)
+  R.301d:
+    name: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau) 🔍
+  R.301e:
+    name: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau) 🔍
+  R.301f:
+    name: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau) 🔍
+  R.301g:
+    name: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411 🔍
+  R.301h:
+    name: (Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu) (đặt sau nơi đường giao nhau) 🪤 R.411
+  R.302a:
+    name: Hướng phải đi vòng chướng ngại vật (vòng sang phải) 🔗 P.102
+  R.302b:
+    name: Hướng phải đi vòng chướng ngại vật (vòng sang trái) 🔗 P.102
+  R.302c:
+    name: Hướng phải đi vòng chướng ngại vật (vòng sang trái hoặc phải)
+  R.303:
+    name: Nơi giao nhau chạy theo vòng xuyến
+  R.304:
+    name: Đường dành cho xe thô sơ
+  R.305:
+    name: Đường dành cho người đi bộ
+  R.306:
+    name: Tốc độ tối thiểu (cho phép)
+  R.307:
+    name: Hết tốc độ tối thiểu
+  # R.308:
+  #   name: Cầu vượt cắt qua
+  R.308a:
+    name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ trái'
+  R.308b:
+    name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ phải'
+  R.309:
+    name: Ấn còi
+  # R.310:
+  # name: Hướng đi phải theo cho các xe chở hàng nguy hiểm
+  R.310a:
+    name: Xe chở hàng nguy hiểm chỉ được rẽ trái
+  R.310b:
+    name: Xe chở hàng nguy hiểm chỉ được đi thẳng
+  R.310c:
+    name: Xe chở hàng nguy hiểm chỉ được rẽ phải
+  R.403a:
+    name: Đường dành cho xe ôtô
+  R.403b:
+    name: Đường dành cho xe ôtô, xe máy
+  R.403c:
+    name: Đường dành cho xe buýt 🔍
+  R.403d:
+    name: Đường dành cho xe ôtô con 🔍
+  R.403e:
+    name: Đường dành cho xe máy
+  R.403f:
+    name: Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍
+  R.404a:
+    name: Hết đoạn đường dành cho xe ôtô
+  R.404b:
+    name: Hết đoạn đường dành cho xe ôtô, xe máy
+  R.404c:
+    name: Hết đoạn đường dành cho xe buýt
+  R.404d:
+    name: Hết đoạn đường dành cho xe ôtô con
+  R.404e:
+    name: Hết đoạn đường dành cho xe máy
+  R.404f:
+    name: Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)
+  R.411:
+    name: Hướng đi trên mỗi làn đường phải theo 🪤 R.301g,h
+  R.412:
+    name: Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)
+  R.412a:
+    name: Làn đường dành cho xe ôtô khách
+  R.412b:
+    name: Làn đường dành cho xe ôtô con 🪤
+  R.412c:
+    name: Làn đường dành cho xe ôtô tải
+  R.412d:
+    name: Làn đường dành cho xe máy
+  R.412e:
+    name: Làn đường dành cho xe buýt
+  R.412f:
+    name: Làn đường dành cho xe ôtô 🪤
+  R.412g:
+    name: Làn đường dành cho xe máy và xe đạp
+  R.412h:
+    name: Làn đường dành cho xe đạp
+  R.412i:
+    name: Kết thúc làn đường dành cho xe ôtô khách
+  R.412j:
+    name: Kết thúc làn đường dành cho xe ôtô con
+  R.412k:
+    name: Kết thúc làn đường dành cho xe ôtô tải
+  R.412l:
+    name: Kết thúc làn đường dành cho xe máy
+  R.412m:
+    name: Kết thúc làn đường dành cho xe buýt
+  R.412n:
+    name: Kết thúc làn đường dành cho xe ôtô
+  R.412o:
+    name: Kết thúc làn đường dành cho xe máy và xe đạp
+  R.412p:
+    name: Kết thúc làn đường dành cho xe đạp
+  R.415a:
+    name: Gộp làn đường theo phương tiện
+  R.415b:
+    name: Kết thúc làn đường theo phương tiện
+  R.420:
+    name: Bắt đầu khu đông dân cư
+  R.421:
+    name: Hết khu đông dân cư
+  R.E,9a:
+    name: Cấm đỗ xe trong khu vực
+  R.E,9b:
+    name: Cấm đỗ xe theo giờ trong khu vực
+  R.E,9c:
+    name: Khu vực đỗ xe
+  R.E,9d:
+    name: Tốc độ tối đa trong khu vực
+  R.E,10a:
+    name: Hết cấm đỗ xe trong khu vực
+  R.E,10b:
+    name: Hết cấm đỗ xe theo giờ trong khu vực
+  R.E,10c:
+    name: Hết khu vực đỗ xe
+  R.E,10d:
+    name: Hết tốc độ tối đa trong khu vực
+  R.E,11a:
+    name: Đường hầm
+  R.E,11b:
+    name: Kết thúc đường hầm.
+  I.401:
+    name: Bắt đầu đường ưu tiên
+  I.402:
+    name: Hết đoạn đường ưu tiên
+  I.405:
+    name: Đường cụt
+  I.405a:
+    name: Đường cụt (ở lối rẽ phải)
+  I.405b:
+    name: Đường cụt (ở lối rẽ trái)
+  I.405c:
+    name: Đường cụt (phía trước)
+  I.406:
+    name: Được ưu tiên qua đường hẹp 🔗 P.132
+  I.407:
+    name: Đường một chiều
+  I.407a:
+    name: Đường một chiều (đặt sau nơi đường giao nhau) 🔗 R.302, W.204
+  I.407b:
+    name: Đường một chiều (đặt trước nơi đường giao nhau) 🔗 R.302, W.204
+  I.407c:
+    name: Đường một chiều (đặt trước nơi đường giao nhau) 🔗 R.302, W.204
+  I.408:
+    name: Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)
+  I.408a:
+    name: Nơi đỗ xe một phần trên hè phố
+  I.409:
+    name: Chỗ quay xe 🔗 S.502
+  I.410:
+    name: Khu vực quay xe 🔗 S.502
+  I.413a:
+    name: Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại) (Đặt ở đầu đường 1 chiều)
+  I.413b:
+    name: Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)
+  I.413c:
+    name: Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)
+  I.414:
+    name: Chỉ hướng đường (đến địa danh, khu dân cư)
+  I.414a:
+    name: Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
+  I.414b:
+    name: Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
+  I.414c:
+    name: Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
+  I.414d:
+    name: Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
+  I.415:
+    name: Mũi tên chỉ hướng đi (đến địa danh tiếp theo)
+  I.416:
+    name: Đường tránh (do phía trước có đường cấm)
+  I.417:
+    name: Chỉ hướng đường phải đi cho từng loại xe
+  I.418:
+    name: Lối đi ở những vị trí cấm rẽ
+  I.419a:
+    name: Chỉ dẫn địa giới
+  I.419b:
+    name: Chỉ dẫn địa giới (trên tuyến đường đối ngoại)
+  I.422a:
+    name: Di tích lịch sử
+  I.422b:
+    name: Di tích lịch sử (trên tuyến đường đối ngoại)
+  I.423a:
+    name: Vị trí người đi bộ sang ngang 🔗 W.224, R.305
+  I.423b:
+    name: Vị trí người đi bộ sang ngang 🔗 W.224, R.305
+  I.423c:
+    name: Điểm bắt đầu đường đi bộ
+  I.424a:
+    name: Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)
+  I.424b:
+    name: Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)
+  I.424c:
+    name: Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)
+  I.424d:
+    name: Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)
+  I.425:
+    name: Bệnh viện
+  I.426:
+    name: Trạm cấp cứu
+  I.427a:
+    name: Trạm sửa chữa
+  I.427b:
+    name: Trạm kiểm tra tải trọng (KTTT) xe
+  I.428:
+    name: Trạm xăng dầu
+  I.429:
+    name: Trạm rửa xe
+  I.430:
+    name: Điện thoại
+  I.431:
+    name: Trạm dừng nghỉ
+  I.432:
+    name: Khách sạn
+  I.433a:
+    name: Nơi nghỉ mát
+  I.433b:
+    name: Nơi cắm trại
+  I.433c:
+    name: Nhà nghỉ lưu động
+  I.433d:
+    name: Nơi cắm trại, nhà nghỉ lưu động
+  I.433e:
+    name: Nhà trọ
+  I.434a:
+    name: Bến xe buýt 🪤 Hình xe khách
+  I.434b:
+    name: Bến xe tải
+  I.435:
+    name: Bến xe điện
+  I.436:
+    name: Trạm cảnh sát giao thông (CSGT)
+  I.437:
+    name: (Bắt đầu) đường cao tốc
+  I.439:
+    name: Tên cầu (lý trình và tên đường)
+  I.440:
+    name: Đoạn đường (đang) thi công
+  I.441a:
+    name: Phía trước (500m) có công trường (đang) thi công
+  I.441b:
+    name: Phía trước (100m) có công trường (đang) thi công
+  I.441c:
+    name: Phía trước (50m) có công trường (đang) thi công
+  I.442:
+    name: Chợ
+  I.443:
+    name: Xe kéo rơ-moóc
+  I.444:
+    name: Biển báo chỉ dẫn địa điểm (đặt trước nơi giao nhau)
+  I.444a:
+    name: (Đường vào) ga tàu
+  I.444b:
+    name: (Đường vào) sân bay
+  I.444c:
+    name: (Đường vào) bãi đổ xe
+  I.444d:
+    name: (Đường vào) bến xe khách 🪤 Bus station
+  I.444e:
+    name: (Đường vào) trạm cấp cứu
+  I.444f:
+    name: (Đường vào) bến tàu thủy
+  I.444g:
+    name: (Đường vào) danh lam thắng cảnh, khu du lịch
+  I.444h:
+    name: (Đường vào) trạm xăng dầu
+  I.444i:
+    name: (Đường vào) trạm rửa xe
+  I.444j:
+    name: (Đường vào) bến phà
+  I.444k:
+    name: (Đường vào) ga tàu điện ngầm
+  I.444l:
+    name: (Đường vào) nhà hàng ăn uống
+  I.444m:
+    name: (Đường vào) trạm sửa chữa ôtô
+  I.445 (a,b,c,d,e,f,g,h):
+    name: Biển báo kiểu mô tả tình trạng đường
+  I.445a:
+    name: Đường trơn (chạy chậm)
+  I.445b:
+    name: Đường dốc (chạy chậm)
+  I.445c:
+    name: Đường nhiều sương mù
+  I.445d:
+    name: Nền đường yếu
+  I.445e:
+    name: Xe lớn đi sát về bên phải
+  I.445f:
+    name: Gió giang
+  I.445g:
+    name: Đường hay xảy ra tai nạn
+  I.445h:
+    name: Xuống dốc liên tục
+  I.446:
+    name: Nơi đỗ xe dành cho người khuyết tật 🔗 P.131a, I.408
+  I.447:
+    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+  I.447a:
+    name: Cầu vượt liên thông 🔗 R.308
+  I.447b:
+    name: Cầu vượt liên thông 🔗 R.308
+  I.447c:
+    name: Cầu vượt liên thông 🔗 R.308
+  I.447d:
+    name: Cầu vượt liên thông 🔗 R.308
+  I.448:
+    name: Đường cứu nạn (làn thoát xe khẩn cấp)
+  I.448a:
+    name: Đường cứu nạn (cách 2km)
+  I.448b:
+    name: Đường cứu nạn (cách 1km)
+  I.448c:
+    name: Đường cứu nạn (cách 300m)
+  I.448d:
+    name: Đường cứu nạn
+  I.449:
+    name: Biển tên đường (tuyến đường đối ngoại)
+  IE.450a:
+    name: Sơ đồ và khoảng cách đến nút giao với đường dẫn vào đường cao tốc
+  IE.450b:
+    name: Sơ đồ đến nút giao với đường dẫn vào đường cao tốc
+  IE.451a:
+    name: Khoảng cách đến lối vào đường cao tốc
+  IE.451b:
+    name: Lối vào đường cao tốc
+  IE.452:
+    name: Bắt đầu đường cao tốc
+  IE.452b:
+    name: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
+  IE.452c:
+    name: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
+  IE.453a:
+    name: Khoảng cách đến điểm kết thúc đường cao tốc
+  IE.453b:
+    name: Điểm kết thúc đường cao tốc 🪤
+  IE.453c:
+    name: Hết đường cao tốc 🪤
+  IE.454a:
+    name: Lối ra phía trước (cách 2km)
+  IE.454b:
+    name: Lối ra phía trước (cách 1km) 🔗 IE.464b
+  IE.455:
+    name: Khoảng cách đến các lối ra tiếp theo
+  IE.455a:
+    name: Khoảng cách đến 2 lối ra tiếp theo
+  IE.455b:
+    name: Khoảng cách đến 3 lối ra tiếp theo
+  IE.456:
+    name: Trạm dừng nghỉ
+  IE.456a:
+    name: '[Trạm dừng nghỉ] Khoảng cách'
+  IE.456b:
+    name: '[Trạm dừng nghỉ] Hường đường (cách nút giao 150m)'
+  IE.456c:
+    name: '[Trạm dừng nghỉ] Hướng đi (Lối vào)'
+  IE.457:
+    name: Nơi đỗ xe trong trạm dừng nghỉ
+  IE.457a:
+    name: '[Nơi đỗ xe trong trạm dừng nghỉ] Khoảng cách'
+  IE.457b:
+    name: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
+  IE.458:
+    name: Khoảng cách đến các trạm dừng nghỉ tiếp theo (đặt ngay sau khi ra khỏi trạm dừng nghỉ)
+  IE.459:
+    name: Khu tham quan, du lịch
+  IE.459a:
+    name: '[Khu tham quan, du lịch] Khoảng cách'
+  IE.459b:
+    name: '[Khu tham quan, du lịch] Hướng đường'
+  IE.460:
+    name: Cột (lý trình) kilômét
+  IE.461:
+    name: Khu dịch vụ công cộng, giải trí
+  IE.461a:
+    name: '[Khu dịch vụ công cộng, giải trí] Khoảng cách'
+  IE.461b:
+    name: '[Khu dịch vụ công cộng, giải trí] Hướng đường'
+  IE.461c:
+    name: '[Khu dịch vụ công cộng] Hướng đi (Lối vào)'
+  IE.461d:
+    name: '[Khu giải trí] Hướng đi (Lối vào)'
+  IE.462:
+    name: Tần số sóng radio (về thông tin giao thông, thời tiết)
+  IE.463:
+    name: Trạm kiểm tra tải trọng xe
+  IE.463a:
+    name: '[Trạm kiểm tra tải trọng xe] Khoảng cách'
+  IE.463b:
+    name: '[Trạm kiểm tra tải trọng xe] Hướng đường'
+  IE.463c:
+    name: '[Trạm kiểm tra tải trọng xe] Hướng đi (Lối vào)'
+  IE.464:
+    name: Địa điểm và phương hướng
+  IE.464a:
+    name: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều] 🪤 (đặt ở trước khu vực lối ra)'
+  IE.464b:
+    name: '[Địa điểm và phương hướng - Hướng ra] 🪤 (đặt ở đường ra khỏi đường cao tốc)'
+  IE.465:
+    name: Địa điểm và khoảng cách
+  IE.465a:
+    name: '[Địa điểm và khoảng cách] 2 địa điểm'
+  IE.465b:
+    name: '[Địa điểm và khoảng cách] 3 địa điểm'
+  IE.466:
+    name: Sơ đồ lối ra một chiều
+  IE.467:
+    name: Nhập làn 🔗 W.207g, W238
+  IE.467a:
+    name: Nhập làn 🔗 W.207g, W238
+  IE.467b:
+    name: Nhập làn (cách 250m) 🔗 W.207g, W238
+  IE.468:
+    name: Chướng ngại vật phía trước
+  IE.468a:
+    name: '[Chướng ngại vật] Đi hướng bên trái'
+  IE.468b:
+    name: '[Chướng ngại vật] Đi hướng bên trái hoặc bên phải'
+  IE.468c:
+    name: '[Chướng ngại vật] Đi hướng bên phải'
+  IE.469:
+    name: Hướng rẽ
+  IE.469a:
+    name: Hướng rẽ phải
+  IE.469b:
+    name: Hướng rẽ trái
+  IE.470:
+    name: Số điện thoại khẩn cấp
+  IE.471:
+    name: Giữ khoảng cách lái xe an toàn
+  IE.472:
+    name: Trạm thu phí
+  IE.472a:
+    name: Trạm thu phí - Khoảng cách
+  IE.472b:
+    name: Trạm thu phí
+  IE.473:
+    name: Giảm tốc độ
+  IE.474:
+    name: Lối ra (đường cao tốc)
+  S.501:
+    name: Phạm vi tác dụng của biển
+  S.502:
+    name: Khoảng cách đến đối tượng báo hiệu
+  S.503:
+    name: Hướng tác dụng của biển
+  S.503b:
+    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Phải'
+  S.503c:
+    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái và phải'
+  S.503a:
+    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái'
+  S.503d:
+    name: '[Hướng tác dụng của biển - Song song với chiều đi] Trước'
+  S.503e:
+    name: '[Hướng tác dụng của biển - Song song với chiều đi] Trước và sau'
+  S.503f:
+    name: '[Hướng tác dụng của biển - Song song với chiều đi] Sau'
+  S.504:
+    name: Làn đường
+  S.505a:
+    name: Loại xe
+  S.505b:
+    name: Loại xe hạn chế qua cầu
+  S.505c:
+    name: Tải trọng trục hạn chế qua cầu
+  S.506:
+    name: Hướng đường ưu tiên
+  S.506a:
+    name: '[Hướng đường ưu tiên] (đặt ở đường ưu tiên)'
+  S.506b:
+    name: '[Hướng đường (không) ưu tiên] (đặt ở đường không ưu tiên)'
+  S.507:
+    name: Hướng rẽ 🔗 W.201, W.202
+  S.508:
+    name: Biểu thị thời gian
+  S.509:
+    name: Thuyết minh biển chính
+  S.509a:
+    name: '[Thuyết minh biển chính] Chiều cao an toàn 🔗 W.239'
+  S.509b:
+    name: '[Thuyết minh biển chính] Cấm đổ xe 🔗 P.130, P.131'
+  S.510a:
+    name: (Chú ý) đường trơn có băng tuyết
+  S.510b:
+    name: (Chú ý) đường sắt
+  S.G,7:
+    name: '[Địa điểm] nơi cắm trại'
+  S.G,8:
+    name: '[Địa điểm] nhà trọ'
+  S.G,9b:
+    name: Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng
+  S.G,11:
+    name: Số lượng làn và hướng đi cho từng làn
+  S.G,12a:
+    name: Làn đường không lưu thông
+  S.G,12b:
+    name: Làn đường không lưu thông
+  S.H,6:
+    name: Ngoại lệ.
