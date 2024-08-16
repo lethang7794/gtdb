@@ -341,24 +341,31 @@ signs:
   R.301a:
     name: '(Các xe) chỉ được đi thẳng'
   R.301b:
-    name: '(Các xe) chỉ được đi ngang qua phải (đặt sau nơi đường giao nhau)'
+    name: '(Các xe) chỉ được đi ngang qua phải'
+    note: Đặt sau nơi đường giao nhau
   R.301c:
-    name: '(Các xe) chỉ được đi ngang qua trái (đặt sau nơi đường giao nhau)'
+    name: '(Các xe) chỉ được đi ngang qua trái'
+    note: Đặt sau nơi đường giao nhau
   R.301d:
-    name: '(Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau)'
+    name: '(Các xe) chỉ được rẽ phải'
+    note: Đặt trước nơi đường giao nhau
     image: R301d.png
   R.301e:
-    name: '(Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau)'
+    name: '(Các xe) chỉ được rẽ trái'
+    note: Đặt trước nơi đường giao nhau
     image: R301e.png
   R.301f:
-    name: '(Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau)'
+    name: '(Các xe) chỉ được đi thẳng và rẽ phải'
+    note: Đặt trước nơi đường giao nhau
     image: R301f.png
   R.301g:
-    name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau)'
+    name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
+    note: Đặt trước nơi đường giao nhau
     similar: [R.411]
     image: R301g.png
   R.301h:
-    name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu) (đặt sau nơi đường giao nhau)'
+    name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu)'
+    note: Đặt sau nơi đường giao nhau
     similar: [R.411]
   R.302a:
     name: 'Hướng phải đi vòng chướng ngại vật (vòng sang phải)'
@@ -541,13 +548,16 @@ signs:
   # I.407:
   #   name: 'Đường một chiều'
   I.407a:
-    name: 'Đường một chiều (đặt sau nơi đường giao nhau)'
+    name: 'Đường một chiều'
+    note: Đặt sau nơi đường giao nhau
     related: [R.302, W.204]
   I.407b:
-    name: 'Đường một chiều (đặt trước nơi đường giao nhau)'
+    name: 'Đường một chiều'
+    note: Đặt trước nơi đường giao nhau
     related: [R.302, W.204]
   I.407c:
-    name: 'Đường một chiều (đặt trước nơi đường giao nhau)'
+    name: 'Đường một chiều'
+    note: Đặt trước nơi đường giao nhau
     related: [R.302, W.204]
   I.408:
     name: 'Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)'
@@ -560,7 +570,8 @@ signs:
     name: 'Khu vực quay xe'
     related: [S.502]
   I.413a:
-    name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại) (Đặt ở đầu đường 1 chiều)'
+    name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại)'
+    note: Đặt ở đầu đường 1 chiều
   I.413b:
     name: 'Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
   I.413c:
@@ -681,7 +692,8 @@ signs:
   I.443:
     name: 'Xe kéo rơ-moóc'
   # I.444:
-  #   name: 'Biển báo chỉ dẫn địa điểm (đặt trước nơi giao nhau)'
+  #   name: 'Biển báo chỉ dẫn địa điểm'
+  note: Đặt trước nơi giao nhau
   I.444a:
     name: '(Đường vào) ga tàu'
   I.444b:
@@ -829,7 +841,8 @@ signs:
   IE.457b:
     name: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
   IE.458:
-    name: 'Khoảng cách đến các trạm dừng nghỉ tiếp theo (đặt ngay sau khi ra khỏi trạm dừng nghỉ)'
+    name: 'Khoảng cách đến các trạm dừng nghỉ tiếp theo'
+    note: Đặt ngay sau khi ra khỏi trạm dừng nghỉ
   # IE.459:
   #   name: 'Khu tham quan, du lịch'
   IE.459a:
@@ -947,9 +960,11 @@ signs:
   # S.506:
   #   name: 'Hướng đường ưu tiên'
   S.506a:
-    name: '[Hướng đường ưu tiên] (đặt ở đường ưu tiên)'
+    name: '[Hướng đường ưu tiên]'
+    note: Đặt ở đường ưu tiên
   S.506b:
-    name: '[Hướng đường (không) ưu tiên] (đặt ở đường không ưu tiên)'
+    name: '[Hướng đường (không) ưu tiên]'
+    note: Đặt ở đường không ưu tiên
     image: S506b.jpeg
   S.507:
     name: 'Hướng rẽ'
