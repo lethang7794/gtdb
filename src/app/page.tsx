@@ -5,6 +5,11 @@ import { cache } from 'react'
 
 const directoryPath = 'road-signs'
 
+type RoadSign = {
+  name: string
+  image?: string
+}
+
 function getRoadSigns() {
   return fs.readdirSync(`public/${directoryPath}`)
 }
@@ -20,28 +25,17 @@ const getRoadSignsFromYamlCached = cache(getRoadSignsFromYaml)
 export default async function Home() {
   // const signs = getRoadSignsCached()
   const data = getRoadSignsFromYamlCached()
-  const entries = Object.entries(data.signs) as [string, { name: string }][]
+
+  const entries = Object.entries(data.signs) as [string, RoadSign][]
 
   return (
     <main className="flex min-h-screen flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,_150px)] justify-between gap-4">
-        {/* {signs.map((sign) => {
-          return (
-            <div
-              key={sign}
-              className="flex items-center justify-center flex-col border"
-            >
-              <img
-                alt={sign}
-                src={`${directoryPath}/${sign}`}
-                className="max-h-full h-20 aspect-square border"
-              />
-              <div>{sign}</div>
-            </div>
-          )
-        })} */}
+      <div className="grid grid-cols-[repeat(auto-fill,_160px)] justify-between gap-4">
         {entries?.map(([signKey, sign]) => {
-          const imgUrl = `${directoryPath}/${signKey.replace('.', '')}.svg`
+          const imgUrl = sign.image
+            ? `${directoryPath}/${sign.image}`
+            : `${directoryPath}/${signKey.replace('.', '')}.svg`
+
           return (
             <div
               key={signKey}
@@ -50,7 +44,7 @@ export default async function Home() {
               <img
                 alt={signKey}
                 src={imgUrl}
-                className="max-h-full h-20 aspect-square border"
+                className="max-h-full h-20 aspect-square border object-contain"
               />
               <div>{signKey}</div>
               <div className="line-clamp-3 text-balance text-center">
