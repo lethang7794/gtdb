@@ -38,9 +38,11 @@ signs:
   P.111a:
     name: 'Cấm xe gắn máy'
   P.111b:
-    name: 'Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)'
+    name: 'Cấm xe ba bánh loại có động cơ'
+    including: Xe lam, xe xích lô máy, xe lôi máy
   P.111c:
-    name: 'Cấm xe ba bánh loại có động cơ (xe lam, xe xích lô máy, xe lôi máy)'
+    name: 'Cấm xe ba bánh loại có động cơ'
+    including: Xe lam, xe xích lô máy, xe lôi máy
   P.111d:
     name: 'Cấm xe ba bánh loại không có động cơ (xe xích lô đạp, xe lôi đạp)'
   P.112:
@@ -436,7 +438,7 @@ signs:
     image: R404f.png
   R.411:
     name: 'Hướng đi trên mỗi làn đường phải theo'
-    similar: [R.301g, h]
+    similar: [R.301g, R.301h]
     image: R411.png
   R.412:
     name: 'Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)'
@@ -446,7 +448,7 @@ signs:
     image: R412a.png
   R.412b:
     name: 'Làn đường dành cho xe ôtô con'
-    similar: [🪤]
+    note: 🪤
     image: R412b.png
   R.412c:
     name: 'Làn đường dành cho xe ôtô tải'
@@ -459,7 +461,7 @@ signs:
     image: R412e.png
   R.412f:
     name: 'Làn đường dành cho xe ôtô'
-    similar: [🪤]
+    note: 🪤
     image: R412f.png
   R.412g:
     name: 'Làn đường dành cho xe máy và xe đạp'
