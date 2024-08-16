@@ -33,7 +33,8 @@
 - Biển số P.121: Cự ly tối thiểu giữa hai xe
 - Biển số P.123a: Cấm rẽ trái
 - Biển số P.123b: Cấm rẽ phải
-- Biển số P.124a: Cấm quay đầu xe
+- Biển số P.124a1: Cấm quay đầu xe
+- Biển số P.124a2: Cấm quay đầu xe
 - Biển số P.124b: Cấm ô tô quay đầu xe
 - Biển số P.124c: Cấm rẽ trái và quay đầu xe
 - Biển số P.124d: Cấm rẽ phải và quay đầu xe
@@ -50,7 +51,7 @@
 - Biển số DP.127c: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c
 - Biển số P.128: Cấm sử dụng còi
 - Biển số P.129: Kiểm tra
-- Biển số P.130: Cấm dừng xe và đỗ xe>
+- Biển số P.130: Cấm dừng xe và đỗ xe
 - Biển số P.131a: Cấm đỗ xe
 - Biển số P.131b: Cấm đỗ xe ngày lẻ
 - Biển số P.131c: Cấm đỗ xe ngày chẵn

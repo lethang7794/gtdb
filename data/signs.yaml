@@ -33,24 +33,33 @@ signs:
   P.121: Cự ly tối thiểu giữa hai xe
   P.123a: Cấm rẽ trái
   P.123b: Cấm rẽ phải
-  P.124a: Cấm quay đầu xe
-  P.124b: Cấm ô tô quay đầu xe
+  P.124a1: Cấm quay đầu xe (trái)
+  P.124a2: Cấm quay đầu xe (phải)
+  P.124b1: Cấm ô tô quay đầu xe (trái)
+  P.124b2: Cấm ô tô quay đầu xe (phải)
   P.124c: Cấm rẽ trái và quay đầu xe
   P.124d: Cấm rẽ phải và quay đầu xe
   P.124e: Cấm ô tô rẽ trái và quay đầu xe
   P.124f: Cấm ô tô rẽ phải và quay đầu xe
   P.125: Cấm vượt
   P.126: Cấm xe ôtô tải vượt
-  P.127: Tốc độ tối đa cho phép
+  P.127-20: Tốc độ tối đa cho phép 20 km/h
+  P.127-30: Tốc độ tối đa cho phép 30 km/h
+  P.127-40: Tốc độ tối đa cho phép 40 km/h
+  P.127-50: Tốc độ tối đa cho phép 50 km/h
+  P.127-60: Tốc độ tối đa cho phép 60 km/h
+  P.127-70: Tốc độ tối đa cho phép 70 km/h
+  P.127-80: Tốc độ tối đa cho phép 80 km/h
+  P.127-90: Tốc độ tối đa cho phép 90 km/h
   P.127a: Tốc độ tối đa cho phép về ban đêm
   P.127b: Biển ghép tốc độ tối đa cho phép trên từng làn đường
   P.127c: Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường
   DP.127a: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🤯
   DP.127b: Biển hết tốc độ tối đa cho phép theo biển ghép P.127b
-  DP.127c: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c
+  DP.127c: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🔍
   P.128: Cấm sử dụng còi
   P.129: Kiểm tra
-  P.130: Cấm dừng xe và đỗ xe>
+  P.130: Cấm dừng xe và đỗ xe
   P.131a: Cấm đỗ xe
   P.131b: Cấm đỗ xe ngày lẻ
   P.131c: Cấm đỗ xe ngày chẵn
@@ -73,9 +82,23 @@ signs:
   W.203b: Đường bị thu hẹp (bên trái)
   W.203c: Đường bị thu hẹp (bên phải)
   W.204: Đường hai chiều
-  W.205: Giao nhau với đường cùng cấp - (a,b,c,d,e)
+  W.205a: Giao nhau với đường cùng cấp
+  W.205b: Giao nhau với đường cùng cấp
+  W.205c: Giao nhau với đường cùng cấp
+  W.205d: Giao nhau với đường cùng cấp
+  W.205e: Giao nhau với đường cùng cấp
   W.206: Giao nhau chạy theo vòng xuyến
-  W.207: Giao nhau với đường không ưu tiên (đường nhánh) - (a,b,c,d,e,f,g,h,i,k,l)
+  W.207a: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207b: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207c: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207d: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207e: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207f: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207g: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207h: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207i: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207k: Giao nhau với đường không ưu tiên (đường nhánh)
+  W.207l: Giao nhau với đường không ưu tiên (đường nhánh)
   W.208: Giao nhau với đường ưu tiên (đường chính) 🪤 W.247
   W.209: Giao nhau có tín hiệu đèn
   W.210: Giao nhau với đường sắt có rào chắn
@@ -118,14 +141,14 @@ signs:
   W.237: Cầu vồng
   W.238: Đường cao tốc (phía trước)
   W.239a: Đường cáp điện (ở phía trên)
-  W.239b: Chiều cao tĩnh không thực tế
+  W.239b: Chiều cao tĩnh không thực tế 🔍
   W.240: Đường hầm
   W.241: Ùn tắc giao thông
   W.242a: (Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray) 🔗 W.211a
   W.242b: (Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray) 🔗 W.211a
-  W.243 a: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m) 🔗 W.211a
-  W.243 b: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m) 🔗 W.211a
-  W.243 c: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m) 🔗 W.211a
+  W.243a: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m) 🔗 W.211a
+  W.243b: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m) 🔗 W.211a
+  W.243c: (Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m) 🔗 W.211a
   W.244: Đoạn đường hay xảy ra tai nạn
   W.245a: Đi chậm
   W.245b: Đi chậm (có chỉ dẫn tiếng Anh)
@@ -138,10 +161,10 @@ signs:
   R.301a: (Các xe) chỉ được đi thẳng
   R.301b: (Các xe) chỉ được đi ngang qua phải (đặt sau nơi đường giao nhau)
   R.301c: (Các xe) chỉ được đi ngang qua trái (đặt sau nơi đường giao nhau)
-  R.301d: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau)
-  R.301e: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau)
-  R.301f: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau)
-  R.301g: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411
+  R.301d: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau) 🔍
+  R.301e: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau) 🔍
+  R.301f: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau) 🔍
+  R.301g: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411 🔍
   R.301h: (Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu) (đặt sau nơi đường giao nhau) 🪤 R.411
   R.302a: Hướng phải đi vòng chướng ngại vật (vòng sang phải) 🔗 P.102
   R.302b: Hướng phải đi vòng chướng ngại vật (vòng sang trái) 🔗 P.102
@@ -151,26 +174,26 @@ signs:
   R.305: Đường dành cho người đi bộ
   R.306: Tốc độ tối thiểu (cho phép)
   R.307: Hết tốc độ tối thiểu
-  R.308: Cầu vượt cắt qua
+  # R.308: Cầu vượt cắt qua
   R.308a: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ trái'
   R.308b: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ phải'
   R.309: Ấn còi
-  R.310: Hướng đi phải theo cho các xe chở hàng nguy hiểm
+  # R.310: Hướng đi phải theo cho các xe chở hàng nguy hiểm
   R.310a: Xe chở hàng nguy hiểm chỉ được rẽ trái
   R.310b: Xe chở hàng nguy hiểm chỉ được đi thẳng
   R.310c: Xe chở hàng nguy hiểm chỉ được rẽ phải
   R.403a: Đường dành cho xe ôtô
   R.403b: Đường dành cho xe ôtô, xe máy
-  R.403c: Đường dành cho xe buýt
-  R.403d: Đường dành cho xe ôtô con
+  R.403c: Đường dành cho xe buýt 🔍
+  R.403d: Đường dành cho xe ôtô con 🔍
   R.403e: Đường dành cho xe máy
-  R.403f: Đường dành cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả xe thô sơ)
+  R.403f: Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍
   R.404a: Hết đoạn đường dành cho xe ôtô
   R.404b: Hết đoạn đường dành cho xe ôtô, xe máy
   R.404c: Hết đoạn đường dành cho xe buýt
   R.404d: Hết đoạn đường dành cho xe ôtô con
   R.404e: Hết đoạn đường dành cho xe máy
-  R.404f: Hết đoạn đường dành cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả xe thô sơ)
+  R.404f: Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)
   R.411: Hướng đi trên mỗi làn đường phải theo 🪤 R.301g,h
   R.412: Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)
   R.412a: Làn đường dành cho xe ôtô khách
