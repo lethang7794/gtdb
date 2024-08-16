@@ -7,7 +7,7 @@
 - Biển số P.104: Cấm xe máy
 - Biển số P.105: Cấm xe ôtô và xe máy
 - Biển số P.106a: Cấm xe ôtô tải
-- Biển số P.106a: Cấm xe ôtô tải trên XX tấn
+- Biển số P.106b: Cấm xe ôtô tải trên XX tấn
 - Biển số P.106c: Cấm các xe chở hàng nguy hiểm
 - Biển số P.107: Cấm xe ôtô khách và xe ôtô tải
 - Biển số P.107a: Cấm xe ôtô khách
@@ -296,8 +296,8 @@
 - Biển số I.445e: Xe lớn đi sát về bên phải
 - Biển số I.445f: Gió giang
 - Biển số I.445g: Đường hay xảy ra tai nạn
-- Biển số I.445g: Xuống dốc liên tục
-- Biển số I.446h: Nơi đỗ xe dành cho người khuyết tật 🔗 P.131a, I.408
+- Biển số I.445h: Xuống dốc liên tục
+- Biển số I.446: Nơi đỗ xe dành cho người khuyết tật 🔗 P.131a, I.408
 - Biển số I.447: Cầu vượt liên thông 🔗 R.308, I414c,d
 - Biển số I.447a: Cầu vượt liên thông 🔗 R.308
 - Biển số I.447b: Cầu vượt liên thông 🔗 R.308
