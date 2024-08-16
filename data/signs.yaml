@@ -115,6 +115,7 @@ signs:
     name: Biển hết tốc độ tối đa cho phép theo biển ghép P.127b
   DP.127c:
     name: Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🔍
+    image: DP127c.png
   P.128:
     name: Cấm sử dụng còi
   P.129:
@@ -285,6 +286,7 @@ signs:
     name: Đường cáp điện (ở phía trên)
   W.239b:
     name: Chiều cao tĩnh không thực tế 🔍
+    image: W239b.png
   W.240:
     name: Đường hầm
   W.241:
@@ -317,6 +319,7 @@ signs:
     name: Dừng lại
   R.301:
     name: Hướng đi phải theo
+    image: R301a.svg
   R.301a:
     name: (Các xe) chỉ được đi thẳng
   R.301b:
@@ -324,13 +327,17 @@ signs:
   R.301c:
     name: (Các xe) chỉ được đi ngang qua trái (đặt sau nơi đường giao nhau)
   R.301d:
-    name: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau) 🔍
+    name: (Các xe) chỉ được rẽ phải (đặt trước nơi đường giao nhau)
+    image: R301d.png
   R.301e:
-    name: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau) 🔍
+    name: (Các xe) chỉ được rẽ trái (đặt trước nơi đường giao nhau)
+    image: R301e.png
   R.301f:
-    name: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau) 🔍
+    name: (Các xe) chỉ được đi thẳng và rẽ phải (đặt trước nơi đường giao nhau)
+    image: R301f.png
   R.301g:
-    name: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411 🔍
+    name: (Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu) (đặt trước nơi đường giao nhau) 🪤 R.411
+    image: R301g.png
   R.301h:
     name: (Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu) (đặt sau nơi đường giao nhau) 🪤 R.411
   R.302a:
@@ -371,94 +378,132 @@ signs:
     name: Đường dành cho xe ôtô, xe máy
   R.403c:
     name: Đường dành cho xe buýt 🔍
+    image: R403c.png
   R.403d:
     name: Đường dành cho xe ôtô con 🔍
+    image: R403d.png
   R.403e:
     name: Đường dành cho xe máy
   R.403f:
     name: Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍
+    image: R403f.png
   R.404a:
     name: Hết đoạn đường dành cho xe ôtô
+    image: R404a.png
   R.404b:
     name: Hết đoạn đường dành cho xe ôtô, xe máy
+    image: R404b.png
   R.404c:
     name: Hết đoạn đường dành cho xe buýt
+    image: R404c.png
   R.404d:
     name: Hết đoạn đường dành cho xe ôtô con
+    image: R404d.png
   R.404e:
     name: Hết đoạn đường dành cho xe máy
+    image: R404e.png
   R.404f:
     name: Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)
+    image: R404f.png
   R.411:
     name: Hướng đi trên mỗi làn đường phải theo 🪤 R.301g,h
+    image: R411.png
   R.412:
     name: Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)
+    image: R412.png
   R.412a:
     name: Làn đường dành cho xe ôtô khách
+    image: R412a.png
   R.412b:
     name: Làn đường dành cho xe ôtô con 🪤
+    image: R412b.png
   R.412c:
     name: Làn đường dành cho xe ôtô tải
+    image: R412c.png
   R.412d:
     name: Làn đường dành cho xe máy
+    image: R412d.png
   R.412e:
     name: Làn đường dành cho xe buýt
+    image: R412e.png
   R.412f:
     name: Làn đường dành cho xe ôtô 🪤
+    image: R412f.png
   R.412g:
     name: Làn đường dành cho xe máy và xe đạp
+    image: R412g.png
   R.412h:
     name: Làn đường dành cho xe đạp
+    image: R412h.png
   R.412i:
     name: Kết thúc làn đường dành cho xe ôtô khách
+    image: R412i.jpeg
   R.412j:
     name: Kết thúc làn đường dành cho xe ôtô con
+    image: R412j.jpeg
   R.412k:
     name: Kết thúc làn đường dành cho xe ôtô tải
+    image: R412k.jpeg
   R.412l:
     name: Kết thúc làn đường dành cho xe máy
+    image: R412l.jpeg
   R.412m:
     name: Kết thúc làn đường dành cho xe buýt
+    image: R412m.jpeg
   R.412n:
     name: Kết thúc làn đường dành cho xe ôtô
+    image: R412n.jpeg
   R.412o:
     name: Kết thúc làn đường dành cho xe máy và xe đạp
+    image: R412o.jpeg
   R.412p:
     name: Kết thúc làn đường dành cho xe đạp
+    image: R412p.jpeg
   R.415a:
     name: Gộp làn đường theo phương tiện
   R.415b:
     name: Kết thúc làn đường theo phương tiện
+    image: R415b.jpeg
   R.420:
     name: Bắt đầu khu đông dân cư
   R.421:
     name: Hết khu đông dân cư
   R.E,9a:
     name: Cấm đỗ xe trong khu vực
+    image: RE9a.jpeg
   R.E,9b:
     name: Cấm đỗ xe theo giờ trong khu vực
+    image: RE9b.jpeg
   R.E,9c:
     name: Khu vực đỗ xe
+    image: RE9c.jpeg
   R.E,9d:
     name: Tốc độ tối đa trong khu vực
+    image: RE9d.jpeg
   R.E,10a:
     name: Hết cấm đỗ xe trong khu vực
+    image: RE10a.jpeg
   R.E,10b:
     name: Hết cấm đỗ xe theo giờ trong khu vực
+    image: RE10b.jpeg
   R.E,10c:
     name: Hết khu vực đỗ xe
+    image: RE10c.jpeg
   R.E,10d:
     name: Hết tốc độ tối đa trong khu vực
+    image: RE10d.jpeg
   R.E,11a:
     name: Đường hầm
+    image: RE11a.jpeg
   R.E,11b:
     name: Kết thúc đường hầm.
+    image: RE11b.jpeg
   I.401:
     name: Bắt đầu đường ưu tiên
   I.402:
     name: Hết đoạn đường ưu tiên
-  I.405:
-    name: Đường cụt
+  # I.405:
+  #   name: Đường cụt
   I.405a:
     name: Đường cụt (ở lối rẽ phải)
   I.405b:
@@ -467,8 +512,8 @@ signs:
     name: Đường cụt (phía trước)
   I.406:
     name: Được ưu tiên qua đường hẹp 🔗 P.132
-  I.407:
-    name: Đường một chiều
+  # I.407:
+  #   name: Đường một chiều
   I.407a:
     name: Đường một chiều (đặt sau nơi đường giao nhau) 🔗 R.302, W.204
   I.407b:
@@ -491,20 +536,30 @@ signs:
     name: Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)
   I.414:
     name: Chỉ hướng đường (đến địa danh, khu dân cư)
+    image: I414a.jpeg
   I.414a:
     name: Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
+    image: I414a.jpeg
   I.414b:
     name: Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)
+    image: I414b.jpeg
   I.414c:
     name: Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
+    image: I414c.jpeg
   I.414d:
     name: Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)
+    image: I414d.jpeg
   I.415:
     name: Mũi tên chỉ hướng đi (đến địa danh tiếp theo)
+    image: I415.jpeg
   I.416:
     name: Đường tránh (do phía trước có đường cấm)
-  I.417:
+  I.417a:
     name: Chỉ hướng đường phải đi cho từng loại xe
+    image: I417a.jpeg
+  I.417b:
+    name: Chỉ hướng đường phải đi cho từng loại xe
+    image: I417b.jpeg
   I.418:
     name: Lối đi ở những vị trí cấm rẽ
   I.419a:
@@ -523,12 +578,16 @@ signs:
     name: Điểm bắt đầu đường đi bộ
   I.424a:
     name: Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)
+    image: I424a.jpeg
   I.424b:
     name: Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)
+    image: I424b.jpeg
   I.424c:
     name: Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)
+    image: I424c.jpeg
   I.424d:
     name: Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)
+    image: I424d.jpeg
   I.425:
     name: Bệnh viện
   I.426:
@@ -549,14 +608,19 @@ signs:
     name: Khách sạn
   I.433a:
     name: Nơi nghỉ mát
+    image: I433a.jpeg
   I.433b:
     name: Nơi cắm trại
+    image: I433b.jpeg
   I.433c:
     name: Nhà nghỉ lưu động
+    image: I433c.jpeg
   I.433d:
     name: Nơi cắm trại, nhà nghỉ lưu động
+    image: I433d.jpeg
   I.433e:
     name: Nhà trọ
+    image: I433e.jpeg
   I.434a:
     name: Bến xe buýt 🪤 Hình xe khách
   I.434b:
@@ -567,6 +631,7 @@ signs:
     name: Trạm cảnh sát giao thông (CSGT)
   I.437:
     name: (Bắt đầu) đường cao tốc
+    image: I437.jpeg
   I.439:
     name: Tên cầu (lý trình và tên đường)
   I.440:
@@ -581,8 +646,8 @@ signs:
     name: Chợ
   I.443:
     name: Xe kéo rơ-moóc
-  I.444:
-    name: Biển báo chỉ dẫn địa điểm (đặt trước nơi giao nhau)
+  # I.444:
+  #   name: Biển báo chỉ dẫn địa điểm (đặt trước nơi giao nhau)
   I.444a:
     name: (Đường vào) ga tàu
   I.444b:
@@ -591,26 +656,36 @@ signs:
     name: (Đường vào) bãi đổ xe
   I.444d:
     name: (Đường vào) bến xe khách 🪤 Bus station
+    image: I444d.jpeg
   I.444e:
     name: (Đường vào) trạm cấp cứu
+    image: I444e.jpeg
   I.444f:
     name: (Đường vào) bến tàu thủy
+    image: I444f.jpeg
   I.444g:
     name: (Đường vào) danh lam thắng cảnh, khu du lịch
+    image: I444g.jpeg
   I.444h:
     name: (Đường vào) trạm xăng dầu
+    image: I444h.jpeg
   I.444i:
     name: (Đường vào) trạm rửa xe
+    image: I444i.jpeg
   I.444j:
     name: (Đường vào) bến phà
+    image: I444j.jpeg
   I.444k:
     name: (Đường vào) ga tàu điện ngầm
+    image: I444k.jpeg
   I.444l:
     name: (Đường vào) nhà hàng ăn uống
+    image: I444l.jpeg
   I.444m:
     name: (Đường vào) trạm sửa chữa ôtô
-  I.445 (a,b,c,d,e,f,g,h):
-    name: Biển báo kiểu mô tả tình trạng đường
+    image: I444m.jpeg
+  # I.445 (a,b,c,d,e,f,g,h):
+  #   name: Biển báo kiểu mô tả tình trạng đường
   I.445a:
     name: Đường trơn (chạy chậm)
   I.445b:
@@ -629,26 +704,35 @@ signs:
     name: Xuống dốc liên tục
   I.446:
     name: Nơi đỗ xe dành cho người khuyết tật 🔗 P.131a, I.408
-  I.447:
-    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+  # I.447:
+  #   name: Cầu vượt liên thông 🔗 R.308, I414c,d
   I.447a:
-    name: Cầu vượt liên thông 🔗 R.308
+    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+    image: I447a.jpeg
   I.447b:
-    name: Cầu vượt liên thông 🔗 R.308
+    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+    image: I447b.jpeg
   I.447c:
-    name: Cầu vượt liên thông 🔗 R.308
+    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+    image: I447c.jpeg
   I.447d:
-    name: Cầu vượt liên thông 🔗 R.308
+    name: Cầu vượt liên thông 🔗 R.308, I414c,d
+    image: I447d.jpeg
   I.448:
     name: Đường cứu nạn (làn thoát xe khẩn cấp)
+    image: I448a.png
   I.448a:
     name: Đường cứu nạn (cách 2km)
+    image: I448a.png
   I.448b:
     name: Đường cứu nạn (cách 1km)
+    image: I448b.png
   I.448c:
     name: Đường cứu nạn (cách 300m)
+    image: I448c.png
   I.448d:
     name: Đường cứu nạn
+    image: I448d.jpeg
   I.449:
     name: Biển tên đường (tuyến đường đối ngoại)
   IE.450a:
@@ -663,8 +747,10 @@ signs:
     name: Bắt đầu đường cao tốc
   IE.452b:
     name: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
+    image: IE452b.png
   IE.452c:
     name: (Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)
+    image: IE452c.png
   IE.453a:
     name: Khoảng cách đến điểm kết thúc đường cao tốc
   IE.453b:
@@ -675,38 +761,45 @@ signs:
     name: Lối ra phía trước (cách 2km)
   IE.454b:
     name: Lối ra phía trước (cách 1km) 🔗 IE.464b
+    image: IE454b.png
   IE.455:
     name: Khoảng cách đến các lối ra tiếp theo
+    image: IE455a.svg
   IE.455a:
     name: Khoảng cách đến 2 lối ra tiếp theo
   IE.455b:
     name: Khoảng cách đến 3 lối ra tiếp theo
-  IE.456:
-    name: Trạm dừng nghỉ
+    image: IE455b.jpg
+  # IE.456:
+  #   name: Trạm dừng nghỉ
   IE.456a:
     name: '[Trạm dừng nghỉ] Khoảng cách'
   IE.456b:
     name: '[Trạm dừng nghỉ] Hường đường (cách nút giao 150m)'
   IE.456c:
     name: '[Trạm dừng nghỉ] Hướng đi (Lối vào)'
-  IE.457:
-    name: Nơi đỗ xe trong trạm dừng nghỉ
+  # IE.457:
+  #   name: Nơi đỗ xe trong trạm dừng nghỉ
   IE.457a:
     name: '[Nơi đỗ xe trong trạm dừng nghỉ] Khoảng cách'
   IE.457b:
     name: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
   IE.458:
     name: Khoảng cách đến các trạm dừng nghỉ tiếp theo (đặt ngay sau khi ra khỏi trạm dừng nghỉ)
-  IE.459:
-    name: Khu tham quan, du lịch
+  # IE.459:
+  #   name: Khu tham quan, du lịch
   IE.459a:
     name: '[Khu tham quan, du lịch] Khoảng cách'
   IE.459b:
     name: '[Khu tham quan, du lịch] Hướng đường'
-  IE.460:
+  IE.460a:
     name: Cột (lý trình) kilômét
-  IE.461:
-    name: Khu dịch vụ công cộng, giải trí
+  IE.460b:
+    name: Cột (lý trình) kilômét
+  IE.460c:
+    name: Cột (lý trình) kilômét
+  # IE.461:
+  #   name: Khu dịch vụ công cộng, giải trí
   IE.461a:
     name: '[Khu dịch vụ công cộng, giải trí] Khoảng cách'
   IE.461b:
@@ -717,44 +810,45 @@ signs:
     name: '[Khu giải trí] Hướng đi (Lối vào)'
   IE.462:
     name: Tần số sóng radio (về thông tin giao thông, thời tiết)
-  IE.463:
-    name: Trạm kiểm tra tải trọng xe
+  # IE.463:
+  #   name: Trạm kiểm tra tải trọng xe
   IE.463a:
     name: '[Trạm kiểm tra tải trọng xe] Khoảng cách'
   IE.463b:
     name: '[Trạm kiểm tra tải trọng xe] Hướng đường'
   IE.463c:
     name: '[Trạm kiểm tra tải trọng xe] Hướng đi (Lối vào)'
-  IE.464:
-    name: Địa điểm và phương hướng
+  # IE.464:
+  #   name: Địa điểm và phương hướng
   IE.464a:
     name: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều] 🪤 (đặt ở trước khu vực lối ra)'
   IE.464b:
     name: '[Địa điểm và phương hướng - Hướng ra] 🪤 (đặt ở đường ra khỏi đường cao tốc)'
-  IE.465:
-    name: Địa điểm và khoảng cách
+  # IE.465:
+  #   name: Địa điểm và khoảng cách
   IE.465a:
     name: '[Địa điểm và khoảng cách] 2 địa điểm'
   IE.465b:
     name: '[Địa điểm và khoảng cách] 3 địa điểm'
+    image: IE465b.jpg
   IE.466:
     name: Sơ đồ lối ra một chiều
-  IE.467:
-    name: Nhập làn 🔗 W.207g, W238
+  # IE.467:
+  #   name: Nhập làn 🔗 W.207g, W238
   IE.467a:
     name: Nhập làn 🔗 W.207g, W238
   IE.467b:
     name: Nhập làn (cách 250m) 🔗 W.207g, W238
-  IE.468:
-    name: Chướng ngại vật phía trước
+  # IE.468:
+  #   name: Chướng ngại vật phía trước
   IE.468a:
     name: '[Chướng ngại vật] Đi hướng bên trái'
   IE.468b:
     name: '[Chướng ngại vật] Đi hướng bên trái hoặc bên phải'
   IE.468c:
     name: '[Chướng ngại vật] Đi hướng bên phải'
-  IE.469:
-    name: Hướng rẽ
+  # IE.469:
+  #   name: Hướng rẽ
   IE.469a:
     name: Hướng rẽ phải
   IE.469b:
@@ -763,8 +857,8 @@ signs:
     name: Số điện thoại khẩn cấp
   IE.471:
     name: Giữ khoảng cách lái xe an toàn
-  IE.472:
-    name: Trạm thu phí
+  # IE.472:
+  #   name: Trạm thu phí
   IE.472a:
     name: Trạm thu phí - Khoảng cách
   IE.472b:
@@ -774,23 +868,26 @@ signs:
   IE.474:
     name: Lối ra (đường cao tốc)
   S.501:
-    name: Phạm vi tác dụng của biển
+    name: Phạm vi tác dụng (của biển)
   S.502:
     name: Khoảng cách đến đối tượng báo hiệu
-  S.503:
-    name: Hướng tác dụng của biển
-  S.503b:
-    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Phải'
-  S.503c:
-    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái và phải'
+  # S.503:
+  #   name: Hướng tác dụng của biển
   S.503a:
-    name: '[Hướng tác dụng của biển - Vuông gốc với chiều đi] Trái'
+    name: '[Hướng tác dụng] Phải (Vuông gốc với chiều đi)'
+  S.503b:
+    name: '[Hướng tác dụng] Trái và phải (Vuông gốc với chiều đi)'
+  S.503c:
+    name: '[Hướng tác dụng] Trái (Vuông gốc với chiều đi)'
   S.503d:
-    name: '[Hướng tác dụng của biển - Song song với chiều đi] Trước'
+    name: '[Hướng tác dụng] Trước (Song song với chiều đi)'
+    image: S503d.jpeg
   S.503e:
-    name: '[Hướng tác dụng của biển - Song song với chiều đi] Trước và sau'
+    name: '[Hướng tác dụng] Trước và sau (Song song với chiều đi)'
+    image: S503e.jpeg
   S.503f:
-    name: '[Hướng tác dụng của biển - Song song với chiều đi] Sau'
+    name: '[Hướng tác dụng] Sau (Song song với chiều đi)'
+    image: S503f.jpeg
   S.504:
     name: Làn đường
   S.505a:
@@ -799,37 +896,53 @@ signs:
     name: Loại xe hạn chế qua cầu
   S.505c:
     name: Tải trọng trục hạn chế qua cầu
-  S.506:
-    name: Hướng đường ưu tiên
+  # S.506:
+  #   name: Hướng đường ưu tiên
   S.506a:
     name: '[Hướng đường ưu tiên] (đặt ở đường ưu tiên)'
   S.506b:
     name: '[Hướng đường (không) ưu tiên] (đặt ở đường không ưu tiên)'
+    image: S506b.jpeg
   S.507:
     name: Hướng rẽ 🔗 W.201, W.202
-  S.508:
+  S.508a:
     name: Biểu thị thời gian
-  S.509:
-    name: Thuyết minh biển chính
+    image: S508a.jpeg
+  S.508b:
+    name: Biểu thị thời gian
+  # S.509:
+  #   name: Thuyết minh biển chính
   S.509a:
     name: '[Thuyết minh biển chính] Chiều cao an toàn 🔗 W.239'
   S.509b:
     name: '[Thuyết minh biển chính] Cấm đổ xe 🔗 P.130, P.131'
   S.510a:
     name: (Chú ý) đường trơn có băng tuyết
+    image: S510a.jpeg
   S.510b:
     name: (Chú ý) đường sắt
+    image: S510b.jpeg
   S.G,7:
     name: '[Địa điểm] nơi cắm trại'
+    image: SG7.jpeg
   S.G,8:
     name: '[Địa điểm] nhà trọ'
+    image: SG8.jpeg
   S.G,9b:
     name: Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng
-  S.G,11:
+    image: SG9b.jpeg
+  S.G,11a:
     name: Số lượng làn và hướng đi cho từng làn
+    image: SG11a.jpeg
+  S.G,11c:
+    name: Số lượng làn và hướng đi cho từng làn
+    image: SG11c.jpeg
   S.G,12a:
     name: Làn đường không lưu thông
+    image: SG12a.jpeg
   S.G,12b:
     name: Làn đường không lưu thông
+    image: SG12b.jpeg
   S.H,6:
     name: Ngoại lệ.
+    image: SH6.jpeg
