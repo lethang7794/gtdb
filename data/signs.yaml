@@ -695,7 +695,7 @@ signs:
     name: 'Xe kéo rơ-moóc'
   # I.444:
   #   name: 'Biển báo chỉ dẫn địa điểm'
-  note: Đặt trước nơi giao nhau
+  #   note: Đặt trước nơi giao nhau
   I.444a:
     name: '(Đường vào) ga tàu'
   I.444b:
@@ -756,7 +756,6 @@ signs:
     related: [P.131a, I.408]
   # I.447:
   #   name: 'Cầu vượt liên thông'
-  related: [R.308, I414c, d]
   I.447a:
     name: 'Cầu vượt liên thông'
     related: [R.308, I414c, d]
