@@ -1,0 +1,612 @@
+markings:
+  1.1:
+    short_name: Vạch 1.1.
+    full_name: Vạch đơn, nét đứt, màu vàng
+    aka: Vạch tim đường (dạng vạch đơn, nét đứt)
+    image: Vach-1.1.png
+    attribute:
+      number_of_lines: vạch đơn
+      type: nét đứt
+      color: màu vàng
+    group:
+      [
+        'vạch dọc đường',
+        'vạch phân chia 2 chiều xe chạy ngược chiều',
+        'vạch tim đường',
+      ]
+    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều nhau. Xe được phép cắt qua để sử dụng làn ngược chiều từ cả hai phía.
+  1.2:
+    short_name: Vạch 1.2
+    full_name: Vạch đơn, nét liền, màu vàng
+    aka: Vạch tim đường (dạng vạch đơn, nét liền)
+    image: Vach-1.2.png
+    attribute:
+      number_of_lines: vạch đơn
+      type: nét liền
+      color: màu vàng
+    group:
+      [
+        'vạch dọc đường',
+        'vạch phân chia 2 chiều xe chạy ngược chiều',
+        'vạch tim đường',
+      ]
+    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều; xe không được lấn làn, không được đè lên vạch.
+  1.3:
+    short_name: Vạch 1.3
+    full_name: Vạch đôi, nét liền, màu vàng
+    aka: Vạch tim đường (dạng vạch đôi, nét liền)
+    image: Vach-1.3.png
+    attribute:
+      number_of_lines: vạch đôi
+      type: nét liền
+      color: màu vàng
+    group:
+      [
+        'vạch dọc đường',
+        'vạch phân chia 2 chiều xe chạy ngược chiều',
+        'vạch tim đường',
+      ]
+    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều, xe không được lấn làn, không được đè lên vạch
+  1.3b:
+    short_name: Vạch 1.3b
+    full_name: Vạch đôi, nét đứt, màu vàng
+    aka: Vạch tim đường (dạng vạch đôi, nét đứt)
+    image: Vach-1.3b.png
+    attribute:
+      number_of_lines: vạch đôi
+      type: nét đứt
+      color: màu vàng
+    group:
+      [
+        'vạch dọc đường',
+        'vạch phân chia 2 chiều xe chạy ngược chiều',
+        'vạch tim đường',
+      ]
+    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều, xe được cắt ngang qua
+  1.4:
+    short_name: Vạch 1.4
+    full_name: Vạch kép (gồm 1 vạch nét liền, 1 vách nét đứt), màu vàng
+    aka: Vạch tim đường (dạng vạch đôi - 1 vạch nét liền, 1 vạch nét đứt)
+    image: Vach-1.4.png
+    attribute:
+      number_of_lines: vạch kép
+      type: 1 nét liền, 1 nét đứt
+      color: màu vàng
+    group: vạch dọc đường
+    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều. Xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua và sử dụng làn ngược chiều khi cần thiết; xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch.
+  1.5:
+    short_name: Vạch 1.5
+    full_name: Vạch xác định ranh giới làn đường có thể thay đổi hướng xe chạy
+    aka:
+    image: Vach-1.5.png
+    attribute:
+      number_of_lines: vạch đôi
+      type: nét đứt
+      color: màu vàng
+    group:
+      [
+        'vạch dọc đường',
+        'vạch phân chia 2 chiều xe chạy (ngược chiều)',
+        'vạch tim đường',
+      ]
+    meaning:
+  2.1:
+    short_name: Vạch 2.1
+    full_name: Vạch phân chia các làn xe cùng chiều (dạng vạch đơn, nét đứt)
+    aka:
+    image: Vach-2.1.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
+    meaning: Dùng để phân chia các làn xe cùng chiều. Trong trường hợp này, xe được phép thực hiện việc chuyển làn đường qua vạch 2.1.
+  2.2:
+    short_name: Vạch 2.2
+    full_name: Vạch phân chia các làn xe cùng chiều (dạng vạch đơn, nét liền)
+    aka:
+    image: Vach-2.2.png
+    attribute:
+      number_of_lines: vạch đơn
+      type: nét liền
+      color: màu trắng
+    group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
+    meaning: Dùng để phân chia các làn xe cùng chiều trong trường hợp không cho phép xe chuyển làn hoặc sử dụng làn khác; xe không được lấn làn, không được đè lên vạch.
+  2.3:
+    short_name: Vạch 2.3
+    full_name: Vạch giới hạn làn đường dành riêng hoặc làn đường ưu tiên
+    aka:
+    image: Vach-2.3.jpeg
+    attribute:
+      number_of_lines: vạch đơn
+      type: nét liền hoặc nét đứt
+      color: màu trắng
+    group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
+    meaning:
+      Vạch liền nét: Vạch giới hạn làn đường dành riêng cho một loại xe cơ giới nhất định, các loại xe khác không được đi vào làn xe này trừ những trường hợp khẩn cấp theo Luật Giao thông đường bộ.
+      Vạch đứt nét: Vạch giới hạn làn đường ưu tiên cho một loại xe cơ giới nhất định, các xe khác có thể sử dụng làn đường này nhưng phải nhường đường cho xe được ưu tiên sử dụng làn khi xuất hiện loại xe này trên làn xe.
+      Cả hai: Xe trên làn đường dành riêng hoặc làn đường ưu tiên có thể cắt qua các vạch này khi làn đường hoặc phần đường xe chạy liền kề không cấm sử dụng loại xe này.
+  2.4:
+    short_name: Vạch 2.4
+    full_name: Vạch phân chia các làn xe cùng chiều, dạng vạch kép (một vạch liền, một vạch đứt nét).
+    aka:
+    image: Vach-2.4.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
+    meaning:
+  3.1:
+    short_name: Vạch 3.1
+    full_name:
+    aka:
+    image: Vach-3.1.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch giới hạn mép phần đường xe chạy']
+    meaning:
+  4.1a:
+    short_name: Vạch 4.1
+    full_name:
+    aka:
+    image: Vach-4.1a.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.1b:
+    short_name: Vạch 4.1
+    full_name:
+    aka:
+    image: Vach-4.1b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.2a:
+    short_name: Vạch 4.2
+    full_name:
+    aka:
+    image: Vach-4.2a.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.2b:
+    short_name: Vạch 4.2
+    full_name:
+    aka:
+    image: Vach-4.2b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.3a:
+    short_name: Vạch 4.3a
+    full_name:
+    aka:
+    image: Vach-4.3a.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.3b:
+    short_name: Vạch 4.3b
+    full_name:
+    aka:
+    image: Vach-4.3b.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.4a:
+    short_name: Vạch 4.4
+    full_name:
+    aka:
+    image: Vach-4.4a2.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  4.4b:
+    short_name: Vạch 4.4
+    full_name:
+    aka:
+    image: Vach-4.4b2.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
+    meaning:
+  5.1:
+    short_name: Vạch 5.1
+    full_name:
+    aka:
+    image: Vach-5.1.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
+    meaning:
+  5.2:
+    short_name: Vạch 5.2
+    full_name:
+    aka:
+    image: Vach-5.2.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
+    meaning:
+  5.3:
+    short_name: Vạch 5.3
+    full_name:
+    aka:
+    image: Vach-5.3.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
+    meaning:
+  6.1:
+    short_name: Vạch 6.1
+    full_name:
+    aka:
+    image: Vach-6.1.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
+    meaning:
+  6.2:
+    short_name: Vạch 6.2
+    full_name:
+    aka:
+    image: Vach-6.2.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
+    meaning:
+  7.1a:
+    short_name: Vạch 7.1
+    full_name:
+    aka:
+    image: Vach-7.1a.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.1b:
+    short_name: Vạch 7.1
+    full_name:
+    aka:
+    image: Vach-7.1b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.2:
+    short_name: Vạch 7.2
+    full_name:
+    aka:
+    image: Vach-7.2b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.3a:
+    short_name: Vạch 7.3
+    full_name:
+    aka:
+    image: Vach-7.3a.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.3b:
+    short_name: Vạch 7.3
+    full_name:
+    aka:
+    image: Vach-7.3b.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.4:
+    short_name: Vạch 7.4
+    full_name:
+    aka:
+    image: Vach-7.4.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.5:
+    short_name: Vạch 7.5
+    full_name:
+    aka:
+    image: Vach-7.5.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.6:
+    short_name: Vạch 7.6
+    full_name:
+    aka:
+    image: Vach-7.6.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.7:
+    short_name: Vạch 7.7
+    full_name:
+    aka:
+    image: Vach-7.7.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  7.8:
+    short_name: Vạch 7.8
+    full_name:
+    aka:
+    image: Vach-7.8.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch ngang đường']
+    meaning:
+  8.1a:
+    short_name: Vạch 8.1
+    full_name:
+    aka:
+    image: Vach-8.1a.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.1b:
+    short_name: Vạch 8.1
+    full_name:
+    aka:
+    image: Vach-8.1b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.2:
+    short_name: Vạch 8.2
+    full_name:
+    aka:
+    image: Vach-8.2.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.3:
+    short_name: Vạch 8.3
+    full_name:
+    aka:
+    image: Vach-8.3.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.4:
+    short_name: Vạch 8.4
+    full_name:
+    aka:
+    image: Vach-8.4.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.5:
+    short_name: Vạch 8.5
+    full_name:
+    aka:
+    image: Vach-8.5.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.6:
+    short_name: Vạch 8.6
+    full_name:
+    aka:
+    image: Vach-8.6.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  8.7:
+    short_name: Vạch 8.7
+    full_name:
+    aka:
+    image: Vach-8.7.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+  9.1:
+    short_name: Vạch 9.1
+    full_name:
+    aka:
+    image: Vach-9.1.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.2:
+    short_name: Vạch 9.2
+    full_name:
+    aka:
+    image: Vach-9.2.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.3a:
+    short_name: Vạch 9.3
+    full_name:
+    aka:
+    image: Vach-9.3a.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.3b:
+    short_name: Vạch 9.3
+    full_name:
+    aka:
+    image: Vach-9.3b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.4:
+    short_name: Vạch 9.4
+    full_name:
+    aka:
+    image: Vach-9.4.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.5a:
+    short_name: Vạch 9.5
+    full_name:
+    aka:
+    image: Vach-9.5a.jpeg
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.5b:
+    short_name: Vạch 9.5
+    full_name:
+    aka:
+    image: Vach-9.5b.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.5c:
+    short_name: Vạch 9.5
+    full_name:
+    aka:
+    image: Vach-9.5c.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.5d:
+    short_name: Vạch 9.5
+    full_name:
+    aka:
+    image: Vach-9.5d.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.5e:
+    short_name: Vạch 9.5
+    full_name:
+    aka:
+    image: Vach-9.5e.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
+  9.6:
+    short_name: Vạch 9.6
+    full_name:
+    aka:
+    image: Vach-9.6.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch loại khác']
+    meaning:
