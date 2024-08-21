@@ -3,20 +3,20 @@ import fs from 'node:fs'
 import yaml from 'yaml'
 import type { RoadSign } from '@/model/RoadSign'
 
-const dataRoadSignsPath = 'data/signs.yaml'
-const roadSignPath = 'road-signs'
+const ROAD_SIGNS_REPO_PATH = 'data/signs.yaml'
+const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
 
 export const getRoadSigns = cache(() => {
-  const file = fs.readFileSync(dataRoadSignsPath).toString()
+  const file = fs.readFileSync(ROAD_SIGNS_REPO_PATH).toString()
   const data = yaml.parse(file)
   return data as Record<string, RoadSign>
 })
 
 export function getRoadSignById(id: string): RoadSign | undefined {
-  const roadSigns = getRoadSigns()
-  return roadSigns[id]
+  const items = getRoadSigns()
+  return items[id]
 }
 
 export function getRoadSignImage(sign: RoadSign) {
-  return `/${roadSignPath}/${sign.image}`
+  return `/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`
 }

@@ -3,26 +3,23 @@ import fs from 'node:fs'
 import yaml from 'yaml'
 import { MarkingImage, type Marking } from '@/model/Marking'
 
-const dataMarkingsPath = 'data/markings.yaml'
-const markingsPath = 'markings'
+const MARKINGS_REPO_PATH = 'data/markings.yaml'
+const MARKINGS_PUBLIC_PATH = 'markings'
 
 export const getMarkings = cache(() => {
-  const file = fs.readFileSync(dataMarkingsPath).toString()
+  const file = fs.readFileSync(MARKINGS_REPO_PATH).toString()
   const data = yaml.parse(file)
   return data as Record<string, Marking>
 })
 
 export function getMarkingById(id: string): Marking | undefined {
-  const marking = getMarkings()
-  return marking[id]
+  const items = getMarkings()
+  return items[id]
 }
 
-export function getMarkingImage(
-  marking: Marking,
-  opts?: { type?: MarkingImage }
-) {
+export function getMarkingImage(item: Marking, opts?: { type?: MarkingImage }) {
   if (opts?.type === MarkingImage.extra) {
-    return `/${markingsPath}/${marking.image_extra}`
+    return `/${MARKINGS_PUBLIC_PATH}/${item.image_extra}`
   }
-  return `/${markingsPath}/${marking.image}`
+  return `/${MARKINGS_PUBLIC_PATH}/${item.image}`
 }
