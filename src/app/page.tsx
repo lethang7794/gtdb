@@ -1,15 +1,25 @@
 import Link from 'next/link'
-import { redirect } from 'next/navigation'
 
 export default async function Home() {
   return (
-    <>
-      <div>
-        <Link href="/bbgt">Bien bao giao thong</Link>
+    <div className="flex min-h-screen flex-col justify-between p-6 md:p-8">
+      <div className="flex flex-col gap-2">
+        <div>
+          <Link className="text-5xl text-blue-500" href="/bbgt">
+            Biển báo giao thông
+          </Link>
+        </div>
+        <div>
+          <Link className="text-5xl text-blue-500" href="/vach-ke-duong">
+            Vạch kẻ đường
+          </Link>
+        </div>
+        <div>
+          <Link className="text-5xl text-blue-500" href="/thuat-ngu">
+            Thuật ngữ
+          </Link>
+        </div>
       </div>
-      <div>
-        <Link href="/vach-ke-duong">Vach ke duong</Link>
-      </div>
-    </>
+    </div>
   )
 }
