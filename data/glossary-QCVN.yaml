@@ -1,232 +1,299 @@
 1:
   docs: Đường đô thị (ĐĐT) là đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
-  term: Đường đô thị (ĐĐT)
-  explain: đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
+  term: Đường đô thị
+  aka: ĐĐT
+  explain: |+
+    Đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
 2:
   docs: Đường qua khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
   term: Đường qua khu đông dân cư
-  explain: đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
+  explain: |+
+    Đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
 3:
   docs: Đường dành riêng cho các loại phương tiện cơ giới là tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
   term: Đường dành riêng cho các loại phương tiện cơ giới
-  explain: tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
+  explain: |+
+    Tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 4:
   docs: Đường dành riêng cho một số loại phương tiện là tuyến đường, phần đường hoặc làn đường dành riêng cho một hoặc một vài loại phương tiện được lưu thông tách biệt với phần đường cho các phương tiện khác và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
   term: Đường dành riêng cho một số loại phương tiện
-  explain: tuyến đường, phần đường hoặc làn đường dành riêng cho một hoặc một vài loại phương tiện được lưu thông tách biệt với phần đường cho các phương tiện khác và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
+  explain: |+
+    Tuyến đường, phần đường hoặc làn đường dành riêng cho một hoặc một vài loại phương tiện được lưu thông tách biệt với phần đường cho các phương tiện khác và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 5:
   docs: Đường dành riêng cho các phương tiện thô sơ và người đi bộ là tuyến đường, phần đường hoặc làn đường được phân biệt với phần đường dành riêng cho phương tiện cơ giới bằng các dải phân cách hoặc vạch sơn dọc liền.
   term: Đường dành riêng cho các phương tiện thô sơ và người đi bộ
-  explain: tuyến đường, phần đường hoặc làn đường được phân biệt với phần đường dành riêng cho phương tiện cơ giới bằng các dải phân cách hoặc vạch sơn dọc liền.
+  explain: |+
+    Tuyến đường, phần đường hoặc làn đường được phân biệt với phần đường dành riêng cho phương tiện cơ giới bằng các dải phân cách hoặc vạch sơn dọc liền.
 6:
   docs: Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được đặt biển báo hiệu đường ưu tiên.
   term: Đường ưu tiên
-  explain: đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được đặt biển báo hiệu đường ưu tiên.
+  explain: |+
+    Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được đặt biển báo hiệu đường ưu tiên.
 7:
   docs: Làn đường ưu tiên là làn đường mà trên đó phương tiện tham gia giao thông được quy định là ưu tiên sẽ được các phương tiện khác nhường đường khi cùng tham gia giao thông.
   term: Làn đường ưu tiên
-  explain: làn đường mà trên đó phương tiện tham gia giao thông được quy định là ưu tiên sẽ được các phương tiện khác nhường đường khi cùng tham gia giao thông.
+  explain: |+
+    Làn đường mà trên đó phương tiện tham gia giao thông được quy định là ưu tiên sẽ được các phương tiện khác nhường đường khi cùng tham gia giao thông.
 8:
   docs: Đường không ưu tiên là đường giao cùng mức với đường ưu tiên.
   term: Đường không ưu tiên
-  explain: đường giao cùng mức với đường ưu tiên.
+  explain: |+
+    Đường giao cùng mức với đường ưu tiên.
 9:
   docs: Đường một chiều là đường chỉ cho đi một chiều.
   term: Đường một chiều
-  explain: đường chỉ cho đi một chiều.
+  explain: |+
+    Đường chỉ cho đi một chiều.
 10:
   docs: Đường hai chiều là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
   term: Đường hai chiều
-  explain: đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
+  explain: |+
+    Đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
 11:
   docs: Đường đôi là đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
   term: Đường đôi
-  explain: đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
+  explain: |+
+    Đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
 12:
   docs: Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
   term: Phần đường xe chạy
-  explain: phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
+  explain: |+
+    Phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
 13:
   docs: Phần đường dành cho xe cơ giới là phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng qua lại.
   term: Phần đường dành cho xe cơ giới
-  explain: phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng qua lại.
+  explain: |+
+    Phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng qua lại.
 14:
   docs: Phần đường dành cho xe thô sơ là phần của đường bộ được sử dụng cho các phương tiện giao thông thô sơ đường bộ qua lại.
   term: Phần đường dành cho xe thô sơ
-  explain: phần của đường bộ được sử dụng cho các phương tiện giao thông thô sơ đường bộ qua lại.
+  explain: |+
+    Phần của đường bộ được sử dụng cho các phương tiện giao thông thô sơ đường bộ qua lại.
 15:
   docs: Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe chạy an toàn. Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
   term: Làn đường
-  explain: một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe chạy an toàn. Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
+  explain: |+
+    Một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe chạy an toàn. Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
 16:
   docs: Dải phân cách là bộ phận của đường mà xe không chạy trên đó được và để phân chia phần đường xe chạy thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
   term: Dải phân cách
-  explain: bộ phận của đường mà xe không chạy trên đó được và để phân chia phần đường xe chạy thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
+  explain: |+
+    Bộ phận của đường mà xe không chạy trên đó được và để phân chia phần đường xe chạy thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
 17:
   docs: Nơi đường giao nhau cùng mức (nơi đường giao nhau hoặc nút giao) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
-  term: Nơi đường giao nhau cùng mức (nơi đường giao nhau hoặc nút giao)
-  explain: nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
+  term: Nơi đường giao nhau cùng mức
+  aka: [nơi đường giao nhau, nút giao]
+  explain: |+
+    Nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
 18:
   docs: Xe cơ giới là chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
   term: Xe cơ giới
-  explain: chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
+  explain: |+
+    Chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
 19:
   docs: Trọng tải bản thân xe là khối lượng bản thân của xe, đo bằng kilôgam (kg) hoặc tấn (t) ở trạng thái tĩnh được ghi theo thông số quy định trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
   term: Trọng tải bản thân xe
-  explain: khối lượng bản thân của xe, đo bằng kilôgam (kg) hoặc tấn (t) ở trạng thái tĩnh được ghi theo thông số quy định trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
+  explain: |+
+    Khối lượng bản thân của xe, đo bằng kilôgam (kg) hoặc tấn (t) ở trạng thái tĩnh được ghi theo thông số quy định trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
 20:
   docs: Trọng tải toàn bộ xe (tổng trọng tải) là bằng khối lượng bản thân xe cộng với khối lượng của người, hành lý và hàng hóa xếp trên xe (nếu có).
-  term: Trọng tải toàn bộ xe (tổng trọng tải)
-  explain: bằng khối lượng bản thân xe cộng với khối lượng của người, hành lý và hàng hóa xếp trên xe (nếu có).
+  term: Trọng tải toàn bộ xe
+  aka: tổng trọng tải
+  explain: |+
+    Bằng khối lượng bản thân xe cộng với khối lượng của người, hành lý và hàng hóa xếp trên xe (nếu có).
 21:
   docs: Trọng tải toàn bộ xe cho phép là bằng trọng tải bản thân xe cộng với khối lượng chuyên chở cho phép xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
   term: Trọng tải toàn bộ xe cho phép
-  explain: bằng trọng tải bản thân xe cộng với khối lượng chuyên chở cho phép xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
+  explain: |+
+    Bằng trọng tải bản thân xe cộng với khối lượng chuyên chở cho phép xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
 22:
   docs: Tải trọng trục xe là phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
   term: Tải trọng trục xe
-  explain: phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
+  explain: |+
+    Phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
 23:
   docs: Xe ôtô con (hay còn gọi là xe con) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
-  term: Xe ôtô con (hay còn gọi là xe con)
-  explain: xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
+  term: Xe ôtô con
+  aka: Xe con
+  explain: |+
+    Xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
 24:
   docs: Xe bán tải (xe pickup), xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
-  term: Xe bán tải (xe pickup)
-  explain: xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
+  term: Xe bán tải
+  aka: Xe pickup
+  explain: |+
+    Xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
 25:
   docs: Ôtô tải (hay còn gọi là xe tải) là xe ôtô có kết cấu và trang bị chủ yếu để chuyên chở hàng hóa (bao gồm cả ô tô đầu kéo, ô tô kéo rơ moóc và các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên).
-  term: Ôtô tải (hay còn gọi là xe tải)
-  explain: xe ôtô có kết cấu và trang bị chủ yếu để chuyên chở hàng hóa (bao gồm cả ô tô đầu kéo, ô tô kéo rơ moóc và các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên).
+  term: Ôtô tải
+  aka: Xe tải
+  explain: |+
+    Xe ôtô có kết cấu và trang bị chủ yếu để chuyên chở hàng hóa (bao gồm cả ô tô đầu kéo, ô tô kéo rơ moóc và các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên).
 26:
   docs: Ôtô khách (hay còn gọi là xe khách) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ để chở người với số lượng lớn hơn 9 người.
-  term: Ôtô khách (hay còn gọi là xe khách)
-  explain: xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ để chở người với số lượng lớn hơn 9 người.
+  term: Ôtô khách
+  aka: Xe khách
+  explain: |+
+    Xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ để chở người với số lượng lớn hơn 9 người.
 27:
   docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
   term: Ôtô đầu kéo kéo sơ-mi rơ-moóc
-  explain: xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
+  explain: |+
+    Xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
 28:
   docs: Ôtô kéo rơ-moóc là xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
   term: Ôtô kéo rơ-moóc
-  explain: xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
+  explain: |+
+    Xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
 29:
   docs: Rơ-moóc là tổng hợp gồm hệ thống trục và lốp xe có kết cấu vững chắc được kết nối với xe ô tô sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
   term: Rơ-moóc
-  explain: tổng hợp gồm hệ thống trục và lốp xe có kết cấu vững chắc được kết nối với xe ô tô sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
+  explain: |+
+    Tổng hợp gồm hệ thống trục và lốp xe có kết cấu vững chắc được kết nối với xe ô tô sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
 30:
   docs: Máy kéo là chỉ đầu máy tự di chuyển bằng xích hay bánh lốp để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
   term: Máy kéo
-  explain: chỉ đầu máy tự di chuyển bằng xích hay bánh lốp để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
+  explain: |+
+    Chỉ đầu máy tự di chuyển bằng xích hay bánh lốp để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
 31:
   docs: Xe mô tô (hay còn gọi là xe máy) là xe cơ giới hai hoặc ba bánh và các loại xe tương tự, di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên, trọng tải bản thân xe không quá 400 kg.
-  term: Xe mô tô (hay còn gọi là xe máy)
-  explain: xe cơ giới hai hoặc ba bánh và các loại xe tương tự, di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên, trọng tải bản thân xe không quá 400 kg.
+  term: Xe mô tô
+  aka: Xe máy
+  explain: |+
+    Xe cơ giới hai hoặc ba bánh và các loại xe tương tự, di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên, trọng tải bản thân xe không quá 400 kg.
 32:
   docs: Xe gắn máy là chỉ phương tiện chạy bằng động cơ, có hai bánh hoặc ba bánh và vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
   term: Xe gắn máy
-  explain: chỉ phương tiện chạy bằng động cơ, có hai bánh hoặc ba bánh và vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
+  explain: |+
+    Chỉ phương tiện chạy bằng động cơ, có hai bánh hoặc ba bánh và vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
 33:
   docs: Xe thô sơ gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
   term: Xe thô sơ
-  explain: gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
+  explain: |+
+    Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
 34:
   docs: Xe đạp là phương tiện có hai bánh xe hoặc ba bánh và di chuyển được bằng sức người đạp hoặc bằng tay quay, kể cả xe chuyên dùng của người khuyết tật có tính năng tương tự.
   term: Xe đạp
-  explain: phương tiện có hai bánh xe hoặc ba bánh và di chuyển được bằng sức người đạp hoặc bằng tay quay, kể cả xe chuyên dùng của người khuyết tật có tính năng tương tự.
+  explain: |+
+    Phương tiện có hai bánh xe hoặc ba bánh và di chuyển được bằng sức người đạp hoặc bằng tay quay, kể cả xe chuyên dùng của người khuyết tật có tính năng tương tự.
 35:
   docs: Xe đạp thồ là xe đạp chở hàng trên giá đèo hàng hoặc chằng buộc hai bên thành xe.
   term: Xe đạp thồ
-  explain: xe đạp chở hàng trên giá đèo hàng hoặc chằng buộc hai bên thành xe.
+  explain: |+
+    Xe đạp chở hàng trên giá đèo hàng hoặc chằng buộc hai bên thành xe.
 36:
   docs: Xe người kéo là những loại phương tiện thô sơ có một hoặc nhiều bánh và chuyển động được nhờ sức người kéo hoặc đẩy trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
   term: Xe người kéo
-  explain: những loại phương tiện thô sơ có một hoặc nhiều bánh và chuyển động được nhờ sức người kéo hoặc đẩy trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
+  explain: |+
+    Những loại phương tiện thô sơ có một hoặc nhiều bánh và chuyển động được nhờ sức người kéo hoặc đẩy trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
 37:
   docs: Xe súc vật kéo là những phương tiện thô sơ chuyển động được do súc vật kéo.
   term: Xe súc vật kéo
-  explain: những phương tiện thô sơ chuyển động được do súc vật kéo.
+  explain: |+
+    Những phương tiện thô sơ chuyển động được do súc vật kéo.
 38:
   docs: Người tham gia giao thông là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
   term: Người tham gia giao thông
-  explain: người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
+  explain: |+
+    Người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
 39:
   docs: Xe ưu tiên là xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
   term: Xe ưu tiên
-  explain: xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
+  explain: |+
+    Xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
 40:
   docs: Mốc lộ giới là cọc mốc được đặt ở mép ngoài cùng xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
   term: Mốc lộ giới
-  explain: cọc mốc được đặt ở mép ngoài cùng xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
+  explain: |+
+    Cọc mốc được đặt ở mép ngoài cùng xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
 41:
   docs: Giá long môn là một dạng kết cấu ngang qua đường ở phía trên phần đường xe chạy.
   term: Giá long môn
-  explain: một dạng kết cấu ngang qua đường ở phía trên phần đường xe chạy.
+  explain: |+
+    Một dạng kết cấu ngang qua đường ở phía trên phần đường xe chạy.
 42:
   docs: Cột cần vươn là một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
   term: Cột cần vươn
-  explain: một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
+  explain: |+
+    Một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
 43:
   docs: Hàng nguy hiểm là hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
   term: Hàng nguy hiểm
-  explain: hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
+  explain: |+
+    Hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
 44:
   docs: Tốc độ vận hành là tốc độ mà người lái vận hành chiếc xe của mình.
   term: Tốc độ vận hành
-  explain: tốc độ mà người lái vận hành chiếc xe của mình.
+  explain: |+
+    Tốc độ mà người lái vận hành chiếc xe của mình.
 45:
   docs: Tốc độ thiết kế là tốc độ được lựa chọn để thiết kế các yếu tố cơ bản của đường trong các điều kiện khó khăn.
   term: Tốc độ thiết kế
-  explain: tốc độ được lựa chọn để thiết kế các yếu tố cơ bản của đường trong các điều kiện khó khăn.
+  explain: |+
+    Tốc độ được lựa chọn để thiết kế các yếu tố cơ bản của đường trong các điều kiện khó khăn.
 46:
   docs: Tốc độ suất tích lũy 85% (V85) là tốc độ vận hành mà ở đó 85% các lái xe  vận hành xe chạy từ tốc độ này trở xuống.
-  term: Tốc độ suất tích lũy 85% (V85)
-  explain: tốc độ vận hành mà ở đó 85% các lái xe  vận hành xe chạy từ tốc độ này trở xuống.
+  term: Tốc độ suất tích lũy 85%
+  aka: V85
+  explain: |+
+    Tốc độ vận hành mà ở đó 85% các lái xe  vận hành xe chạy từ tốc độ này trở xuống.
 47:
   docs: Tốc độ tối đa cho phép là tốc độ lớn nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ cao hơn.
   term: Tốc độ tối đa cho phép
-  explain: tốc độ lớn nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ cao hơn.
+  explain: |+
+    Tốc độ lớn nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ cao hơn.
 48:
   docs: Tốc độ tối thiểu cho phép là tốc độ nhỏ nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ nhỏ hơn khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
   term: Tốc độ tối thiểu cho phép
-  explain: tốc độ nhỏ nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ nhỏ hơn khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
+  explain: |+
+    Tốc độ nhỏ nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ nhỏ hơn khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
 49:
   docs: Tầm nhìn là khoảng cách đo dọc theo mặt đường tính từ mũi xe của một chiếc xe đang chạy đến một vật thể ở phía trước.
   term: Tầm nhìn
-  explain: khoảng cách đo dọc theo mặt đường tính từ mũi xe của một chiếc xe đang chạy đến một vật thể ở phía trước.
+  explain: |+
+    Khoảng cách đo dọc theo mặt đường tính từ mũi xe của một chiếc xe đang chạy đến một vật thể ở phía trước.
 50:
   docs: Tầm nhìn dừng xe an toàn là khoảng cách đo dọc theo đường tính từ mũi xe để một chiếc xe đang chạy có thể dừng lại an toàn trước một vật thể tĩnh bất ngờ xuất hiện trên cùng một làn đường ở phía trước.
   term: Tầm nhìn dừng xe an toàn
-  explain: khoảng cách đo dọc theo đường tính từ mũi xe để một chiếc xe đang chạy có thể dừng lại an toàn trước một vật thể tĩnh bất ngờ xuất hiện trên cùng một làn đường ở phía trước.
+  explain: |+
+    Khoảng cách đo dọc theo đường tính từ mũi xe để một chiếc xe đang chạy có thể dừng lại an toàn trước một vật thể tĩnh bất ngờ xuất hiện trên cùng một làn đường ở phía trước.
 51:
   docs: Tầm nhìn vượt xe an toàn là khoảng cách đo dọc theo mặt đường tính từ mũi xe để một chiếc xe đang chạy trên đường 2 làn xe hai chiều có thể vượt qua một chiếc xe khác chạy chậm hơn cùng chiều bằng cách chiếm dụng làn xe chạy phía chiều ngược lại và quay trở về làn cũ của mình một cách an toàn.
   term: Tầm nhìn vượt xe an toàn
-  explain: khoảng cách đo dọc theo mặt đường tính từ mũi xe để một chiếc xe đang chạy trên đường 2 làn xe hai chiều có thể vượt qua một chiếc xe khác chạy chậm hơn cùng chiều bằng cách chiếm dụng làn xe chạy phía chiều ngược lại và quay trở về làn cũ của mình một cách an toàn.
+  explain: |+
+    Khoảng cách đo dọc theo mặt đường tính từ mũi xe để một chiếc xe đang chạy trên đường 2 làn xe hai chiều có thể vượt qua một chiếc xe khác chạy chậm hơn cùng chiều bằng cách chiếm dụng làn xe chạy phía chiều ngược lại và quay trở về làn cũ của mình một cách an toàn.
 52:
   docs: Vượt xe là tình huống giao thông mà xe đi sau vượt xe đi trước; khi vượt, các xe phải vượt về bên trái (trừ các trường hợp được quy định trong Luật Giao thông đường bộ). Xe đi với tốc độ thấp hơn phải đi về bên phải, khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
   term: Vượt xe
-  explain: tình huống giao thông mà xe đi sau vượt xe đi trước; khi vượt, các xe phải vượt về bên trái (trừ các trường hợp được quy định trong Luật Giao thông đường bộ). Xe đi với tốc độ thấp hơn phải đi về bên phải, khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
+  explain: |+
+    Tình huống giao thông mà xe đi sau vượt xe đi trước; khi vượt, các xe phải vượt về bên trái (trừ các trường hợp được quy định trong Luật Giao thông đường bộ). Xe đi với tốc độ thấp hơn phải đi về bên phải, khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
 53:
   docs: Xe trên các làn chạy nhanh hơn nhau - Trên đường có từ hai làn xe cơ giới mỗi chiều trở lên (được phân biệt bằng vạch kẻ phân làn đường), người điều khiển phương tiện phải cho xe đi trong một làn đường. Khi lưu thông, phương tiện trên các làn khác nhau có thể chạy nhanh hơn nhau miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường và khi chuyển làn phải tuân thủ theo quy tắc giao thông đường bộ.
   term: Xe trên các làn chạy nhanh hơn nhau
-  explain: Trên đường có từ hai làn xe cơ giới mỗi chiều trở lên (được phân biệt bằng vạch kẻ phân làn đường), người điều khiển phương tiện phải cho xe đi trong một làn đường. Khi lưu thông, phương tiện trên các làn khác nhau có thể chạy nhanh hơn nhau miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường và khi chuyển làn phải tuân thủ theo quy tắc giao thông đường bộ.
+  explain: |+
+    Trên đường có từ hai làn xe cơ giới mỗi chiều trở lên (được phân biệt bằng vạch kẻ phân làn đường), người điều khiển phương tiện phải cho xe đi trong một làn đường. Khi lưu thông, phương tiện trên các làn khác nhau có thể chạy nhanh hơn nhau miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường và khi chuyển làn phải tuân thủ theo quy tắc giao thông đường bộ.
 54:
   docs: Nhường đường cho phương tiện khác là tình huống giao thông mà phương tiện nhường đường không tiếp tục di chuyển như hiện tại để phương tiện được nhường đường không phải chuyên hướng hoặc phải phanh đột ngột.
   term: Nhường đường cho phương tiện khác
-  explain: tình huống giao thông mà phương tiện nhường đường không tiếp tục di chuyển như hiện tại để phương tiện được nhường đường không phải chuyên hướng hoặc phải phanh đột ngột.
+  explain: |+
+    Tình huống giao thông mà phương tiện nhường đường không tiếp tục di chuyển như hiện tại để phương tiện được nhường đường không phải chuyên hướng hoặc phải phanh đột ngột.
 55:
   docs: Nút giao khác mức liên thông là nơi giao nhau của đường bộ bằng tổ hợp các công trình vượt hoặc chui và nhánh nối mà ở đó cho phép các phương tiện tham gia giao thông chuyển hướng đến đường ở các cao độ khác nhau.
   term: Nút giao khác mức liên thông
-  explain: nơi giao nhau của đường bộ bằng tổ hợp các công trình vượt hoặc chui và nhánh nối mà ở đó cho phép các phương tiện tham gia giao thông chuyển hướng đến đường ở các cao độ khác nhau.
+  explain: |+
+    Nơi giao nhau của đường bộ bằng tổ hợp các công trình vượt hoặc chui và nhánh nối mà ở đó cho phép các phương tiện tham gia giao thông chuyển hướng đến đường ở các cao độ khác nhau.
 56:
   docs: Nhánh nối là đường dùng để kết nối các hướng đường trong nút giao.
   term: Nhánh nối
-  explain: đường dùng để kết nối các hướng đường trong nút giao.
+  explain: |+
+    Đường dùng để kết nối các hướng đường trong nút giao.
 57:
   docs: Lối ra là nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
   term: Lối ra
-  explain: nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
+  explain: |+
+    Nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
 58:
   docs: Lối vào là nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
   term: Lối vào
-  explain: nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
+  explain: |+
+    Nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
