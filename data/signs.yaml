@@ -1,1270 +1,1269 @@
-signs:
-  P.101:
-    image: P101.svg
-    name: 'Đường cấm'
-  P.102:
-    image: P102.svg
-    name: 'Cấm đi ngược chiều'
-  P.103a:
-    image: P103a.svg
-    name: 'Cấm xe ôtô'
-  P.103b:
-    image: P103b.svg
-    name: 'Cấm xe ôtô rẽ phải'
-  P.103c:
-    image: P103c.svg
-    name: 'Cấm xe ôtô rẽ trái'
-  P.104:
-    image: P104.svg
-    name: 'Cấm xe máy'
-  P.105:
-    image: P105.svg
-    name: 'Cấm xe ôtô và xe máy'
-  P.106a:
-    image: P106a.svg
-    name: 'Cấm xe ôtô tải'
-  P.106b:
-    image: P106b.svg
-    name: 'Cấm xe ôtô tải trên XX tấn'
-  P.106c:
-    image: P106c.svg
-    name: 'Cấm các xe chở hàng nguy hiểm'
-  P.107:
-    image: P107.svg
-    name: 'Cấm xe ôtô khách và xe ôtô tải'
-  P.107a:
-    image: P107a.svg
-    name: 'Cấm xe ôtô khách'
-  P.107b:
-    image: P107b.svg
-    name: 'Cấm xe ôtô taxi'
-  P.108:
-    image: P108.svg
-    name: 'Cấm xe kéo rơ-moóc'
-  P.108a:
-    image: P108a.svg
-    name: 'Cấm xe sơ-mi rơ-moóc'
-  P.109:
-    image: P109.svg
-    name: 'Cấm máy kéo'
-  P.110a:
-    image: P110a.svg
-    name: 'Cấm xe đạp'
-  P.110b:
-    image: P110b.svg
-    name: 'Cấm xe đạp thồ'
-  P.111a:
-    image: P111a.svg
-    name: 'Cấm xe gắn máy'
-  P.111b:
-    image: P111b.svg
-    name: 'Cấm xe ba bánh loại có động cơ'
-    including: Xe lam, xe xích lô máy, xe lôi máy
-  P.111c:
-    image: P111c.svg
-    name: 'Cấm xe ba bánh loại có động cơ'
-    including: Xe lam, xe xích lô máy, xe lôi máy
-  P.111d:
-    image: P111d.svg
-    name: 'Cấm xe ba bánh loại không có động cơ (xe xích lô đạp, xe lôi đạp)'
-  P.112:
-    image: P112.svg
-    name: 'Cấm người đi bộ'
-  P.113:
-    image: P113.svg
-    name: 'Cấm xe người kéo, đẩy'
-  P.114:
-    image: P114.svg
-    name: 'Cấm xe súc vật kéo'
-  P.115:
-    image: P115.svg
-    name: 'Hạn chế trọng tải toàn bộ xe'
-  P.116:
-    image: P116.svg
-    name: 'Hạn chế tải trọng trên trục xe'
-  P.117:
-    image: P117.svg
-    name: 'Hạn chế chiều cao xe'
-  P.118:
-    image: P118.svg
-    name: 'Hạn chế chiều ngang xe'
-  P.119:
-    image: P119.svg
-    name: 'Hạn chế chiều dài xe'
-  P.120:
-    image: P120.svg
-    name: 'Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc'
-  P.121:
-    image: P121.svg
-    name: 'Cự ly tối thiểu giữa hai xe'
-  P.123a:
-    image: P123a.svg
-    name: 'Cấm rẽ trái'
-  P.123b:
-    image: P123b.svg
-    name: 'Cấm rẽ phải'
-  P.124a1:
-    image: P124a1.svg
-    name: 'Cấm quay đầu xe (trái)'
-  P.124a2:
-    image: P124a2.svg
-    name: 'Cấm quay đầu xe (phải)'
-  P.124b1:
-    image: P124b1.svg
-    name: 'Cấm ô tô quay đầu xe (trái)'
-  P.124b2:
-    image: P124b2.svg
-    name: 'Cấm ô tô quay đầu xe (phải)'
-  P.124c:
-    image: P124c.svg
-    name: 'Cấm rẽ trái và quay đầu xe'
-  P.124d:
-    image: P124d.svg
-    name: 'Cấm rẽ phải và quay đầu xe'
-  P.124e:
-    image: P124e.svg
-    name: 'Cấm ô tô rẽ trái và quay đầu xe'
-  P.124f:
-    image: P124f.svg
-    name: 'Cấm ô tô rẽ phải và quay đầu xe'
-  P.125:
-    image: P125.svg
-    name: 'Cấm vượt'
-  P.126:
-    image: P126.svg
-    name: 'Cấm xe ôtô tải vượt'
-  P.127-20:
-    image: P127-20.svg
-    name: 'Tốc độ tối đa cho phép 20 km/h'
-  P.127-30:
-    image: P127-30.svg
-    name: 'Tốc độ tối đa cho phép 30 km/h'
-  P.127-40:
-    image: P127-40.svg
-    name: 'Tốc độ tối đa cho phép 40 km/h'
-  P.127-50:
-    image: P127-50.svg
-    name: 'Tốc độ tối đa cho phép 50 km/h'
-  P.127-60:
-    image: P127-60.svg
-    name: 'Tốc độ tối đa cho phép 60 km/h'
-  P.127-70:
-    image: P127-70.svg
-    name: 'Tốc độ tối đa cho phép 70 km/h'
-  P.127-80:
-    image: P127-80.svg
-    name: 'Tốc độ tối đa cho phép 80 km/h'
-  P.127-90:
-    image: P127-90.svg
-    name: 'Tốc độ tối đa cho phép 90 km/h'
-  P.127a:
-    image: P127a.svg
-    name: 'Tốc độ tối đa cho phép về ban đêm'
-  P.127b:
-    image: P127b.svg
-    name: 'Biển ghép tốc độ tối đa cho phép trên từng làn đường'
-  P.127c:
-    image: P127c.svg
-    name: 'Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường'
-  DP.127a:
-    image: DP127a.svg
-    name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🤯'
-  DP.127b:
-    image: DP127b.svg
-    name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127b'
-  DP.127c:
-    name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127c'
-    image: DP127c.png
-  P.128:
-    image: P128.svg
-    name: 'Cấm sử dụng còi'
-  P.129:
-    image: P129.svg
-    name: 'Kiểm tra'
-  P.130:
-    image: P130.svg
-    name: 'Cấm dừng xe và đỗ xe'
-  P.131a:
-    image: P131a.svg
-    name: 'Cấm đỗ xe'
-  P.131b:
-    image: P131b.svg
-    name: 'Cấm đỗ xe ngày lẻ'
-  P.131c:
-    image: P131c.svg
-    name: 'Cấm đỗ xe ngày chẵn'
-  P.132:
-    image: P132.svg
-    name: 'Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp'
-  DP.133:
-    image: DP133.svg
-    name: 'Hết cấm vượt'
-  DP.134:
-    image: DP134.svg
-    name: 'Hết tốc độ tối đa cho phép'
-  DP.135:
-    image: DP135.svg
-    name: 'Hết tất cả các lệnh cấm'
-  P.136:
-    image: P136.svg
-    name: 'Cấm đi thẳng'
-  P.137:
-    image: P137.svg
-    name: 'Cấm rẽ trái, rẽ phải'
-  P.138:
-    image: P138.svg
-    name: 'Cấm đi thẳng, rẽ trái'
-  P.139:
-    image: P139.svg
-    name: 'Cấm đi thẳng, rẽ phải'
-  P.140:
-    image: P140.svg
-    name: 'Cấm xe công nông và các loại xe tương tự.'
-  W.201a:
-    image: W201a.svg
-    name: 'Chỗ ngoặt nguy hiểm (vòng bên trái)'
-  W.201b:
-    image: W201b.svg
-    name: 'Chỗ ngoặt nguy hiểm (vòng bên phải)'
-  W.201c:
-    image: W201c.svg
-    name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên phải)'
-  W.201d:
-    image: W201d.svg
-    name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên trái)'
-  W.202a:
-    image: W202a.svg
-    name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)'
-  W.202b:
-    image: W202b.svg
-    name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)'
-  W.203a:
-    image: W203a.svg
-    name: 'Đường bị thu hẹp (cả 2 bên)'
-  W.203b:
-    image: W203b.svg
-    name: 'Đường bị thu hẹp (bên trái)'
-  W.203c:
-    image: W203c.svg
-    name: 'Đường bị thu hẹp (bên phải)'
-  W.204:
-    image: W204.svg
-    name: 'Đường hai chiều'
-  W.205a:
-    image: W205a.svg
-    name: 'Giao nhau với đường cùng cấp'
-  W.205b:
-    image: W205b.svg
-    name: 'Giao nhau với đường cùng cấp'
-  W.205c:
-    image: W205c.svg
-    name: 'Giao nhau với đường cùng cấp'
-  W.205d:
-    image: W205d.svg
-    name: 'Giao nhau với đường cùng cấp'
-  W.205e:
-    image: W205e.svg
-    name: 'Giao nhau với đường cùng cấp'
-  W.206:
-    image: W206.svg
-    name: 'Giao nhau chạy theo vòng xuyến'
-  W.207a:
-    image: W207a.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207b:
-    image: W207b.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207c:
-    image: W207c.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207d:
-    image: W207d.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207e:
-    image: W207e.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207f:
-    image: W207f.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207g:
-    image: W207g.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207h:
-    image: W207h.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207i:
-    image: W207i.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207k:
-    image: W207k.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.207l:
-    image: W207l.svg
-    name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
-  W.208:
-    image: W208.svg
-    name: 'Giao nhau với đường ưu tiên (đường chính)'
-    similar: [W.247]
-  W.209:
-    image: W209.svg
-    name: 'Giao nhau có tín hiệu đèn'
-  W.210:
-    image: W210.svg
-    name: 'Giao nhau với đường sắt có rào chắn'
-  W.211a:
-    image: W211a.svg
-    name: 'Giao nhau với đường sắt không có rào chắn'
-    related: [W.242a, W.242b]
-  W.211b:
-    image: W211b.svg
-    name: 'Giao nhau với đường tàu điện'
-  W.212:
-    image: W212.svg
-    name: 'Cầu hẹp'
-  W.213:
-    image: W213.svg
-    name: 'Cầu tạm'
-  W.214:
-    image: W214.svg
-    name: 'Cầu quay (cầu cất)'
-  W.215a:
-    image: W215a.svg
-    name: '(Kè,) vực sâu phía trước'
-  W.215b:
-    image: W215b.svg
-    name: '(Kè,) vực sâu bên đường (phía bên phải)'
-  W.215c:
-    image: W215c.svg
-    name: '(Kè,) vực sâu bên đường (phía bên trái)'
-  W.216a:
-    image: W216a.svg
-    name: 'Đường ngầm'
-  W.216b:
-    image: W216b.svg
-    name: 'Đường ngầm có nguy cơ lũ quét'
-  W.217:
-    image: W217.svg
-    name: 'Bến phà'
-  W.218:
-    image: W218.svg
-    name: 'Cửa chui'
-  W.219:
-    image: W219.svg
-    name: 'Dốc xuống nguy hiểm'
-    related: [S.501]
-  W.220:
-    image: W220.svg
-    name: 'Dốc lên nguy hiểm'
-    related: [S.501]
-  W.221a:
-    image: W221a.svg
-    name: 'Đường lồi lõm'
-  W.221b:
-    image: W221b.svg
-    name: 'Đường có gờ giảm tốc'
-  W.222a:
-    image: W222a.svg
-    name: 'Đường trơn'
-  W.222b:
-    image: W222b.svg
-    name: 'Lề đường nguy hiểm'
-  W.223a:
-    image: W223a.svg
-    name: 'Vách núi nguy hiểm (bên trái)'
-  W.223b:
-    image: W223b.svg
-    name: 'Vách núi nguy hiểm (bên phải)'
-  W.224:
-    image: W224.svg
-    name: '(Đường) người đi bộ (cắt ngang)'
-  W.225:
-    image: W225.svg
-    name: 'Trẻ em'
-    related: [S.501]
-  W.226:
-    image: W226.svg
-    name: '(Đường) người đi xe đạp (cắt ngang)'
-  W.227:
-    image: W227.svg
-    name: 'Công trường'
-  W.228a:
-    image: W228a.svg
-    name: 'Đá lở (bên trái)'
-    related: [S.501]
-  W.228b:
-    image: W228b.svg
-    name: 'Đá lở (bên phải)'
-    related: [S.501]
-  W.228c:
-    image: W228c.svg
-    name: 'Sỏi đá bắn lên'
-  W.228d:
-    image: W228d.svg
-    name: 'Nền đường yếu'
-  W.229:
-    image: W229.svg
-    name: '(Dải) máy bay (lên xuống)'
-  W.230:
-    image: W230.svg
-    name: 'Gia súc'
-  W.231:
-    image: W231.svg
-    name: 'Thú rừng (vượt qua đường)'
-    related: [S.501]
-  W.232:
-    image: W232.svg
-    name: 'Gió ngang'
-  W.233:
-    image: W233.svg
-    name: 'Nguy hiểm khác'
-  W.234:
-    image: W234.svg
-    name: 'Giao nhau với đường hai chiều'
-  W.235:
-    image: W235.svg
-    name: 'Đường đôi (2 chiều phân biêt bằng dải phân cách cứng)'
-    similar: [W.246a, W.246b, W.246c]
-  W.236:
-    image: W236.svg
-    name: 'Kết thúc đường đôi'
-  W.237:
-    image: W237.svg
-    name: 'Cầu vồng'
-  W.238:
-    image: W238.svg
-    name: 'Đường cao tốc (phía trước)'
-  W.239a:
-    image: W239a.svg
-    name: 'Đường cáp điện (ở phía trên)'
-  W.239b:
-    name: 'Chiều cao tĩnh không thực tế'
-    image: W239b.png
-  W.240:
-    image: W240.svg
-    name: 'Đường hầm'
-  W.241:
-    image: W241.svg
-    name: 'Ùn tắc giao thông'
-  W.242a:
-    image: W242a.svg
-    name: '(Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray)'
-    related: [W.211a]
-  W.242b:
-    image: W242b.svg
-    name: '(Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray)'
-    related: [W.211a]
-  W.243a:
-    image: W243a.svg
-    name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m)'
-    related: [W.211a]
-  W.243b:
-    image: W243b.svg
-    name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m)'
-    related: [W.211a]
-  W.243c:
-    image: W243c.svg
-    name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m)'
-    related: [W.211a]
-  W.244:
-    image: W244.svg
-    name: 'Đoạn đường hay xảy ra tai nạn'
-  W.245a:
-    image: W245a.svg
-    name: 'Đi chậm'
-  W.245b:
-    image: W245b.svg
-    name: 'Đi chậm (có chỉ dẫn tiếng Anh)'
-  W.246a:
-    image: W246a.svg
-    name: '(Chú ý) chướng ngại vật - Vòng tránh sang 2 bên'
-    similar: [W.235]
-  W.246b:
-    image: W246b.svg
-    name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên trái'
-    similar: [W.235]
-  W.246c:
-    image: W246c.svg
-    name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên phải'
-    similar: [W.235]
-  W.247:
-    image: W247.svg
-    name: '(Chú ý) xe đỗ'
-    similar: [W.208]
-  R.122:
-    image: R122.svg
-    name: 'Dừng lại'
-  R.301:
-    name: 'Hướng đi phải theo'
-    image: R301a.svg
-  R.301a:
-    image: R301a.svg
-    name: '(Các xe) chỉ được đi thẳng'
-  R.301b:
-    image: R301b.svg
-    name: '(Các xe) chỉ được đi ngang qua phải'
-    note: Đặt sau nơi đường giao nhau
-  R.301c:
-    image: R301c.svg
-    name: '(Các xe) chỉ được đi ngang qua trái'
-    note: Đặt sau nơi đường giao nhau
-  R.301d:
-    name: '(Các xe) chỉ được rẽ phải'
-    note: Đặt trước nơi đường giao nhau
-    image: R301d.png
-  R.301e:
-    name: '(Các xe) chỉ được rẽ trái'
-    note: Đặt trước nơi đường giao nhau
-    image: R301e.png
-  R.301f:
-    name: '(Các xe) chỉ được đi thẳng và rẽ phải'
-    note: Đặt trước nơi đường giao nhau
-    image: R301f.png
-  R.301g:
-    name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
-    note: Đặt trước nơi đường giao nhau
-    similar: [R.411]
-    image: R301g.png
-  R.301h:
-    image: R301h.svg
-    name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu)'
-    note: Đặt sau nơi đường giao nhau
-    similar: [R.411]
-  R.302a:
-    image: R302a.svg
-    name: 'Hướng phải đi vòng chướng ngại vật (vòng sang phải)'
-    related: [P.102]
-  R.302b:
-    image: R302b.svg
-    name: 'Hướng phải đi vòng chướng ngại vật (vòng sang trái)'
-    related: [P.102]
-  R.302c:
-    image: R302c.svg
-    name: 'Hướng phải đi vòng chướng ngại vật (vòng sang trái hoặc phải)'
-  R.303:
-    image: R303.svg
-    name: 'Nơi giao nhau chạy theo vòng xuyến'
-  R.304:
-    image: R304.svg
-    name: 'Đường dành cho xe thô sơ'
-  R.305:
-    image: R305.svg
-    name: 'Đường dành cho người đi bộ'
-  R.306:
-    image: R306.svg
-    name: 'Tốc độ tối thiểu (cho phép)'
-  R.307:
-    image: R307.svg
-    name: 'Hết tốc độ tối thiểu'
-  R.308a:
-    image: R308a.svg
-    name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ trái'
-  R.308b:
-    image: R308b.svg
-    name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ phải'
-  R.309:
-    image: R309.svg
-    name: 'Ấn còi'
-  R.310a:
-    image: R310a.svg
-    name: 'Xe chở hàng nguy hiểm chỉ được rẽ trái'
-  R.310b:
-    image: R310b.svg
-    name: 'Xe chở hàng nguy hiểm chỉ được đi thẳng'
-  R.310c:
-    image: R310c.svg
-    name: 'Xe chở hàng nguy hiểm chỉ được rẽ phải'
-  R.403a:
-    image: R403a.svg
-    name: 'Đường dành cho xe ôtô'
-  R.403b:
-    image: R403b.svg
-    name: 'Đường dành cho xe ôtô, xe máy'
-  R.403c:
-    name: 'Đường dành cho xe buýt 🔍'
-    image: R403c.png
-  R.403d:
-    name: 'Đường dành cho xe ôtô con 🔍'
-    image: R403d.png
-  R.403e:
-    image: R403e.svg
-    name: 'Đường dành cho xe máy'
-  R.403f:
-    name: 'Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍'
-    image: R403f.png
-  R.404a:
-    name: 'Hết đoạn đường dành cho xe ôtô'
-    image: R404a.png
-  R.404b:
-    name: 'Hết đoạn đường dành cho xe ôtô, xe máy'
-    image: R404b.png
-  R.404c:
-    name: 'Hết đoạn đường dành cho xe buýt'
-    image: R404c.png
-  R.404d:
-    name: 'Hết đoạn đường dành cho xe ôtô con'
-    image: R404d.png
-  R.404e:
-    name: 'Hết đoạn đường dành cho xe máy'
-    image: R404e.png
-  R.404f:
-    name: 'Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)'
-    image: R404f.png
-  R.411:
-    name: 'Hướng đi trên mỗi làn đường phải theo'
-    similar: [R.301g, R.301h]
-    image: R411.png
-  R.412:
-    name: 'Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)'
-    image: R412.png
-  R.412a:
-    name: 'Làn đường dành cho xe ôtô khách'
-    image: R412a.png
-  R.412b:
-    name: 'Làn đường dành cho xe ôtô con'
-    note: 🪤
-    image: R412b.png
-  R.412c:
-    name: 'Làn đường dành cho xe ôtô tải'
-    image: R412c.png
-  R.412d:
-    name: 'Làn đường dành cho xe máy'
-    image: R412d.png
-  R.412e:
-    name: 'Làn đường dành cho xe buýt'
-    image: R412e.png
-  R.412f:
-    name: 'Làn đường dành cho xe ôtô'
-    note: 🪤
-    image: R412f.png
-  R.412g:
-    name: 'Làn đường dành cho xe máy và xe đạp'
-    image: R412g.png
-  R.412h:
-    name: 'Làn đường dành cho xe đạp'
-    image: R412h.png
-  R.412i:
-    name: 'Kết thúc làn đường dành cho xe ôtô khách'
-    image: R412i.jpeg
-  R.412j:
-    name: 'Kết thúc làn đường dành cho xe ôtô con'
-    image: R412j.jpeg
-  R.412k:
-    name: 'Kết thúc làn đường dành cho xe ôtô tải'
-    image: R412k.jpeg
-  R.412l:
-    name: 'Kết thúc làn đường dành cho xe máy'
-    image: R412l.jpeg
-  R.412m:
-    name: 'Kết thúc làn đường dành cho xe buýt'
-    image: R412m.jpeg
-  R.412n:
-    name: 'Kết thúc làn đường dành cho xe ôtô'
-    image: R412n.jpeg
-  R.412o:
-    name: 'Kết thúc làn đường dành cho xe máy và xe đạp'
-    image: R412o.jpeg
-  R.412p:
-    name: 'Kết thúc làn đường dành cho xe đạp'
-    image: R412p.jpeg
-  R.415a:
-    image: R415a.svg
-    name: 'Gộp làn đường theo phương tiện'
-  R.415b:
-    name: 'Kết thúc làn đường theo phương tiện'
-    image: R415b.jpeg
-  R.420:
-    image: R420.svg
-    name: 'Bắt đầu khu đông dân cư'
-  R.421:
-    image: R421.svg
-    name: 'Hết khu đông dân cư'
-  R.E,9a:
-    name: 'Cấm đỗ xe trong khu vực'
-    image: RE9a.jpeg
-  R.E,9b:
-    name: 'Cấm đỗ xe theo giờ trong khu vực'
-    image: RE9b.jpeg
-  R.E,9c:
-    name: 'Khu vực đỗ xe'
-    image: RE9c.jpeg
-  R.E,9d:
-    name: 'Tốc độ tối đa trong khu vực'
-    image: RE9d.jpeg
-  R.E,10a:
-    name: 'Hết cấm đỗ xe trong khu vực'
-    image: RE10a.jpeg
-  R.E,10b:
-    name: 'Hết cấm đỗ xe theo giờ trong khu vực'
-    image: RE10b.jpeg
-  R.E,10c:
-    name: 'Hết khu vực đỗ xe'
-    image: RE10c.jpeg
-  R.E,10d:
-    name: 'Hết tốc độ tối đa trong khu vực'
-    image: RE10d.jpeg
-  R.E,11a:
-    name: 'Đường hầm'
-    image: RE11a.jpeg
-  R.E,11b:
-    name: 'Kết thúc đường hầm.'
-    image: RE11b.jpeg
-  I.401:
-    image: I401.svg
-    name: 'Bắt đầu đường ưu tiên'
-  I.402:
-    image: I402.svg
-    name: 'Hết đoạn đường ưu tiên'
-  I.405a:
-    image: I405a.svg
-    name: 'Đường cụt (ở lối rẽ phải)'
-  I.405b:
-    image: I405b.svg
-    name: 'Đường cụt (ở lối rẽ trái)'
-  I.405c:
-    image: I405c.svg
-    name: 'Đường cụt (phía trước)'
-  I.406:
-    image: I406.svg
-    name: 'Được ưu tiên qua đường hẹp'
-    related: [P.132]
-  I.407a:
-    image: I407a.svg
-    name: 'Đường một chiều'
-    note: Đặt sau nơi đường giao nhau
-    related: [R.302, W.204]
-  I.407b:
-    image: I407b.svg
-    name: 'Đường một chiều'
-    note: Đặt trước nơi đường giao nhau
-    related: [R.302, W.204]
-  I.407c:
-    image: I407c.svg
-    name: 'Đường một chiều'
-    note: Đặt trước nơi đường giao nhau
-    related: [R.302, W.204]
-  I.408:
-    image: I408.svg
-    name: 'Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)'
-  I.408a:
-    image: I408a.svg
-    name: 'Nơi đỗ xe một phần trên hè phố'
-  I.409:
-    image: I409.svg
-    name: 'Chỗ quay xe'
-    related: [S.502]
-  I.410:
-    image: I410.svg
-    name: 'Khu vực quay xe'
-    related: [S.502]
-  I.413a:
-    image: I413a.svg
-    name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại)'
-    note: Đặt ở đầu đường 1 chiều
-  I.413b:
-    image: I413b.svg
-    name: 'Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
-  I.413c:
-    image: I413c.svg
-    name: 'Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
-  I.414:
-    name: 'Chỉ hướng đường (đến địa danh, khu dân cư)'
-    image: I414a.jpeg
-  I.414a:
-    name: 'Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
-    image: I414a.jpeg
-  I.414b:
-    name: 'Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
-    image: I414b.jpeg
-  I.414c:
-    name: 'Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
-    image: I414c.jpeg
-  I.414d:
-    name: 'Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
-    image: I414d.jpeg
-  I.415:
-    name: 'Mũi tên chỉ hướng đi (đến địa danh tiếp theo)'
-    image: I415.jpeg
-  I.416:
-    image: I416.svg
-    name: 'Đường tránh (do phía trước có đường cấm)'
-  I.417a:
-    name: 'Chỉ hướng đường phải đi cho từng loại xe'
-    image: I417a.jpeg
-  I.417b:
-    name: 'Chỉ hướng đường phải đi cho từng loại xe'
-    image: I417b.jpeg
-  I.418:
-    image: I418.svg
-    name: 'Lối đi ở những vị trí cấm rẽ'
-  I.419a:
-    image: I419a.svg
-    name: 'Chỉ dẫn địa giới'
-  I.419b:
-    image: I419b.svg
-    name: 'Chỉ dẫn địa giới (trên tuyến đường đối ngoại)'
-  I.422a:
-    image: I422a.svg
-    name: 'Di tích lịch sử'
-  I.422b:
-    image: I422b.svg
-    name: 'Di tích lịch sử (trên tuyến đường đối ngoại)'
-  I.423a:
-    image: I423a.svg
-    name: 'Vị trí người đi bộ sang ngang'
-    related: [W.224, R.305]
-  I.423b:
-    image: I423b.svg
-    name: 'Vị trí người đi bộ sang ngang'
-    related: [W.224, R.305]
-  I.423c:
-    image: I423c.svg
-    name: 'Điểm bắt đầu đường đi bộ'
-  I.424a:
-    name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
-    image: I424a.jpeg
-  I.424b:
-    name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
-    image: I424b.jpeg
-  I.424c:
-    name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
-    image: I424c.jpeg
-  I.424d:
-    name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
-    image: I424d.jpeg
-  I.425:
-    image: I425.svg
-    name: 'Bệnh viện'
-  I.426:
-    image: I426.svg
-    name: 'Trạm cấp cứu'
-  I.427a:
-    image: I427a.svg
-    name: 'Trạm sửa chữa'
-  I.427b:
-    image: I427b.svg
-    name: 'Trạm kiểm tra tải trọng (KTTT) xe'
-  I.428:
-    image: I428.svg
-    name: 'Trạm xăng dầu'
-  I.429:
-    image: I429.svg
-    name: 'Trạm rửa xe'
-  I.430:
-    image: I430.svg
-    name: 'Điện thoại'
-  I.431:
-    image: I431.svg
-    name: 'Trạm dừng nghỉ'
-  I.432:
-    image: I432.svg
-    name: 'Khách sạn'
-  I.433a:
-    name: 'Nơi nghỉ mát'
-    image: I433a.jpeg
-  I.433b:
-    name: 'Nơi cắm trại'
-    image: I433b.jpeg
-  I.433c:
-    name: 'Nhà nghỉ lưu động'
-    image: I433c.jpeg
-  I.433d:
-    name: 'Nơi cắm trại, nhà nghỉ lưu động'
-    image: I433d.jpeg
-  I.433e:
-    name: 'Nhà trọ'
-    image: I433e.jpeg
-  I.434a:
-    image: I434a.svg
-    name: 'Bến xe buýt'
-    similar: [Hình xe khách]
-  I.434b:
-    image: I434b.svg
-    name: 'Bến xe tải'
-  I.435:
-    image: I435.svg
-    name: 'Bến xe điện'
-  I.436:
-    image: I436.svg
-    name: 'Trạm cảnh sát giao thông (CSGT)'
-  I.437:
-    name: '(Bắt đầu) đường cao tốc'
-    image: I437.jpeg
-  I.439:
-    image: I439.svg
-    name: 'Tên cầu (lý trình và tên đường)'
-  I.440:
-    image: I440.svg
-    name: 'Đoạn đường (đang) thi công'
-  I.441a:
-    image: I441a.svg
-    name: 'Phía trước (500m) có công trường (đang) thi công'
-  I.441b:
-    image: I441b.svg
-    name: 'Phía trước (100m) có công trường (đang) thi công'
-  I.441c:
-    image: I441c.svg
-    name: 'Phía trước (50m) có công trường (đang) thi công'
-  I.442:
-    image: I442.svg
-    name: 'Chợ'
-  I.443:
-    image: I443.svg
-    name: 'Xe kéo rơ-moóc'
-  I.444a:
-    image: I444a.svg
-    name: '(Đường vào) ga tàu'
-  I.444b:
-    image: I444b.svg
-    name: '(Đường vào) sân bay'
-  I.444c:
-    image: I444c.svg
-    name: '(Đường vào) bãi đổ xe'
-  I.444d:
-    name: '(Đường vào) bến xe khách'
-    similar: [Bus station]
-    image: I444d.jpeg
-  I.444e:
-    name: '(Đường vào) trạm cấp cứu'
-    image: I444e.jpeg
-  I.444f:
-    name: '(Đường vào) bến tàu thủy'
-    image: I444f.jpeg
-  I.444g:
-    name: '(Đường vào) danh lam thắng cảnh, khu du lịch'
-    image: I444g.jpeg
-  I.444h:
-    name: '(Đường vào) trạm xăng dầu'
-    image: I444h.jpeg
-  I.444i:
-    name: '(Đường vào) trạm rửa xe'
-    image: I444i.jpeg
-  I.444j:
-    name: '(Đường vào) bến phà'
-    image: I444j.jpeg
-  I.444k:
-    name: '(Đường vào) ga tàu điện ngầm'
-    image: I444k.jpeg
-  I.444l:
-    name: '(Đường vào) nhà hàng ăn uống'
-    image: I444l.jpeg
-  I.444m:
-    name: '(Đường vào) trạm sửa chữa ôtô'
-    image: I444m.jpeg
-  I.445a:
-    image: I445a.svg
-    name: 'Đường trơn (chạy chậm)'
-  I.445b:
-    image: I445b.svg
-    name: 'Đường dốc (chạy chậm)'
-  I.445c:
-    image: I445c.svg
-    name: 'Đường nhiều sương mù'
-  I.445d:
-    image: I445d.svg
-    name: 'Nền đường yếu'
-  I.445e:
-    image: I445e.svg
-    name: 'Xe lớn đi sát về bên phải'
-  I.445f:
-    image: I445f.svg
-    name: 'Gió giang'
-  I.445g:
-    image: I445g.svg
-    name: 'Đường hay xảy ra tai nạn'
-  I.445h:
-    image: I445h.svg
-    name: 'Xuống dốc liên tục'
-  I.446:
-    image: I446.svg
-    name: 'Nơi đỗ xe dành cho người khuyết tật'
-    related: [P.131a, I.408]
-  I.447a:
-    name: 'Cầu vượt liên thông'
-    related: [R.308, I414c, d]
-    image: I447a.jpeg
-  I.447b:
-    name: 'Cầu vượt liên thông'
-    related: [R.308, I414c, d]
-    image: I447b.jpeg
-  I.447c:
-    name: 'Cầu vượt liên thông'
-    related: [R.308, I414c, d]
-    image: I447c.jpeg
-  I.447d:
-    name: 'Cầu vượt liên thông'
-    related: [R.308, I414c, d]
-    image: I447d.jpeg
-  I.448:
-    name: 'Đường cứu nạn (làn thoát xe khẩn cấp)'
-    image: I448a.png
-  I.448a:
-    name: 'Đường cứu nạn (cách 2km)'
-    image: I448a.png
-  I.448b:
-    name: 'Đường cứu nạn (cách 1km)'
-    image: I448b.png
-  I.448c:
-    name: 'Đường cứu nạn (cách 300m)'
-    image: I448c.png
-  I.448d:
-    name: 'Đường cứu nạn'
-    image: I448d.jpeg
-  I.449:
-    image: I449.svg
-    name: 'Biển tên đường (tuyến đường đối ngoại)'
-  IE.450a:
-    image: IE450a.svg
-    name: 'Sơ đồ và khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
-  IE.450b:
-    image: IE450b.svg
-    name: 'Sơ đồ đến nút giao với đường dẫn vào đường cao tốc'
-  IE.451a:
-    image: IE451a.svg
-    name: 'Khoảng cách đến lối vào đường cao tốc'
-  IE.451b:
-    image: IE451b.svg
-    name: 'Lối vào đường cao tốc'
-  IE.452:
-    image: IE452.svg
-    name: 'Bắt đầu đường cao tốc'
-  IE.452b:
-    name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
-    image: IE452b.png
-  IE.452c:
-    name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
-    image: IE452c.png
-  IE.453a:
-    image: IE453a.svg
-    name: 'Khoảng cách đến điểm kết thúc đường cao tốc'
-  IE.453b:
-    image: IE453b.svg
-    name: 'Điểm kết thúc đường cao tốc'
-    similar: [IE.453c]
-  IE.453c:
-    image: IE453c.svg
-    name: 'Hết đường cao tốc'
-    similar: [IE.453b]
-  IE.454a:
-    image: IE454a.svg
-    name: 'Lối ra phía trước (cách 2km)'
-  IE.454b:
-    name: 'Lối ra phía trước (cách 1km)'
-    related: [IE.464b]
-    image: IE454b.png
-  IE.455:
-    name: 'Khoảng cách đến các lối ra tiếp theo'
-    image: IE455a.svg
-  IE.455a:
-    image: IE455a.svg
-    name: 'Khoảng cách đến 2 lối ra tiếp theo'
-  IE.455b:
-    name: 'Khoảng cách đến 3 lối ra tiếp theo'
-    image: IE455b.jpg
-  IE.456a:
-    image: IE456a.svg
-    name: '[Trạm dừng nghỉ] Khoảng cách'
-  IE.456b:
-    image: IE456b.svg
-    name: '[Trạm dừng nghỉ] Hường đường (cách nút giao 150m)'
-  IE.456c:
-    image: IE456c.svg
-    name: '[Trạm dừng nghỉ] Hướng đi (Lối vào)'
-  IE.457a:
-    image: IE457a.svg
-    name: '[Nơi đỗ xe trong trạm dừng nghỉ] Khoảng cách'
-  IE.457b:
-    image: IE457b.svg
-    name: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
-  IE.458:
-    image: IE458.svg
-    name: 'Khoảng cách đến các trạm dừng nghỉ tiếp theo'
-    note: Đặt ngay sau khi ra khỏi trạm dừng nghỉ
-  IE.459a:
-    image: IE459a.svg
-    name: '[Khu tham quan, du lịch] Khoảng cách'
-  IE.459b:
-    image: IE459b.svg
-    name: '[Khu tham quan, du lịch] Hướng đường'
-  IE.460a:
-    image: IE460a.svg
-    name: 'Cột (lý trình) kilômét'
-  IE.460b:
-    image: IE460b.svg
-    name: 'Cột (lý trình) kilômét'
-  IE.460c:
-    image: IE460c.svg
-    name: 'Cột (lý trình) kilômét'
-  IE.461a:
-    image: IE461a.svg
-    name: '[Khu dịch vụ công cộng, giải trí] Khoảng cách'
-  IE.461b:
-    image: IE461b.svg
-    name: '[Khu dịch vụ công cộng, giải trí] Hướng đường'
-  IE.461c:
-    image: IE461c.svg
-    name: '[Khu dịch vụ công cộng] Hướng đi (Lối vào)'
-  IE.461d:
-    image: IE461d.svg
-    name: '[Khu giải trí] Hướng đi (Lối vào)'
-  IE.462:
-    image: IE462.svg
-    name: 'Tần số sóng radio (về thông tin giao thông, thời tiết)'
-  IE.463a:
-    image: IE463a.svg
-    name: '[Trạm kiểm tra tải trọng xe] Khoảng cách'
-  IE.463b:
-    image: IE463b.svg
-    name: '[Trạm kiểm tra tải trọng xe] Hướng đường'
-  IE.463c:
-    image: IE463c.svg
-    name: '[Trạm kiểm tra tải trọng xe] Hướng đi (Lối vào)'
-  IE.464a:
-    image: IE464a.svg
-    name: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều]'
-    note: Đặt ở trước khu vực lối ra
-  IE.464b:
-    image: IE464b.svg
-    name: '[Địa điểm và phương hướng - Hướng ra]'
-    note: Đặt ở đường ra khỏi đường cao tốc
-  IE.465a:
-    image: IE465a.svg
-    name: '[Địa điểm và khoảng cách] 2 địa điểm'
-  IE.465b:
-    name: '[Địa điểm và khoảng cách] 3 địa điểm'
-    image: IE465b.jpg
-  IE.466:
-    image: IE466.svg
-    name: 'Sơ đồ lối ra một chiều'
-  IE.467a:
-    image: IE467a.svg
-    name: 'Nhập làn'
-    related: [W.207g, W238]
-  IE.467b:
-    image: IE467b.svg
-    name: 'Nhập làn (cách 250m)'
-    related: [W.207g, W238]
-  IE.468a:
-    image: IE468a.svg
-    name: '[Chướng ngại vật] Đi hướng bên trái'
-  IE.468b:
-    image: IE468b.svg
-    name: '[Chướng ngại vật] Đi hướng bên trái hoặc bên phải'
-  IE.468c:
-    image: IE468c.svg
-    name: '[Chướng ngại vật] Đi hướng bên phải'
-  IE.469a:
-    image: IE469a.svg
-    name: 'Hướng rẽ phải'
-  IE.469b:
-    image: IE469b.svg
-    name: 'Hướng rẽ trái'
-  IE.470:
-    image: IE470.svg
-    name: 'Số điện thoại khẩn cấp'
-  IE.471:
-    image: IE471.svg
-    name: 'Giữ khoảng cách lái xe an toàn'
-  IE.472a:
-    image: IE472a.svg
-    name: 'Trạm thu phí - Khoảng cách'
-  IE.472b:
-    image: IE472b.svg
-    name: 'Trạm thu phí'
-  IE.473:
-    image: IE473.svg
-    name: 'Giảm tốc độ'
-  IE.474:
-    image: IE474.svg
-    name: 'Lối ra (đường cao tốc)'
-  S.501:
-    image: S501.svg
-    name: 'Phạm vi tác dụng (của biển)'
-  S.502:
-    image: S502.svg
-    name: 'Khoảng cách đến đối tượng báo hiệu'
-  S.503a:
-    image: S503a.svg
-    name: '[Hướng tác dụng] Phải (Vuông gốc với chiều đi)'
-  S.503b:
-    image: S503b.svg
-    name: '[Hướng tác dụng] Trái và phải (Vuông gốc với chiều đi)'
-  S.503c:
-    image: S503c.svg
-    name: '[Hướng tác dụng] Trái (Vuông gốc với chiều đi)'
-  S.503d:
-    name: '[Hướng tác dụng] Trước (Song song với chiều đi)'
-    image: S503d.jpeg
-  S.503e:
-    name: '[Hướng tác dụng] Trước và sau (Song song với chiều đi)'
-    image: S503e.jpeg
-  S.503f:
-    name: '[Hướng tác dụng] Sau (Song song với chiều đi)'
-    image: S503f.jpeg
-  S.504:
-    image: S504.svg
-    name: 'Làn đường'
-  S.505a:
-    image: S505a.svg
-    name: 'Loại xe'
-  S.505b:
-    image: S505b.svg
-    name: 'Loại xe hạn chế qua cầu'
-  S.505c:
-    image: S505c.svg
-    name: 'Tải trọng trục hạn chế qua cầu'
-  S.506a:
-    image: S506a.svg
-    name: '[Hướng đường ưu tiên]'
-    note: Đặt ở đường ưu tiên
-  S.506b:
-    name: '[Hướng đường (không) ưu tiên]'
-    note: Đặt ở đường không ưu tiên
-    image: S506b.jpeg
-  S.507:
-    image: S507.svg
-    name: 'Hướng rẽ'
-    related: [W.201, W.202]
-  S.508a:
-    name: 'Biểu thị thời gian'
-    image: S508a.jpeg
-  S.508b:
-    image: S508b.svg
-    name: 'Biểu thị thời gian'
-  S.509a:
-    image: S509a.svg
-    name: '[Thuyết minh biển chính] Chiều cao an toàn'
-    related: [W.239]
-  S.509b:
-    image: S509b.svg
-    name: '[Thuyết minh biển chính] Cấm đổ xe'
-    related: [P.130, P.131]
-  S.510a:
-    name: '(Chú ý) đường trơn có băng tuyết'
-    image: S510a.jpeg
-  S.510b:
-    name: '(Chú ý) đường sắt'
-    image: S510b.jpeg
-  S.G,7:
-    name: '[Địa điểm] nơi cắm trại'
-    image: SG7.jpeg
-  S.G,8:
-    name: '[Địa điểm] nhà trọ'
-    image: SG8.jpeg
-  S.G,9b:
-    name: 'Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng'
-    image: SG9b.jpeg
-  S.G,11a:
-    name: 'Số lượng làn và hướng đi cho từng làn'
-    image: SG11a.jpeg
-  S.G,11c:
-    name: 'Số lượng làn và hướng đi cho từng làn'
-    image: SG11c.jpeg
-  S.G,12a:
-    name: 'Làn đường không lưu thông'
-    image: SG12a.jpeg
-  S.G,12b:
-    name: 'Làn đường không lưu thông'
-    image: SG12b.jpeg
-  S.H,6:
-    name: 'Ngoại lệ'
-    image: SH6.jpeg
+P.101:
+  image: P101.svg
+  name: 'Đường cấm'
+P.102:
+  image: P102.svg
+  name: 'Cấm đi ngược chiều'
+P.103a:
+  image: P103a.svg
+  name: 'Cấm xe ôtô'
+P.103b:
+  image: P103b.svg
+  name: 'Cấm xe ôtô rẽ phải'
+P.103c:
+  image: P103c.svg
+  name: 'Cấm xe ôtô rẽ trái'
+P.104:
+  image: P104.svg
+  name: 'Cấm xe máy'
+P.105:
+  image: P105.svg
+  name: 'Cấm xe ôtô và xe máy'
+P.106a:
+  image: P106a.svg
+  name: 'Cấm xe ôtô tải'
+P.106b:
+  image: P106b.svg
+  name: 'Cấm xe ôtô tải trên XX tấn'
+P.106c:
+  image: P106c.svg
+  name: 'Cấm các xe chở hàng nguy hiểm'
+P.107:
+  image: P107.svg
+  name: 'Cấm xe ôtô khách và xe ôtô tải'
+P.107a:
+  image: P107a.svg
+  name: 'Cấm xe ôtô khách'
+P.107b:
+  image: P107b.svg
+  name: 'Cấm xe ôtô taxi'
+P.108:
+  image: P108.svg
+  name: 'Cấm xe kéo rơ-moóc'
+P.108a:
+  image: P108a.svg
+  name: 'Cấm xe sơ-mi rơ-moóc'
+P.109:
+  image: P109.svg
+  name: 'Cấm máy kéo'
+P.110a:
+  image: P110a.svg
+  name: 'Cấm xe đạp'
+P.110b:
+  image: P110b.svg
+  name: 'Cấm xe đạp thồ'
+P.111a:
+  image: P111a.svg
+  name: 'Cấm xe gắn máy'
+P.111b:
+  image: P111b.svg
+  name: 'Cấm xe ba bánh loại có động cơ'
+  including: Xe lam, xe xích lô máy, xe lôi máy
+P.111c:
+  image: P111c.svg
+  name: 'Cấm xe ba bánh loại có động cơ'
+  including: Xe lam, xe xích lô máy, xe lôi máy
+P.111d:
+  image: P111d.svg
+  name: 'Cấm xe ba bánh loại không có động cơ (xe xích lô đạp, xe lôi đạp)'
+P.112:
+  image: P112.svg
+  name: 'Cấm người đi bộ'
+P.113:
+  image: P113.svg
+  name: 'Cấm xe người kéo, đẩy'
+P.114:
+  image: P114.svg
+  name: 'Cấm xe súc vật kéo'
+P.115:
+  image: P115.svg
+  name: 'Hạn chế trọng tải toàn bộ xe'
+P.116:
+  image: P116.svg
+  name: 'Hạn chế tải trọng trên trục xe'
+P.117:
+  image: P117.svg
+  name: 'Hạn chế chiều cao xe'
+P.118:
+  image: P118.svg
+  name: 'Hạn chế chiều ngang xe'
+P.119:
+  image: P119.svg
+  name: 'Hạn chế chiều dài xe'
+P.120:
+  image: P120.svg
+  name: 'Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc'
+P.121:
+  image: P121.svg
+  name: 'Cự ly tối thiểu giữa hai xe'
+P.123a:
+  image: P123a.svg
+  name: 'Cấm rẽ trái'
+P.123b:
+  image: P123b.svg
+  name: 'Cấm rẽ phải'
+P.124a1:
+  image: P124a1.svg
+  name: 'Cấm quay đầu xe (trái)'
+P.124a2:
+  image: P124a2.svg
+  name: 'Cấm quay đầu xe (phải)'
+P.124b1:
+  image: P124b1.svg
+  name: 'Cấm ô tô quay đầu xe (trái)'
+P.124b2:
+  image: P124b2.svg
+  name: 'Cấm ô tô quay đầu xe (phải)'
+P.124c:
+  image: P124c.svg
+  name: 'Cấm rẽ trái và quay đầu xe'
+P.124d:
+  image: P124d.svg
+  name: 'Cấm rẽ phải và quay đầu xe'
+P.124e:
+  image: P124e.svg
+  name: 'Cấm ô tô rẽ trái và quay đầu xe'
+P.124f:
+  image: P124f.svg
+  name: 'Cấm ô tô rẽ phải và quay đầu xe'
+P.125:
+  image: P125.svg
+  name: 'Cấm vượt'
+P.126:
+  image: P126.svg
+  name: 'Cấm xe ôtô tải vượt'
+P.127-20:
+  image: P127-20.svg
+  name: 'Tốc độ tối đa cho phép 20 km/h'
+P.127-30:
+  image: P127-30.svg
+  name: 'Tốc độ tối đa cho phép 30 km/h'
+P.127-40:
+  image: P127-40.svg
+  name: 'Tốc độ tối đa cho phép 40 km/h'
+P.127-50:
+  image: P127-50.svg
+  name: 'Tốc độ tối đa cho phép 50 km/h'
+P.127-60:
+  image: P127-60.svg
+  name: 'Tốc độ tối đa cho phép 60 km/h'
+P.127-70:
+  image: P127-70.svg
+  name: 'Tốc độ tối đa cho phép 70 km/h'
+P.127-80:
+  image: P127-80.svg
+  name: 'Tốc độ tối đa cho phép 80 km/h'
+P.127-90:
+  image: P127-90.svg
+  name: 'Tốc độ tối đa cho phép 90 km/h'
+P.127a:
+  image: P127a.svg
+  name: 'Tốc độ tối đa cho phép về ban đêm'
+P.127b:
+  image: P127b.svg
+  name: 'Biển ghép tốc độ tối đa cho phép trên từng làn đường'
+P.127c:
+  image: P127c.svg
+  name: 'Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường'
+DP.127a:
+  image: DP127a.svg
+  name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127c 🤯'
+DP.127b:
+  image: DP127b.svg
+  name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127b'
+DP.127c:
+  name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127c'
+  image: DP127c.png
+P.128:
+  image: P128.svg
+  name: 'Cấm sử dụng còi'
+P.129:
+  image: P129.svg
+  name: 'Kiểm tra'
+P.130:
+  image: P130.svg
+  name: 'Cấm dừng xe và đỗ xe'
+P.131a:
+  image: P131a.svg
+  name: 'Cấm đỗ xe'
+P.131b:
+  image: P131b.svg
+  name: 'Cấm đỗ xe ngày lẻ'
+P.131c:
+  image: P131c.svg
+  name: 'Cấm đỗ xe ngày chẵn'
+P.132:
+  image: P132.svg
+  name: 'Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp'
+DP.133:
+  image: DP133.svg
+  name: 'Hết cấm vượt'
+DP.134:
+  image: DP134.svg
+  name: 'Hết tốc độ tối đa cho phép'
+DP.135:
+  image: DP135.svg
+  name: 'Hết tất cả các lệnh cấm'
+P.136:
+  image: P136.svg
+  name: 'Cấm đi thẳng'
+P.137:
+  image: P137.svg
+  name: 'Cấm rẽ trái, rẽ phải'
+P.138:
+  image: P138.svg
+  name: 'Cấm đi thẳng, rẽ trái'
+P.139:
+  image: P139.svg
+  name: 'Cấm đi thẳng, rẽ phải'
+P.140:
+  image: P140.svg
+  name: 'Cấm xe công nông và các loại xe tương tự.'
+W.201a:
+  image: W201a.svg
+  name: 'Chỗ ngoặt nguy hiểm (vòng bên trái)'
+W.201b:
+  image: W201b.svg
+  name: 'Chỗ ngoặt nguy hiểm (vòng bên phải)'
+W.201c:
+  image: W201c.svg
+  name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên phải)'
+W.201d:
+  image: W201d.svg
+  name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên trái)'
+W.202a:
+  image: W202a.svg
+  name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)'
+W.202b:
+  image: W202b.svg
+  name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)'
+W.203a:
+  image: W203a.svg
+  name: 'Đường bị thu hẹp (cả 2 bên)'
+W.203b:
+  image: W203b.svg
+  name: 'Đường bị thu hẹp (bên trái)'
+W.203c:
+  image: W203c.svg
+  name: 'Đường bị thu hẹp (bên phải)'
+W.204:
+  image: W204.svg
+  name: 'Đường hai chiều'
+W.205a:
+  image: W205a.svg
+  name: 'Giao nhau với đường cùng cấp'
+W.205b:
+  image: W205b.svg
+  name: 'Giao nhau với đường cùng cấp'
+W.205c:
+  image: W205c.svg
+  name: 'Giao nhau với đường cùng cấp'
+W.205d:
+  image: W205d.svg
+  name: 'Giao nhau với đường cùng cấp'
+W.205e:
+  image: W205e.svg
+  name: 'Giao nhau với đường cùng cấp'
+W.206:
+  image: W206.svg
+  name: 'Giao nhau chạy theo vòng xuyến'
+W.207a:
+  image: W207a.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207b:
+  image: W207b.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207c:
+  image: W207c.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207d:
+  image: W207d.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207e:
+  image: W207e.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207f:
+  image: W207f.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207g:
+  image: W207g.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207h:
+  image: W207h.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207i:
+  image: W207i.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207k:
+  image: W207k.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.207l:
+  image: W207l.svg
+  name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
+W.208:
+  image: W208.svg
+  name: 'Giao nhau với đường ưu tiên (đường chính)'
+  similar: [W.247]
+W.209:
+  image: W209.svg
+  name: 'Giao nhau có tín hiệu đèn'
+W.210:
+  image: W210.svg
+  name: 'Giao nhau với đường sắt có rào chắn'
+W.211a:
+  image: W211a.svg
+  name: 'Giao nhau với đường sắt không có rào chắn'
+  related: [W.242a, W.242b]
+W.211b:
+  image: W211b.svg
+  name: 'Giao nhau với đường tàu điện'
+W.212:
+  image: W212.svg
+  name: 'Cầu hẹp'
+W.213:
+  image: W213.svg
+  name: 'Cầu tạm'
+W.214:
+  image: W214.svg
+  name: 'Cầu quay (cầu cất)'
+W.215a:
+  image: W215a.svg
+  name: '(Kè,) vực sâu phía trước'
+W.215b:
+  image: W215b.svg
+  name: '(Kè,) vực sâu bên đường (phía bên phải)'
+W.215c:
+  image: W215c.svg
+  name: '(Kè,) vực sâu bên đường (phía bên trái)'
+W.216a:
+  image: W216a.svg
+  name: 'Đường ngầm'
+W.216b:
+  image: W216b.svg
+  name: 'Đường ngầm có nguy cơ lũ quét'
+W.217:
+  image: W217.svg
+  name: 'Bến phà'
+W.218:
+  image: W218.svg
+  name: 'Cửa chui'
+W.219:
+  image: W219.svg
+  name: 'Dốc xuống nguy hiểm'
+  related: [S.501]
+W.220:
+  image: W220.svg
+  name: 'Dốc lên nguy hiểm'
+  related: [S.501]
+W.221a:
+  image: W221a.svg
+  name: 'Đường lồi lõm'
+W.221b:
+  image: W221b.svg
+  name: 'Đường có gờ giảm tốc'
+W.222a:
+  image: W222a.svg
+  name: 'Đường trơn'
+W.222b:
+  image: W222b.svg
+  name: 'Lề đường nguy hiểm'
+W.223a:
+  image: W223a.svg
+  name: 'Vách núi nguy hiểm (bên trái)'
+W.223b:
+  image: W223b.svg
+  name: 'Vách núi nguy hiểm (bên phải)'
+W.224:
+  image: W224.svg
+  name: '(Đường) người đi bộ (cắt ngang)'
+W.225:
+  image: W225.svg
+  name: 'Trẻ em'
+  related: [S.501]
+W.226:
+  image: W226.svg
+  name: '(Đường) người đi xe đạp (cắt ngang)'
+W.227:
+  image: W227.svg
+  name: 'Công trường'
+W.228a:
+  image: W228a.svg
+  name: 'Đá lở (bên trái)'
+  related: [S.501]
+W.228b:
+  image: W228b.svg
+  name: 'Đá lở (bên phải)'
+  related: [S.501]
+W.228c:
+  image: W228c.svg
+  name: 'Sỏi đá bắn lên'
+W.228d:
+  image: W228d.svg
+  name: 'Nền đường yếu'
+W.229:
+  image: W229.svg
+  name: '(Dải) máy bay (lên xuống)'
+W.230:
+  image: W230.svg
+  name: 'Gia súc'
+W.231:
+  image: W231.svg
+  name: 'Thú rừng (vượt qua đường)'
+  related: [S.501]
+W.232:
+  image: W232.svg
+  name: 'Gió ngang'
+W.233:
+  image: W233.svg
+  name: 'Nguy hiểm khác'
+W.234:
+  image: W234.svg
+  name: 'Giao nhau với đường hai chiều'
+W.235:
+  image: W235.svg
+  name: 'Đường đôi (2 chiều phân biêt bằng dải phân cách cứng)'
+  similar: [W.246a, W.246b, W.246c]
+W.236:
+  image: W236.svg
+  name: 'Kết thúc đường đôi'
+W.237:
+  image: W237.svg
+  name: 'Cầu vồng'
+W.238:
+  image: W238.svg
+  name: 'Đường cao tốc (phía trước)'
+W.239a:
+  image: W239a.svg
+  name: 'Đường cáp điện (ở phía trên)'
+W.239b:
+  name: 'Chiều cao tĩnh không thực tế'
+  image: W239b.png
+W.240:
+  image: W240.svg
+  name: 'Đường hầm'
+W.241:
+  image: W241.svg
+  name: 'Ùn tắc giao thông'
+W.242a:
+  image: W242a.svg
+  name: '(Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray)'
+  related: [W.211a]
+W.242b:
+  image: W242b.svg
+  name: '(Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray)'
+  related: [W.211a]
+W.243a:
+  image: W243a.svg
+  name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m)'
+  related: [W.211a]
+W.243b:
+  image: W243b.svg
+  name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m)'
+  related: [W.211a]
+W.243c:
+  image: W243c.svg
+  name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m)'
+  related: [W.211a]
+W.244:
+  image: W244.svg
+  name: 'Đoạn đường hay xảy ra tai nạn'
+W.245a:
+  image: W245a.svg
+  name: 'Đi chậm'
+W.245b:
+  image: W245b.svg
+  name: 'Đi chậm (có chỉ dẫn tiếng Anh)'
+W.246a:
+  image: W246a.svg
+  name: '(Chú ý) chướng ngại vật - Vòng tránh sang 2 bên'
+  similar: [W.235]
+W.246b:
+  image: W246b.svg
+  name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên trái'
+  similar: [W.235]
+W.246c:
+  image: W246c.svg
+  name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên phải'
+  similar: [W.235]
+W.247:
+  image: W247.svg
+  name: '(Chú ý) xe đỗ'
+  similar: [W.208]
+R.122:
+  image: R122.svg
+  name: 'Dừng lại'
+R.301:
+  name: 'Hướng đi phải theo'
+  image: R301a.svg
+R.301a:
+  image: R301a.svg
+  name: '(Các xe) chỉ được đi thẳng'
+R.301b:
+  image: R301b.svg
+  name: '(Các xe) chỉ được đi ngang qua phải'
+  note: Đặt sau nơi đường giao nhau
+R.301c:
+  image: R301c.svg
+  name: '(Các xe) chỉ được đi ngang qua trái'
+  note: Đặt sau nơi đường giao nhau
+R.301d:
+  name: '(Các xe) chỉ được rẽ phải'
+  note: Đặt trước nơi đường giao nhau
+  image: R301d.png
+R.301e:
+  name: '(Các xe) chỉ được rẽ trái'
+  note: Đặt trước nơi đường giao nhau
+  image: R301e.png
+R.301f:
+  name: '(Các xe) chỉ được đi thẳng và rẽ phải'
+  note: Đặt trước nơi đường giao nhau
+  image: R301f.png
+R.301g:
+  name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
+  note: Đặt trước nơi đường giao nhau
+  similar: [R.411]
+  image: R301g.png
+R.301h:
+  image: R301h.svg
+  name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu)'
+  note: Đặt sau nơi đường giao nhau
+  similar: [R.411]
+R.302a:
+  image: R302a.svg
+  name: 'Hướng phải đi vòng chướng ngại vật (vòng sang phải)'
+  related: [P.102]
+R.302b:
+  image: R302b.svg
+  name: 'Hướng phải đi vòng chướng ngại vật (vòng sang trái)'
+  related: [P.102]
+R.302c:
+  image: R302c.svg
+  name: 'Hướng phải đi vòng chướng ngại vật (vòng sang trái hoặc phải)'
+R.303:
+  image: R303.svg
+  name: 'Nơi giao nhau chạy theo vòng xuyến'
+R.304:
+  image: R304.svg
+  name: 'Đường dành cho xe thô sơ'
+R.305:
+  image: R305.svg
+  name: 'Đường dành cho người đi bộ'
+R.306:
+  image: R306.svg
+  name: 'Tốc độ tối thiểu (cho phép)'
+R.307:
+  image: R307.svg
+  name: 'Hết tốc độ tối thiểu'
+R.308a:
+  image: R308a.svg
+  name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ trái'
+R.308b:
+  image: R308b.svg
+  name: '[Cầu vượt cắt qua] Đi thẳng hoặc theo chỉ dẫn để rẽ phải'
+R.309:
+  image: R309.svg
+  name: 'Ấn còi'
+R.310a:
+  image: R310a.svg
+  name: 'Xe chở hàng nguy hiểm chỉ được rẽ trái'
+R.310b:
+  image: R310b.svg
+  name: 'Xe chở hàng nguy hiểm chỉ được đi thẳng'
+R.310c:
+  image: R310c.svg
+  name: 'Xe chở hàng nguy hiểm chỉ được rẽ phải'
+R.403a:
+  image: R403a.svg
+  name: 'Đường dành cho xe ôtô'
+R.403b:
+  image: R403b.svg
+  name: 'Đường dành cho xe ôtô, xe máy'
+R.403c:
+  name: 'Đường dành cho xe buýt 🔍'
+  image: R403c.png
+R.403d:
+  name: 'Đường dành cho xe ôtô con 🔍'
+  image: R403d.png
+R.403e:
+  image: R403e.svg
+  name: 'Đường dành cho xe máy'
+R.403f:
+  name: 'Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍'
+  image: R403f.png
+R.404a:
+  name: 'Hết đoạn đường dành cho xe ôtô'
+  image: R404a.png
+R.404b:
+  name: 'Hết đoạn đường dành cho xe ôtô, xe máy'
+  image: R404b.png
+R.404c:
+  name: 'Hết đoạn đường dành cho xe buýt'
+  image: R404c.png
+R.404d:
+  name: 'Hết đoạn đường dành cho xe ôtô con'
+  image: R404d.png
+R.404e:
+  name: 'Hết đoạn đường dành cho xe máy'
+  image: R404e.png
+R.404f:
+  name: 'Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)'
+  image: R404f.png
+R.411:
+  name: 'Hướng đi trên mỗi làn đường phải theo'
+  similar: [R.301g, R.301h]
+  image: R411.png
+R.412:
+  name: 'Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)'
+  image: R412.png
+R.412a:
+  name: 'Làn đường dành cho xe ôtô khách'
+  image: R412a.png
+R.412b:
+  name: 'Làn đường dành cho xe ôtô con'
+  note: 🪤
+  image: R412b.png
+R.412c:
+  name: 'Làn đường dành cho xe ôtô tải'
+  image: R412c.png
+R.412d:
+  name: 'Làn đường dành cho xe máy'
+  image: R412d.png
+R.412e:
+  name: 'Làn đường dành cho xe buýt'
+  image: R412e.png
+R.412f:
+  name: 'Làn đường dành cho xe ôtô'
+  note: 🪤
+  image: R412f.png
+R.412g:
+  name: 'Làn đường dành cho xe máy và xe đạp'
+  image: R412g.png
+R.412h:
+  name: 'Làn đường dành cho xe đạp'
+  image: R412h.png
+R.412i:
+  name: 'Kết thúc làn đường dành cho xe ôtô khách'
+  image: R412i.jpeg
+R.412j:
+  name: 'Kết thúc làn đường dành cho xe ôtô con'
+  image: R412j.jpeg
+R.412k:
+  name: 'Kết thúc làn đường dành cho xe ôtô tải'
+  image: R412k.jpeg
+R.412l:
+  name: 'Kết thúc làn đường dành cho xe máy'
+  image: R412l.jpeg
+R.412m:
+  name: 'Kết thúc làn đường dành cho xe buýt'
+  image: R412m.jpeg
+R.412n:
+  name: 'Kết thúc làn đường dành cho xe ôtô'
+  image: R412n.jpeg
+R.412o:
+  name: 'Kết thúc làn đường dành cho xe máy và xe đạp'
+  image: R412o.jpeg
+R.412p:
+  name: 'Kết thúc làn đường dành cho xe đạp'
+  image: R412p.jpeg
+R.415a:
+  image: R415a.svg
+  name: 'Gộp làn đường theo phương tiện'
+R.415b:
+  name: 'Kết thúc làn đường theo phương tiện'
+  image: R415b.jpeg
+R.420:
+  image: R420.svg
+  name: 'Bắt đầu khu đông dân cư'
+R.421:
+  image: R421.svg
+  name: 'Hết khu đông dân cư'
+R.E,9a:
+  name: 'Cấm đỗ xe trong khu vực'
+  image: RE9a.jpeg
+R.E,9b:
+  name: 'Cấm đỗ xe theo giờ trong khu vực'
+  image: RE9b.jpeg
+R.E,9c:
+  name: 'Khu vực đỗ xe'
+  image: RE9c.jpeg
+R.E,9d:
+  name: 'Tốc độ tối đa trong khu vực'
+  image: RE9d.jpeg
+R.E,10a:
+  name: 'Hết cấm đỗ xe trong khu vực'
+  image: RE10a.jpeg
+R.E,10b:
+  name: 'Hết cấm đỗ xe theo giờ trong khu vực'
+  image: RE10b.jpeg
+R.E,10c:
+  name: 'Hết khu vực đỗ xe'
+  image: RE10c.jpeg
+R.E,10d:
+  name: 'Hết tốc độ tối đa trong khu vực'
+  image: RE10d.jpeg
+R.E,11a:
+  name: 'Đường hầm'
+  image: RE11a.jpeg
+R.E,11b:
+  name: 'Kết thúc đường hầm.'
+  image: RE11b.jpeg
+I.401:
+  image: I401.svg
+  name: 'Bắt đầu đường ưu tiên'
+I.402:
+  image: I402.svg
+  name: 'Hết đoạn đường ưu tiên'
+I.405a:
+  image: I405a.svg
+  name: 'Đường cụt (ở lối rẽ phải)'
+I.405b:
+  image: I405b.svg
+  name: 'Đường cụt (ở lối rẽ trái)'
+I.405c:
+  image: I405c.svg
+  name: 'Đường cụt (phía trước)'
+I.406:
+  image: I406.svg
+  name: 'Được ưu tiên qua đường hẹp'
+  related: [P.132]
+I.407a:
+  image: I407a.svg
+  name: 'Đường một chiều'
+  note: Đặt sau nơi đường giao nhau
+  related: [R.302, W.204]
+I.407b:
+  image: I407b.svg
+  name: 'Đường một chiều'
+  note: Đặt trước nơi đường giao nhau
+  related: [R.302, W.204]
+I.407c:
+  image: I407c.svg
+  name: 'Đường một chiều'
+  note: Đặt trước nơi đường giao nhau
+  related: [R.302, W.204]
+I.408:
+  image: I408.svg
+  name: 'Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)'
+I.408a:
+  image: I408a.svg
+  name: 'Nơi đỗ xe một phần trên hè phố'
+I.409:
+  image: I409.svg
+  name: 'Chỗ quay xe'
+  related: [S.502]
+I.410:
+  image: I410.svg
+  name: 'Khu vực quay xe'
+  related: [S.502]
+I.413a:
+  image: I413a.svg
+  name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại)'
+  note: Đặt ở đầu đường 1 chiều
+I.413b:
+  image: I413b.svg
+  name: 'Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
+I.413c:
+  image: I413c.svg
+  name: 'Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
+I.414:
+  name: 'Chỉ hướng đường (đến địa danh, khu dân cư)'
+  image: I414a.jpeg
+I.414a:
+  name: 'Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
+  image: I414a.jpeg
+I.414b:
+  name: 'Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
+  image: I414b.jpeg
+I.414c:
+  name: 'Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
+  image: I414c.jpeg
+I.414d:
+  name: 'Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
+  image: I414d.jpeg
+I.415:
+  name: 'Mũi tên chỉ hướng đi (đến địa danh tiếp theo)'
+  image: I415.jpeg
+I.416:
+  image: I416.svg
+  name: 'Đường tránh (do phía trước có đường cấm)'
+I.417a:
+  name: 'Chỉ hướng đường phải đi cho từng loại xe'
+  image: I417a.jpeg
+I.417b:
+  name: 'Chỉ hướng đường phải đi cho từng loại xe'
+  image: I417b.jpeg
+I.418:
+  image: I418.svg
+  name: 'Lối đi ở những vị trí cấm rẽ'
+I.419a:
+  image: I419a.svg
+  name: 'Chỉ dẫn địa giới'
+I.419b:
+  image: I419b.svg
+  name: 'Chỉ dẫn địa giới (trên tuyến đường đối ngoại)'
+I.422a:
+  image: I422a.svg
+  name: 'Di tích lịch sử'
+I.422b:
+  image: I422b.svg
+  name: 'Di tích lịch sử (trên tuyến đường đối ngoại)'
+I.423a:
+  image: I423a.svg
+  name: 'Vị trí người đi bộ sang ngang'
+  related: [W.224, R.305]
+I.423b:
+  image: I423b.svg
+  name: 'Vị trí người đi bộ sang ngang'
+  related: [W.224, R.305]
+I.423c:
+  image: I423c.svg
+  name: 'Điểm bắt đầu đường đi bộ'
+I.424a:
+  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
+  image: I424a.jpeg
+I.424b:
+  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
+  image: I424b.jpeg
+I.424c:
+  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
+  image: I424c.jpeg
+I.424d:
+  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
+  image: I424d.jpeg
+I.425:
+  image: I425.svg
+  name: 'Bệnh viện'
+I.426:
+  image: I426.svg
+  name: 'Trạm cấp cứu'
+I.427a:
+  image: I427a.svg
+  name: 'Trạm sửa chữa'
+I.427b:
+  image: I427b.svg
+  name: 'Trạm kiểm tra tải trọng (KTTT) xe'
+I.428:
+  image: I428.svg
+  name: 'Trạm xăng dầu'
+I.429:
+  image: I429.svg
+  name: 'Trạm rửa xe'
+I.430:
+  image: I430.svg
+  name: 'Điện thoại'
+I.431:
+  image: I431.svg
+  name: 'Trạm dừng nghỉ'
+I.432:
+  image: I432.svg
+  name: 'Khách sạn'
+I.433a:
+  name: 'Nơi nghỉ mát'
+  image: I433a.jpeg
+I.433b:
+  name: 'Nơi cắm trại'
+  image: I433b.jpeg
+I.433c:
+  name: 'Nhà nghỉ lưu động'
+  image: I433c.jpeg
+I.433d:
+  name: 'Nơi cắm trại, nhà nghỉ lưu động'
+  image: I433d.jpeg
+I.433e:
+  name: 'Nhà trọ'
+  image: I433e.jpeg
+I.434a:
+  image: I434a.svg
+  name: 'Bến xe buýt'
+  similar: [Hình xe khách]
+I.434b:
+  image: I434b.svg
+  name: 'Bến xe tải'
+I.435:
+  image: I435.svg
+  name: 'Bến xe điện'
+I.436:
+  image: I436.svg
+  name: 'Trạm cảnh sát giao thông (CSGT)'
+I.437:
+  name: '(Bắt đầu) đường cao tốc'
+  image: I437.jpeg
+I.439:
+  image: I439.svg
+  name: 'Tên cầu (lý trình và tên đường)'
+I.440:
+  image: I440.svg
+  name: 'Đoạn đường (đang) thi công'
+I.441a:
+  image: I441a.svg
+  name: 'Phía trước (500m) có công trường (đang) thi công'
+I.441b:
+  image: I441b.svg
+  name: 'Phía trước (100m) có công trường (đang) thi công'
+I.441c:
+  image: I441c.svg
+  name: 'Phía trước (50m) có công trường (đang) thi công'
+I.442:
+  image: I442.svg
+  name: 'Chợ'
+I.443:
+  image: I443.svg
+  name: 'Xe kéo rơ-moóc'
+I.444a:
+  image: I444a.svg
+  name: '(Đường vào) ga tàu'
+I.444b:
+  image: I444b.svg
+  name: '(Đường vào) sân bay'
+I.444c:
+  image: I444c.svg
+  name: '(Đường vào) bãi đổ xe'
+I.444d:
+  name: '(Đường vào) bến xe khách'
+  similar: [Bus station]
+  image: I444d.jpeg
+I.444e:
+  name: '(Đường vào) trạm cấp cứu'
+  image: I444e.jpeg
+I.444f:
+  name: '(Đường vào) bến tàu thủy'
+  image: I444f.jpeg
+I.444g:
+  name: '(Đường vào) danh lam thắng cảnh, khu du lịch'
+  image: I444g.jpeg
+I.444h:
+  name: '(Đường vào) trạm xăng dầu'
+  image: I444h.jpeg
+I.444i:
+  name: '(Đường vào) trạm rửa xe'
+  image: I444i.jpeg
+I.444j:
+  name: '(Đường vào) bến phà'
+  image: I444j.jpeg
+I.444k:
+  name: '(Đường vào) ga tàu điện ngầm'
+  image: I444k.jpeg
+I.444l:
+  name: '(Đường vào) nhà hàng ăn uống'
+  image: I444l.jpeg
+I.444m:
+  name: '(Đường vào) trạm sửa chữa ôtô'
+  image: I444m.jpeg
+I.445a:
+  image: I445a.svg
+  name: 'Đường trơn (chạy chậm)'
+I.445b:
+  image: I445b.svg
+  name: 'Đường dốc (chạy chậm)'
+I.445c:
+  image: I445c.svg
+  name: 'Đường nhiều sương mù'
+I.445d:
+  image: I445d.svg
+  name: 'Nền đường yếu'
+I.445e:
+  image: I445e.svg
+  name: 'Xe lớn đi sát về bên phải'
+I.445f:
+  image: I445f.svg
+  name: 'Gió giang'
+I.445g:
+  image: I445g.svg
+  name: 'Đường hay xảy ra tai nạn'
+I.445h:
+  image: I445h.svg
+  name: 'Xuống dốc liên tục'
+I.446:
+  image: I446.svg
+  name: 'Nơi đỗ xe dành cho người khuyết tật'
+  related: [P.131a, I.408]
+I.447a:
+  name: 'Cầu vượt liên thông'
+  related: [R.308, I414c, d]
+  image: I447a.jpeg
+I.447b:
+  name: 'Cầu vượt liên thông'
+  related: [R.308, I414c, d]
+  image: I447b.jpeg
+I.447c:
+  name: 'Cầu vượt liên thông'
+  related: [R.308, I414c, d]
+  image: I447c.jpeg
+I.447d:
+  name: 'Cầu vượt liên thông'
+  related: [R.308, I414c, d]
+  image: I447d.jpeg
+I.448:
+  name: 'Đường cứu nạn (làn thoát xe khẩn cấp)'
+  image: I448a.png
+I.448a:
+  name: 'Đường cứu nạn (cách 2km)'
+  image: I448a.png
+I.448b:
+  name: 'Đường cứu nạn (cách 1km)'
+  image: I448b.png
+I.448c:
+  name: 'Đường cứu nạn (cách 300m)'
+  image: I448c.png
+I.448d:
+  name: 'Đường cứu nạn'
+  image: I448d.jpeg
+I.449:
+  image: I449.svg
+  name: 'Biển tên đường (tuyến đường đối ngoại)'
+IE.450a:
+  image: IE450a.svg
+  name: 'Sơ đồ và khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
+IE.450b:
+  image: IE450b.svg
+  name: 'Sơ đồ đến nút giao với đường dẫn vào đường cao tốc'
+IE.451a:
+  image: IE451a.svg
+  name: 'Khoảng cách đến lối vào đường cao tốc'
+IE.451b:
+  image: IE451b.svg
+  name: 'Lối vào đường cao tốc'
+IE.452:
+  image: IE452.svg
+  name: 'Bắt đầu đường cao tốc'
+IE.452b:
+  name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
+  image: IE452b.png
+IE.452c:
+  name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
+  image: IE452c.png
+IE.453a:
+  image: IE453a.svg
+  name: 'Khoảng cách đến điểm kết thúc đường cao tốc'
+IE.453b:
+  image: IE453b.svg
+  name: 'Điểm kết thúc đường cao tốc'
+  similar: [IE.453c]
+IE.453c:
+  image: IE453c.svg
+  name: 'Hết đường cao tốc'
+  similar: [IE.453b]
+IE.454a:
+  image: IE454a.svg
+  name: 'Lối ra phía trước (cách 2km)'
+IE.454b:
+  name: 'Lối ra phía trước (cách 1km)'
+  related: [IE.464b]
+  image: IE454b.png
+IE.455:
+  name: 'Khoảng cách đến các lối ra tiếp theo'
+  image: IE455a.svg
+IE.455a:
+  image: IE455a.svg
+  name: 'Khoảng cách đến 2 lối ra tiếp theo'
+IE.455b:
+  name: 'Khoảng cách đến 3 lối ra tiếp theo'
+  image: IE455b.jpg
+IE.456a:
+  image: IE456a.svg
+  name: '[Trạm dừng nghỉ] Khoảng cách'
+IE.456b:
+  image: IE456b.svg
+  name: '[Trạm dừng nghỉ] Hường đường (cách nút giao 150m)'
+IE.456c:
+  image: IE456c.svg
+  name: '[Trạm dừng nghỉ] Hướng đi (Lối vào)'
+IE.457a:
+  image: IE457a.svg
+  name: '[Nơi đỗ xe trong trạm dừng nghỉ] Khoảng cách'
+IE.457b:
+  image: IE457b.svg
+  name: '[Nơi đỗ xe trong trạm dừng nghỉ] Hướng đường'
+IE.458:
+  image: IE458.svg
+  name: 'Khoảng cách đến các trạm dừng nghỉ tiếp theo'
+  note: Đặt ngay sau khi ra khỏi trạm dừng nghỉ
+IE.459a:
+  image: IE459a.svg
+  name: '[Khu tham quan, du lịch] Khoảng cách'
+IE.459b:
+  image: IE459b.svg
+  name: '[Khu tham quan, du lịch] Hướng đường'
+IE.460a:
+  image: IE460a.svg
+  name: 'Cột (lý trình) kilômét'
+IE.460b:
+  image: IE460b.svg
+  name: 'Cột (lý trình) kilômét'
+IE.460c:
+  image: IE460c.svg
+  name: 'Cột (lý trình) kilômét'
+IE.461a:
+  image: IE461a.svg
+  name: '[Khu dịch vụ công cộng, giải trí] Khoảng cách'
+IE.461b:
+  image: IE461b.svg
+  name: '[Khu dịch vụ công cộng, giải trí] Hướng đường'
+IE.461c:
+  image: IE461c.svg
+  name: '[Khu dịch vụ công cộng] Hướng đi (Lối vào)'
+IE.461d:
+  image: IE461d.svg
+  name: '[Khu giải trí] Hướng đi (Lối vào)'
+IE.462:
+  image: IE462.svg
+  name: 'Tần số sóng radio (về thông tin giao thông, thời tiết)'
+IE.463a:
+  image: IE463a.svg
+  name: '[Trạm kiểm tra tải trọng xe] Khoảng cách'
+IE.463b:
+  image: IE463b.svg
+  name: '[Trạm kiểm tra tải trọng xe] Hướng đường'
+IE.463c:
+  image: IE463c.svg
+  name: '[Trạm kiểm tra tải trọng xe] Hướng đi (Lối vào)'
+IE.464a:
+  image: IE464a.svg
+  name: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều]'
+  note: Đặt ở trước khu vực lối ra
+IE.464b:
+  image: IE464b.svg
+  name: '[Địa điểm và phương hướng - Hướng ra]'
+  note: Đặt ở đường ra khỏi đường cao tốc
+IE.465a:
+  image: IE465a.svg
+  name: '[Địa điểm và khoảng cách] 2 địa điểm'
+IE.465b:
+  name: '[Địa điểm và khoảng cách] 3 địa điểm'
+  image: IE465b.jpg
+IE.466:
+  image: IE466.svg
+  name: 'Sơ đồ lối ra một chiều'
+IE.467a:
+  image: IE467a.svg
+  name: 'Nhập làn'
+  related: [W.207g, W238]
+IE.467b:
+  image: IE467b.svg
+  name: 'Nhập làn (cách 250m)'
+  related: [W.207g, W238]
+IE.468a:
+  image: IE468a.svg
+  name: '[Chướng ngại vật] Đi hướng bên trái'
+IE.468b:
+  image: IE468b.svg
+  name: '[Chướng ngại vật] Đi hướng bên trái hoặc bên phải'
+IE.468c:
+  image: IE468c.svg
+  name: '[Chướng ngại vật] Đi hướng bên phải'
+IE.469a:
+  image: IE469a.svg
+  name: 'Hướng rẽ phải'
+IE.469b:
+  image: IE469b.svg
+  name: 'Hướng rẽ trái'
+IE.470:
+  image: IE470.svg
+  name: 'Số điện thoại khẩn cấp'
+IE.471:
+  image: IE471.svg
+  name: 'Giữ khoảng cách lái xe an toàn'
+IE.472a:
+  image: IE472a.svg
+  name: 'Trạm thu phí - Khoảng cách'
+IE.472b:
+  image: IE472b.svg
+  name: 'Trạm thu phí'
+IE.473:
+  image: IE473.svg
+  name: 'Giảm tốc độ'
+IE.474:
+  image: IE474.svg
+  name: 'Lối ra (đường cao tốc)'
+S.501:
+  image: S501.svg
+  name: 'Phạm vi tác dụng (của biển)'
+S.502:
+  image: S502.svg
+  name: 'Khoảng cách đến đối tượng báo hiệu'
+S.503a:
+  image: S503a.svg
+  name: '[Hướng tác dụng] Phải (Vuông gốc với chiều đi)'
+S.503b:
+  image: S503b.svg
+  name: '[Hướng tác dụng] Trái và phải (Vuông gốc với chiều đi)'
+S.503c:
+  image: S503c.svg
+  name: '[Hướng tác dụng] Trái (Vuông gốc với chiều đi)'
+S.503d:
+  name: '[Hướng tác dụng] Trước (Song song với chiều đi)'
+  image: S503d.jpeg
+S.503e:
+  name: '[Hướng tác dụng] Trước và sau (Song song với chiều đi)'
+  image: S503e.jpeg
+S.503f:
+  name: '[Hướng tác dụng] Sau (Song song với chiều đi)'
+  image: S503f.jpeg
+S.504:
+  image: S504.svg
+  name: 'Làn đường'
+S.505a:
+  image: S505a.svg
+  name: 'Loại xe'
+S.505b:
+  image: S505b.svg
+  name: 'Loại xe hạn chế qua cầu'
+S.505c:
+  image: S505c.svg
+  name: 'Tải trọng trục hạn chế qua cầu'
+S.506a:
+  image: S506a.svg
+  name: '[Hướng đường ưu tiên]'
+  note: Đặt ở đường ưu tiên
+S.506b:
+  name: '[Hướng đường (không) ưu tiên]'
+  note: Đặt ở đường không ưu tiên
+  image: S506b.jpeg
+S.507:
+  image: S507.svg
+  name: 'Hướng rẽ'
+  related: [W.201, W.202]
+S.508a:
+  name: 'Biểu thị thời gian'
+  image: S508a.jpeg
+S.508b:
+  image: S508b.svg
+  name: 'Biểu thị thời gian'
+S.509a:
+  image: S509a.svg
+  name: '[Thuyết minh biển chính] Chiều cao an toàn'
+  related: [W.239]
+S.509b:
+  image: S509b.svg
+  name: '[Thuyết minh biển chính] Cấm đổ xe'
+  related: [P.130, P.131]
+S.510a:
+  name: '(Chú ý) đường trơn có băng tuyết'
+  image: S510a.jpeg
+S.510b:
+  name: '(Chú ý) đường sắt'
+  image: S510b.jpeg
+S.G,7:
+  name: '[Địa điểm] nơi cắm trại'
+  image: SG7.jpeg
+S.G,8:
+  name: '[Địa điểm] nhà trọ'
+  image: SG8.jpeg
+S.G,9b:
+  name: 'Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng'
+  image: SG9b.jpeg
+S.G,11a:
+  name: 'Số lượng làn và hướng đi cho từng làn'
+  image: SG11a.jpeg
+S.G,11c:
+  name: 'Số lượng làn và hướng đi cho từng làn'
+  image: SG11c.jpeg
+S.G,12a:
+  name: 'Làn đường không lưu thông'
+  image: SG12a.jpeg
+S.G,12b:
+  name: 'Làn đường không lưu thông'
+  image: SG12b.jpeg
+S.H,6:
+  name: 'Ngoại lệ'
+  image: SH6.jpeg

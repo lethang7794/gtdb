@@ -7,7 +7,7 @@ import { getRoadSignImage } from '@/lib/getRoadSignImage'
 export default async function Home() {
   const data = getDataRoadSigns()
 
-  const entries = Object.entries(data.signs) as [string, RoadSign][]
+  const entries = Object.entries(data)
   // const firstTen = entries.slice(0, 30)
 
   return (

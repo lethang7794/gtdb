@@ -1,13 +1,11 @@
 import Link from 'next/link'
-import type { RoadSign } from '@/model/RoadSign'
 import { getDataMarkings } from '@/lib/getMarkings'
-import type { Marking } from '@/model/Marking'
 import { getMarkingImage } from '@/lib/getMarkingImage'
 
 export default async function Home() {
   const data = getDataMarkings()
 
-  const entries = Object.entries(data.markings) as [string, Marking][]
+  const entries = Object.entries(data)
   // const firstTen = entries.slice(0, 30)
 
   return (

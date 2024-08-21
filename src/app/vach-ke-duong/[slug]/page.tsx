@@ -1,14 +1,11 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import { getMarkingImage } from '@/lib/getMarkingImage'
 import { getDataMarkings } from '@/lib/getMarkings'
-import { MarkingImage, type Marking, type MarkingsByKey } from '@/model/Marking'
+import { MarkingImage } from '@/model/Marking'
 
 export async function generateStaticParams() {
-  const markings = (getDataMarkings()?.markings || {}) as MarkingsByKey
-
-  return Object.keys(markings).map((key) => ({
-    slug: key,
-  }))
+  const markings = getDataMarkings()
+  return Object.keys(markings).map((key) => ({ slug: key }))
 }
 
 type Props = {
@@ -20,7 +17,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const markings = (getDataMarkings()?.markings || {}) as MarkingsByKey
+  const markings = getDataMarkings()
   const sign = markings[slug]
   if (!sign) {
     return { title: 'Not Found' }
@@ -44,7 +41,7 @@ export default async function MarkingPage({
   params: { slug: string }
 }) {
   const slug = params.slug
-  const markings = (getDataMarkings()?.markings || {}) as MarkingsByKey
+  const markings = getDataMarkings()
   const marking = markings[slug]
   if (!marking) {
     return <>Not Found</>
