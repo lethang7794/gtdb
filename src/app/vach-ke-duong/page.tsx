@@ -1,20 +1,17 @@
 import Link from 'next/link'
-import { getDataMarkings } from '@/lib/getMarkings'
-import { getMarkingImage } from '@/lib/getMarkingImage'
+import { getMarkings } from '@/service/markings'
+import { getMarkingImage } from '@/service/markings'
 
 export default async function Home() {
-  const data = getDataMarkings()
+  const data = getMarkings()
 
   const entries = Object.entries(data)
-  // const firstTen = entries.slice(0, 30)
 
   return (
     <main className="flex min-h-screen flex-col justify-between p-6 md:p-8">
       <div className="grid grid-cols-[repeat(auto-fill,minmax(250px,_1fr))] justify-between gap-4">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
-
-          console.log({ key, val })
 
           return (
             <Link

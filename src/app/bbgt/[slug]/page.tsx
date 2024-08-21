@@ -1,14 +1,10 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getRoadSignImage } from '@/lib/getRoadSignImage'
-import { getDataRoadSigns } from '@/lib/getRoadSigns'
-import type { RoadSign } from '@/model/RoadSign'
+import { getRoadSignById, getRoadSignImage } from '@/service/road-signs'
+import { getRoadSigns } from '@/service/road-signs'
 
 export async function generateStaticParams() {
-  const roadSigns = (getDataRoadSigns()?.signs || {}) as Record<string, RoadSign>
-
-  return Object.keys(roadSigns).map((key) => ({
-    slug: key,
-  }))
+  const roadSigns = getRoadSigns()
+  return Object.keys(roadSigns).map((key) => ({ slug: key }))
 }
 
 type Props = {
@@ -20,8 +16,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const roadSigns = (getDataRoadSigns()?.signs || {}) as Record<string, RoadSign>
-  const sign = roadSigns[slug]
+  const sign = getRoadSignById(slug)
   if (!sign) {
     return { title: 'Not Found' }
   }
@@ -44,8 +39,7 @@ export default async function RoadSignPage({
   params: { slug: string }
 }) {
   const slug = params.slug
-  const roadSigns = getDataRoadSigns()?.signs || {}
-  const sign = roadSigns[slug]
+  const sign = getRoadSignById(slug)
   if (!sign) {
     return <>Not Found</>
   }
