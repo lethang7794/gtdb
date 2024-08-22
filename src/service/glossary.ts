@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import yaml from 'yaml'
 import type { Glossary } from '@/model/Glossary'
 
-const GLOSSARY_REPO_PATH = 'data/glossary-QCVN.yaml'
+const GLOSSARY_REPO_PATH = 'data/glossaries.yaml'
 const GLOSSARY_PUBLIC_PATH = 'glossary'
 
 export const getGlossaries = cache(() => {
