@@ -54,11 +54,11 @@ _Quốc hội ban hành Luật Trật tự, an toàn giao thông đường bộ.
 
 ## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
-**Điều 1. Phạm vi điều chỉnh**
+### Điều 1. Phạm vi điều chỉnh
 
 Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.
 
-**Điều 2. Giải thích từ ngữ**
+### Điều 2. Giải thích từ ngữ
 
 1. _Trật tự, an toàn giao thông đường bộ_ là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
 
@@ -88,7 +88,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 14. _Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ_ là thiết bị kỹ thuật công nghệ có khả năng phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; do lực lượng chức năng sử dụng để hỗ trợ chỉ huy, điều khiển giao thông đường bộ, giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ.
 
-**Điều 3. Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ**
+### Điều 3. Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ
 
 1. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
@@ -104,7 +104,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 7. Công tác bảo đảm trật tự, an toàn giao thông đường bộ được thực hiện thống nhất trên cơ sở phân công, phân cấp, phù hợp với chức năng, nhiệm vụ và sự phối hợp chặt chẽ giữa các cơ quan, tổ chức, cá nhân có liên quan.
 
-**Điều 4. Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ**
+### Điều 4. Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ
 
 1. Bảo đảm ngân sách nhà nước, cơ sở vật chất, phương tiện, thiết bị hiện đại, các điều kiện bảo đảm và nâng cao năng lực thực thi nhiệm vụ của lực lượng trực tiếp bảo đảm trật tự, an toàn giao thông đường bộ. Huy động, sử dụng các nguồn lực để bảo đảm trật tự, an toàn giao thông đường bộ. Bố trí tương ứng từ các khoản thu tiền xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ và tiền đấu giá biển số xe sau khi nộp vào ngân sách nhà nước để tăng cường, hiện đại hóa cơ sở vật chất, phương tiện, thiết bị, phục vụ bảo đảm an ninh, trật tự, an toàn giao thông theo quy định của Chính phủ.
 
@@ -118,7 +118,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 6. Phát triển phương tiện giao thông đường bộ đồng bộ với phát triển kết cấu hạ tầng đường bộ, điều kiện kinh tế - xã hội và nhu cầu đi lại của người dân;\*\* \*\*nhập khẩu, sản xuất, lắp ráp phương tiện giao thông đường bộ bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường, phù hợp với xu hướng phát triển công nghệ đối với phương tiện giao thông trên thế giới; ưu tiên phát triển phương tiện vận tải công cộng, hạn chế sử dụng phương tiện giao thông cá nhân tham gia giao thông tại các đô thị lớn; ưu tiên chuyển đổi phương tiện sử dụng nhiên liệu hóa thạch sang phương tiện sử dụng điện, năng lượng xanh, thân thiện môi trường, hạ tầng cung cấp năng lượng sạch.
 
-**Điều 5. Tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ**
+### Điều 5. Tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ
 
 1. Tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ được thực hiện thường xuyên, rộng rãi, phù hợp với các tầng lớp Nhân dân, người nước ngoài trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
@@ -134,7 +134,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 7. Thành viên trong gia đình có trách nhiệm tuyên truyền, nhắc nhở thành viên khác chấp hành pháp luật về trật tự, an toàn giao thông đường bộ, sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ em phía sau khi chở trẻ em dưới 06 tuổi bằng xe gắn máy, xe mô tô.
 
-**Điều 6. Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ**
+### Điều 6. Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
 
 1. Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ cho trẻ em của cơ sở giáo dục mầm non (sau đây gọi là trẻ em mầm non), học sinh của cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp.
 
@@ -142,7 +142,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 3. Bộ Giáo dục và Đào tạo, Bộ Lao động, Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Công an và Bộ, cơ quan ngang Bộ có liên quan xây dựng, tích hợp, lồng ghép kiến thức pháp luật về trật tự, an toàn giao thông đường bộ vào chương trình giảng dạy trong cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp phù hợp với từng cấp học, ngành học.
 
-**Điều 7. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ**
+### Điều 7. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ
 
 1. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm:
 
@@ -170,7 +170,7 @@ k) Cơ sở dữ liệu khác liên quan đến công tác bảo đảm trật t
 
 3. Chính phủ quy định chi tiết khoản 1 và khoản 2 Điều này; quy định việc thu thập, quản lý, khai thác thông tin trong Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ.
 
-**Điều 8. Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ**
+### Điều 8. Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ
 
 1. Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ trên cơ sở tuân thủ pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế; bảo đảm độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
@@ -190,7 +190,7 @@ e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của 
 
 3. Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan giúp Chính phủ đàm phán, ký kết điều ước quốc tế, thỏa thuận quốc tế hoặc đề xuất cấp có thẩm quyền ký kết điều ước quốc tế, thỏa thuận quốc tế về trật tự, an toàn giao thông đường bộ; chủ trì, phối hợp với các Bộ, ngành liên quan thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ.
 
-**Điều 9. Các hành vi bị nghiêm cấm**
+### Điều 9. Các hành vi bị nghiêm cấm
 
 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng.
 
@@ -250,7 +250,7 @@ e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của 
 
 ## Chương II. QUY TẮC GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 10. Quy tắc chung**
+### Điều 10. Quy tắc chung
 
 1. Người tham gia giao thông đường bộ phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định, chấp hành báo hiệu đường bộ và các quy tắc giao thông đường bộ khác.
 
@@ -258,7 +258,7 @@ e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của 
 
 3. Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.
 
-**Điều 11. Chấp hành báo hiệu đường bộ**
+### Điều 11. Chấp hành báo hiệu đường bộ
 
 1. Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông; đèn tín hiệu giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ.
 
@@ -323,7 +323,7 @@ d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần b
 
 14. Bộ trưởng Bộ Công an quy định chi tiết khoản 3 Điều này.
 
-**Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe **
+### Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe
 
 1. Người lái xe, người điều khiển xe máy chuyên dùng phải chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.
 
@@ -359,7 +359,7 @@ n) Khu vực đang tổ chức kiểm soát giao thông đường bộ.
 
 4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.
 
-**Điều 13. Sử dụng làn đường**
+### Điều 13. Sử dụng làn đường
 
 1. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình.
 
@@ -369,7 +369,7 @@ n) Khu vực đang tổ chức kiểm soát giao thông đường bộ.
 
 4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.
 
-**Điều 14. Vượt xe và nhường đường cho xe xin vượt   **
+### Điều 14. Vượt xe và nhường đường cho xe xin vượt  
 
 1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.
 
@@ -407,7 +407,7 @@ i)\_ \_Khi có người đi bộ, xe lăn của người khuyết tật qua đư
 
 k) Trong hầm đường bộ.
 
-**Điều 15. Chuyển hướng xe**
+### Điều 15. Chuyển hướng xe
 
 1. Chuyển hướng xe là tình huống giao thông mà xe rẽ trái hoặc rẽ phải hoặc quay đầu xe.
 
@@ -417,13 +417,13 @@ k) Trong hầm đường bộ.
 
 4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt,\*\* \*\*đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.
 
-**Điều 16. Lùi xe**
+### Điều 16. Lùi xe
 
 1. Khi lùi xe, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn.
 
 2. Không được lùi xe ở đường một chiều, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc.
 
-**Điều 17. Tránh xe đi ngược chiều**
+### Điều 17. Tránh xe đi ngược chiều
 
 1. Trên đường không phân chia thành hai chiều xe chạy riêng biệt, hai xe đi ngược chiều tránh nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.
 
@@ -435,7 +435,7 @@ b) Xe xuống dốc phải nhường đường cho xe lên dốc;
 
 c) Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước.
 
-**Điều 18. Dừng xe, đỗ xe**
+### Điều 18. Dừng xe, đỗ xe
 
 1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác.
 
@@ -484,13 +484,13 @@ o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nướ
 
 7. Trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải đỗ xe, khi đỗ xe chiếm một phần đường xe chạy hoặc tại nơi không được phép đỗ, phải có báo hiệu bằng đèn khẩn cấp hoặc đặt biển cảnh báo về phía sau xe để người điều khiển phương tiện tham gia giao thông đường bộ khác biết.
 
-**Điều 19. Mở cửa xe**
+### Điều 19. Mở cửa xe
 
 1. Chỉ được mở cửa xe khi xe đã dừng, đỗ.
 
 2. Trước khi mở cửa xe, người mở cửa phải quan sát phía trước, phía sau và bên phía mở cửa xe, khi thấy an toàn mới được mở cửa xe, ra khỏi xe; không để cửa xe mở nếu không bảo đảm an toàn.
 
-**Điều 20. Sử dụng đèn **
+### Điều 20. Sử dụng đèn
 
 1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.
 
@@ -506,7 +506,7 @@ d) Khi chuyển hướng xe tại nơi đường giao nhau.
 
 3. Người lái xe, người điều khiển xe máy chuyên dùng khi thực hiện công việc trên đường bộ phải bật sáng đèn cảnh báo màu vàng.
 
-**Điều 21. Sử dụng tín hiệu còi **
+### Điều 21. Sử dụng tín hiệu còi
 
 1. Chỉ được sử dụng tín hiệu còi của phương tiện tham gia giao thông đường bộ trong các trường hợp sau đây:
 
@@ -516,7 +516,7 @@ b) Báo hiệu chuẩn bị vượt xe.
 
 2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.
 
-**Điều 22. Nhường đường tại nơi đường giao nhau**
+### Điều 22. Nhường đường tại nơi đường giao nhau
 
 Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây:
 
@@ -526,7 +526,7 @@ Khi đến gần đường giao nhau, người điều khiển phương tiện t
 
 3. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên trái.
 
-**Điều 23. Qua phà, qua cầu phao**
+### Điều 23. Qua phà, qua cầu phao
 
 1. Khi đến bến phà, cầu phao, các xe phải xếp hàng theo quy định, không làm cản trở giao thông.
 
@@ -556,7 +556,7 @@ b) Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo ch
 
 c) Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải tuân thủ hướng dẫn của người điều khiển giao thông.
 
-**Điều 24. Giao thông tại đường ngang, cầu chung đường sắt**
+### Điều 24. Giao thông tại đường ngang, cầu chung đường sắt
 
 1. Khi có hiệu lệnh của nhân viên gác chắn, đèn đỏ sáng nhấp nháy, chuông kêu, chắn đường bộ đang dịch chuyển hoặc đã đóng, người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình, trước vạch dừng xe.
 
@@ -564,7 +564,7 @@ c) Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải t
 
 3. Khi phương tiện tham gia giao thông đường bộ bị hư hỏng, bị tai nạn hoặc hàng hóa rơi đổ trên đường ngang, cầu chung đường sắt mà không thể di chuyển ngay khỏi phạm vi an toàn đường sắt, người điều khiển phương tiện tham gia giao thông đường bộ và người có mặt phải ngay lập tức báo hiệu để dừng tàu, thực hiện các biện pháp bảo đảm an toàn.
 
-**Điều 25. Giao thông trên đường cao tốc**
+### Điều 25. Giao thông trên đường cao tốc
 
 1. Người lái xe, người điều khiển xe máy chuyên dùng\*\* \*\*trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ sau đây:
 
@@ -580,7 +580,7 @@ d) Các quy tắc giao thông đường bộ khác quy định tại Chương n�
 
 3. Xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn tốc độ tối thiểu quy định đối với đường cao tốc, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.
 
-**Điều 26. Giao thông trong hầm đường bộ**
+### Điều 26. Giao thông trong hầm đường bộ
 
 Người điều khiển phương tiện tham gia giao thông đường bộ khi điều khiển phương tiện trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ sau đây:
 
@@ -590,7 +590,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
 3. Các quy tắc giao thông đường bộ khác quy định tại Chương này.
 
-**Điều 27. Xe ưu tiên**
+### Điều 27. Xe ưu tiên
 
 1. Xe ưu tiên\_ \_gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang.
 
@@ -622,7 +622,7 @@ c) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, c�
 
 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.
 
-**Điều 28. Trường hợp chở người trên xe ô tô chở hàng**
+### Điều 28. Trường hợp chở người trên xe ô tô chở hàng
 
 1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây:
 
@@ -636,7 +636,7 @@ d) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quy�
 
 2. Xe ô tô chở hàng mà chở người trong các trường hợp quy định tại khoản 1 Điều này phải bảo đảm an toàn khi tham gia giao thông đường bộ.
 
-**Điều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc**
+### Điều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
 
 1. Một xe ô tô chỉ được kéo theo một xe ô tô hoặc xe máy chuyên dùng khác khi xe được kéo không tự chạy được, trừ trường hợp quy định tại khoản 3 Điều 53 của Luật này và phải bảo đảm các quy định sau đây:
 
@@ -650,7 +650,7 @@ c) Phía trước của xe kéo và phía sau của xe được kéo phải có 
 
 3. Không được chở người trên xe được kéo, trừ người điều khiển; xe kéo rơ moóc, xe ô tô đầu kéo kéo sơ mi rơ moóc không được kéo thêm rơ moóc, sơ mi rơ moóc hoặc xe khác.
 
-**Điều 30. Người đi bộ; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ**
+### Điều 30. Người đi bộ; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ
 
 1. Người đi bộ phải tuân thủ các quy định sau đây:
 
@@ -672,7 +672,7 @@ d) Người mất năng lực hành vi dân sự khi đi trên đường bộ ph
 
 đ) Mọi người có trách nhiệm giúp đỡ trẻ em dưới 07 tuổi, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự khi đi qua đường.
 
-**Điều 31. Người điều khiển, người được chở, hàng hóa xếp trên xe thô sơ**
+### Điều 31. Người điều khiển, người được chở, hàng hóa xếp trên xe thô sơ
 
 1. Người điều khiển xe đạp, xe đạp máy chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người.
 
@@ -684,7 +684,7 @@ d) Người mất năng lực hành vi dân sự khi đi trên đường bộ ph
 
 5. Hàng hóa xếp trên xe thô sơ phải bảo đảm an toàn, không gây cản trở giao thông và che khuất tầm nhìn của người điều khiển. Hàng hóa xếp trên xe không vượt quá 1/3 chiều dài thân xe và không vượt quá 01 mét phía trước và phía sau xe; không vượt quá 0,4 mét mỗi bên bánh xe.
 
-**Điều 32. Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ**
+### Điều 32. Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ
 
 1. Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ phải cho vật nuôi đi sát mép đường bên phải; trường hợp cần cho vật nuôi đi ngang qua đường thì phải quan sát và chỉ được đi qua đường khi có đủ điều kiện an toàn; không được gây cản trở cho người và phương tiện tham gia giao thông đường bộ khác.
 
@@ -692,7 +692,7 @@ d) Người mất năng lực hành vi dân sự khi đi trên đường bộ ph
 
 3. Không được thả vật nuôi trên đường bộ.
 
-**Điều 33. Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy**
+### Điều 33. Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy
 
 1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người:
 
@@ -738,7 +738,7 @@ d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
 
 ## Chương III. PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 34. Phân loại phương tiện giao thông đường bộ**
+### Điều 34. Phân loại phương tiện giao thông đường bộ
 
 1. Xe cơ giới bao gồm:
 
@@ -792,7 +792,7 @@ e) Các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an
 
 6. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết Điều này; quy định dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường.
 
-**Điều 35. Điều kiện phương tiện tham gia giao thông đường bộ**
+### Điều 35. Điều kiện phương tiện tham gia giao thông đường bộ
 
 1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện sau đây:
 
@@ -810,7 +810,7 @@ b) Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trư�
 
 6. Ủy ban nhân dân cấp tỉnh quy định phạm vi hoạt động của xe thô sơ, xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ tại địa phương.
 
-**Điều 36. Biển số xe**
+### Điều 36. Biển số xe
 
 1. Biển số xe do cơ quan nhà nước có thẩm quyền cấp theo quy định tại Điều 37 và Điều 39 của Luật này; được gắn vào phương tiện giao thông đường bộ theo quy định của Luật này để phục vụ quản lý nhà nước.
 
@@ -844,7 +844,7 @@ c) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi th�
 
 4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.
 
-**Điều 37. Đấu giá biển số xe**
+### Điều 37. Đấu giá biển số xe
 
 1. Biển số xe đưa ra đấu giá là biển số xe ô tô, xe mô tô, xe gắn máy được quy định tại điểm c và điểm d khoản 2 Điều 36 của Luật này, được công khai để tổ chức, cá nhân lựa chọn đăng ký tham gia đấu giá. Biển số xe không được tổ chức, cá nhân lựa chọn để đăng ký tham gia đấu giá được chuyển vào hệ thống đăng ký, quản lý xe để đăng ký theo quy định của pháp luật.
 
@@ -860,7 +860,7 @@ c) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi th�
 
 7. Chính phủ quy định chi tiết Điều này; quy định bước giá, hình thức, phương thức, trình tự, thủ tục đấu giá biển số xe.
 
-**Điều 38. Quyền và nghĩa vụ của người trúng đấu giá biển số xe**
+### Điều 38. Quyền và nghĩa vụ của người trúng đấu giá biển số xe
 
 1. Người trúng đấu giá biển số xe có quyền sau đây:
 
@@ -884,7 +884,7 @@ c) Không được chuyển nhượng, trao đổi, tặng cho, để thừa k�
 
 3. Chính phủ quy định chi tiết Điều này.
 
-**Điều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ**
+### Điều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
 
 1. Việc cấp mới chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng phải bảo đảm các điều kiện sau đây:
 
@@ -940,7 +940,7 @@ e) Việc cấp đăng ký, cấp biển số xe không đúng quy định của
 
 8. Bộ trưởng Bộ Quốc phòng quy định trình tự, thủ tục cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ do Bộ Quốc phòng quản lý.
 
-**Điều 40. Niên hạn sử dụng của xe cơ giới **
+### Điều 40. Niên hạn sử dụng của xe cơ giới
 
 1. Niên hạn sử dụng của xe cơ giới được tính bắt đầu từ năm sản xuất xe đến hết ngày 31 tháng 12 của năm hết niên hạn sử dụng.
 
@@ -960,7 +960,7 @@ b) Xe cơ giới của quân đội, công an phục vụ mục đích quốc ph
 
 4. Chính phủ quy định chi tiết Điều này.
 
-**Điều 41. Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp**
+### Điều 41. Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp
 
 1. Đối tượng phải bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường bao gồm:
 
@@ -988,7 +988,7 @@ c) Kiểm tra, đánh giá, giám sát việc bảo đảm chất lượng an to
 
 8. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về trình tự, thủ tục chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp thuộc phạm vi quản lý của Bộ Quốc phòng, Bộ Công an.
 
-**Điều 42. Bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ**
+### Điều 42. Bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
 
 1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải được kiểm định theo quy định của pháp luật.
 
@@ -1018,7 +1018,7 @@ h) Yêu cầu kỹ thuật đối với xe cơ giới, xe máy chuyên dùng thu
 
 6. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về trình tự, thủ tục kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới cải tạo, xe máy chuyên dùng cải tạo thuộc phạm vi quản lý của Bộ Quốc phòng, Bộ Công an.
 
-**Điều 43. Trách nhiệm của cơ sở đăng kiểm, chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng**
+### Điều 43. Trách nhiệm của cơ sở đăng kiểm, chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng
 
 1. Cơ sở đăng kiểm là tổ chức cung cấp dịch vụ công thực hiện kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, xe máy chuyên dùng được tổ chức, hoạt động theo quy định của Chính phủ.
 
@@ -1036,7 +1036,7 @@ d) Tổ chức, cá nhân vi phạm pháp luật về trật tự, an toàn giao
 
 đ) Chấp hành quy định khác của pháp luật khi tham gia giao thông đường bộ.
 
-**Điều 44. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện vận tải đường bộ trong đô thị **
+### Điều 44. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện vận tải đường bộ trong đô thị
 
 1. Xe buýt, xe chở người bốn bánh có gắn động cơ phải hoạt động đúng tuyến, đúng lịch trình, thời gian được phép hoạt động và dừng xe, đỗ xe đúng nơi quy định.
 
@@ -1048,7 +1048,7 @@ d) Tổ chức, cá nhân vi phạm pháp luật về trật tự, an toàn giao
 
 5. Ủy ban nhân dân cấp tỉnh quy định về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận chuyển hành khách công cộng có thiết bị hỗ trợ cho người khuyết tật trong đô thị.
 
-**Điều 45. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hành khách **
+### Điều 45. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hành khách
 
 1. Việc vận chuyển hành khách bằng xe ô tô phải tuân thủ các quy định sau đây:
 
@@ -1080,7 +1080,7 @@ e) Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ 
 
 g) Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.
 
-**Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh**
+### Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh
 
 1. Xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh phải đáp ứng các yêu cầu sau đây:
 
@@ -1098,7 +1098,7 @@ b) Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có 
 
 6. Xe đưa đón trẻ em mầm non, học sinh được ưu tiên trong tổ chức phân luồng, điều tiết giao thông, bố trí nơi dừng xe, đỗ xe tại khu vực trường học và tại các điểm trên lộ trình đưa đón trẻ em mầm non, học sinh.
 
-**Điều 47. Bảo đảm trật tự, an toàn giao thông đường bộ trong vận chuyển hành khách, hàng hóa bằng xe mô tô, xe gắn máy, xe thô sơ**
+### Điều 47. Bảo đảm trật tự, an toàn giao thông đường bộ trong vận chuyển hành khách, hàng hóa bằng xe mô tô, xe gắn máy, xe thô sơ
 
 1. Việc sử dụng xe mô tô, xe gắn máy, xe thô sơ để vận chuyển hành khách, hàng hóa phải thực hiện các quy định sau đây:
 
@@ -1116,7 +1116,7 @@ e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe t
 
 2. Ủy ban nhân dân cấp tỉnh quy định về sử dụng xe mô tô, xe gắn máy, xe thô sơ để kinh doanh vận chuyển hành khách, hàng hóa tại địa phương.
 
-**Điều 48. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa**
+### Điều 48. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa
 
 1. Xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa phải đáp ứng các yêu cầu sau đây:
 
@@ -1128,7 +1128,7 @@ c) Bảo đảm đúng thời gian và phạm vi hoạt động.
 
 2. Ủy ban nhân dân cấp tỉnh quy định thời gian, phạm vi hoạt động vận chuyển hành khách bằng xe bốn bánh có gắn động cơ và hoạt động vận chuyển hàng hóa bằng xe chở hàng bốn bánh có gắn động cơ tại địa phương.
 
-**Điều 49. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa **
+### Điều 49. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa
 
 1. Khi vận chuyển hàng hoá bằng xe ô tô, người lái xe phải thực hiện các quy định sau đây:
 
@@ -1146,7 +1146,7 @@ e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe t
 
 2. Lực lượng Cảnh sát giao thông chịu trách nhiệm tổ chức tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa quá tải lưu hành trên đường bộ.
 
-**Điều 50. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển động vật sống, thực phẩm tươi sống**
+### Điều 50. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển động vật sống, thực phẩm tươi sống
 
 1. Việc vận chuyển động vật sống phải bảo đảm các yêu cầu sau đây:
 
@@ -1162,7 +1162,7 @@ a) Người lái xe phải mang đủ giấy tờ theo quy định của pháp l
 
 b) Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, an toàn thực phẩm, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
 
-**Điều 51. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển hàng hoá nguy hiểm**
+### Điều 51. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển hàng hoá nguy hiểm
 
 1. Hàng hóa nguy hiểm là hàng hóa có chứa các chất hoặc vật phẩm nguy hiểm khi chở trên đường bộ có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
 
@@ -1176,7 +1176,7 @@ b) Trong quá trình vận chuyển phải chấp hành các quy định của p
 
 6. Chính phủ quy định chi tiết Điều này.
 
-**Điều 52. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ**
+### Điều 52. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ
 
 1. Xe quá khổ giới hạn bao gồm:
 
@@ -1224,7 +1224,7 @@ e) Xe bánh xích được phép lưu hành trên đường bộ thì phải có
 
 9. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết điểm b khoản 3 Điều này; quy định về tải trọng, khổ giới hạn của đường bộ; quy định lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; quy định trình tự, thủ tục cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích.
 
-**Điều 53. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe vận chuyển hàng siêu trường, siêu trọng**
+### Điều 53. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe vận chuyển hàng siêu trường, siêu trọng
 
 1. Hàng siêu trường, siêu trọng là hàng không thể chia nhỏ, tháo rời, khi vận chuyển trên đường bộ làm cho phương tiện hoặc tổ hợp phương tiện bị vượt quá giới hạn cho phép tham gia giao thông đường bộ về kích thước, khối lượng theo quy định của pháp luật.
 
@@ -1240,7 +1240,7 @@ e) Xe bánh xích được phép lưu hành trên đường bộ thì phải có
 
 7. Bộ trưởng Bộ Giao thông vận tải quy định cụ thể về hàng siêu trường, siêu trọng; quy định việc vận chuyển hàng siêu trường, siêu trọng và việc cấp giấy phép lưu hành xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ.
 
-**Điều 54. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe cứu hộ giao thông đường bộ**
+### Điều 54. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe cứu hộ giao thông đường bộ
 
 1. Xe cứu hộ giao thông đường bộ là xe ô tô chuyên dùng có trang bị dụng cụ, thiết bị dùng để cứu hộ, hỗ trợ di chuyển hoặc chuyên chở các phương tiện giao thông đường bộ bị hư hỏng, bị sự cố.
 
@@ -1248,7 +1248,7 @@ e) Xe bánh xích được phép lưu hành trên đường bộ thì phải có
 
 3. Xe cứu hộ giao thông đường bộ phải tuân thủ quy định của pháp luật về khối lượng hàng hóa chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.
 
-**Điều 55. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam; xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch**
+### Điều 55. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam; xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch
 
 1. Xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam, xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch phải được cơ quan có thẩm quyền cấp phép.
 
@@ -1268,7 +1268,7 @@ d) Tổ chức, cá nhân đưa xe có tay lái ở bên phải vào Việt Nam 
 
 ## Chương IV. NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ**
+### Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ
 
 1. Người lái xe tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp, trừ người lái xe gắn máy quy định tại khoản 4 Điều này. Khi tham gia giao thông đường bộ, người lái xe phải mang theo các giấy tờ sau đây:
 
@@ -1298,7 +1298,7 @@ d) Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trư�
 
 5. Người tập lái xe ô tô, người dự sát hạch lái xe ô tô khi tham gia giao thông đường bộ phải thực hành trên xe tập lái, xe sát hạch trên tuyến đường tập lái, tuyến đường sát hạch, có giáo viên dạy lái hoặc sát hạch viên bảo trợ tay lái. Giáo viên dạy lái, sát hạch viên phải mang theo các loại giấy tờ quy định tại khoản 1 Điều này.
 
-**Điều 57. Giấy phép lái xe**
+### Điều 57. Giấy phép lái xe
 
 1. Giấy phép lái xe bao gồm các hạng sau đây:
 
@@ -1376,7 +1376,7 @@ d) Người Việt Nam hoặc người nước ngoài có thẻ thường trú h
 
 9. Bộ trưởng Bộ Giao thông vận tải quy định mẫu giấy phép lái xe và giấy phép lái xe quốc tế, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe, giấy phép lái xe quốc tế; đối với mẫu giấy phép lái xe, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe của lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh do Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định.
 
-**Điều 58. Điểm của giấy phép lái xe **
+### Điều 58. Điểm của giấy phép lái xe
 
 1. Điểm của giấy phép lái xe được dùng để quản lý việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ của người lái xe trên hệ thống cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ, bao gồm 12 điểm. Số điểm trừ mỗi lần vi phạm tùy thuộc tính chất, mức độ của hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Dữ liệu về điểm trừ giấy phép lái xe của người vi phạm sẽ được cập nhật vào hệ thống cơ sở dữ liệu ngay sau khi quyết định xử phạt có hiệu lực thi hành và thông báo cho người bị trừ điểm giấy phép lái xe biết.
 
@@ -1390,7 +1390,7 @@ d) Người Việt Nam hoặc người nước ngoài có thẻ thường trú h
 
 6. Chính phủ quy định chi tiết khoản 1 Điều này; quy định trình tự, thủ tục, thẩm quyền trừ điểm, phục hồi điểm giấy phép lái xe; quy định lộ trình thực hiện Điều này. Bộ trưởng Bộ Công an quy định chi tiết khoản 3 Điều này.
 
-**Điều 59. Tuổi, sức khỏe của người điều khiển phương tiện tham gia giao thông đường bộ**
+### Điều 59. Tuổi, sức khỏe của người điều khiển phương tiện tham gia giao thông đường bộ
 
 1. Độ tuổi của người lái xe, người điều khiển xe máy chuyên dùng được quy định như sau:
 
@@ -1410,7 +1410,7 @@ e) Tuổi tối đa của người lái xe ô tô chở người (kể cả xe b
 
 3. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định độ tuổi của người lái xe trong lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.
 
-**Điều 60. Đào tạo lái xe**
+### Điều 60. Đào tạo lái xe
 
 1. Người có nhu cầu được cấp giấy phép lái xe phải được đào tạo nội dung lý thuyết và thực hành theo chương trình đào tạo quy định cho từng hạng giấy phép lái xe.
 
@@ -1440,7 +1440,7 @@ e) Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C
 
 8. Bộ trưởng Bộ Giao thông vận tải quy định hình thức, nội dung, chương trình đào tạo lái xe, thời gian lái xe an toàn cho từng hạng giấy phép lái xe quy định tại khoản 4 Điều này và quy định tiêu chuẩn của cơ sở đào tạo lái xe mô tô; đối với cơ sở đào tạo, tổ chức đào tạo lái xe cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh do Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định.
 
-**Điều 61. Sát hạch lái xe**
+### Điều 61. Sát hạch lái xe
 
 1. Người đã hoàn thành chương trình đào tạo lái xe, có độ tuổi, sức khỏe theo quy định tại Điều 59 của Luật này được đăng ký để tham dự kỳ sát hạch lái xe.
 
@@ -1456,7 +1456,7 @@ e) Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C
 
 7. Bộ trưởng Bộ Giao thông vận tải quy định hình thức, nội dung, quy trình sát hạch để cấp giấy phép lái xe; điều kiện, tiêu chuẩn sát hạch viên, tổ chức tập huấn, cấp thẻ sát hạch viên; tiêu chuẩn kỹ thuật sân tập lái để sát hạch lái xe mô tô, quy chuẩn kỹ thuật quốc gia về trung tâm sát hạch lái xe cơ giới đường bộ; đối với sát hạch lái xe cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh do Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định.
 
-**Điều 62. Cấp, đổi, cấp lại và thu hồi giấy phép lái xe**
+### Điều 62. Cấp, đổi, cấp lại và thu hồi giấy phép lái xe
 
 1. Giấy phép lái xe được cấp cho người tham dự kỳ sát hạch lái xe có kết quả đạt yêu cầu.
 
@@ -1490,7 +1490,7 @@ c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời h
 
 7. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về cấp, đổi, cấp lại, thu hồi giấy phép lái xe cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh. Bộ trưởng Bộ Lao động Thương binh và Xã hội quy định điều kiện, trình tự, thủ tục cấp, đổi, cấp lại, thu hồi chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có giấy phép lái xe quy định tại các điểm d, e, g, h, i, k, l, m và n khoản 3 Điều 89 của Luật này.
 
-**Điều 63. Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng**
+### Điều 63. Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng
 
 1. Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ là giấy chứng nhận cấp cho người có đủ điều kiện theo quy định của pháp luật để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.
 
@@ -1502,7 +1502,7 @@ c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời h
 
 5. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định hình thức, nội dung, chương trình bồi dưỡng kiến thức pháp luật về giao thông đường bộ; tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.
 
-**Điều 64. Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ**
+### Điều 64. Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ
 
 1. Thời gian lái xe của người lái xe ô tô không quá 10 giờ trong một ngày và không quá 48 giờ trong một tuần; lái xe liên tục không quá 04 giờ và bảo đảm các quy định có liên quan của Bộ luật Lao động.
 
@@ -1510,7 +1510,7 @@ c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời h
 
 ## Chương V. TUẦN TRA, KIỂM SOÁT VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 65. Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ**
+### Điều 65. Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ
 
 1. Hoạt động tuần tra, kiểm soát bao gồm:
 
@@ -1580,7 +1580,7 @@ d) Chịu trách nhiệm về quyết định, hành vi của mình theo quy đ�
 
 8. Xe cơ giới quân sự, xe máy chuyên dùng quân sự và người điều khiển xe cơ giới quân sự, xe máy chuyên dùng quân sự tham gia giao thông đường bộ phải chấp hành yêu cầu kiểm tra, kiểm soát về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông và yêu cầu kiểm tra về điều lệnh nội vụ, kiểm tra việc chấp hành pháp luật của lực lượng kiểm soát quân sự, kiểm tra xe quân sự. Hoạt động kiểm tra điều lệnh nội vụ và việc chấp hành pháp luật của lực lượng kiểm soát quân sự, kiểm tra xe quân sự trên đường bộ thực hiện theo quy định của Bộ trưởng Bộ Quốc phòng.
 
-**Điều 66. Căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát**
+### Điều 66. Căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát
 
 Cảnh sát giao thông được dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát khi có một trong các căn cứ sau đây:
 
@@ -1592,7 +1592,7 @@ Cảnh sát giao thông được dừng phương tiện tham gia giao thông đ�
 
 4. Có tin báo, tố giác, phản ánh, kiến nghị, đề nghị của cơ quan, tổ chức, cá nhân về tội phạm, hành vi vi phạm pháp luật khác.
 
-**Điều 67. Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ**
+### Điều 67. Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ
 
 1. Vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống camera trên tuyến giao thông, trong đô thị; công trình, hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra, kiểm soát tải trọng xe cơ giới.
 
@@ -1608,7 +1608,7 @@ Cảnh sát giao thông được dừng phương tiện tham gia giao thông đ�
 
 7. Biện pháp khác theo quy định của pháp luật.
 
-**Điều 68. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách **
+### Điều 68. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách
 
 1. Khi thực hiện nhiệm vụ tuần tra, kiểm soát, chỉ huy, điều khiển giao thông đường bộ, giải quyết tai nạn giao thông đường bộ, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó.
 
@@ -1618,7 +1618,7 @@ Cảnh sát giao thông được dừng phương tiện tham gia giao thông đ�
 
 Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường đề nghị tổ chức, cá nhân nước ngoài hỗ trợ, giúp đỡ để thực hiện nhiệm vụ theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**Điều 69. Di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ**
+### Điều 69. Di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ
 
 1. Khi phát hiện phương tiện giao thông đường bộ vi phạm quy định dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ nhưng người điều khiển phương tiện tham gia giao thông đường bộ, chủ phương tiện giao thông đường bộ không có mặt tại nơi xảy ra vi phạm hoặc có mặt nhưng không chấp hành yêu cầu của Cảnh sát giao thông thì Cảnh sát giao thông thực hiện việc di chuyển phương tiện vi phạm ra khỏi vị trí dừng, đỗ trên.
 
@@ -1630,7 +1630,7 @@ Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao 
 
 4. Trong quá trình thực hiện việc di chuyển phương tiện theo quy định tại khoản 1 Điều này, Cảnh sát giao thông, tổ chức, cá nhân được thuê thực hiện việc di chuyển phương tiện phải có trách nhiệm bảo đảm an toàn cho phương tiện được di chuyển.
 
-**Điều 70. Trang bị, sử dụng phương tiện, thiết bị, vũ khí, công cụ hỗ trợ khi tuần tra, kiểm soát**
+### Điều 70. Trang bị, sử dụng phương tiện, thiết bị, vũ khí, công cụ hỗ trợ khi tuần tra, kiểm soát
 
 1. Lực lượng Cảnh sát giao thông được trang bị vũ khí, công cụ hỗ trợ theo quy định của pháp luật về quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ; phương tiện giao thông đường bộ, phương tiện, thiết bị kỹ thuật nghiệp vụ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ. Lực lượng khác trong Công an nhân dân tham gia phối hợp với Cảnh sát giao thông thực hiện tuần tra, kiểm soát được trang bị phương tiện, thiết bị kỹ thuật nghiệp vụ, vũ khí, công cụ hỗ trợ phù hợp với nhiệm vụ được giao theo quy định của pháp luật.
 
@@ -1638,7 +1638,7 @@ Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao 
 
 3. Vũ khí, công cụ hỗ trợ trang bị được quản lý theo quy định của pháp luật về quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ; phương tiện, thiết bị kỹ thuật nghiệp vụ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ được quản lý theo quy định của Luật này, pháp luật về xử lý vi phạm hành chính và các quy định khác của pháp luật có liên quan.
 
-**Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới**
+### Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới
 
 1. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ được quy định như sau:
 
@@ -1654,7 +1654,7 @@ c) Dữ liệu thu thập được từ hệ thống giám sát bảo đảm an 
 
 4. Bộ trưởng Bộ Công an ban hành quy chuẩn kỹ thuật quốc gia về hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ và quy chuẩn kỹ thuật quốc gia về thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; quy định việc xây dựng, quản lý, vận hành, khai thác và sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; quy định việc quản lý, vận hành, sử dụng hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; quy định việc trang bị, lắp đặt, quản lý, vận hành, sử dụng hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới.
 
-**Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ**
+### Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ
 
 1. Người điều khiển phương tiện tham gia giao thông đường bộ có quyền sau đây:
 
@@ -1676,7 +1676,7 @@ b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đư�
 
 c) Hỗ trợ, hợp tác với lực lượng bảo đảm trật tự, an toàn giao thông đường bộ trong quá trình phát hiện, ngăn chặn và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác.
 
-**Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ**
+### Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ
 
 1. Khi người tham gia giao thông đường bộ không chấp hành yêu cầu kiểm tra, kiểm soát, có hành vi cản trở, chống người thi hành công vụ thì người thi hành công vụ thực hiện các biện pháp sau đây:
 
@@ -1690,7 +1690,7 @@ c) Trường hợp người vi phạm có hành vi chống người thi hành c�
 
 ## Chương VI. CHỈ HUY, ĐIỀU KHIỂN GIAO THÔNG ĐƯỜNG BỘ BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 74. Chỉ huy, điều khiển giao thông đường bộ**
+### Điều 74. Chỉ huy, điều khiển giao thông đường bộ
 
 1. Chỉ huy giao thông đường bộ là tổng hợp các hoạt động thu thập, phân tích, đánh giá các yếu tố có liên quan để đưa ra các giải pháp điều hành hoạt động giao thông đường bộ trật tự, an toàn, thông suốt, được thực hiện thông qua người có thẩm quyền chỉ huy giao thông; trung tâm chỉ huy giao thông; thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ.
 
@@ -1698,7 +1698,7 @@ c) Trường hợp người vi phạm có hành vi chống người thi hành c�
 
 3. Bộ trưởng Bộ Công an quy định chi tiết Điều này.
 
-**Điều 75. Trung tâm chỉ huy giao thông**
+### Điều 75. Trung tâm chỉ huy giao thông
 
 1. Trung tâm chỉ huy giao thông bao gồm các công trình hạ tầng kỹ thuật, hệ thống thiết bị công nghệ và cơ sở dữ liệu do lực lượng Cảnh sát giao thông quản lý, vận hành, khai thác.
 
@@ -1726,7 +1726,7 @@ h) Cơ sở dữ liệu khác theo quy định tại khoản 1 Điều 7 của L
 
 5. Bộ trưởng Bộ Công an ban hành quy chuẩn kỹ thuật quốc gia về trung tâm chỉ huy giao thông; quy định việc xây dựng, quản lý, hoạt động của trung tâm chỉ huy giao thông.
 
-**Điều 76. Giải quyết tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ**
+### Điều 76. Giải quyết tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ
 
 1. Tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ bao gồm: ùn tắc giao thông; tai nạn giao thông đường bộ; hư hỏng kết cấu hạ tầng giao thông đường bộ; thiên tai, cháy, nổ gây mất an toàn giao thông đường bộ; tình huống phức tạp về an ninh, trật tự trên đường bộ.
 
@@ -1744,7 +1744,7 @@ d) Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhi�
 
 đ) Thực hiện các biện pháp khác theo quy định của pháp luật.
 
-**Điều 77. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác **
+### Điều 77. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
 
 1. Lòng đường được sử dụng cho mục đích giao thông; vỉa hè được sử dụng cho người đi bộ. Trường hợp cần thiết sử dụng tạm thời lòng đường, vỉa hè phục vụ sự kiện chính trị, hoạt động văn hoá, thể thao và mục đích khác, cơ quan, tổ chức, cá nhân có nhu cầu sử dụng tạm thời lòng đường, vỉa hè phải có phương án sử dụng tạm thời lòng đường, vỉa hè và được cơ quan có thẩm quyền cho phép; cơ quan cho phép sử dụng tạm thời lòng đường, vỉa hè gửi thông báo ngay cho cơ quan Cảnh sát giao thông.
 
@@ -1760,7 +1760,7 @@ c) Giải quyết các tình huống gây mất an ninh, trật tự, an toàn g
 
 4. Chính phủ quy định chi tiết Điều này.
 
-**Điều 78. Giải quyết, khắc phục ùn tắc giao thông**
+### Điều 78. Giải quyết, khắc phục ùn tắc giao thông
 
 1. Khi xảy ra tình huống đột xuất ùn tắc giao thông, Cảnh sát giao thông phải tiến hành các biện pháp giải quyết theo quy định tại khoản 3 Điều 76 của Luật này.
 
@@ -1772,7 +1772,7 @@ b) Cơ quan quản lý đường bộ chủ trì, phối hợp với cơ quan, t
 
 c) Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với cơ quan Cảnh sát giao thông, cơ quan quản lý đường bộ thực hiện các biện pháp phòng ngừa, giải quyết, khắc phục ùn tắc giao thông.
 
-**Điều 79. Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ**
+### Điều 79. Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ
 
 1. Khi tiếp nhận thông tin về nguy cơ hư hỏng kết cấu hạ tầng giao thông đường bộ theo quy định tại khoản 1 Điều 76 của Luật này hoặc trực tiếp phát hiện nguy cơ mất an toàn đối với công trình đường bộ, các bất hợp lý về tổ chức giao thông, cơ quan Cảnh sát giao thông có trách nhiệm sau đây:
 
@@ -1788,7 +1788,7 @@ b) Chịu trách nhiệm nếu để xảy ra hậu quả do không xử lý, kh
 
 ## Chương VII. GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ **
+### Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ
 
 1. Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm sau đây:
 
@@ -1814,7 +1814,7 @@ d) Tham gia bảo vệ tài sản của người bị nạn;
 
 4. Người điều khiển phương tiện tham gia giao thông đường bộ khác khi đi qua nơi xảy ra vụ tai nạn giao thông đường bộ có trách nhiệm chở người bị thương đi cấp cứu. Xe ưu tiên, xe chở người được hưởng quyền ưu đãi, miễn trừ ngoại giao không bắt buộc thực hiện quy định tại khoản này.
 
-**Điều 81. Phát hiện, tiếp nhận, xử lý tin báo tai nạn giao thông đường bộ**
+### Điều 81. Phát hiện, tiếp nhận, xử lý tin báo tai nạn giao thông đường bộ
 
 1. Cơ quan, tổ chức, cá nhân khi phát hiện vụ tai nạn giao thông đường bộ phải báo ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất.
 
@@ -1828,7 +1828,7 @@ d) Tham gia bảo vệ tài sản của người bị nạn;
 
 6. Bộ trưởng Bộ Công an quy định chi tiết khoản 2 Điều này.
 
-**Điều 82. Cứu nạn, cứu hộ khi xảy ra vụ tai nạn giao thông đường bộ **
+### Điều 82. Cứu nạn, cứu hộ khi xảy ra vụ tai nạn giao thông đường bộ
 
 1. Cơ quan Công an chủ trì, phối hợp với các cơ quan, tổ chức, cá nhân có liên quan tổ chức lực lượng và công cụ, phương tiện nhanh chóng có mặt tại hiện trường để cứu nạn, cứu hộ. Căn cứ vào tính chất, mức độ, hậu quả vụ tai nạn giao thông đường bộ, cơ quan Công an có trách nhiệm báo cáo cơ quan có thẩm quyền để huy động lực lượng, phương tiện giải quyết vụ tai nạn giao thông đường bộ trong trường hợp cần thiết.
 
@@ -1840,7 +1840,7 @@ d) Tham gia bảo vệ tài sản của người bị nạn;
 
 5. Trường hợp tai nạn giao thông đường bộ liên quan đến phương tiện giao thông đường bộ chở hàng hóa nguy hiểm, cơ quan Công an chủ trì giải quyết vụ việc phải thông báo ngay cho đơn vị chức năng về giải quyết hóa chất độc hại, vật liệu cháy, nổ; phong tỏa hiện trường nơi xảy ra tai nạn giao thông đường bộ; tổ chức phân luồng giao thông, cấm người, phương tiện đi vào khu vực tai nạn.
 
-**Điều 83. Điều tra, giải quyết tai nạn giao thông đường bộ **
+### Điều 83. Điều tra, giải quyết tai nạn giao thông đường bộ
 
 1. Nguyên tắc điều tra, giải quyết tai nạn giao thông đường bộ được quy định như sau:
 
@@ -1876,7 +1876,7 @@ h) Các hoạt động khác theo quy định của pháp luật.
 
 4. Bộ trưởng Bộ Công an quy định quy trình điều tra, giải quyết tai nạn giao thông đường bộ của Cảnh sát giao thông.
 
-**Điều 84. Thống kê tai nạn giao thông đường bộ**
+### Điều 84. Thống kê tai nạn giao thông đường bộ
 
 1. Thông tin về tai nạn giao thông đường bộ phải được thống kê chính xác, đầy đủ, kịp thời; kết quả thống kê, tổng hợp về tai nạn giao thông đường bộ phục vụ nghiên cứu, đề ra các giải pháp phòng ngừa tai nạn giao thông đường bộ.
 
@@ -1888,7 +1888,7 @@ h) Các hoạt động khác theo quy định của pháp luật.
 
 5. Bộ trưởng Bộ Công an quy định chi tiết Điều này.
 
-**Điều 85. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ**
+### Điều 85. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ
 
 1. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ là quỹ tài chính nhà nước ngoài ngân sách, được hình thành ở trung ương để huy động nguồn lực xã hội hỗ trợ giảm thiểu thiệt hại tai nạn giao thông đường bộ.
 
@@ -1916,7 +1916,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 ## Chương VIII. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
-**Điều 86. Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ**
+### Điều 86. Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ
 
 1. Xây dựng, ban hành và tổ chức thực hiện chính sách, chiến lược, chương trình, kế hoạch, đề án, dự án về trật tự, an toàn giao thông đường bộ.
 
@@ -1944,7 +1944,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 13. Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ.
 
-**Điều 87. Trách nhiệm quản lý nhà nước về trật tự, an toàn giao thông đường bộ**
+### Điều 87. Trách nhiệm quản lý nhà nước về trật tự, an toàn giao thông đường bộ
 
 1. Chính phủ thống nhất quản lý nhà nước về trật tự, an toàn giao thông đường bộ.
 
@@ -1964,7 +1964,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 ## Chương IX. ĐIỀU KHOẢN THI HÀNH
 
-**Điều 88. Hiệu lực thi hành**
+### Điều 88. Hiệu lực thi hành
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 Điều này.
 
@@ -1974,7 +1974,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 4. Nghị quyết số 73/2022/QH15 của Quốc hội về thí điểm đấu giá biển số xe ô tô hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại khoản 7 Điều 89 của Luật này.
 
-**Điều 89. Quy định chuyển tiếp**
+### Điều 89. Quy định chuyển tiếp
 
 1. Giấy phép lái xe được cấp trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng theo thời hạn ghi trên giấy phép lái xe.
 
