@@ -146,25 +146,25 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 1. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm:
 
-a) Cơ sở dữ liệu về đăng ký, quản lý xe cơ giới, xe máy chuyên dùng;
+   a. Cơ sở dữ liệu về đăng ký, quản lý xe cơ giới, xe máy chuyên dùng;
 
-b) Cơ sở dữ liệu về đăng kiểm xe cơ giới, xe máy chuyên dùng;
+   b. Cơ sở dữ liệu về đăng kiểm xe cơ giới, xe máy chuyên dùng;
 
-c) Cơ sở dữ liệu về đào tạo, sát hạch, cấp giấy phép lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ;
+   c. Cơ sở dữ liệu về đào tạo, sát hạch, cấp giấy phép lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ;
 
-d) Cơ sở dữ liệu về người điều khiển xe cơ giới, xe máy chuyên dùng;
+   d. Cơ sở dữ liệu về người điều khiển xe cơ giới, xe máy chuyên dùng;
 
-đ) Cơ sở dữ liệu về bảo hiểm của chủ xe cơ giới, xe máy chuyên dùng;
+   đ. Cơ sở dữ liệu về bảo hiểm của chủ xe cơ giới, xe máy chuyên dùng;
 
-e) Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ;
+   e. Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ;
 
-g) Cơ sở dữ liệu về tai nạn giao thông đường bộ;
+   g. Cơ sở dữ liệu về tai nạn giao thông đường bộ;
 
-h) Cơ sở dữ liệu về hành trình của phương tiện giao thông đường bộ, hình ảnh người lái xe theo quy định của Luật này;
+   h. Cơ sở dữ liệu về hành trình của phương tiện giao thông đường bộ, hình ảnh người lái xe theo quy định của Luật này;
 
-i) Cơ sở dữ liệu về quản lý thời gian điều khiển phương tiện của người lái xe theo quy định của Luật này;
+   i. Cơ sở dữ liệu về quản lý thời gian điều khiển phương tiện của người lái xe theo quy định của Luật này;
 
-k) Cơ sở dữ liệu khác liên quan đến công tác bảo đảm trật tự, an toàn giao thông đường bộ.
+   k. Cơ sở dữ liệu khác liên quan đến công tác bảo đảm trật tự, an toàn giao thông đường bộ.
 
 2. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ là cơ sở dữ liệu dùng chung; được kết nối, chia sẻ với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu đường bộ và các cơ sở dữ liệu khác có liên quan.
 
@@ -176,17 +176,17 @@ k) Cơ sở dữ liệu khác liên quan đến công tác bảo đảm trật t
 
 2. Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm:
 
-a) Ký kết điều ước quốc tế, thỏa thuận quốc tế có liên quan đến trật tự, an toàn giao thông đường bộ;
+   a. Ký kết điều ước quốc tế, thỏa thuận quốc tế có liên quan đến trật tự, an toàn giao thông đường bộ;
 
-b) Trao đổi thông tin, chuyển giao công nghệ có liên quan đến trật tự, an toàn giao thông đường bộ;
+   b. Trao đổi thông tin, chuyển giao công nghệ có liên quan đến trật tự, an toàn giao thông đường bộ;
 
-c) Đào tạo, tập huấn, nâng cao năng lực cho lực lượng bảo đảm trật tự, an toàn giao thông đường bộ;
+   c. Đào tạo, tập huấn, nâng cao năng lực cho lực lượng bảo đảm trật tự, an toàn giao thông đường bộ;
 
-d) Tăng cường điều kiện vật chất để bảo đảm trật tự, an toàn giao thông đường bộ;
+   d. Tăng cường điều kiện vật chất để bảo đảm trật tự, an toàn giao thông đường bộ;
 
-đ) Giải quyết tai nạn giao thông đường bộ;
+   đ. Giải quyết tai nạn giao thông đường bộ;
 
-e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+   e. Thực hiện nội dung hợp tác quốc tế khác theo quy định của pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 3. Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan giúp Chính phủ đàm phán, ký kết điều ước quốc tế, thỏa thuận quốc tế hoặc đề xuất cấp có thẩm quyền ký kết điều ước quốc tế, thỏa thuận quốc tế về trật tự, an toàn giao thông đường bộ; chủ trì, phối hợp với các Bộ, ngành liên quan thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ.
 
@@ -264,46 +264,46 @@ e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của 
 
 2. Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự ưu tiên từ trên xuống dưới như sau:
 
-a) Hiệu lệnh của người điều khiển giao thông;
+   a. Hiệu lệnh của người điều khiển giao thông;
 
-b) Tín hiệu đèn giao thông;
+   b. Tín hiệu đèn giao thông;
 
-c) Biển báo hiệu đường bộ;
+   c. Biển báo hiệu đường bộ;
 
-d) Vạch kẻ đường và các dấu hiệu khác trên mặt đường;
+   d. Vạch kẻ đường và các dấu hiệu khác trên mặt đường;
 
-đ) Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, \
-cột Km, cọc H;
+   đ. Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, \
+   cột Km, cọc H;
 
-e) Thiết bị âm thanh báo hiệu đường bộ.
+   e. Thiết bị âm thanh báo hiệu đường bộ.
 
 3. Hiệu lệnh của người điều khiển giao thông được quy định như sau:
 
-a) Tay bên phải giơ thẳng đứng để báo hiệu cho người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại;
+   a. Tay bên phải giơ thẳng đứng để báo hiệu cho người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại;
 
-b) Hai tay hoặc một tay dang ngang để báo hiệu cho người tham gia giao thông đường bộ ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và bên trái người điều khiển giao thông được đi;
+   b. Hai tay hoặc một tay dang ngang để báo hiệu cho người tham gia giao thông đường bộ ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và bên trái người điều khiển giao thông được đi;
 
-c) Tay bên phải giơ về phía trước để báo hiệu cho người tham gia giao thông đường bộ ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông đường bộ ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông đường bộ ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.
+   c. Tay bên phải giơ về phía trước để báo hiệu cho người tham gia giao thông đường bộ ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông đường bộ ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông đường bộ ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.
 
 4. Tín hiệu đèn giao thông có 03 màu, gồm: màu xanh, màu vàng, màu đỏ; có hiển thị thời gian hoặc không hiển thị thời gian. Người tham gia giao thông đường bộ phải chấp hành như sau:
 
-a) Tín hiệu đèn màu xanh là được đi; trường hợp người đi bộ, xe lăn của người khuyết tật đang đi ở lòng đường, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường;
+   a. Tín hiệu đèn màu xanh là được đi; trường hợp người đi bộ, xe lăn của người khuyết tật đang đi ở lòng đường, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường;
 
-b) Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;
+   b. Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;
 
-c) Tín hiệu đèn màu đỏ là cấm đi.
+   c. Tín hiệu đèn màu đỏ là cấm đi.
 
 5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau:
 
-a) Biển báo cấm để biểu thị các điều cấm;
+   a. Biển báo cấm để biểu thị các điều cấm;
 
-b) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra;
+   b. Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra;
 
-c) Biển hiệu lệnh để báo hiệu lệnh phải thi hành;
+   c. Biển hiệu lệnh để báo hiệu lệnh phải thi hành;
 
-d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;
+   d. Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;
 
-đ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.
+   đ. Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.
 
 6. Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.
 
@@ -331,31 +331,31 @@ d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần b
 
 3. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp sau đây:
 
-a) Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường;
+   a. Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường;
 
-b) Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường;
+   b. Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường;
 
-c) Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế;
+   c. Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế;
 
-d) Nơi đường bộ giao nhau cùng mức với đường bộ, đường bộ giao nhau cùng mức với đường sắt; đường hẹp, đường vòng, đường quanh co, đường đèo, dốc;
+   d. Nơi đường bộ giao nhau cùng mức với đường bộ, đường bộ giao nhau cùng mức với đường sắt; đường hẹp, đường vòng, đường quanh co, đường đèo, dốc;
 
-đ) Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ;
+   đ. Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ;
 
-e) Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người, khu vực đông dân cư, chợ, khu vực đang thi công trên đường bộ, hiện trường vụ tai nạn giao thông đường bộ;
+   e. Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người, khu vực đông dân cư, chợ, khu vực đang thi công trên đường bộ, hiện trường vụ tai nạn giao thông đường bộ;
 
-g) Có vật nuôi đi trên đường hoặc chăn thả ở ven đường;
+   g. Có vật nuôi đi trên đường hoặc chăn thả ở ven đường;
 
-h) Tránh xe đi ngược chiều hoặc khi cho xe đi phía sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi cùng chiều phía trước;
+   h. Tránh xe đi ngược chiều hoặc khi cho xe đi phía sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi cùng chiều phía trước;
 
-i) Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe;
+   i. Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe;
 
-k) Gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm; đoàn người đi bộ;
+   k. Gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm; đoàn người đi bộ;
 
-l) Gặp xe ưu tiên;
+   l. Gặp xe ưu tiên;
 
-m) Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ;
+   m. Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ;
 
-n) Khu vực đang tổ chức kiểm soát giao thông đường bộ.
+   n. Khu vực đang tổ chức kiểm soát giao thông đường bộ.
 
 4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.
 
@@ -387,25 +387,25 @@ Trường hợp có chướng ngại vật hoặc không đủ điều kiện an
 
 6. Không được vượt xe trong trường hợp sau đây:
 
-a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+   a. Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
 
-b) Trên cầu hẹp có một làn đường;
+   b. Trên cầu hẹp có một làn đường;
 
-c) Đường cong có tầm nhìn bị hạn chế;
+   c. Đường cong có tầm nhìn bị hạn chế;
 
-d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+   d. Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
 
-đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+   đ. Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
 
-e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
+   e. Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
 
-g) Khi gặp xe ưu tiên;
+   g. Khi gặp xe ưu tiên;
 
-h) Ở phần đường dành cho người đi bộ qua đường;
+   h. Ở phần đường dành cho người đi bộ qua đường;
 
-i)\_ \_Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+   i.\_ \_Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
 
-k) Trong hầm đường bộ.
+   k. Trong hầm đường bộ.
 
 ### Điều 15. Chuyển hướng xe
 
@@ -429,11 +429,11 @@ k) Trong hầm đường bộ.
 
 2. Các trường hợp nhường đường khi tránh nhau bao gồm:
 
-a) Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe đi ngược chiều;
+   a. Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe đi ngược chiều;
 
-b) Xe xuống dốc phải nhường đường cho xe lên dốc;
+   b. Xe xuống dốc phải nhường đường cho xe lên dốc;
 
-c) Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước.
+   c. Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước.
 
 ### Điều 18. Dừng xe, đỗ xe
 
@@ -443,40 +443,40 @@ c) Xe có chướng ngại vật phía trước phải nhường đường cho x
 
 3. Người điều khiển phương tiện tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định sau đây:
 
-a) Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe;
+   a. Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe;
 
-b) Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ.
+   b. Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ.
 
 4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây:
 
-a) Bên trái đường một chiều;
+   a. Bên trái đường một chiều;
 
-b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất;
+   b. Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất;
 
-c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép;
+   c. Trên cầu, trừ những trường hợp tổ chức giao thông cho phép;
 
-d) Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe;
+   d. Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe;
 
-đ) Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;
+   đ. Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;
 
-e) Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, \
-dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường;
+   e. Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, \
+   dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường;
 
-g) Trên phần đường dành cho người đi bộ qua đường;
+   g. Trên phần đường dành cho người đi bộ qua đường;
 
-h) Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau;
+   h. Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau;
 
-i) Điểm đón, trả khách;
+   i. Điểm đón, trả khách;
 
-k) Trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào;
+   k. Trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào;
 
-l) Tại nơi phần đường có chiều rộng chỉ đủ cho một làn xe cơ giới;
+   l. Tại nơi phần đường có chiều rộng chỉ đủ cho một làn xe cơ giới;
 
-m) Trong phạm vi an toàn của đường sắt;
+   m. Trong phạm vi an toàn của đường sắt;
 
-n) Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông;
+   n. Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông;
 
-o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật.
+   o. Trên đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật.
 
 5. Trên đường bộ, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì chỉ được dừng xe, đỗ xe sát mép đường phía bên phải theo chiều đi của mình.
 
@@ -496,13 +496,13 @@ o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nướ
 
 2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây:
 
-a) Khi gặp người đi bộ qua đường;
+   a. Khi gặp người đi bộ qua đường;
 
-b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;
+   b. Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;
 
-c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói;
+   c. Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói;
 
-d) Khi chuyển hướng xe tại nơi đường giao nhau.
+   d. Khi chuyển hướng xe tại nơi đường giao nhau.
 
 3. Người lái xe, người điều khiển xe máy chuyên dùng khi thực hiện công việc trên đường bộ phải bật sáng đèn cảnh báo màu vàng.
 
@@ -510,9 +510,9 @@ d) Khi chuyển hướng xe tại nơi đường giao nhau.
 
 1. Chỉ được sử dụng tín hiệu còi của phương tiện tham gia giao thông đường bộ trong các trường hợp sau đây:
 
-a) Báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông;
+   a. Báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông;
 
-b) Báo hiệu chuẩn bị vượt xe.
+   b. Báo hiệu chuẩn bị vượt xe.
 
 2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.
 
@@ -532,29 +532,29 @@ Khi đến gần đường giao nhau, người điều khiển phương tiện t
 
 2. Các xe qua phà, qua cầu phao theo thứ tự ưu tiên từ trên xuống dưới như sau:
 
-a) Xe ưu tiên;
+   a. Xe ưu tiên;
 
-b) Xe chở thư báo;
+   b. Xe chở thư báo;
 
-c) Xe chở thực phẩm tươi sống;
+   c. Xe chở thực phẩm tươi sống;
 
-d) Xe chở khách công cộng.
+   d. Xe chở khách công cộng.
 
 Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầu phao thì xe nào đến trước được qua trước.
 
 3. Khi qua phà, phải chấp hành quy định sau đây:
 
-a) Khi xe xuống phà, đang ở trên phà và khi lên bến, mọi người không được ở trên xe, trừ người lái xe, người điều khiển xe máy chuyên dùng, trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh;
+   a. Khi xe xuống phà, đang ở trên phà và khi lên bến, mọi người không được ở trên xe, trừ người lái xe, người điều khiển xe máy chuyên dùng, trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh;
 
-b) Khi xuống phà, xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau; khi lên bến, người đi bộ lên trước, các phương tiện giao thông đường bộ lên sau theo hướng dẫn của người điều khiển giao thông.
+   b. Khi xuống phà, xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau; khi lên bến, người đi bộ lên trước, các phương tiện giao thông đường bộ lên sau theo hướng dẫn của người điều khiển giao thông.
 
 4. Khi qua cầu phao, phải chấp hành quy định sau đây:
 
-a) Xe cơ giới, xe máy chuyên dùng phải đi theo một hàng theo chiều di chuyển, không gây cản trở người, phương tiện đi ngược chiều;
+   a. Xe cơ giới, xe máy chuyên dùng phải đi theo một hàng theo chiều di chuyển, không gây cản trở người, phương tiện đi ngược chiều;
 
-b) Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo chiều đi của mình, không gây cản trở xe cơ giới, xe máy chuyên dùng;
+   b. Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo chiều đi của mình, không gây cản trở xe cơ giới, xe máy chuyên dùng;
 
-c) Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải tuân thủ hướng dẫn của người điều khiển giao thông.
+   c. Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải tuân thủ hướng dẫn của người điều khiển giao thông.
 
 ### Điều 24. Giao thông tại đường ngang, cầu chung đường sắt
 
@@ -568,13 +568,13 @@ c) Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải t
 
 1. Người lái xe, người điều khiển xe máy chuyên dùng\*\* \*\*trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ sau đây:
 
-a) Trước khi nhập vào làn đường của đường cao tốc phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường, quan sát xe phía sau bảo đảm khoảng cách an toàn mới cho xe nhập vào làn đường sát bên phải, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi nhập vào làn đường của đường cao tốc;
+   a. Trước khi nhập vào làn đường của đường cao tốc phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường, quan sát xe phía sau bảo đảm khoảng cách an toàn mới cho xe nhập vào làn đường sát bên phải, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi nhập vào làn đường của đường cao tốc;
 
-b) Khi chuẩn bị ra khỏi đường cao tốc phải quan sát biển báo hiệu chỉ dẫn, thực hiện chuyển dần sang làn đường sát bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc;
+   b. Khi chuẩn bị ra khỏi đường cao tốc phải quan sát biển báo hiệu chỉ dẫn, thực hiện chuyển dần sang làn đường sát bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc;
 
-c) Không được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường;
+   c. Không được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường;
 
-d) Các quy tắc giao thông đường bộ khác quy định tại Chương này.
+   d. Các quy tắc giao thông đường bộ khác quy định tại Chương này.
 
 2. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe thì được dừng xe, đỗ xe ở làn dừng khẩn cấp cùng chiều xe chạy và phải có báo hiệu bằng đèn khẩn cấp; trường hợp xe không thể di chuyển được vào làn dừng khẩn cấp, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, nhanh chóng báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên tuyến hoặc cơ quan quản lý đường cao tốc.
 
@@ -596,23 +596,23 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
 2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo thứ tự ưu tiên từ trên xuống dưới như sau:
 
-a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy;
+   a. Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy;
 
-b) Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường;
+   b. Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường;
 
-c) Xe cứu thương đi làm nhiệm vụ cấp cứu;
+   c. Xe cứu thương đi làm nhiệm vụ cấp cứu;
 
-d) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật;
+   d. Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật;
 
-đ) Đoàn xe tang.
+   đ. Đoàn xe tang.
 
 3. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này phải có tín hiệu ưu tiên theo quy định của pháp luật. Màu của tín hiệu đèn ưu tiên được quy định như sau:
 
-a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy, xe của lực lượng quân sự đi làm nhiệm vụ khẩn cấp, xe cứu thương đang làm nhiệm vụ cấp cứu có đèn nhấp nháy màu đỏ;
+   a. Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy, xe của lực lượng quân sự đi làm nhiệm vụ khẩn cấp, xe cứu thương đang làm nhiệm vụ cấp cứu có đèn nhấp nháy màu đỏ;
 
-b) Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp, xe Cảnh sát giao thông dẫn đường có đèn nhấp nháy màu xanh và đỏ;
+   b. Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp, xe Cảnh sát giao thông dẫn đường có đèn nhấp nháy màu xanh và đỏ;
 
-c) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật có đèn nhấp nháy màu xanh.
+   c. Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật có đèn nhấp nháy màu xanh.
 
 4. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này không bị hạn chế tốc độ; được phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác có thể đi được; riêng đối với đường cao tốc, chỉ được đi ngược chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời.
 
@@ -626,13 +626,13 @@ c) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, c�
 
 1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây:
 
-a) Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; đưa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật;
+   a. Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; đưa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật;
 
-b) Chở người thuộc lực lượng vũ trang nhân dân đi làm nhiệm vụ khẩn cấp;
+   b. Chở người thuộc lực lượng vũ trang nhân dân đi làm nhiệm vụ khẩn cấp;
 
-c) Chở người đi thực hành lái xe trên xe tập lái; chở người dự sát hạch lái xe trên xe sát hạch; chở công nhân đang làm nhiệm vụ duy tu, bảo dưỡng đường bộ;
+   c. Chở người đi thực hành lái xe trên xe tập lái; chở người dự sát hạch lái xe trên xe sát hạch; chở công nhân đang làm nhiệm vụ duy tu, bảo dưỡng đường bộ;
 
-d) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quyền cho phép.
+   d. Chở người diễu hành theo đoàn khi được cơ quan có thẩm quyền cho phép.
 
 2. Xe ô tô chở hàng mà chở người trong các trường hợp quy định tại khoản 1 Điều này phải bảo đảm an toàn khi tham gia giao thông đường bộ.
 
@@ -640,11 +640,11 @@ d) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quy�
 
 1. Một xe ô tô chỉ được kéo theo một xe ô tô hoặc xe máy chuyên dùng khác khi xe được kéo không tự chạy được, trừ trường hợp quy định tại khoản 3 Điều 53 của Luật này và phải bảo đảm các quy định sau đây:
 
-a) Xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực;
+   a. Xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực;
 
-b) Việc nối xe kéo với xe được kéo phải bảo đảm chắc chắn, an toàn; trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì xe kéo nhau phải nối bằng thanh nối cứng;
+   b. Việc nối xe kéo với xe được kéo phải bảo đảm chắc chắn, an toàn; trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì xe kéo nhau phải nối bằng thanh nối cứng;
 
-c) Phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng.
+   c. Phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng.
 
 2. Xe kéo rơ moóc, xe ô tô đầu kéo chỉ được kéo rơ moóc, sơ mi rơ moóc phù hợp với thiết kế của xe; việc kết nối xe kéo với rơ moóc, xe ô tô đầu kéo với sơ mi rơ moóc phải bảo đảm chắc chắn, an toàn.
 
@@ -654,23 +654,23 @@ c) Phía trước của xe kéo và phía sau của xe được kéo phải có 
 
 1. Người đi bộ phải tuân thủ các quy định sau đây:
 
-a) Phải đi trên vỉa hè, lề đường, đường dành riêng cho người đi bộ; trường hợp đường không có vỉa hè, lề đường, đường dành riêng cho người đi bộ thì người đi bộ phải đi sát mép đường bên phải theo chiều đi của mình;
+   a. Phải đi trên vỉa hè, lề đường, đường dành riêng cho người đi bộ; trường hợp đường không có vỉa hè, lề đường, đường dành riêng cho người đi bộ thì người đi bộ phải đi sát mép đường bên phải theo chiều đi của mình;
 
-b) Chỉ được qua đường ở những nơi có đèn tín hiệu, có vạch kẻ đường hoặc có cầu vượt, hầm dành cho người đi bộ và phải tuân thủ tín hiệu chỉ dẫn, báo hiệu đường bộ. Trường hợp không có đèn tín hiệu, vạch kẻ đường, cầu vượt, hầm dành cho người đi bộ thì phải quan sát các xe đang đi tới, chỉ qua đường khi bảo đảm an toàn, khi qua đường phải có tín hiệu bằng tay;
+   b. Chỉ được qua đường ở những nơi có đèn tín hiệu, có vạch kẻ đường hoặc có cầu vượt, hầm dành cho người đi bộ và phải tuân thủ tín hiệu chỉ dẫn, báo hiệu đường bộ. Trường hợp không có đèn tín hiệu, vạch kẻ đường, cầu vượt, hầm dành cho người đi bộ thì phải quan sát các xe đang đi tới, chỉ qua đường khi bảo đảm an toàn, khi qua đường phải có tín hiệu bằng tay;
 
-c) Không được vượt qua dải phân cách, đu, bám vào phương tiện giao thông đường bộ đang di chuyển; khi mang, vác vật cồng kềnh phải bảo đảm an toàn và không gây trở ngại cho người và phương tiện tham gia giao thông đường bộ.
+   c. Không được vượt qua dải phân cách, đu, bám vào phương tiện giao thông đường bộ đang di chuyển; khi mang, vác vật cồng kềnh phải bảo đảm an toàn và không gây trở ngại cho người và phương tiện tham gia giao thông đường bộ.
 
 2. Trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ được quy định như sau:
 
-a) Trẻ em dưới 07 tuổi khi đi qua đường phải có người lớn dẫn dắt;
+   a. Trẻ em dưới 07 tuổi khi đi qua đường phải có người lớn dẫn dắt;
 
-b) Người khuyết tật sử dụng xe lăn có động cơ hoặc không có động cơ phải đi trên vỉa hè, lề đường và nơi có vạch kẻ đường dành cho người đi bộ và xe thô sơ;
+   b. Người khuyết tật sử dụng xe lăn có động cơ hoặc không có động cơ phải đi trên vỉa hè, lề đường và nơi có vạch kẻ đường dành cho người đi bộ và xe thô sơ;
 
-c) Người khiếm thị khi đi trên đường bộ phải có người dẫn dắt hoặc có công cụ để báo hiệu cho người khác nhận biết là người khiếm thị;
+   c. Người khiếm thị khi đi trên đường bộ phải có người dẫn dắt hoặc có công cụ để báo hiệu cho người khác nhận biết là người khiếm thị;
 
-d) Người mất năng lực hành vi dân sự khi đi trên đường bộ phải có người dẫn dắt;
+   d. Người mất năng lực hành vi dân sự khi đi trên đường bộ phải có người dẫn dắt;
 
-đ) Mọi người có trách nhiệm giúp đỡ trẻ em dưới 07 tuổi, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự khi đi qua đường.
+   đ. Mọi người có trách nhiệm giúp đỡ trẻ em dưới 07 tuổi, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự khi đi qua đường.
 
 ### Điều 31. Người điều khiển, người được chở, hàng hóa xếp trên xe thô sơ
 
@@ -696,43 +696,43 @@ d) Người mất năng lực hành vi dân sự khi đi trên đường bộ ph
 
 1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người:
 
-a) Chở người bệnh đi cấp cứu;
+   a. Chở người bệnh đi cấp cứu;
 
-b) Áp giải người có hành vi vi phạm pháp luật;
+   b. Áp giải người có hành vi vi phạm pháp luật;
 
-c) Trẻ em dưới 12 tuổi;
+   c. Trẻ em dưới 12 tuổi;
 
-d) Người già yếu hoặc người khuyết tật.
+   d. Người già yếu hoặc người khuyết tật.
 
 2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.
 
 3. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi sau đây:
 
-a) Đi xe dàn hàng ngang;
+   a. Đi xe dàn hàng ngang;
 
-b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác;
+   b. Đi xe vào phần đường dành cho người đi bộ và phương tiện khác;
 
-c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính;
+   c. Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính;
 
-d) Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh; đi xe bằng hai bánh đối với xe mô tô, xe gắn máy ba bánh;
+   d. Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh; đi xe bằng hai bánh đối với xe mô tô, xe gắn máy ba bánh;
 
-đ) Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định;
+   đ. Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định;
 
-e) Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
+   e. Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
 
-g) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+   g. Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
 
 4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy  khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây:
 
-a) Mang, vác vật cồng kềnh;
+   a. Mang, vác vật cồng kềnh;
 
-b) Sử dụng ô;
+   b. Sử dụng ô;
 
-c) Bám, kéo hoặc đẩy các phương tiện khác;
+   c. Bám, kéo hoặc đẩy các phương tiện khác;
 
-d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
+   d. Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
 
-đ) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+   đ. Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
 
 5. Xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất; chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 02 mét.
 
@@ -742,49 +742,49 @@ d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
 
 1. Xe cơ giới bao gồm:
 
-a) Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
+   a. Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
 
-b) Rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
+   b. Rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
 
-c) Sơ mi rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
+   c. Sơ mi rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
 
-d) Xe chở người bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
+   d. Xe chở người bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
 
-đ) Xe chở hàng bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
+   đ. Xe chở hàng bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
 
-e) Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
+   e. Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
 
-g) Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
+   g. Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
 
-h) Xe tương tự các loại xe quy định tại khoản này.
+   h. Xe tương tự các loại xe quy định tại khoản này.
 
 2. Xe thô sơ bao gồm:
 
-a) Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
+   a. Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
 
-b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
+   b. Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
 
-c) Xe xích lô;
+   c. Xe xích lô;
 
-d) Xe lăn dùng cho người khuyết tật;
+   d. Xe lăn dùng cho người khuyết tật;
 
-đ) Xe vật nuôi kéo;
+   đ. Xe vật nuôi kéo;
 
-e) Xe tương tự các loại xe quy định tại khoản này.
+   e. Xe tương tự các loại xe quy định tại khoản này.
 
 3. Xe máy chuyên dùng bao gồm:
 
-a) Xe máy thi công;
+   a. Xe máy thi công;
 
-b) Xe máy nông nghiệp, lâm nghiệp;
+   b. Xe máy nông nghiệp, lâm nghiệp;
 
-c) Máy kéo;
+   c. Máy kéo;
 
-d) Rơ moóc, sơ mi rơ moóc được kéo bởi máy kéo;
+   d. Rơ moóc, sơ mi rơ moóc được kéo bởi máy kéo;
 
-đ) Xe máy thực hiện chức năng, công dụng đặc biệt;
+   đ. Xe máy thực hiện chức năng, công dụng đặc biệt;
 
-e) Các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
+   e. Các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
 
 4. Phương tiện giao thông thông minh là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ.
 
@@ -796,9 +796,9 @@ e) Các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an
 
 1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện sau đây:
 
-a) Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định của pháp luật;
+   a. Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định của pháp luật;
 
-b) Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định của pháp luật.
+   b. Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định của pháp luật.
 
 2. Xe ô tô kinh doanh vận tải phải lắp thiết bị giám sát hành trình. Xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) kinh doanh vận tải, xe ô tô đầu kéo, xe cứu thương phải lắp thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.
 
@@ -816,31 +816,31 @@ b) Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trư�
 
 2. Biển số xe được phân loại như sau:
 
-a) Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập;
+   a. Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập;
 
-b) Biển số xe nền màu đỏ, chữ và số màu trắng cấp cho xe quân sự;
+   b. Biển số xe nền màu đỏ, chữ và số màu trắng cấp cho xe quân sự;
 
-c) Biển số xe nền màu vàng, chữ và số màu đen cấp cho xe hoạt động kinh doanh vận tải;
+   c. Biển số xe nền màu vàng, chữ và số màu đen cấp cho xe hoạt động kinh doanh vận tải;
 
-d) Biển số xe nền màu trắng, chữ và số màu đen cấp cho xe của các tổ chức, cá nhân trong nước, không thuộc đối tượng quy định tại các điểm a, b và c khoản này;
+   d. Biển số xe nền màu trắng, chữ và số màu đen cấp cho xe của các tổ chức, cá nhân trong nước, không thuộc đối tượng quy định tại các điểm a, b và c khoản này;
 
-đ) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “NG” cấp cho xe của cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao của cơ quan đó;
+   đ. Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “NG” cấp cho xe của cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao của cơ quan đó;
 
-e) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “QT” cấp cho xe của cơ quan đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức đó;
+   e. Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “QT” cấp cho xe của cơ quan đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức đó;
 
-g) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “CV” cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế;
+   g. Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “CV” cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế;
 
-h) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “NN” cấp cho xe của tổ chức, văn phòng đại diện, cá nhân nước ngoài, trừ đối tượng quy định tại điểm g khoản này;
+   h. Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “NN” cấp cho xe của tổ chức, văn phòng đại diện, cá nhân nước ngoài, trừ đối tượng quy định tại điểm g khoản này;
 
-i) Biển số xe loại khác theo quy định của Bộ trưởng Bộ Công an.
+   i. Biển số xe loại khác theo quy định của Bộ trưởng Bộ Công an.
 
 3. Biển số xe được quản lý theo mã định danh, trừ biển số xe quy định tại điểm b khoản 2 Điều này. Việc quản lý biển số xe theo mã định danh được quy định như sau:
 
-a) Biển số xe được cấp và quản lý theo mã định danh của chủ xe là cá nhân, tổ chức; trường hợp tổ chức chưa có mã định danh thì quản lý theo mã số thuế, quyết định thành lập hoặc giấy tờ tương đương;
+   a. Biển số xe được cấp và quản lý theo mã định danh của chủ xe là cá nhân, tổ chức; trường hợp tổ chức chưa có mã định danh thì quản lý theo mã số thuế, quyết định thành lập hoặc giấy tờ tương đương;
 
-b) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
+   b. Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
 
-c) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.
+   c. Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.
 
 4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.
 
@@ -864,23 +864,23 @@ c) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi th�
 
 1. Người trúng đấu giá biển số xe có quyền sau đây:
 
-a) Được cấp quyết định xác nhận biển số xe trúng đấu giá sau khi nộp đủ số tiền trúng đấu giá;
+   a. Được cấp quyết định xác nhận biển số xe trúng đấu giá sau khi nộp đủ số tiền trúng đấu giá;
 
-b) Được đăng ký biển số xe trúng đấu giá gắn với phương tiện thuộc sở hữu của mình tại cơ quan Công an nơi quản lý biển số xe trúng đấu giá hoặc nơi thường trú, tạm trú của cá nhân, trụ sở của tổ chức trúng đấu giá;
+   b. Được đăng ký biển số xe trúng đấu giá gắn với phương tiện thuộc sở hữu của mình tại cơ quan Công an nơi quản lý biển số xe trúng đấu giá hoặc nơi thường trú, tạm trú của cá nhân, trụ sở của tổ chức trúng đấu giá;
 
-c) Được chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
+   c. Được chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
 
-d) Trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá mà chưa được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp;
+   d. Trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá mà chưa được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp;
 
-đ) Trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết nhưng chưa thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp.
+   đ. Trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết nhưng chưa thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp.
 
 2. Người trúng đấu giá biển số xe có nghĩa vụ sau đây:
 
-a) Nộp đủ số tiền trúng đấu giá trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá; tiền trúng đấu giá không bao gồm lệ phí đăng ký, cấp biển số xe. Sau thời hạn quy định, người trúng đấu giá biển số xe không nộp hoặc nộp không đủ tiền trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền đặt trước, số tiền đã nộp, không được tham gia đấu giá biển số xe trong thời hạn 12 tháng kể từ ngày có thông báo kết quả trúng đấu giá;
+   a. Nộp đủ số tiền trúng đấu giá trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá; tiền trúng đấu giá không bao gồm lệ phí đăng ký, cấp biển số xe. Sau thời hạn quy định, người trúng đấu giá biển số xe không nộp hoặc nộp không đủ tiền trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền đặt trước, số tiền đã nộp, không được tham gia đấu giá biển số xe trong thời hạn 12 tháng kể từ ngày có thông báo kết quả trúng đấu giá;
 
-b) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;
+   b. Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;
 
-c) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.
+   c. Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.
 
 3. Chính phủ quy định chi tiết Điều này.
 
@@ -888,53 +888,53 @@ c) Không được chuyển nhượng, trao đổi, tặng cho, để thừa k�
 
 1. Việc cấp mới chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng phải bảo đảm các điều kiện sau đây:
 
-a) Chứng nhận nguồn gốc xe;
+   a. Chứng nhận nguồn gốc xe;
 
-b) Chứng nhận quyền sở hữu hợp pháp;
+   b. Chứng nhận quyền sở hữu hợp pháp;
 
-c) Chứng từ hoàn thành nghĩa vụ tài chính.
+   c. Chứng từ hoàn thành nghĩa vụ tài chính.
 
 2. Việc cấp chứng nhận đăng ký xe cơ giới, xe máy chuyên dùng trong trường hợp thay đổi chủ xe phải bảo đảm các điều kiện sau đây:
 
-a) Chứng nhận thu hồi đăng ký xe, biển số xe; chứng nhận thu hồi đăng ký xe đối với trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
+   a. Chứng nhận thu hồi đăng ký xe, biển số xe; chứng nhận thu hồi đăng ký xe đối với trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;
 
-b) Các điều kiện quy định tại điểm b và điểm c khoản 1 Điều này.
+   b. Các điều kiện quy định tại điểm b và điểm c khoản 1 Điều này.
 
 3. Đổi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng trong các trường hợp sau đây:
 
-a) Chứng nhận đăng ký xe, biển số xe bị mờ, hỏng;
+   a. Chứng nhận đăng ký xe, biển số xe bị mờ, hỏng;
 
-b) Cải tạo, thay đổi màu sơn; thay đổi tên, số định danh của tổ chức, cá nhân hoặc thay đổi mục đích sử dụng;
+   b. Cải tạo, thay đổi màu sơn; thay đổi tên, số định danh của tổ chức, cá nhân hoặc thay đổi mục đích sử dụng;
 
-c) Khi chủ xe thay đổi địa chỉ và có nhu cầu đổi chứng nhận đăng ký xe;
+   c. Khi chủ xe thay đổi địa chỉ và có nhu cầu đổi chứng nhận đăng ký xe;
 
-d) Chứng nhận đăng ký xe, biển số xe hết thời hạn sử dụng;
+   d. Chứng nhận đăng ký xe, biển số xe hết thời hạn sử dụng;
 
-đ) Cơ quan đăng ký xe thay đổi cấu trúc biểu mẫu chứng nhận đăng ký xe, biển số xe.
+   đ. Cơ quan đăng ký xe thay đổi cấu trúc biểu mẫu chứng nhận đăng ký xe, biển số xe.
 
 4. Cấp lại chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng trong trường hợp chứng nhận đăng ký xe, biển số xe bị mất.
 
 5. Xe cơ giới, xe máy chuyên dùng được cấp biển số xe và đăng ký tạm thời trong các trường hợp sau đây:
 
-a) Đã có chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường, phiếu kiểm tra chất lượng xuất xưởng xe cơ giới, xe máy chuyên dùng để di chuyển từ nhà máy đến kho, cảng hoặc từ kho, cảng, nhà máy, đại lý bán xe đến nơi đăng ký xe hoặc về các đại lý, kho lưu trữ khác;
+   a. Đã có chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường, phiếu kiểm tra chất lượng xuất xưởng xe cơ giới, xe máy chuyên dùng để di chuyển từ nhà máy đến kho, cảng hoặc từ kho, cảng, nhà máy, đại lý bán xe đến nơi đăng ký xe hoặc về các đại lý, kho lưu trữ khác;
 
-b) Xe làm thủ tục thu hồi để tái xuất hoặc chuyển quyền sở hữu; xe phục vụ các sự kiện do Đảng, Nhà nước tổ chức; xe đăng ký ở nước ngoài được cơ quan thẩm quyền cho phép bao gồm cả xe có tay lái bên phải (tay lái nghịch) vào Việt Nam quá cảnh, tạm nhập, tái xuất có thời hạn để tham dự hội nghị, hội chợ, triển lãm, thể dục, thể thao, du lịch; trừ trường hợp xe không phải cấp biển số xe tạm thời theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và trường hợp quy định tại Điều 55 của Luật này;
+   b. Xe làm thủ tục thu hồi để tái xuất hoặc chuyển quyền sở hữu; xe phục vụ các sự kiện do Đảng, Nhà nước tổ chức; xe đăng ký ở nước ngoài được cơ quan thẩm quyền cho phép bao gồm cả xe có tay lái bên phải (tay lái nghịch) vào Việt Nam quá cảnh, tạm nhập, tái xuất có thời hạn để tham dự hội nghị, hội chợ, triển lãm, thể dục, thể thao, du lịch; trừ trường hợp xe không phải cấp biển số xe tạm thời theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và trường hợp quy định tại Điều 55 của Luật này;
 
-c) Xe chạy thử nghiệm thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ đáp ứng quy định tại điểm h khoản 5 Điều 42 của Luật này.
+   c. Xe chạy thử nghiệm thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ đáp ứng quy định tại điểm h khoản 5 Điều 42 của Luật này.
 
 6. Các trường hợp thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng bao gồm:
 
-a) Chuyển quyền sở hữu xe; trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá thì chỉ thu hồi chứng nhận đăng ký xe;
+   a. Chuyển quyền sở hữu xe; trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá thì chỉ thu hồi chứng nhận đăng ký xe;
 
-b) Xe nhập khẩu được miễn thuế hoặc xe tạm nhập của cơ quan, tổ chức, cá nhân nước ngoài mà tái xuất, chuyển quyền sở hữu hoặc tiêu hủy; xe hết thời hạn đăng ký tại các khu kinh tế - thương mại đặc biệt, khu kinh tế cửa khẩu quốc tế;
+   b. Xe nhập khẩu được miễn thuế hoặc xe tạm nhập của cơ quan, tổ chức, cá nhân nước ngoài mà tái xuất, chuyển quyền sở hữu hoặc tiêu hủy; xe hết thời hạn đăng ký tại các khu kinh tế - thương mại đặc biệt, khu kinh tế cửa khẩu quốc tế;
 
-c) Xe đã đăng ký nhưng phát hiện hồ sơ xe bị làm giả hoặc có kết luận của cơ quan có thẩm quyền về việc thay đổi trái phép số khung, số máy; xe tháo máy để đăng ký sử dụng cho xe khác;
+   c. Xe đã đăng ký nhưng phát hiện hồ sơ xe bị làm giả hoặc có kết luận của cơ quan có thẩm quyền về việc thay đổi trái phép số khung, số máy; xe tháo máy để đăng ký sử dụng cho xe khác;
 
-d) Xe cơ giới hết niên hạn sử dụng, hư hỏng không sử dụng được;
+   d. Xe cơ giới hết niên hạn sử dụng, hư hỏng không sử dụng được;
 
-đ) Xe bị thải bỏ, bị mất không tìm được và chủ xe đề nghị thu hồi chứng nhận đăng ký xe, biển số xe;
+   đ. Xe bị thải bỏ, bị mất không tìm được và chủ xe đề nghị thu hồi chứng nhận đăng ký xe, biển số xe;
 
-e) Việc cấp đăng ký, cấp biển số xe không đúng quy định của pháp luật.
+   e. Việc cấp đăng ký, cấp biển số xe không đúng quy định của pháp luật.
 
 7. Bộ trưởng Bộ Công an quy định trình tự, thủ tục cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ, trừ trường hợp quy định tại khoản 8 Điều này.
 
@@ -946,17 +946,17 @@ e) Việc cấp đăng ký, cấp biển số xe không đúng quy định của
 
 2. Niên hạn sử dụng của xe cải tạo được quy định như sau:
 
-a) Xe có niên hạn sử dụng cải tạo thành xe không có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe trước khi cải tạo;
+   a. Xe có niên hạn sử dụng cải tạo thành xe không có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe trước khi cải tạo;
 
-b) Xe không có niên hạn sử dụng cải tạo thành xe có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe sau khi cải tạo;
+   b. Xe không có niên hạn sử dụng cải tạo thành xe có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe sau khi cải tạo;
 
-c) Xe ô tô chở người có số người cho phép chở từ 09 người trở lên (không kể người lái xe), xe ô tô chở người chuyên dùng cải tạo thành xe ô tô chở hàng (kể cả xe ô tô chở hàng chuyên dùng); xe chở người bốn bánh có gắn động cơ cải tạo thành xe chở hàng bốn bánh có gắn động cơ thì được áp dụng quy định về niên hạn của xe sau cải tạo.
+   c. Xe ô tô chở người có số người cho phép chở từ 09 người trở lên (không kể người lái xe), xe ô tô chở người chuyên dùng cải tạo thành xe ô tô chở hàng (kể cả xe ô tô chở hàng chuyên dùng); xe chở người bốn bánh có gắn động cơ cải tạo thành xe chở hàng bốn bánh có gắn động cơ thì được áp dụng quy định về niên hạn của xe sau cải tạo.
 
 3. Các trường hợp xe cơ giới không áp dụng niên hạn sử dụng bao gồm:
 
-a) Xe mô tô, xe gắn máy, xe ô tô chở người có số người cho phép chở đến 08 người (không kể người lái xe), xe ô tô chuyên dùng, rơ moóc, sơ mi rơ moóc;
+   a. Xe mô tô, xe gắn máy, xe ô tô chở người có số người cho phép chở đến 08 người (không kể người lái xe), xe ô tô chuyên dùng, rơ moóc, sơ mi rơ moóc;
 
-b) Xe cơ giới của quân đội, công an phục vụ mục đích quốc phòng, an ninh.
+   b. Xe cơ giới của quân đội, công an phục vụ mục đích quốc phòng, an ninh.
 
 4. Chính phủ quy định chi tiết Điều này.
 
@@ -964,17 +964,17 @@ b) Xe cơ giới của quân đội, công an phục vụ mục đích quốc ph
 
 1. Đối tượng phải bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường bao gồm:
 
-a) Xe cơ giới, xe máy chuyên dùng nhập khẩu, sản xuất, lắp ráp, trừ xe để nghiên cứu khoa học, nghiên cứu phục vụ sản xuất, trưng bày, giới thiệu tại hội chợ, triển lãm thương mại;
+   a. Xe cơ giới, xe máy chuyên dùng nhập khẩu, sản xuất, lắp ráp, trừ xe để nghiên cứu khoa học, nghiên cứu phục vụ sản xuất, trưng bày, giới thiệu tại hội chợ, triển lãm thương mại;
 
-b) Loại phụ tùng xe cơ giới nhập khẩu, sản xuất, lắp ráp thuộc danh mục sản phẩm hàng hóa phải kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường, trừ trường hợp để nghiên cứu khoa học, nghiên cứu phục vụ sản xuất, trưng bày, giới thiệu tại hội chợ, triển lãm thương mại.
+   b. Loại phụ tùng xe cơ giới nhập khẩu, sản xuất, lắp ráp thuộc danh mục sản phẩm hàng hóa phải kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường, trừ trường hợp để nghiên cứu khoa học, nghiên cứu phục vụ sản xuất, trưng bày, giới thiệu tại hội chợ, triển lãm thương mại.
 
 2. Việc chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường bao gồm:
 
-a) Kiểm tra, thử nghiệm, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng và phụ tùng xe cơ giới, mức tiêu thụ năng lượng của xe cơ giới;
+   a. Kiểm tra, thử nghiệm, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng và phụ tùng xe cơ giới, mức tiêu thụ năng lượng của xe cơ giới;
 
-b) Công nhận và chỉ định cơ sở thử nghiệm, chứng nhận;
+   b. Công nhận và chỉ định cơ sở thử nghiệm, chứng nhận;
 
-c) Kiểm tra, đánh giá, giám sát việc bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường, bảo hành, bảo dưỡng, triệu hồi sản phẩm, hàng hóa của cơ sở nhập khẩu, sản xuất, lắp ráp.
+   c. Kiểm tra, đánh giá, giám sát việc bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường, bảo hành, bảo dưỡng, triệu hồi sản phẩm, hàng hóa của cơ sở nhập khẩu, sản xuất, lắp ráp.
 
 3. Việc chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp do đăng kiểm viên thực hiện và được cơ quan có thẩm quyền cấp chứng nhận. Đăng kiểm viên là người được cấp chứng chỉ chuyên môn về chứng nhận, kiểm định xe cơ giới, xe máy chuyên dùng.
 
@@ -1000,21 +1000,21 @@ c) Kiểm tra, đánh giá, giám sát việc bảo đảm chất lượng an to
 
 5. Bộ trưởng Bộ Giao thông vận tải quy định nội dung sau đây:
 
-a) Trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới của cơ sở đăng kiểm xe cơ giới;
+   a. Trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới của cơ sở đăng kiểm xe cơ giới;
 
-b) Trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động cho cơ sở kiểm định khí thải xe mô tô, xe gắn máy;
+   b. Trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động cho cơ sở kiểm định khí thải xe mô tô, xe gắn máy;
 
-c) Trình tự, thủ tục chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới cải tạo, xe máy chuyên dùng cải tạo;
+   c. Trình tự, thủ tục chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới cải tạo, xe máy chuyên dùng cải tạo;
 
-d) Trình tự, thủ tục kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng;
+   d. Trình tự, thủ tục kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng;
 
-đ) Trình tự, thủ tục kiểm định khí thải xe mô tô, xe gắn máy;
+   đ. Trình tự, thủ tục kiểm định khí thải xe mô tô, xe gắn máy;
 
-e) Quy chuẩn kỹ thuật quốc gia về cơ sở vật chất kỹ thuật và vị trí cơ sở đăng kiểm xe cơ giới, cơ sở kiểm định khí thải xe mô tô, xe gắn máy; quy chuẩn kỹ thuật quốc gia về xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ;
+   e. Quy chuẩn kỹ thuật quốc gia về cơ sở vật chất kỹ thuật và vị trí cơ sở đăng kiểm xe cơ giới, cơ sở kiểm định khí thải xe mô tô, xe gắn máy; quy chuẩn kỹ thuật quốc gia về xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ;
 
-g) Giới hạn kích thước, giới hạn tải trọng đối với xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ;
+   g. Giới hạn kích thước, giới hạn tải trọng đối với xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ;
 
-h) Yêu cầu kỹ thuật đối với xe cơ giới, xe máy chuyên dùng thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ.
+   h. Yêu cầu kỹ thuật đối với xe cơ giới, xe máy chuyên dùng thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ.
 
 6. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về trình tự, thủ tục kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới cải tạo, xe máy chuyên dùng cải tạo thuộc phạm vi quản lý của Bộ Quốc phòng, Bộ Công an.
 
@@ -1026,15 +1026,15 @@ Cơ sở đăng kiểm chịu trách nhiệm về kết quả kiểm định an 
 
 2. Trách nhiệm của chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng được quy định như sau:
 
-a) Chấp hành các quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe, kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng;
+   a. Chấp hành các quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe, kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng;
 
-b) Phải bảo dưỡng, sửa chữa để bảo đảm duy trì tình trạng kỹ thuật của phương tiện; chịu trách nhiệm theo quy định của pháp luật đối với hành vi đưa phương tiện không bảo đảm an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông đường bộ;
+   b. Phải bảo dưỡng, sửa chữa để bảo đảm duy trì tình trạng kỹ thuật của phương tiện; chịu trách nhiệm theo quy định của pháp luật đối với hành vi đưa phương tiện không bảo đảm an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông đường bộ;
 
-c) Tổ chức, cá nhân đứng tên trong giấy chứng nhận đăng ký xe tiếp tục chịu trách nhiệm của chủ xe khi chưa thực hiện thu hồi chứng nhận đăng ký xe, biển số xe đối với trường hợp phải thu hồi theo quy định tại khoản 6 Điều 39 của Luật này;
+   c. Tổ chức, cá nhân đứng tên trong giấy chứng nhận đăng ký xe tiếp tục chịu trách nhiệm của chủ xe khi chưa thực hiện thu hồi chứng nhận đăng ký xe, biển số xe đối với trường hợp phải thu hồi theo quy định tại khoản 6 Điều 39 của Luật này;
 
-d) Tổ chức, cá nhân vi phạm pháp luật về trật tự, an toàn giao thông đường bộ mà chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ thì chưa được giải quyết việc đăng ký, đăng kiểm phương tiện vi phạm;
+   d. Tổ chức, cá nhân vi phạm pháp luật về trật tự, an toàn giao thông đường bộ mà chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ thì chưa được giải quyết việc đăng ký, đăng kiểm phương tiện vi phạm;
 
-đ) Chấp hành quy định khác của pháp luật khi tham gia giao thông đường bộ.
+   đ. Chấp hành quy định khác của pháp luật khi tham gia giao thông đường bộ.
 
 ### Điều 44. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện vận tải đường bộ trong đô thị
 
@@ -1052,41 +1052,41 @@ d) Tổ chức, cá nhân vi phạm pháp luật về trật tự, an toàn giao
 
 1. Việc vận chuyển hành khách bằng xe ô tô phải tuân thủ các quy định sau đây:
 
-a) Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe;
+   a. Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe;
 
-b) Vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng;
+   b. Vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng;
 
-c) Không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe;
+   c. Không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe;
 
-d) Không chở hàng hóa nguy hiểm, hàng hóa cấm lưu hành, hàng lậu, động vật hoang dã, hàng có mùi hôi thối hoặc động vật, hàng hóa khác có ảnh hưởng đến sức khỏe của hành khách, môi trường;
+   d. Không chở hàng hóa nguy hiểm, hàng hóa cấm lưu hành, hàng lậu, động vật hoang dã, hàng có mùi hôi thối hoặc động vật, hàng hóa khác có ảnh hưởng đến sức khỏe của hành khách, môi trường;
 
-đ) Không chở quá số người, chở hành lý, hàng hóa vượt quá khối lượng cho phép hoặc vi phạm quy định khác của pháp luật;
+   đ. Không chở quá số người, chở hành lý, hàng hóa vượt quá khối lượng cho phép hoặc vi phạm quy định khác của pháp luật;
 
-e) Không chở hàng hóa trong khoang chở hành khách.
+   e. Không chở hàng hóa trong khoang chở hành khách.
 
 2.\*\* \*\*Người lái xe, nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm sau đây:
 
-a) Thực hiện quy định tại khoản 1 Điều này;
+a. Thực hiện quy định tại khoản 1 Điều này;
 
-b) Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố;
+b. Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố;
 
-c) Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này;
+c. Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này;
 
-d) Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn;
+d. Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn;
 
-đ) Giữ gìn trật tự, vệ sinh trong xe;
+đ. Giữ gìn trật tự, vệ sinh trong xe;
 
-e) Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội;
+e. Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội;
 
-g) Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.
+g. Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.
 
 ### Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh
 
 1. Xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh phải đáp ứng các yêu cầu sau đây:
 
-a) Bảo đảm các điều kiện quy định tại khoản 1 và khoản 2 Điều 35 của Luật này; có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ;
+   a. Bảo đảm các điều kiện quy định tại khoản 1 và khoản 2 Điều 35 của Luật này; có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ;
 
-b) Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có dây đai an toàn phù hợp với lứa tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi theo quy định của pháp luật.
+   b. Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có dây đai an toàn phù hợp với lứa tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi theo quy định của pháp luật.
 
 2. Xe ô tô kinh doanh vận tải kết hợp với hoạt động đưa đón trẻ em mầm non, học sinh phải đáp ứng các yêu cầu theo quy định tại khoản 3 Điều 10, khoản 1 và khoản 2 Điều 35 của Luật này; có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe đáp ứng yêu cầu theo quy định tại điểm a khoản 1 Điều này.
 
@@ -1102,17 +1102,17 @@ b) Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có 
 
 1. Việc sử dụng xe mô tô, xe gắn máy, xe thô sơ để vận chuyển hành khách, hàng hóa phải thực hiện các quy định sau đây:
 
-a) Kiểm tra điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ;
+   a. Kiểm tra điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ;
 
-b) Khi vận chuyển hàng hóa, người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
+   b. Khi vận chuyển hàng hóa, người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
 
-c) Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở quá số người, chở hành lý, hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe;
+   c. Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở quá số người, chở hành lý, hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe;
 
-d) Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng và chằng buộc chắc chắn, bảo đảm không gây nguy hiểm cho người và phương tiện tham gia giao thông đường bộ; không cản trở tầm nhìn của người lái xe; không được che khuất đèn, biển số xe;
+   d. Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng và chằng buộc chắc chắn, bảo đảm không gây nguy hiểm cho người và phương tiện tham gia giao thông đường bộ; không cản trở tầm nhìn của người lái xe; không được che khuất đèn, biển số xe;
 
-đ) Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải không để rơi vãi xuống đường hoặc gây ra tiếng ồn, bụi bẩn trong suốt quá trình vận chuyển trên đường;
+   đ. Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải không để rơi vãi xuống đường hoặc gây ra tiếng ồn, bụi bẩn trong suốt quá trình vận chuyển trên đường;
 
-e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe thì ban ngày phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá, ban đêm hoặc khi trời tối phải có đèn hoặc báo hiệu cho người tham gia giao thông đường bộ để nhận biết.
+   e. Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe thì ban ngày phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá, ban đêm hoặc khi trời tối phải có đèn hoặc báo hiệu cho người tham gia giao thông đường bộ để nhận biết.
 
 2. Ủy ban nhân dân cấp tỉnh quy định về sử dụng xe mô tô, xe gắn máy, xe thô sơ để kinh doanh vận chuyển hành khách, hàng hóa tại địa phương.
 
@@ -1120,11 +1120,11 @@ e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe t
 
 1. Xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa phải đáp ứng các yêu cầu sau đây:
 
-a) Được cấp chứng nhận đăng ký xe và gắn biển số xe; bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định của pháp luật;
+   a. Được cấp chứng nhận đăng ký xe và gắn biển số xe; bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định của pháp luật;
 
-b) Niêm yết tên và số điện thoại của tổ chức, cá nhân kinh doanh vận tải; niêm yết giá cước vận tải đối với vận chuyển hành khách;
+   b. Niêm yết tên và số điện thoại của tổ chức, cá nhân kinh doanh vận tải; niêm yết giá cước vận tải đối với vận chuyển hành khách;
 
-c) Bảo đảm đúng thời gian và phạm vi hoạt động.
+   c. Bảo đảm đúng thời gian và phạm vi hoạt động.
 
 2. Ủy ban nhân dân cấp tỉnh quy định thời gian, phạm vi hoạt động vận chuyển hành khách bằng xe bốn bánh có gắn động cơ và hoạt động vận chuyển hàng hóa bằng xe chở hàng bốn bánh có gắn động cơ tại địa phương.
 
@@ -1132,17 +1132,17 @@ c) Bảo đảm đúng thời gian và phạm vi hoạt động.
 
 1. Khi vận chuyển hàng hoá bằng xe ô tô, người lái xe phải thực hiện các quy định sau đây:
 
-a) Mang đủ giấy tờ theo quy định của pháp luật;
+   a. Mang đủ giấy tờ theo quy định của pháp luật;
 
-b) Kiểm tra các điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ;
+   b. Kiểm tra các điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ;
 
-c) Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe;
+   c. Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe;
 
-d) Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng, chằng buộc chắc chắn, bảo đảm an toàn theo quy định của Bộ trưởng Bộ Giao thông vận tải;
+   d. Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng, chằng buộc chắc chắn, bảo đảm an toàn theo quy định của Bộ trưởng Bộ Giao thông vận tải;
 
-đ) Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải phải che đậy kín, không để rơi vãi xuống đường, gây ra tiếng ồn hoặc bụi bẩn trong suốt quá trình vận chuyển trên đường và chiều cao tối đa của hàng hóa phải thấp hơn mép trên thành thùng xe tối thiểu 10 cm;
+   đ. Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải phải che đậy kín, không để rơi vãi xuống đường, gây ra tiếng ồn hoặc bụi bẩn trong suốt quá trình vận chuyển trên đường và chiều cao tối đa của hàng hóa phải thấp hơn mép trên thành thùng xe tối thiểu 10 cm;
 
-e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe thì ban ngày phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá, ban đêm hoặc khi trời tối phải có đèn hoặc báo hiệu cho người tham gia giao thông đường bộ để nhận biết.
+   e. Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe thì ban ngày phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá, ban đêm hoặc khi trời tối phải có đèn hoặc báo hiệu cho người tham gia giao thông đường bộ để nhận biết.
 
 2. Lực lượng Cảnh sát giao thông chịu trách nhiệm tổ chức tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa quá tải lưu hành trên đường bộ.
 
@@ -1150,17 +1150,17 @@ e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe t
 
 1. Việc vận chuyển động vật sống phải bảo đảm các yêu cầu sau đây:
 
-a) Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
+   a. Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
 
-b) Phương tiện vận chuyển phải có kết cấu phù hợp với loại động vật chuyên chở;
+   b. Phương tiện vận chuyển phải có kết cấu phù hợp với loại động vật chuyên chở;
 
-c) Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
+   c. Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
 
 2. Việc vận chuyển thực phẩm tươi sống phải bảo đảm các yêu cầu sau đây:
 
-a) Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
+   a. Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật;
 
-b) Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, an toàn thực phẩm, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
+   b. Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, an toàn thực phẩm, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
 
 ### Điều 51. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển hàng hoá nguy hiểm
 
@@ -1180,39 +1180,39 @@ b) Trong quá trình vận chuyển phải chấp hành các quy định của p
 
 1. Xe quá khổ giới hạn bao gồm:
 
-a) Xe cơ giới, xe máy chuyên dùng có kích thước bao ngoài vượt quá kích thước giới hạn cho phép của xe theo quy chuẩn kỹ thuật quốc gia về xe cơ giới;
+   a. Xe cơ giới, xe máy chuyên dùng có kích thước bao ngoài vượt quá kích thước giới hạn cho phép của xe theo quy chuẩn kỹ thuật quốc gia về xe cơ giới;
 
-b) Xe cơ giới, xe máy chuyên dùng có kích thước bao ngoài quá khổ giới hạn của đường bộ;
+   b. Xe cơ giới, xe máy chuyên dùng có kích thước bao ngoài quá khổ giới hạn của đường bộ;
 
-c) Xe cơ giới, xe máy chuyên dùng khi chở hàng hóa có kích thước bao ngoài của xe và hàng hóa vượt quá kích thước giới hạn cho phép xếp hàng hóa của xe hoặc quá khổ giới hạn của đường bộ.
+   c. Xe cơ giới, xe máy chuyên dùng khi chở hàng hóa có kích thước bao ngoài của xe và hàng hóa vượt quá kích thước giới hạn cho phép xếp hàng hóa của xe hoặc quá khổ giới hạn của đường bộ.
 
 2. Xe quá tải trọng bao gồm:
 
-a) Xe cơ giới, xe máy chuyên dùng có khối lượng toàn bộ vượt quá khối lượng cho phép của xe hoặc vượt quá tải trọng của đường bộ;
+   a. Xe cơ giới, xe máy chuyên dùng có khối lượng toàn bộ vượt quá khối lượng cho phép của xe hoặc vượt quá tải trọng của đường bộ;
 
-b) Xe cơ giới, xe máy chuyên dùng có khối lượng toàn bộ phân bổ lên trục xe, cụm trục xe vượt quá tải trọng của trục xe, cụm trục xe hoặc vượt quá tải trọng của đường bộ.
+   b. Xe cơ giới, xe máy chuyên dùng có khối lượng toàn bộ phân bổ lên trục xe, cụm trục xe vượt quá tải trọng của trục xe, cụm trục xe hoặc vượt quá tải trọng của đường bộ.
 
 3. Xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích được cấp giấy phép lưu hành xe trên đường bộ trong các trường hợp sau đây:
 
-a) Lưu hành xe quá khổ giới hạn quy định tại điểm a và điểm b khoản 1 Điều này không chở hàng hóa, xe có khối lượng bản thân của xe quá tải trọng của đường bộ không chở hàng hóa, xe bánh xích từ nơi sản xuất, ga, cảng và các địa điểm nhập khẩu, sửa chữa, bảo trì đến nơi sử dụng phương tiện và ngược lại hoặc giữa các địa điểm sử dụng phương tiện;
+   a. Lưu hành xe quá khổ giới hạn quy định tại điểm a và điểm b khoản 1 Điều này không chở hàng hóa, xe có khối lượng bản thân của xe quá tải trọng của đường bộ không chở hàng hóa, xe bánh xích từ nơi sản xuất, ga, cảng và các địa điểm nhập khẩu, sửa chữa, bảo trì đến nơi sử dụng phương tiện và ngược lại hoặc giữa các địa điểm sử dụng phương tiện;
 
-b) Lưu hành xe quá khổ giới hạn, xe quá tải trọng để chở hàng hóa trên đường bộ trong các trường hợp: phục vụ nhiệm vụ quốc phòng, an ninh; phòng, chống, khắc phục hậu quả thiên tai; thực hiện nhiệm vụ trong trường hợp khẩn cấp; chở hàng siêu trường, siêu trọng khi các phương thức vận chuyển hàng hoá bằng đường sắt, đường thuỷ nội địa, hàng không, hàng hải không phù hợp hoặc phải kết hợp phương thức vận tải đường bộ với phương thức vận tải khác;
+   b. Lưu hành xe quá khổ giới hạn, xe quá tải trọng để chở hàng hóa trên đường bộ trong các trường hợp: phục vụ nhiệm vụ quốc phòng, an ninh; phòng, chống, khắc phục hậu quả thiên tai; thực hiện nhiệm vụ trong trường hợp khẩn cấp; chở hàng siêu trường, siêu trọng khi các phương thức vận chuyển hàng hoá bằng đường sắt, đường thuỷ nội địa, hàng không, hàng hải không phù hợp hoặc phải kết hợp phương thức vận tải đường bộ với phương thức vận tải khác;
 
-c) Lưu hành xe quá khổ giới hạn cho phép của xe để chở xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe), xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg từ nơi sản xuất, ga, cảng và các địa điểm nhập khẩu, sửa chữa, bảo trì đến nơi sử dụng.
+   c. Lưu hành xe quá khổ giới hạn cho phép của xe để chở xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe), xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg từ nơi sản xuất, ga, cảng và các địa điểm nhập khẩu, sửa chữa, bảo trì đến nơi sử dụng.
 
 4. Việc bảo vệ công trình đường bộ khi cho phép xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ được quy định như sau:
 
-a) Trường hợp xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích vượt quá tải trọng, khổ giới hạn của công trình đường bộ thì tổ chức, cá nhân có nhu cầu lưu hành xe chịu trách nhiệm khảo sát, thiết kế, gia cường công trình đường bộ;
+   a. Trường hợp xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích vượt quá tải trọng, khổ giới hạn của công trình đường bộ thì tổ chức, cá nhân có nhu cầu lưu hành xe chịu trách nhiệm khảo sát, thiết kế, gia cường công trình đường bộ;
 
-b) Việc khảo sát, thiết kế, gia cường công trình đường bộ do đơn vị đủ điều kiện năng lực hoạt động theo quy định của pháp luật về xây dựng thực hiện;
+   b. Việc khảo sát, thiết kế, gia cường công trình đường bộ do đơn vị đủ điều kiện năng lực hoạt động theo quy định của pháp luật về xây dựng thực hiện;
 
-c) Tổ chức, cá nhân lưu hành xe có trách nhiệm chi trả toàn bộ chi phí để khảo sát, thiết kế, gia cường công trình đường bộ quy định tại điểm b khoản này;
+   c. Tổ chức, cá nhân lưu hành xe có trách nhiệm chi trả toàn bộ chi phí để khảo sát, thiết kế, gia cường công trình đường bộ quy định tại điểm b khoản này;
 
-d) Cơ quan, tổ chức, cá nhân quy định tại các điểm a, b và c khoản này có trách nhiệm bồi thường khi xảy ra thiệt hại đối với công trình đường bộ;
+   d. Cơ quan, tổ chức, cá nhân quy định tại các điểm a, b và c khoản này có trách nhiệm bồi thường khi xảy ra thiệt hại đối với công trình đường bộ;
 
-đ) Trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông đường bộ theo quy định của Chính phủ;
+   đ. Trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông đường bộ theo quy định của Chính phủ;
 
-e) Xe bánh xích được phép lưu hành trên đường bộ thì phải có biện pháp bảo vệ mặt đường.
+   e. Xe bánh xích được phép lưu hành trên đường bộ thì phải có biện pháp bảo vệ mặt đường.
 
 5. Cơ quan quản lý đường bộ có thẩm quyền cấp giấy phép lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ; trường hợp vận chuyển hàng siêu trường, siêu trọng thì việc cấp giấy phép thực hiện theo quy định tại Điều 53 của Luật này; cơ quan, tổ chức được giao trực tiếp quản lý công trình đường bộ thuộc trường hợp phải gia cường quy định tại điểm a khoản 4 Điều này thực hiện việc chấp thuận phương án khảo sát, thiết kế, gia cường công trình đường bộ.
 
@@ -1256,13 +1256,13 @@ e) Xe bánh xích được phép lưu hành trên đường bộ thì phải có
 
 3. Việc lưu hành xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam, xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch được quy định như sau:
 
-a) Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó;
+   a. Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó;
 
-b) Tham gia giao thông đúng trong phạm vi, tuyến đường, thời gian đã được cơ quan có thẩm quyền của Việt Nam cấp phép;
+   b. Tham gia giao thông đúng trong phạm vi, tuyến đường, thời gian đã được cơ quan có thẩm quyền của Việt Nam cấp phép;
 
-c) Xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải phải đi theo đoàn và có người, phương tiện hỗ trợ, hướng dẫn giao thông;
+   c. Xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải phải đi theo đoàn và có người, phương tiện hỗ trợ, hướng dẫn giao thông;
 
-d) Tổ chức, cá nhân đưa xe có tay lái ở bên phải vào Việt Nam có trách nhiệm bố trí xe hướng dẫn giao thông, bảo đảm an toàn giao thông khi phương tiện lưu hành trên lãnh thổ Việt Nam.
+   d. Tổ chức, cá nhân đưa xe có tay lái ở bên phải vào Việt Nam có trách nhiệm bố trí xe hướng dẫn giao thông, bảo đảm an toàn giao thông khi phương tiện lưu hành trên lãnh thổ Việt Nam.
 
 4. Chính phủ quy định chi tiết Điều này.
 
@@ -1272,25 +1272,25 @@ d) Tổ chức, cá nhân đưa xe có tay lái ở bên phải vào Việt Nam 
 
 1. Người lái xe tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp, trừ người lái xe gắn máy quy định tại khoản 4 Điều này. Khi tham gia giao thông đường bộ, người lái xe phải mang theo các giấy tờ sau đây:
 
-a) Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài còn hiệu lực trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
+   a. Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài còn hiệu lực trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
 
-b) Giấy phép lái xe phù hợp với loại xe đang điều khiển;
+   b. Giấy phép lái xe phù hợp với loại xe đang điều khiển;
 
-c) Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật;
+   c. Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật;
 
-d) Chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.
+   d. Chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.
 
 2. Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng phù hợp loại xe máy chuyên dùng đang điều khiển; có giấy phép lái xe đang còn điểm, còn hiệu lực hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ. Khi tham gia giao thông đường bộ, người điều khiển xe máy chuyên dùng phải mang theo các loại giấy tờ sau đây:
 
-a) Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc Giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
+   a. Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc Giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
 
-b) Bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng;
+   b. Bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng;
 
-c) Giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ;
+   c. Giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ;
 
-d) Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe máy chuyên dùng theo quy định của pháp luật;
+   d. Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe máy chuyên dùng theo quy định của pháp luật;
 
-đ) Chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự theo quy định của pháp luật.
+   đ. Chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự theo quy định của pháp luật.
 
 3. Trường hợp giấy tờ quy định tại khoản 1 và khoản 2 Điều này đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử.
 
@@ -1302,35 +1302,35 @@ d) Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trư�
 
 1. Giấy phép lái xe bao gồm các hạng sau đây:
 
-a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
+   a. Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
 
-b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh  trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+   b. Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh  trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
 
-c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+   c. Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
 
-d) Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
+   d. Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
 
-đ) Hạng C1 cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
+   đ. Hạng C1 cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
 
-e) Hạng C cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
+   e. Hạng C cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
 
-g) Hạng D1 cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
+   g. Hạng D1 cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
 
-h) Hạng D2 cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
+   h. Hạng D2 cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
 
-i) Hạng D cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
+   i. Hạng D cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
 
-k) Hạng BE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   k. Hạng BE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-l) Hạng C1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   l. Hạng C1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-m) Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+   m. Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
 
-n) Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   n. Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-o) Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   o. Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+   p. Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
 
 2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.
 
@@ -1342,37 +1342,37 @@ Người khuyết tật điều khiển xe ô tô số tự động có kết c�
 
 5. Thời hạn của giấy phép lái xe được quy định như sau:
 
-a) Giấy phép lái xe các hạng A1, A, B1 không thời hạn;
+   a. Giấy phép lái xe các hạng A1, A, B1 không thời hạn;
 
-b) Giấy phép lái xe hạng B và hạng C1 có thời hạn 10 năm kể từ ngày cấp;
+   b. Giấy phép lái xe hạng B và hạng C1 có thời hạn 10 năm kể từ ngày cấp;
 
-c) Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE có thời hạn 05 năm kể từ ngày cấp.
+   c. Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE có thời hạn 05 năm kể từ ngày cấp.
 
 6. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam bao gồm:
 
-a) Giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp;
+   a. Giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp;
 
-b) Giấy phép lái xe quốc tế và giấy phép lái xe quốc gia phù hợp với loại xe được phép điều khiển do quốc gia là thành viên của Công ước của Liên hợp quốc về Giao thông đường bộ năm 1968 (sau đây gọi là Công ước Viên) cấp;
+   b. Giấy phép lái xe quốc tế và giấy phép lái xe quốc gia phù hợp với loại xe được phép điều khiển do quốc gia là thành viên của Công ước của Liên hợp quốc về Giao thông đường bộ năm 1968 (sau đây gọi là Công ước Viên) cấp;
 
-c) Giấy phép lái xe phù hợp với loại xe được phép điều khiển của nước hoặc vùng lãnh thổ mà Việt Nam ký kết điều ước quốc tế hoặc thỏa thuận quốc tế công nhận giấy phép lái xe của nhau;
+   c. Giấy phép lái xe phù hợp với loại xe được phép điều khiển của nước hoặc vùng lãnh thổ mà Việt Nam ký kết điều ước quốc tế hoặc thỏa thuận quốc tế công nhận giấy phép lái xe của nhau;
 
-d) Giấy phép lái xe nước ngoài phù hợp với loại xe được phép điều khiển do quốc gia được công nhận theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+   d. Giấy phép lái xe nước ngoài phù hợp với loại xe được phép điều khiển do quốc gia được công nhận theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 7. Giấy phép lái xe không có hiệu lực trong các trường hợp sau đây:
 
-a) Giấy phép lái xe hết thời hạn sử dụng;
+   a. Giấy phép lái xe hết thời hạn sử dụng;
 
-b) Giấy phép lái xe bị thu hồi theo quy định tại khoản 5 Điều 62 của Luật này.
+   b. Giấy phép lái xe bị thu hồi theo quy định tại khoản 5 Điều 62 của Luật này.
 
 8. Giấy phép lái xe quốc tế được quy định như sau:
 
-a) Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm quyền của quốc gia là thành viên của Công ước Viên cấp theo một mẫu thống nhất; có thời hạn không quá 03 năm kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia;
+   a. Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm quyền của quốc gia là thành viên của Công ước Viên cấp theo một mẫu thống nhất; có thời hạn không quá 03 năm kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia;
 
-b) Người có giấy phép lái xe quốc tế do quốc gia là thành viên của Công ước Viên cấp khi lái xe tham gia giao thông đường bộ trên lãnh thổ Việt Nam phải mang theo giấy phép lái xe quốc tế và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển, còn thời hạn sử dụng; phải tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam;
+   b. Người có giấy phép lái xe quốc tế do quốc gia là thành viên của Công ước Viên cấp khi lái xe tham gia giao thông đường bộ trên lãnh thổ Việt Nam phải mang theo giấy phép lái xe quốc tế và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển, còn thời hạn sử dụng; phải tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam;
 
-c) Người có giấy phép lái xe quốc tế vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam mà bị tước quyền sử dụng giấy phép lái xe có thời hạn thì thời gian bị tước quyền sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam;
+   c. Người có giấy phép lái xe quốc tế vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam mà bị tước quyền sử dụng giấy phép lái xe có thời hạn thì thời gian bị tước quyền sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam;
 
-d) Người Việt Nam hoặc người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam có giấy phép lái xe do Việt Nam hoặc quốc gia là thành viên của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên cấp, còn giá trị sử dụng, nếu có nhu cầu được cấp giấy phép lái xe quốc tế.
+   d. Người Việt Nam hoặc người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam có giấy phép lái xe do Việt Nam hoặc quốc gia là thành viên của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên cấp, còn giá trị sử dụng, nếu có nhu cầu được cấp giấy phép lái xe quốc tế.
 
 9. Bộ trưởng Bộ Giao thông vận tải quy định mẫu giấy phép lái xe và giấy phép lái xe quốc tế, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe, giấy phép lái xe quốc tế; đối với mẫu giấy phép lái xe, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe của lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh do Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định.
 
@@ -1394,17 +1394,17 @@ d) Người Việt Nam hoặc người nước ngoài có thẻ thường trú h
 
 1. Độ tuổi của người lái xe, người điều khiển xe máy chuyên dùng được quy định như sau:
 
-a) Người đủ 16 tuổi trở lên được điều khiển xe gắn máy;
+   a. Người đủ 16 tuổi trở lên được điều khiển xe gắn máy;
 
-b) Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ;
+   b. Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ;
 
-c) Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C, BE;
+   c. Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C, BE;
 
-d) Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE;
+   d. Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE;
 
-đ) Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE;
+   đ. Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE;
 
-e) Tuổi tối đa của người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ.
+   e. Tuổi tối đa của người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ.
 
 2. Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm điều kiện sức khỏe phù hợp với từng loại phương tiện được phép điều khiển. Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; việc khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; xây dựng cơ sở dữ liệu về sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng.
 
@@ -1418,17 +1418,17 @@ e) Tuổi tối đa của người lái xe ô tô chở người (kể cả xe b
 
 3. Việc đào tạo để nâng hạng giấy phép lái xe thực hiện đối với những đối tượng sau đây:
 
-a) Nâng hạng giấy phép lái xe từ hạng B lên hạng C1 hoặc lên hạng C hoặc lên hạng D1 hoặc lên hạng D2;
+   a. Nâng hạng giấy phép lái xe từ hạng B lên hạng C1 hoặc lên hạng C hoặc lên hạng D1 hoặc lên hạng D2;
 
-b) Nâng hạng giấy phép lái xe từ hạng C1 lên hạng C hoặc lên hạng D1 hoặc lên hạng D2;
+   b. Nâng hạng giấy phép lái xe từ hạng C1 lên hạng C hoặc lên hạng D1 hoặc lên hạng D2;
 
-c) Nâng hạng giấy phép lái xe từ hạng C lên hạng D1 hoặc lên hạng D2 hoặc lên hạng D;
+   c. Nâng hạng giấy phép lái xe từ hạng C lên hạng D1 hoặc lên hạng D2 hoặc lên hạng D;
 
-d) Nâng hạng giấy phép lái xe từ hạng D1 lên hạng D2 hoặc lên hạng D;
+   d. Nâng hạng giấy phép lái xe từ hạng D1 lên hạng D2 hoặc lên hạng D;
 
-đ) Nâng hạng giấy phép lái xe từ hạng D2 lên hạng D;
+   đ. Nâng hạng giấy phép lái xe từ hạng D2 lên hạng D;
 
-e) Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên  hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
+   e. Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên  hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
 
 4. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe khi giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng giấy phép lái xe; đối với việc nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người có nhu cầu được đào tạo còn phải có trình độ từ trung học cơ sở trở lên.
 
@@ -1462,17 +1462,17 @@ e) Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C
 
 2. Người có giấy phép lái xe được đổi, cấp lại giấy phép lái xe trong các trường hợp sau đây:
 
-a) Giấy phép lái xe bị mất;
+   a. Giấy phép lái xe bị mất;
 
-b) Giấy phép lái xe bị hỏng không còn sử dụng được;
+   b. Giấy phép lái xe bị hỏng không còn sử dụng được;
 
-c) Trước thời hạn ghi trên giấy phép lái xe;
+   c. Trước thời hạn ghi trên giấy phép lái xe;
 
-d) Thay đổi thông tin ghi trên giấy phép lái xe;
+   d. Thay đổi thông tin ghi trên giấy phép lái xe;
 
-đ) Giấy phép lái xe nước ngoài do cơ quan có thẩm quyền của nước ngoài cấp còn giá trị sử dụng;
+   đ. Giấy phép lái xe nước ngoài do cơ quan có thẩm quyền của nước ngoài cấp còn giá trị sử dụng;
 
-e) Giấy phép lái xe do Bộ Quốc phòng, Bộ Công an cấp khi có yêu cầu hoặc người được cấp không còn làm nhiệm vụ quốc phòng, an ninh.
+   e. Giấy phép lái xe do Bộ Quốc phòng, Bộ Công an cấp khi có yêu cầu hoặc người được cấp không còn làm nhiệm vụ quốc phòng, an ninh.
 
 3. Khuyến khích đổi giấy phép lái xe không thời hạn được cấp trước ngày 01 tháng 7 năm 2012 sang giấy phép lái xe theo quy định của Luật này.
 
@@ -1480,11 +1480,11 @@ e) Giấy phép lái xe do Bộ Quốc phòng, Bộ Công an cấp khi có yêu 
 
 5. Giấy phép lái xe bị thu hồi khi thuộc một trong các trường hợp sau đây:
 
-a) Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám bệnh, chữa bệnh đối với từng hạng giấy phép lái xe;
+   a. Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám bệnh, chữa bệnh đối với từng hạng giấy phép lái xe;
 
-b) Giấy phép lái xe được cấp sai quy định;
+   b. Giấy phép lái xe được cấp sai quy định;
 
-c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời hiệu thi hành quyết định xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính nếu người vi phạm không đến nhận mà không có lý do chính đáng.
+   c. Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời hiệu thi hành quyết định xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính nếu người vi phạm không đến nhận mà không có lý do chính đáng.
 
 6. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện, trình tự, thủ tục về cấp, đổi, cấp lại và thu hồi giấy phép lái xe, trừ trường hợp quy định tại khoản 7 Điều này.
 
@@ -1514,67 +1514,67 @@ c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời h
 
 1. Hoạt động tuần tra, kiểm soát bao gồm:
 
-a) Bố trí lực lượng, phương tiện thực hiện nhiệm vụ tuần tra, kiểm soát;
+   a. Bố trí lực lượng, phương tiện thực hiện nhiệm vụ tuần tra, kiểm soát;
 
-b) Kiểm tra, kiểm soát người, phương tiện tham gia giao thông đường bộ;
+   b. Kiểm tra, kiểm soát người, phương tiện tham gia giao thông đường bộ;
 
-c) Phát hiện, ngăn chặn và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác.
+   c. Phát hiện, ngăn chặn và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác.
 
 2. Hình thức tuần tra, kiểm soát bao gồm:
 
-a) Tổ chức lực lượng trực tiếp tuần tra, kiểm soát trên tuyến giao thông đường bộ;
+   a. Tổ chức lực lượng trực tiếp tuần tra, kiểm soát trên tuyến giao thông đường bộ;
 
-b) Kiểm soát thông qua hệ thống, phương tiện, thiết bị, dữ liệu quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này.
+   b. Kiểm soát thông qua hệ thống, phương tiện, thiết bị, dữ liệu quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này.
 
 3. Lực lượng thực hiện tuần tra, kiểm soát bao gồm:
 
-a) Lực lượng Cảnh sát giao thông;
+   a. Lực lượng Cảnh sát giao thông;
 
-b) Lực lượng, đơn vị khác trong Công an nhân dân được huy động tham gia phối hợp với Cảnh sát giao thông thực hiện tuần tra, kiểm soát trong trường hợp cần thiết trên cơ sở nhiệm vụ, quyền hạn của lực lượng được huy động theo quy định của pháp luật, quyết định của cấp có thẩm quyền và phù hợp với thực tế nhiệm vụ.
+   b. Lực lượng, đơn vị khác trong Công an nhân dân được huy động tham gia phối hợp với Cảnh sát giao thông thực hiện tuần tra, kiểm soát trong trường hợp cần thiết trên cơ sở nhiệm vụ, quyền hạn của lực lượng được huy động theo quy định của pháp luật, quyết định của cấp có thẩm quyền và phù hợp với thực tế nhiệm vụ.
 
 4. Nhiệm vụ của Cảnh sát giao thông khi thực hiện tuần tra, kiểm soát bao gồm:
 
-a) Quan sát, nắm tình hình người, phương tiện tham gia giao thông đường bộ; tình hình trật tự, an toàn giao thông đường bộ; an ninh, trật tự trên tuyến giao thông đường bộ;
+   a. Quan sát, nắm tình hình người, phương tiện tham gia giao thông đường bộ; tình hình trật tự, an toàn giao thông đường bộ; an ninh, trật tự trên tuyến giao thông đường bộ;
 
-b) Thực hiện quy định tại điểm b và điểm c khoản 1 Điều này;
+   b. Thực hiện quy định tại điểm b và điểm c khoản 1 Điều này;
 
-c) Hướng dẫn, tuyên truyền, vận động người tham gia giao thông đường bộ chấp hành pháp luật về trật tự, an toàn giao thông đường bộ;
+   c. Hướng dẫn, tuyên truyền, vận động người tham gia giao thông đường bộ chấp hành pháp luật về trật tự, an toàn giao thông đường bộ;
 
-d) Giúp đỡ, hỗ trợ người, phương tiện tham gia giao thông đường bộ khi cần thiết;
+   d. Giúp đỡ, hỗ trợ người, phương tiện tham gia giao thông đường bộ khi cần thiết;
 
-đ) Chỉ huy, điều khiển giao thông đường bộ;
+   đ. Chỉ huy, điều khiển giao thông đường bộ;
 
-e) Điều tra, giải quyết tai nạn giao thông đường bộ theo quy định của pháp luật;
+   e. Điều tra, giải quyết tai nạn giao thông đường bộ theo quy định của pháp luật;
 
-g) Đấu tranh phòng, chống tội phạm hoạt động trên tuyến giao thông đường bộ, bảo đảm an ninh, trật tự theo quy định của pháp luật; tham gia phòng, chống khủng bố, biểu tình gây rối,\_ \_dịch bệnh, thiên tai, hỏa hoạn; tham gia cứu nạn, cứu hộ;
+   g. Đấu tranh phòng, chống tội phạm hoạt động trên tuyến giao thông đường bộ, bảo đảm an ninh, trật tự theo quy định của pháp luật; tham gia phòng, chống khủng bố, biểu tình gây rối,\_ \_dịch bệnh, thiên tai, hỏa hoạn; tham gia cứu nạn, cứu hộ;
 
-h) Phát hiện những bất cập về đường bộ, tổ chức giao thông đường bộ, nguyên nhân dẫn đến mất trật tự, an toàn giao thông đường bộ, thông báo cho cơ quan chức năng hoặc báo cáo cấp có thẩm quyền kiến nghị với cơ quan chức năng có biện pháp khắc phục;
+   h. Phát hiện những bất cập về đường bộ, tổ chức giao thông đường bộ, nguyên nhân dẫn đến mất trật tự, an toàn giao thông đường bộ, thông báo cho cơ quan chức năng hoặc báo cáo cấp có thẩm quyền kiến nghị với cơ quan chức năng có biện pháp khắc phục;
 
-i) Phối hợp với cơ quan quản lý đường bộ phát hiện, ngăn chặn hành vi vi phạm quy định của pháp luật về bảo vệ công trình đường bộ và hành lang an toàn đường bộ;
+   i. Phối hợp với cơ quan quản lý đường bộ phát hiện, ngăn chặn hành vi vi phạm quy định của pháp luật về bảo vệ công trình đường bộ và hành lang an toàn đường bộ;
 
-k) Nhiệm vụ khác theo quy định của Luật Công an nhân dân và quy định khác của pháp luật có liên quan.
+   k. Nhiệm vụ khác theo quy định của Luật Công an nhân dân và quy định khác của pháp luật có liên quan.
 
 5. Quyền hạn của Cảnh sát giao thông khi thực hiện tuần tra, kiểm soát bao gồm:
 
-a) Dừng phương tiện tham gia giao thông đường bộ theo quy định tại Điều 66 của Luật này để kiểm tra việc chấp hành các quy định về quy tắc giao thông đường bộ; điều kiện của phương tiện tham gia giao thông đường bộ; điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ; các quy định về bảo đảm trật tự, an toàn giao thông đường bộ theo quy định của Luật này và quy định khác của pháp luật có liên quan;
+   a. Dừng phương tiện tham gia giao thông đường bộ theo quy định tại Điều 66 của Luật này để kiểm tra việc chấp hành các quy định về quy tắc giao thông đường bộ; điều kiện của phương tiện tham gia giao thông đường bộ; điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ; các quy định về bảo đảm trật tự, an toàn giao thông đường bộ theo quy định của Luật này và quy định khác của pháp luật có liên quan;
 
-b) Xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác theo quy định của pháp luật;
+   b. Xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác theo quy định của pháp luật;
 
-c) Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách; di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ theo quy định tại Điều 68 và Điều 69 của Luật này;
+   c. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách; di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ theo quy định tại Điều 68 và Điều 69 của Luật này;
 
-d) Vận hành, sử dụng hệ thống, phương tiện, thiết bị, dữ liệu theo quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này và vũ khí, công cụ hỗ trợ theo quy định tại Điều 70 của Luật này;
+   d. Vận hành, sử dụng hệ thống, phương tiện, thiết bị, dữ liệu theo quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này và vũ khí, công cụ hỗ trợ theo quy định tại Điều 70 của Luật này;
 
-đ) Quyền hạn khác theo quy định của Luật Công an nhân dân và quy định khác của pháp luật có liên quan.
+   đ. Quyền hạn khác theo quy định của Luật Công an nhân dân và quy định khác của pháp luật có liên quan.
 
 6. Khi thực hiện nhiệm vụ, lực lượng thực hiện tuần tra, kiểm soát phải tuân thủ các nguyên tắc sau đây:
 
-a) Chấp hành quy định của pháp luật và mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền;
+   a. Chấp hành quy định của pháp luật và mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền;
 
-b) Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
+   b. Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
 
-c) Kiên quyết đấu tranh phòng, chống tội phạm, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác;
+   c. Kiên quyết đấu tranh phòng, chống tội phạm, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác;
 
-d) Chịu trách nhiệm về quyết định, hành vi của mình theo quy định của pháp luật.
+   d. Chịu trách nhiệm về quyết định, hành vi của mình theo quy định của pháp luật.
 
 7. Bộ trưởng Bộ Công an quy định chi tiết điểm a và điểm b khoản 1, khoản 2, điểm b khoản 3 Điều này; quy định quy trình tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông.
 
@@ -1642,11 +1642,11 @@ Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao 
 
 1. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ được quy định như sau:
 
-a) Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ là hệ thống thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình của phương tiện tham gia giao thông đường bộ, tình trạng giao thông và các dữ liệu liên quan khác được xây dựng, lắp đặt trên các tuyến giao thông đường bộ theo quy chuẩn kỹ thuật quốc gia để giám sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác;
+   a. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ là hệ thống thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình của phương tiện tham gia giao thông đường bộ, tình trạng giao thông và các dữ liệu liên quan khác được xây dựng, lắp đặt trên các tuyến giao thông đường bộ theo quy chuẩn kỹ thuật quốc gia để giám sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác;
 
-b) Việc xây dựng, quản lý, vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải tuân thủ đúng quy trình, quy tắc, bảo đảm hoạt động liên tục và kết nối với Trung tâm chỉ huy giao thông;
+   b. Việc xây dựng, quản lý, vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải tuân thủ đúng quy trình, quy tắc, bảo đảm hoạt động liên tục và kết nối với Trung tâm chỉ huy giao thông;
 
-c) Dữ liệu thu thập được từ hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải được quản lý theo quy định của pháp luật; bảo đảm các yêu cầu về bảo vệ dữ liệu cá nhân, bảo vệ các quyền và lợi ích hợp pháp của cá nhân và tổ chức; được sử dụng để xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ, vi phạm pháp luật khác và phục vụ công tác quản lý nhà nước.
+   c. Dữ liệu thu thập được từ hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải được quản lý theo quy định của pháp luật; bảo đảm các yêu cầu về bảo vệ dữ liệu cá nhân, bảo vệ các quyền và lợi ích hợp pháp của cá nhân và tổ chức; được sử dụng để xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ, vi phạm pháp luật khác và phục vụ công tác quản lý nhà nước.
 
 2. Hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe dùng để ghi, lưu trữ, truyền phát thông tin, dữ liệu về hành trình của phương tiện tham gia giao thông đường bộ và hình ảnh của người lái xe, phục vụ công tác bảo đảm an ninh, trật tự, an toàn giao thông đường bộ và xử lý hành vi vi phạm pháp luật, quản lý nhà nước về vận tải đường bộ; do lực lượng Cảnh sát giao thông quản lý, vận hành, sử dụng; được kết nối, chia sẻ với cơ quan quản lý đường bộ và các cơ quan liên quan.
 
@@ -1658,33 +1658,33 @@ c) Dữ liệu thu thập được từ hệ thống giám sát bảo đảm an 
 
 1. Người điều khiển phương tiện tham gia giao thông đường bộ có quyền sau đây:
 
-a) Được điều khiển phương tiện tham gia giao thông đường bộ theo quy định của Luật này;
+   a. Được điều khiển phương tiện tham gia giao thông đường bộ theo quy định của Luật này;
 
-b) Được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát; hành vi vi phạm pháp luật và biện pháp xử lý;
+   b. Được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát; hành vi vi phạm pháp luật và biện pháp xử lý;
 
-c) Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật;
+   c. Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật;
 
-d) Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo;
+   d. Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo;
 
-đ) Báo tin, tố giác, phản ánh những trường hợp vi phạm pháp luật.
+   đ. Báo tin, tố giác, phản ánh những trường hợp vi phạm pháp luật.
 
 2. Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm sau đây:
 
-a) Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ;
+   a. Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ;
 
-b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát;
+   b. Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát;
 
-c) Hỗ trợ, hợp tác với lực lượng bảo đảm trật tự, an toàn giao thông đường bộ trong quá trình phát hiện, ngăn chặn và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác.
+   c. Hỗ trợ, hợp tác với lực lượng bảo đảm trật tự, an toàn giao thông đường bộ trong quá trình phát hiện, ngăn chặn và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác.
 
 ### Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ
 
 1. Khi người tham gia giao thông đường bộ không chấp hành yêu cầu kiểm tra, kiểm soát, có hành vi cản trở, chống người thi hành công vụ thì người thi hành công vụ thực hiện các biện pháp sau đây:
 
-a) Giải thích cho người vi phạm biết rõ về hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, có hành vi cản trở, chống người thi hành công vụ; quyền và trách nhiệm của người vi phạm; thuyết phục, yêu cầu chấm dứt ngay hành vi vi phạm, chấp hành yêu cầu kiểm tra, kiểm soát;
+   a. Giải thích cho người vi phạm biết rõ về hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, có hành vi cản trở, chống người thi hành công vụ; quyền và trách nhiệm của người vi phạm; thuyết phục, yêu cầu chấm dứt ngay hành vi vi phạm, chấp hành yêu cầu kiểm tra, kiểm soát;
 
-b) Áp dụng các biện pháp ngăn chặn theo quy định của pháp luật trong trường hợp người vi phạm cản trở, không chấp hành yêu cầu kiểm tra, kiểm soát của người thi hành công vụ;
+   b. Áp dụng các biện pháp ngăn chặn theo quy định của pháp luật trong trường hợp người vi phạm cản trở, không chấp hành yêu cầu kiểm tra, kiểm soát của người thi hành công vụ;
 
-c) Trường hợp người vi phạm có hành vi chống người thi hành công vụ thì tùy theo tình huống, tính chất, mức độ nguy hiểm của hành vi, người thi hành công vụ được sử dụng vũ lực, công cụ hỗ trợ hoặc vũ khí theo quy định của pháp luật để ngăn chặn hành vi vi phạm và phòng vệ chính đáng.
+   c. Trường hợp người vi phạm có hành vi chống người thi hành công vụ thì tùy theo tình huống, tính chất, mức độ nguy hiểm của hành vi, người thi hành công vụ được sử dụng vũ lực, công cụ hỗ trợ hoặc vũ khí theo quy định của pháp luật để ngăn chặn hành vi vi phạm và phòng vệ chính đáng.
 
 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm.
 
@@ -1708,21 +1708,21 @@ c) Trường hợp người vi phạm có hành vi chống người thi hành c�
 
 4. Trung tâm chỉ huy giao thông được kết nối, chia sẻ dữ liệu với các Bộ, ngành và các hệ thống, cơ sở dữ liệu sau đây:
 
-a) Hệ thống đèn tín hiệu giao thông đường bộ;
+   a. Hệ thống đèn tín hiệu giao thông đường bộ;
 
-b) Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ;
+   b. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ;
 
-c) Hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe;
+   c. Hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe;
 
-d) Hệ thống camera trên tuyến giao thông, trong đô thị;
+   d. Hệ thống camera trên tuyến giao thông, trong đô thị;
 
-đ) Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; thiết bị phục vụ công tác điều khiển giao thông, tuần tra, kiểm soát và điều tra giải quyết tai nạn giao thông đường bộ tại hiện trường;
+   đ. Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; thiết bị phục vụ công tác điều khiển giao thông, tuần tra, kiểm soát và điều tra giải quyết tai nạn giao thông đường bộ tại hiện trường;
 
-e) Trung tâm quản lý hệ thống giao thông thông minh;
+   e. Trung tâm quản lý hệ thống giao thông thông minh;
 
-g) Công trình kiểm soát tải trọng xe cơ giới, hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới;
+   g. Công trình kiểm soát tải trọng xe cơ giới, hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới;
 
-h) Cơ sở dữ liệu khác theo quy định tại khoản 1 Điều 7 của Luật này.
+   h. Cơ sở dữ liệu khác theo quy định tại khoản 1 Điều 7 của Luật này.
 
 5. Bộ trưởng Bộ Công an ban hành quy chuẩn kỹ thuật quốc gia về trung tâm chỉ huy giao thông; quy định việc xây dựng, quản lý, hoạt động của trung tâm chỉ huy giao thông.
 
@@ -1734,15 +1734,15 @@ h) Cơ sở dữ liệu khác theo quy định tại khoản 1 Điều 7 của L
 
 3. Cơ quan Công an, cơ quan quản lý đường bộ khi phát hiện hoặc tiếp nhận thông tin về tình huống quy định tại khoản 1 Điều này, theo chức năng, nhiệm vụ của mình, có trách nhiệm sau đây:
 
-a) Tổ chức ngay lực lượng đến nơi xảy ra tình huống đột xuất để bảo đảm trật tự, an toàn giao thông đường bộ tại nơi xảy ra tình huống;
+   a. Tổ chức ngay lực lượng đến nơi xảy ra tình huống đột xuất để bảo đảm trật tự, an toàn giao thông đường bộ tại nơi xảy ra tình huống;
 
-b) Thực hiện các biện pháp quy định tại khoản 2 Điều 74 của Luật này;
+   b. Thực hiện các biện pháp quy định tại khoản 2 Điều 74 của Luật này;
 
-c) Khắc phục kịp thời các hư hỏng về kết cấu hạ tầng giao thông đường bộ gây mất trật tự, an toàn giao thông đường bộ;
+   c. Khắc phục kịp thời các hư hỏng về kết cấu hạ tầng giao thông đường bộ gây mất trật tự, an toàn giao thông đường bộ;
 
-d) Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhiệm vụ phải kịp thời thông báo cho cơ quan có thẩm quyền để giải quyết;
+   d. Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhiệm vụ phải kịp thời thông báo cho cơ quan có thẩm quyền để giải quyết;
 
-đ) Thực hiện các biện pháp khác theo quy định của pháp luật.
+   đ. Thực hiện các biện pháp khác theo quy định của pháp luật.
 
 ### Điều 77. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
 
@@ -1752,11 +1752,11 @@ d) Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhi�
 
 3. Cơ quan Cảnh sát giao thông có trách nhiệm sau đây:
 
-a) Xây dựng, tổ chức thực hiện phương án bảo đảm trật tự, an toàn giao thông đường bộ;
+   a. Xây dựng, tổ chức thực hiện phương án bảo đảm trật tự, an toàn giao thông đường bộ;
 
-b) Thông báo, thực hiện phương án phân luồng giao thông tạm thời;
+   b. Thông báo, thực hiện phương án phân luồng giao thông tạm thời;
 
-c) Giải quyết các tình huống gây mất an ninh, trật tự, an toàn giao thông đường bộ; trường hợp sử dụng tạm thời lòng đường, vỉa hè không bảo đảm yêu cầu về an ninh, trật tự, an toàn giao thông đường bộ thì tạm thời đình chỉ hoạt động, kiến nghị cơ quan có thẩm quyền điều chỉnh phương án sử dụng cho phù hợp.
+   c. Giải quyết các tình huống gây mất an ninh, trật tự, an toàn giao thông đường bộ; trường hợp sử dụng tạm thời lòng đường, vỉa hè không bảo đảm yêu cầu về an ninh, trật tự, an toàn giao thông đường bộ thì tạm thời đình chỉ hoạt động, kiến nghị cơ quan có thẩm quyền điều chỉnh phương án sử dụng cho phù hợp.
 
 4. Chính phủ quy định chi tiết Điều này.
 
@@ -1766,25 +1766,25 @@ c) Giải quyết các tình huống gây mất an ninh, trật tự, an toàn g
 
 2. Khi xuất hiện ùn tắc giao thông, phải tiến hành các biện pháp sau đây:
 
-a) Cơ quan Cảnh sát giao thông có phương án chỉ huy, điều khiển giao thông đường bộ; xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ; kiến nghị cơ quan có thẩm quyền giải quyết, phòng ngừa ùn tắc giao thông;
+   a. Cơ quan Cảnh sát giao thông có phương án chỉ huy, điều khiển giao thông đường bộ; xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ; kiến nghị cơ quan có thẩm quyền giải quyết, phòng ngừa ùn tắc giao thông;
 
-b) Cơ quan quản lý đường bộ chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan xác định nguyên nhân của ùn tắc giao thông; có biện pháp giải quyết theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền giải quyết;
+   b. Cơ quan quản lý đường bộ chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan xác định nguyên nhân của ùn tắc giao thông; có biện pháp giải quyết theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền giải quyết;
 
-c) Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với cơ quan Cảnh sát giao thông, cơ quan quản lý đường bộ thực hiện các biện pháp phòng ngừa, giải quyết, khắc phục ùn tắc giao thông.
+   c. Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với cơ quan Cảnh sát giao thông, cơ quan quản lý đường bộ thực hiện các biện pháp phòng ngừa, giải quyết, khắc phục ùn tắc giao thông.
 
 ### Điều 79. Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ
 
 1. Khi tiếp nhận thông tin về nguy cơ hư hỏng kết cấu hạ tầng giao thông đường bộ theo quy định tại khoản 1 Điều 76 của Luật này hoặc trực tiếp phát hiện nguy cơ mất an toàn đối với công trình đường bộ, các bất hợp lý về tổ chức giao thông, cơ quan Cảnh sát giao thông có trách nhiệm sau đây:
 
-a) Xử lý, khắc phục trong phạm vi quản lý hoặc kiến nghị cơ quan quản lý đường bộ, người quản lý, sử dụng đường bộ xử lý, khắc phục kịp thời;
+   a. Xử lý, khắc phục trong phạm vi quản lý hoặc kiến nghị cơ quan quản lý đường bộ, người quản lý, sử dụng đường bộ xử lý, khắc phục kịp thời;
 
-b) Trường hợp cần thiết, thực hiện các biện pháp chỉ huy, điều khiển giao thông đường bộ quy định tại Điều 74 của Luật này hoặc tạm thời đình chỉ hoạt động giao thông tuyến đường nếu thấy không bảo đảm trật tự, an toàn giao thông đường bộ.
+   b. Trường hợp cần thiết, thực hiện các biện pháp chỉ huy, điều khiển giao thông đường bộ quy định tại Điều 74 của Luật này hoặc tạm thời đình chỉ hoạt động giao thông tuyến đường nếu thấy không bảo đảm trật tự, an toàn giao thông đường bộ.
 
 2. Cơ quan quản lý đường bộ, người quản lý, sử dụng đường bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
-a) Tiếp nhận, kiểm tra và khắc phục các yếu tố có nguy cơ mất an toàn đối với giao thông đường bộ, thông báo kết quả khắc phục cho cơ quan Cảnh sát giao thông, tổ chức, cá nhân đã kiến nghị;
+   a. Tiếp nhận, kiểm tra và khắc phục các yếu tố có nguy cơ mất an toàn đối với giao thông đường bộ, thông báo kết quả khắc phục cho cơ quan Cảnh sát giao thông, tổ chức, cá nhân đã kiến nghị;
 
-b) Chịu trách nhiệm nếu để xảy ra hậu quả do không xử lý, khắc phục các yếu tố gây mất an toàn giao thông đường bộ theo quy định tại điểm a khoản này.
+   b. Chịu trách nhiệm nếu để xảy ra hậu quả do không xử lý, khắc phục các yếu tố gây mất an toàn giao thông đường bộ theo quy định tại điểm a khoản này.
 
 ## Chương VII. GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ
 
@@ -1792,23 +1792,23 @@ b) Chịu trách nhiệm nếu để xảy ra hậu quả do không xử lý, kh
 
 1. Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm sau đây:
 
-a) Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất;
+   a. Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất;
 
-b) Ở lại hiện trường vụ tai nạn giao thông đường bộ cho đến khi người của cơ quan Công an đến, trừ trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất;
+   b. Ở lại hiện trường vụ tai nạn giao thông đường bộ cho đến khi người của cơ quan Công an đến, trừ trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất;
 
-c) Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền.
+   c. Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền.
 
 2. Người có mặt tại nơi xảy ra vụ tai nạn giao thông đường bộ có trách nhiệm sau đây:
 
-a) Giúp đỡ, cứu chữa kịp thời người bị nạn;
+   a. Giúp đỡ, cứu chữa kịp thời người bị nạn;
 
-b) Báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất;
+   b. Báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất;
 
-c) Tham gia bảo vệ hiện trường;
+   c. Tham gia bảo vệ hiện trường;
 
-d) Tham gia bảo vệ tài sản của người bị nạn;
+   d. Tham gia bảo vệ tài sản của người bị nạn;
 
-đ) Cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.
+   đ. Cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.
 
 3. Người được quy định tại khoản 1 và khoản 2 Điều này chỉ được sử dụng phương tiện liên quan đến vụ tai nạn giao thông đường bộ để đưa nạn nhân đi cấp cứu trong trường hợp không có phương tiện nào khác nhưng phải xác định vị trí phương tiện, vị trí nạn nhân tại hiện trường, không được làm thay đổi, mất dấu vết liên quan đến vụ tai nạn giao thông đường bộ. Trường hợp có người chết phải giữ nguyên hiện trường và che đậy thi thể.
 
@@ -1844,33 +1844,33 @@ d) Tham gia bảo vệ tài sản của người bị nạn;
 
 1. Nguyên tắc điều tra, giải quyết tai nạn giao thông đường bộ được quy định như sau:
 
-a) Tất cả các vụ tai nạn giao thông đường bộ xảy ra phải được điều tra, giải quyết nhanh chóng, kịp thời, chính xác, khách quan, đúng quy định của pháp luật;
+   a. Tất cả các vụ tai nạn giao thông đường bộ xảy ra phải được điều tra, giải quyết nhanh chóng, kịp thời, chính xác, khách quan, đúng quy định của pháp luật;
 
-b) Người gây tai nạn giao thông đường bộ thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật;
+   b. Người gây tai nạn giao thông đường bộ thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật;
 
-c) Các tổ chức, cá nhân liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm phối hợp giải quyết;
+   c. Các tổ chức, cá nhân liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm phối hợp giải quyết;
 
-d) Không được lợi dụng, lạm dụng công tác điều tra, giải quyết tai nạn giao thông đường bộ để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân;
+   d. Không được lợi dụng, lạm dụng công tác điều tra, giải quyết tai nạn giao thông đường bộ để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân;
 
-đ) Đối với vụ tai nạn giao thông đường bộ liên quan đến người và phương tiện của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam thì thực hiện theo quy định của Luật này, pháp luật về quyền ưu đãi, miễn trừ ngoại giao và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+   đ. Đối với vụ tai nạn giao thông đường bộ liên quan đến người và phương tiện của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam thì thực hiện theo quy định của Luật này, pháp luật về quyền ưu đãi, miễn trừ ngoại giao và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 2. Đối với tai nạn giao thông đường bộ có dấu hiệu tội phạm, việc điều tra, giải quyết thực hiện theo quy định của pháp luật về hình sự và pháp luật về tố tụng hình sự. Đối với tai nạn giao thông đường bộ chưa xác định có dấu hiệu tội phạm, nội dung điều tra, giải quyết tai nạn giao thông đường bộ bao gồm:
 
-a) Kiểm tra nồng độ cồn, chất ma túy, các chất kích thích khác mà pháp luật cấm sử dụng đối với người điều khiển phương tiện tham gia giao thông đường bộ liên quan đến tai nạn giao thông đường bộ;
+   a. Kiểm tra nồng độ cồn, chất ma túy, các chất kích thích khác mà pháp luật cấm sử dụng đối với người điều khiển phương tiện tham gia giao thông đường bộ liên quan đến tai nạn giao thông đường bộ;
 
-b) Khám nghiệm hiện trường, phương tiện, tử thi, công trình đường bộ liên quan trực tiếp đến vụ tai nạn giao thông đường bộ; thu thập thông tin, dữ liệu; xác định hậu quả thiệt hại về người và tài sản do tai nạn giao thông đường bộ gây ra;
+   b. Khám nghiệm hiện trường, phương tiện, tử thi, công trình đường bộ liên quan trực tiếp đến vụ tai nạn giao thông đường bộ; thu thập thông tin, dữ liệu; xác định hậu quả thiệt hại về người và tài sản do tai nạn giao thông đường bộ gây ra;
 
-c) Tạm giữ phương tiện, đồ vật, tài liệu, giấy phép, chứng chỉ hành nghề của người điều khiển, phương tiện tham gia giao thông đường bộ;
+   c. Tạm giữ phương tiện, đồ vật, tài liệu, giấy phép, chứng chỉ hành nghề của người điều khiển, phương tiện tham gia giao thông đường bộ;
 
-d) Ghi lời khai của những người điều khiển phương tiện tham gia giao thông đường bộ, người bị nạn, người làm chứng và những người có liên quan khác trong vụ tai nạn giao thông đường bộ;
+   d. Ghi lời khai của những người điều khiển phương tiện tham gia giao thông đường bộ, người bị nạn, người làm chứng và những người có liên quan khác trong vụ tai nạn giao thông đường bộ;
 
-đ) Xem xét dấu vết trên thân thể người bị nạn; kiểm tra, xác minh điều kiện của phương tiện, người điều khiển phương tiện khi tham gia giao thông đường bộ; kiểm tra hành khách, hàng hóa vận chuyển và các loại giấy tờ khác có liên quan;
+   đ. Xem xét dấu vết trên thân thể người bị nạn; kiểm tra, xác minh điều kiện của phương tiện, người điều khiển phương tiện khi tham gia giao thông đường bộ; kiểm tra hành khách, hàng hóa vận chuyển và các loại giấy tờ khác có liên quan;
 
-e) Truy tìm phương tiện, người điều khiển phương tiện tham gia giao thông đường bộ gây tai nạn;
+   e. Truy tìm phương tiện, người điều khiển phương tiện tham gia giao thông đường bộ gây tai nạn;
 
-g) Giám định chuyên môn; dựng lại hiện trường;
+   g. Giám định chuyên môn; dựng lại hiện trường;
 
-h) Các hoạt động khác theo quy định của pháp luật.
+   h. Các hoạt động khác theo quy định của pháp luật.
 
 3. Kết luận vụ tai nạn giao thông đường bộ phải xác định diễn biến, hậu quả thiệt hại, nguyên nhân, lỗi và điều kiện liên quan trực tiếp đến vụ tai nạn giao thông đường bộ; đề xuất xử lý vụ tai nạn giao thông đường bộ; kiến nghị cơ quan, tổ chức, cá nhân khắc phục khi phát hiện sơ hở, thiếu sót nhằm bảo đảm trật tự, an toàn giao thông đường bộ.
 
@@ -1894,23 +1894,23 @@ h) Các hoạt động khác theo quy định của pháp luật.
 
 2. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được hình thành từ các nguồn tài chính sau đây:
 
-a) Hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước, nước ngoài;
+   a. Hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước, nước ngoài;
 
-b) Từ các nguồn khác theo quy định của pháp luật.
+   b. Từ các nguồn khác theo quy định của pháp luật.
 
 3. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được chi cho các hoạt động sau đây:
 
-a) Hỗ trợ nạn nhân, gia đình nạn nhân do tai nạn giao thông đường bộ gây ra; tổ chức, cá nhân giúp đỡ, cứu chữa, đưa người bị tai nạn giao thông đường bộ đi cấp cứu;
+   a. Hỗ trợ nạn nhân, gia đình nạn nhân do tai nạn giao thông đường bộ gây ra; tổ chức, cá nhân giúp đỡ, cứu chữa, đưa người bị tai nạn giao thông đường bộ đi cấp cứu;
 
-b) Hỗ trợ cho tổ chức, cá nhân tham gia tuyên truyền giảm thiểu thiệt hại tai nạn giao thông đường bộ mà không được Nhà nước bảo đảm kinh phí.
+   b. Hỗ trợ cho tổ chức, cá nhân tham gia tuyên truyền giảm thiểu thiệt hại tai nạn giao thông đường bộ mà không được Nhà nước bảo đảm kinh phí.
 
 4. Nguyên tắc hoạt động của Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ:
 
-a) Không vì mục đích lợi nhuận;
+   a. Không vì mục đích lợi nhuận;
 
-b) Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo đảm công khai, minh bạch;
+   b. Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo đảm công khai, minh bạch;
 
-c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại khoản 3 Điều này khi ngân sách nhà nước chưa chi hoặc chi chưa đáp ứng yêu cầu.
+   c. Chỉ được chi hỗ trợ cho các hoạt động quy định tại khoản 3 Điều này khi ngân sách nhà nước chưa chi hoặc chi chưa đáp ứng yêu cầu.
 
 5. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này; quy định việc thành lập, quản lý, sử dụng Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ.
 
@@ -1980,55 +1980,55 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 2. Giấy phép lái xe được cấp trước ngày Luật này có hiệu lực thi hành nếu chưa thực hiện đổi, cấp lại theo quy định của Luật này có hiệu lực sử dụng như sau:
 
-a) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup> hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
+   a. Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup> hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
 
-b) Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm<sup>3</sup> trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
+   b. Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm<sup>3</sup> trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
 
-c) Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này và các xe tương tự;
+   c. Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này và các xe tương tự;
 
-d) Giấy phép lái xe hạng A4 được tiếp tục điều khiển máy kéo có trọng tải đến 1.000 kg;
+   d. Giấy phép lái xe hạng A4 được tiếp tục điều khiển máy kéo có trọng tải đến 1.000 kg;
 
-đ) Giấy phép lái xe hạng B1 số tự động cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô số tự động chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải dưới 3.500 kg;
+   đ. Giấy phép lái xe hạng B1 số tự động cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô số tự động chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải dưới 3.500 kg;
 
-e) Giấy phép lái xe hạng B1 cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
+   e. Giấy phép lái xe hạng B1 cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
 
-g) Giấy phép lái xe hạng B2 cấp cho người hành nghề lái xe được tiếp tục điều khiển xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
+   g. Giấy phép lái xe hạng B2 cấp cho người hành nghề lái xe được tiếp tục điều khiển xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
 
-h) Giấy phép lái xe hạng C được tiếp tục điều khiển xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng B1, B2 quy định tại các điểm đ, e và g khoản này;
+   h. Giấy phép lái xe hạng C được tiếp tục điều khiển xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng B1, B2 quy định tại các điểm đ, e và g khoản này;
 
-i) Giấy phép lái xe hạng D được tiếp tục điều khiển xe ô tô chở người từ 09 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C quy định tại các điểm đ, e, g và h khoản này;
+   i. Giấy phép lái xe hạng D được tiếp tục điều khiển xe ô tô chở người từ 09 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C quy định tại các điểm đ, e, g và h khoản này;
 
-k) Giấy phép lái xe hạng E được tiếp tục điều khiển xe ô tô chở người trên 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D quy định tại các điểm đ, e, g, h và i khoản này;
+   k. Giấy phép lái xe hạng E được tiếp tục điều khiển xe ô tô chở người trên 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D quy định tại các điểm đ, e, g, h và i khoản này;
 
-l) Giấy phép lái xe hạng FB2, FD được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng B2, D quy định tại điểm g và điểm i khoản này khi kéo rơ moóc; giấy phép lái xe hạng FC được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng C quy định tại điểm h khoản này khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc; giấy phép lái xe hạng FE được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng E quy định tại điểm k khoản này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa.
+   l. Giấy phép lái xe hạng FB2, FD được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng B2, D quy định tại điểm g và điểm i khoản này khi kéo rơ moóc; giấy phép lái xe hạng FC được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng C quy định tại điểm h khoản này khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc; giấy phép lái xe hạng FE được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng E quy định tại điểm k khoản này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa.
 
 3. Trường hợp người có giấy phép lái xe đã được cấp trước ngày Luật này có hiệu lực thi hành có nhu cầu đổi, cấp lại giấy phép lái xe thì thực hiện như sau:
 
-a) Giấy phép lái xe hạng A1 được đổi, cấp lại sang giấy phép lái xe hạng A với điều kiện hạn chế là chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm<sup>3 </sup>hoặc có công suất động cơ điện đến dưới 14 kW;
+   a. Giấy phép lái xe hạng A1 được đổi, cấp lại sang giấy phép lái xe hạng A với điều kiện hạn chế là chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm<sup>3 </sup>hoặc có công suất động cơ điện đến dưới 14 kW;
 
-b) Giấy phép lái xe hạng A2 được đổi, cấp lại sang giấy phép lái xe hạng A;
+   b. Giấy phép lái xe hạng A2 được đổi, cấp lại sang giấy phép lái xe hạng A;
 
-c) Giấy phép lái xe hạng A3 được đổi, cấp lại sang giấy phép lái xe hạng B1;
+   c. Giấy phép lái xe hạng A3 được đổi, cấp lại sang giấy phép lái xe hạng B1;
 
-d) Giấy phép lái xe hạng A4 được đổi, cấp lại sang chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 1.000 kg và chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng;
+   d. Giấy phép lái xe hạng A4 được đổi, cấp lại sang chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 1.000 kg và chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng;
 
-đ) Giấy phép lái xe hạng B1 số tự động được đổi, cấp lại sang giấy phép lái xe hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động;
+   đ. Giấy phép lái xe hạng B1 số tự động được đổi, cấp lại sang giấy phép lái xe hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động;
 
-e) Giấy phép lái xe hạng B1, B2 được đổi, cấp lại sang giấy phép lái xe hạng B hoặc hạng C1 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;
+   e. Giấy phép lái xe hạng B1, B2 được đổi, cấp lại sang giấy phép lái xe hạng B hoặc hạng C1 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;
 
-g) Giấy phép lái xe hạng C giữ nguyên và đổi, cấp lại cùng hạng và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
+   g. Giấy phép lái xe hạng C giữ nguyên và đổi, cấp lại cùng hạng và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
 
-h) Giấy phép lái xe hạng D được đổi, cấp lại sang giấy phép lái xe hạng D2 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
+   h. Giấy phép lái xe hạng D được đổi, cấp lại sang giấy phép lái xe hạng D2 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
 
-i) Giấy phép lái xe hạng E được đổi, cấp lại sang giấy phép lái xe hạng D và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
+   i. Giấy phép lái xe hạng E được đổi, cấp lại sang giấy phép lái xe hạng D và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
 
-k) Giấy phép lái xe hạng FB2 được đổi, cấp lại sang giấy phép lái xe hạng BE hoặc hạng C1E và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;
+   k. Giấy phép lái xe hạng FB2 được đổi, cấp lại sang giấy phép lái xe hạng BE hoặc hạng C1E và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;
 
-l) Giấy phép lái xe hạng FC được đổi, cấp lại sang giấy phép lái xe hạng CE và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
+   l. Giấy phép lái xe hạng FC được đổi, cấp lại sang giấy phép lái xe hạng CE và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
 
-m) Giấy phép lái xe hạng FD được đổi, cấp lại sang giấy phép lái xe hạng D2E và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
+   m. Giấy phép lái xe hạng FD được đổi, cấp lại sang giấy phép lái xe hạng D2E và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;
 
-n) Giấy phép lái xe hạng FE được đổi, cấp lại sang giấy phép lái xe hạng DE và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg.
+   n. Giấy phép lái xe hạng FE được đổi, cấp lại sang giấy phép lái xe hạng DE và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg.
 
 4. Người học lái xe đã được đào tạo lái xe trước ngày Luật này có hiệu lực thi hành hoặc đang được đào tạo lái xe tại ngày Luật này có hiệu lực thi hành chưa được sát hạch, cấp giấy phép lái xe thì được sát hạch, cấp giấy phép lái xe theo hạng giấy phép lái xe đổi, cấp lại quy định tại khoản 3 Điều này.
 
