@@ -1,9 +1,6 @@
 <!-----
 
-
-
 Conversion time: 3.384 seconds.
-
 
 Using this Markdown file:
 
@@ -22,23 +19,35 @@ Conversion notes:
 
 <table>
   <tr>
-   <td><strong>QUỐC HỘI \
-</strong>
-   </td>
-   <td><strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \
-Độc lập - Tự do - Hạnh phúc \
-</strong>
-   </td>
+    <td>
+      <p style="text-align: center">
+        <strong>
+          QUỐC HỘI<br />
+          --------
+        </strong>
+      </p>
+    </td>
+    <td style="width: 800px;"></td>
+    <td>
+      <p style="text-align: center">
+        <strong>
+          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br />
+          Độc lập - Tự do - Hạnh phúc<br />
+          ---------------
+        </strong>
+      </p>
+    </td>
   </tr>
   <tr>
-   <td>Luật số: 23/2008/QH12
-   </td>
-   <td><em>Hà Nội, ngày 13 tháng 11 năm 2008</em>
-   </td>
+    <td>Luật số: 23/2008/QH12</td>
+    <td style="width: 800px;"></td>
+    <td>
+      <p style="text-align: center">
+        <strong>Hà Nội, ngày 13 tháng 11 năm 2008</strong>
+      </p>
+    </td>
   </tr>
 </table>
-
-
 
 **LUẬT**
 
@@ -1552,18 +1561,19 @@ Chính phủ và cơ quan có thẩm quyền quy định chi tiết và hướng
 
 _Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 thông qua ngày 13 tháng 11 năm 2008./._
 
-\*\* \*\*
-
 <table>
   <tr>
-   <td>
-   </td>
-   <td><strong>CHỦ TỊCH QUỐC HỘI \
-<em>(đã ký)</em> \
- \
- \
- \
-Nguyễn Phú Trọng</strong>
-   </td>
+    <td style="width: 800px;"></td>
+    <td style="text-align: center">
+      <p>
+        <strong>CHỦ TỊCH QUỐC HỘI</strong>
+      </p>
+      <br />
+      <br />
+      <br />
+      <p>
+        <strong>Nguyễn Phú Trọng</strong>
+      </p>
+    </td>
   </tr>
 </table>
