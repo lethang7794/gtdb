@@ -1,16 +1,9 @@
-<!-- Copy and paste the converted output. -->
-
 <!-----
-
-
-
 Conversion time: 5.663 seconds.
-
 
 Using this Markdown file:
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
+. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
    formatting and use a linkchecker before you publish this page.
 
@@ -24,29 +17,40 @@ Conversion notes:
 
 <table>
   <tr>
-   <td><strong>QUỐC HỘI \
---------</strong>
-   </td>
-   <td><strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \
-Độc lập - Tự do - Hạnh phúc  \
----------------</strong>
-   </td>
+    <td>
+      <p style="text-align: center">
+        <strong>
+          QUỐC HỘI<br />
+          --------
+        </strong>
+      </p>
+    </td>
+    <td>
+      <p style="text-align: center">
+        <strong>  
+          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br />
+          Độc lập - Tự do - Hạnh phúc<br />
+          ---------------
+        </strong>
+      </p>
+    </td>
   </tr>
   <tr>
-   <td>Luật số: 36/2024/QH15
-   </td>
-   <td><p style="text-align: right">
-<em>Hà Nội, ngày 27 tháng 6 năm 2024</em></p>
-
-   </td>
+    <td>Luật số: 36/2024/QH15</td>
+    <td>
+      <p style="text-align: right">
+        <strong>Hà Nội, ngày 27 tháng 6 năm 2024</strong>
+      </p>
+    </td>
   </tr>
 </table>
 
-\*\* \*\*
+<p style="text-align: center">
+  <strong> LUẬT </strong>
+  <br />
+  TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
+</p>
 
-**LUẬT**
-
-TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
 _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;_
 
