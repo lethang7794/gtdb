@@ -22,13 +22,13 @@ export default async function GlossariesPage() {
             <Collapsible
               key={key}
               className="border rounded-lg space-x-2"
-              defaultOpen
+              // defaultOpen
             >
               <div className="flex items-center justify-between space-x-4 pl-2 py-2 pr-2">
-                <h4 className="flex gap-2 text-lg font-semibold">
+                <h4 className="flex items-center gap-2 text-lg font-semibold">
                   <Badge
                     variant="outline"
-                    className="text-lg border-transparent"
+                    className="text-lg border-transparent text-left"
                   >
                     {val.term}
                   </Badge>
@@ -40,6 +40,13 @@ export default async function GlossariesPage() {
                     <span className="sr-only">Toggle</span>
                   </Button>
                 </CollapsibleTrigger>
+              </div>
+              <div className="flex justify-end">
+                {val.source_abbr ? (
+                  <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
+                    ({val.source_abbr})
+                  </div>
+                ) : null}
               </div>
               <CollapsibleContent className="space-y-2">
                 <div className="border-t mr-6 ml-3">
