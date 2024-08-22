@@ -72,7 +72,7 @@ _Quốc hội ban hành Luật Trật tự, an toàn giao thông đường bộ.
   - [Điều 11. Chấp hành báo hiệu đường bộ](#điều-11-chấp-hành-báo-hiệu-đường-bộ)
   - [Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe](#điều-12-chấp-hành-quy-định-về-tốc-độ-và-khoảng-cách-giữa-các-xe)
   - [Điều 13. Sử dụng làn đường](#điều-13-sử-dụng-làn-đường)
-  - [Điều 14. Vượt xe và nhường đường cho xe xin vượt  ](#điều-14-vượt-xe-và-nhường-đường-cho-xe-xin-vượt)
+  - [Điều 14. Vượt xe và nhường đường cho xe xin vượt](#điều-14-vượt-xe-và-nhường-đường-cho-xe-xin-vượt)
   - [Điều 15. Chuyển hướng xe](#điều-15-chuyển-hướng-xe)
   - [Điều 16. Lùi xe](#điều-16-lùi-xe)
   - [Điều 17. Tránh xe đi ngược chiều](#điều-17-tránh-xe-đi-ngược-chiều)
@@ -171,7 +171,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 3. _Phương tiện tham gia giao thông đường bộ_ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.
 
-4. *Đường ưu tiên* là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
+4. _Đường ưu tiên_ là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
 
 5. _Phần đường xe chạy_ là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại.
 
@@ -474,7 +474,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.
 
-### Điều 14. Vượt xe và nhường đường cho xe xin vượt  
+### Điều 14. Vượt xe và nhường đường cho xe xin vượt
 
 1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.
 
@@ -827,7 +827,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    g. Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
 
-4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy  khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây:
+4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây:
 
    a. Mang, vác vật cồng kềnh;
 
@@ -853,7 +853,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    c. _Sơ mi rơ moóc_ là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
 
-   d. *Xe chở người bốn bánh có gắn động cơ* là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
+   d. _Xe chở người bốn bánh có gắn động cơ_ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
 
    đ. _Xe chở hàng bốn bánh có gắn động cơ_ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
 
@@ -867,7 +867,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    a. _Xe đạp_ là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
 
-   b. _Xe đạp máy, gồm cả xe đạp điện_, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
+   b. _Xe đạp máy, gồm cả xe đạp điện_, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
 
    c. Xe xích lô;
 
@@ -1409,7 +1409,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    a. _Hạng A1_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
 
-   b. _Hạng A_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh  trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+   b. _Hạng A_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
 
    c. _Hạng B1_ cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
 
@@ -1533,9 +1533,9 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    đ. Nâng hạng giấy phép lái xe từ hạng D2 lên hạng D;
 
-   e. Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
+   e. Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
 
-4. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe khi giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng giấy phép lái xe; đối với việc nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người có nhu cầu được đào tạo còn phải có trình độ từ trung học cơ sở trở lên.
+4. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe khi giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng giấy phép lái xe; đối với việc nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người có nhu cầu được đào tạo còn phải có trình độ từ trung học cơ sở trở lên.
 
 5. Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E, DE phải được đào tạo bằng hình thức đào tạo nâng hạng theo các điều kiện quy định tại khoản 3 và khoản 4 Điều này.
 
@@ -1721,7 +1721,7 @@ Cảnh sát giao thông được dừng phương tiện tham gia giao thông đ�
 
 3. Cơ quan, tổ chức, cá nhân được huy động có trách nhiệm chấp hành quyết định, yêu cầu của Cảnh sát giao thông theo quy định tại khoản 1 Điều này.
 
-Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường đề nghị tổ chức, cá nhân nước ngoài hỗ trợ, giúp đỡ để thực hiện nhiệm vụ theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường đề nghị tổ chức, cá nhân nước ngoài hỗ trợ, giúp đỡ để thực hiện nhiệm vụ theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ### Điều 69. Di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ
 
@@ -2085,9 +2085,9 @@ Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này,
 
 2. Giấy phép lái xe được cấp trước ngày Luật này có hiệu lực thi hành nếu chưa thực hiện đổi, cấp lại theo quy định của Luật này có hiệu lực sử dụng như sau:
 
-   a. Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup> hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
+   a. Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup> hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
 
-   b. Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm<sup>3</sup> trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
+   b. Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm<sup>3</sup> trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
 
    c. Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này và các xe tương tự;
 
@@ -2105,7 +2105,7 @@ Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này,
 
    k. Giấy phép lái xe hạng E được tiếp tục điều khiển xe ô tô chở người trên 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D quy định tại các điểm đ, e, g, h và i khoản này;
 
-   l. Giấy phép lái xe hạng FB2, FD được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng B2, D quy định tại điểm g và điểm i khoản này khi kéo rơ moóc; giấy phép lái xe hạng FC được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng C quy định tại điểm h khoản này khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc; giấy phép lái xe hạng FE được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng E quy định tại điểm k khoản này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa.
+   l. Giấy phép lái xe hạng FB2, FD được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng B2, D quy định tại điểm g và điểm i khoản này khi kéo rơ moóc; giấy phép lái xe hạng FC được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng C quy định tại điểm h khoản này khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc; giấy phép lái xe hạng FE được tiếp tục điều khiển các loại xe quy định cho giấy phép lái xe hạng E quy định tại điểm k khoản này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa.
 
 3. Trường hợp người có giấy phép lái xe đã được cấp trước ngày Luật này có hiệu lực thi hành có nhu cầu đổi, cấp lại giấy phép lái xe thì thực hiện như sau:
 
