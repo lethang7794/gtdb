@@ -1,24 +1,234 @@
-id_01:
+LAW_ABBR_1:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PT
+  explain: phương tiện
+LAW_ABBR_2:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: GT
+  explain: giao thông
+LAW_ABBR_3:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: ĐB
+  explain: đường bộ
+LAW_ABBR_4:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PTGT
+  explain: phương tiện giao thông
+LAW_ABBR_5:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: GTĐB
+  explain: giao thông đường bộ
+LAW_ABBR_6:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PTGTĐB
+  explain: phương tiện giao thông đường bộ
+LAW_ABBR_7:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: tham-gia-GTĐB
+  explain: tham gia giao thông đường bộ
+LAW_ABBR_7.2:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PT-Tham-Gia-GTĐB
+  explain: phương tiện tham gia giao thông đường bộ
+LAW_ABBR_8:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PTGT-Cơ-Giới-ĐB
+  aka: xe cơ giới
+  explain: phương tiện giao thông cơ giới đường bộ
+LAW_ABBR_9:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
+  term: PTGT-Thô-Sơ-ĐB
+  aka: xe thô sơ
+  explain: phương tiện giao thông thô sơ đường bộ
+
+LAW_1:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Trật tự, an toàn giao thông đường bộ là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
+  term: Trật tự, an toàn giao thông đường bộ
+  explain: |-
+    trạng thái giao thông trên đường bộ 
+    - có trật tự, bảo đảm an toàn, thông suốt;
+    - được hình thành và điều chỉnh bởi 
+      - các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
+
+LAW_2:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Phương tiện giao thông đường bộ là các loại xe, bao gồm: phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới), phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), xe máy chuyên dùng và các loại xe tương tự.
+  term: Phương tiện giao thông đường bộ
+  aka: PTGTĐB
+  explain: |-
+    Các loại xe, bao gồm: 
+    - phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới), 
+    - phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), 
+    - xe máy chuyên dùng và các loại xe tương tự.
+
+LAW_3:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Phương tiện tham gia giao thông đường bộ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.
+  term: Phương tiện tham gia giao thông đường bộ
+  aka: PTTGGTĐB
+  explain: |-
+    PTGTĐB
+    - tham gia giao thông 
+      - trên đường bộ.
+
+LAW_4:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
+  term: Đường ưu tiên
+  explain: |-
+    đường mà trên đó 
+    - PTTGGTĐB được
+      - các PTTGGTĐB đến từ hướng khác 
+        - nhường đường 
+      - khi qua nơi đường giao nhau, 
+    - được cắm biển báo hiệu đường ưu tiên.
+
+LAW_5:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại.
+  term: Phần đường xe chạy
+  explain: |-
+    phần của đường bộ 
+    - được sử dụng cho PTGTĐB đi lại.
+
+LAW_6:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn.
+  term: Làn đường
+  explain: |-
+    một phần của phần đường xe chạy
+    - được chia theo chiều dọc của đường, 
+    - có đủ chiều rộng cho xe chạy an toàn.
+
+LAW_7:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Cải tạo xe (sau đây gọi là cải tạo) là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.
+  term: Cải tạo xe
+  aka: cải tạo
+  explain: |-
+    việc thay đổi đặc điểm của 
+      - xe đã được cấp đăng ký xe, biển số xe hoặc
+      - xe đã qua sử dụng được nhập khẩu 
+    dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.
+
+LAW_8:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Người tham gia giao thông đường bộ bao gồm: người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.
+  term: Người tham gia giao thông ĐB
+  explain: |-
+    Bao gồm: 
+    - người điều khiển, người được chở trên PTTGGTĐB; 
+    - người điều khiển, dẫn dắt vật nuôi trên đường bộ;
+    - người đi bộ trên đường bộ.
+
+LAW_9:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Người điều khiển phương tiện tham gia giao thông đường bộ bao gồm: người điều khiển xe cơ giới (sau đây gọi là người lái xe), người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.
+  term: Người điều khiển phương tiện TGGTĐB
+  explain: |-
+    Bao gồm: 
+    - người điều khiển xe cơ giới (sau đây gọi là người lái xe), 
+    - người điều khiển xe thô sơ, 
+    - người điều khiển xe máy chuyên dùng.
+
+LAW_9.2:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Người điều khiển phương tiện tham gia giao thông đường bộ bao gồm: người điều khiển xe cơ giới (sau đây gọi là người lái xe), người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.
+  term: người điều khiển xe cơ giới
+  aka: người lái xe
+
+LAW_10:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Người điều khiển giao thông đường bộ (sau đây gọi là người điều khiển giao thông) bao gồm: Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.
+  term: Người điều khiển giao thông ĐB
+  aka: người điều khiển giao thông
+  explain: |-
+    Bao gồm: 
+    - cảnh sát giao thông 
+    - người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.
+
+LAW_11:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Ùn tắc giao thông đường bộ (sau đây gọi là ùn tắc giao thông) là tình trạng người, phương tiện tham gia giao thông đường bộ bị dồn ứ, di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
+  term: Ùn tắc giao thông đường bộ
+  aka: ùn tắc giao thông
+  explain: |-
+    tình trạng người, phương tiện tham-gia-GTĐB 
+    - bị dồn ứ,
+    - di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
+
+LAW_12:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Tai nạn giao thông đường bộ là va chạm liên quan đến người, phương tiện khi tham gia giao thông đường bộ, xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.
+  term: Tai nạn giao thông đường bộ
+  aka: tai nạn giao thông
+  explain: |-
+    va chạm
+    - liên quan đến người, phương tiện khi tham gia giao thông đường bộ, 
+    - xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, 
+    - gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.
+
+LAW_13:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Thiết bị an toàn cho trẻ em là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.
+  term: Thiết bị an toàn cho trẻ em
+  explain: |-
+    thiết bị 
+    - có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô,
+    - được thiết kế 
+      - để giảm nguy cơ chấn thương cho người dùng trong trường hợp 
+        - xảy ra va chạm hoặc
+        - xe ô tô giảm tốc độ đột ngột, 
+      - bằng cách hạn chế sự di chuyển của cơ thể trẻ em.
+
+LAW_14:
+  source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG B(Luật số 36/2024/QH15)
+  docs: |-
+    Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ là thiết bị kỹ thuật công nghệ có khả năng phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; do lực lượng chức năng sử dụng để hỗ trợ chỉ huy, điều khiển giao thông đường bộ, giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ.
+  term: Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ
+  explain: |-
+    thiết bị kỹ thuật công nghệ có khả năng
+    - phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; 
+    - do lực lượng chức năng sử dụng để 
+      - hỗ trợ chỉ huy, điều khiển giao thông đường bộ, 
+      - giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ.
+
+QCVN_ABBR_01:
   term: GTĐB
   explain: giao thông đường bộ
 
-id_02:
+QCVN_ABBR_02:
   term: ATGTĐB
   explain: an toàn giao thông đường bộ
 
-id_03:
+QCVN_ABBR_03:
   term: PTGTCGĐB
   explain: phương tiện giao thông cơ giới đường bộ
 
-id_04:
+QCVN_ABBR_04:
   term: PTTGGT
   explain: phương tiện tham gia giao thông
 
-id_05:
+QCVN_ABBR_05:
   term: GCNKĐ ATKT-BVMT PTGTCGĐB
   explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGTCGĐB
 
-id_1:
+QCVN_1:
   docs: Đường đô thị (ĐĐT) là đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
   term: Đường đô thị
   aka: ĐĐT
@@ -28,7 +238,7 @@ id_1:
     - nội thị xã
     - nội thị trấn.
 
-id_2:
+QCVN_2:
   docs: Đường qua khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
   term: Đường qua khu đông dân cư
   explain: |-
@@ -38,7 +248,7 @@ id_2:
     - có các hoạt động có thể ảnh hưởng đến ATGTĐB
     - được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
 
-id_3:
+QCVN_3:
   docs: Đường dành riêng cho các loại phương tiện cơ giới là tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
   term: Đường dành riêng cho các loại phương tiện cơ giới
   explain: |-
@@ -47,7 +257,7 @@ id_3:
     - tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền 
     - được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 
-id_4:
+QCVN_4:
   docs: Đường dành riêng cho một số loại phương tiện là tuyến đường, phần đường hoặc làn đường dành riêng cho một hoặc một vài loại phương tiện được lưu thông tách biệt với phần đường cho các phương tiện khác và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
   term: Đường dành riêng cho một số loại phương tiện
   explain: |-
@@ -56,7 +266,7 @@ id_4:
     - tách biệt với phần đường cho các phương tiện khác 
     - được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 
-id_5:
+QCVN_5:
   docs: Đường dành riêng cho các phương tiện thô sơ và người đi bộ là tuyến đường, phần đường hoặc làn đường được phân biệt với phần đường dành riêng cho phương tiện cơ giới bằng các dải phân cách hoặc vạch sơn dọc liền.
   term: Đường dành riêng cho các phương tiện thô sơ và người đi bộ
   explain: |-
@@ -64,7 +274,7 @@ id_5:
     - được phân biệt với phần đường dành riêng cho phương tiện cơ giới 
     - bằng các dải phân cách hoặc vạch sơn dọc liền.
 
-id_6:
+QCVN_6:
   docs: Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được đặt biển báo hiệu đường ưu tiên.
   term: Đường ưu tiên
   explain: |-
@@ -74,7 +284,7 @@ id_6:
         - được các phương tiện giao thông đến từ hướng khác nhường đường 
     - được đặt biển báo hiệu đường ưu tiên.
 
-id_7:
+QCVN_7:
   docs: Làn đường ưu tiên là làn đường mà trên đó phương tiện tham gia giao thông được quy định là ưu tiên sẽ được các phương tiện khác nhường đường khi cùng tham gia giao thông.
   term: Làn đường ưu tiên
   explain: |-
@@ -83,19 +293,19 @@ id_7:
       + sẽ được các phương tiện khác nhường đường 
       + khi cùng tham gia giao thông.
 
-id_8:
+QCVN_8:
   docs: Đường không ưu tiên là đường giao cùng mức với đường ưu tiên.
   term: Đường không ưu tiên
   explain: |-
     Đường giao cùng mức với đường ưu tiên.
 
-id_9:
+QCVN_9:
   docs: Đường một chiều là đường chỉ cho đi một chiều.
   term: Đường một chiều
   explain: |-
     Đường chỉ cho đi một chiều.
 
-id_10:
+QCVN_10:
   docs: Đường hai chiều là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
   term: Đường hai chiều
   explain: |-
@@ -104,7 +314,7 @@ id_10:
       - trên cùng một phần đường xe chạy 
       - mà không có dải phân cách.
 
-id_11:
+QCVN_11:
   docs: Đường đôi là đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
   term: Đường đôi
   explain: |-
@@ -113,7 +323,7 @@ id_11:
       - bằng dải phân cách 
     (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
 
-id_12:
+QCVN_12:
   docs: Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
   term: Phần đường xe chạy
   explain: |-
@@ -122,7 +332,7 @@ id_12:
       + phương tiện giao thông 
     - qua lại.
 
-id_13:
+QCVN_13:
   docs: Phần đường dành cho xe cơ giới là phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng qua lại.
   term: Phần đường dành cho xe cơ giới
   explain: |-
@@ -132,7 +342,7 @@ id_13:
       + xe máy chuyên dùng
     - qua lại.
 
-id_14:
+QCVN_14:
   docs: Phần đường dành cho xe thô sơ là phần của đường bộ được sử dụng cho các phương tiện giao thông thô sơ đường bộ qua lại.
   term: Phần đường dành cho xe thô sơ
   explain: |-
@@ -141,7 +351,7 @@ id_14:
       + các phương tiện giao thông thô sơ đường bộ
     - qua lại.
 
-id_15:
+QCVN_15:
   docs: Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe chạy an toàn. Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
   term: Làn đường
   explain: |-
@@ -151,7 +361,7 @@ id_15:
 
     Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
 
-id_16:
+QCVN_16:
   docs: Dải phân cách là bộ phận của đường mà xe không chạy trên đó được và để phân chia phần đường xe chạy thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
   term: Dải phân cách
   explain: |-
@@ -161,7 +371,7 @@ id_16:
       + phần đường xe chạy thành hai chiều xe chạy riêng biệt 
       + phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
 
-id_17:
+QCVN_17:
   docs: Nơi đường giao nhau cùng mức (nơi đường giao nhau hoặc nút giao) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
   term: Nơi đường giao nhau cùng mức
   aka: [nơi đường giao nhau, nút giao]
@@ -170,7 +380,7 @@ id_17:
     - hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng
     - gồm cả mặt bằng hình thành vị trí giao nhau đó.
 
-id_18:
+QCVN_18:
   docs: Xe cơ giới là chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
   term: Xe cơ giới
   explain: |-
@@ -189,7 +399,7 @@ id_18:
 
     Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
 
-id_19:
+QCVN_19:
   docs: Trọng tải bản thân xe là khối lượng bản thân của xe, đo bằng kilôgam (kg) hoặc tấn (t) ở trạng thái tĩnh được ghi theo thông số quy định trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
   term: Trọng tải bản thân xe
   explain: |-
@@ -199,7 +409,7 @@ id_19:
     - được ghi theo thông số quy định trong GCNKĐ ATKT-BVMT PTGTCGĐB
     - đo bằng kilôgam (kg) hoặc tấn (t)
 
-id_20:
+QCVN_20:
   docs: Trọng tải toàn bộ xe (tổng trọng tải) là bằng khối lượng bản thân xe cộng với khối lượng của người, hành lý và hàng hóa xếp trên xe (nếu có).
   term: Trọng tải toàn bộ xe
   aka: tổng trọng tải
@@ -209,7 +419,7 @@ id_20:
       - người
       - hành lý và hàng hóa xếp trên xe (nếu có).
 
-id_21:
+QCVN_21:
   docs: Trọng tải toàn bộ xe cho phép là bằng trọng tải bản thân xe cộng với khối lượng chuyên chở cho phép xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
   term: Trọng tải toàn bộ xe cho phép
   explain: |-
@@ -217,14 +427,14 @@ id_21:
     - cộng với khối lượng chuyên chở cho phép 
       - xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB.
 
-id_22:
+QCVN_22:
   docs: Tải trọng trục xe là phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
   term: Tải trọng trục xe
   explain: |-
     Phần của trọng tải toàn bộ xe 
     - phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
 
-id_23:
+QCVN_23:
   docs: Xe ôtô con (hay còn gọi là xe con) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
   term: Xe ôtô con
   aka: [xe con, ôtô con]
@@ -233,17 +443,17 @@ id_23:
     - để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái)
     - được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB
 
-id_24:
+QCVN_24:
   docs: Xe bán tải (xe pickup), xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
   term: Xe bán tải
-  aka: Xe pickup
+  aka: xe pickup
   explain: |-
     Trong tổ chức giao thông:
     - Xe bán tải (xe pickup), xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg
     - Xe 3 bánh có khối lượng bản thân lớn hơn 400 kg
     được xem là xe con.
 
-id_25:
+QCVN_25:
   docs: Ôtô tải (hay còn gọi là xe tải) là xe ôtô có kết cấu và trang bị chủ yếu để chuyên chở hàng hóa (bao gồm cả ô tô đầu kéo, ô tô kéo rơ moóc và các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên).
   term: Xe ôtô tải
   aka: [xe tải, ôtô tải]
@@ -254,7 +464,7 @@ id_25:
       + ô tô kéo rơ moóc
       + các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên.
 
-id_26:
+QCVN_26:
   docs: Ôtô khách (hay còn gọi là xe khách) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ để chở người với số lượng lớn hơn 9 người.
   term: Xe ôtô khách
   aka: [xe khách, ôtô khách]
@@ -263,13 +473,13 @@ id_26:
     - để chở người với số lượng lớn hơn 9 người
     - được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB
 
-id_271:
+QCVN_271:
   docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
   term: Ôtô đầu kéo
   explain: |-
     ôtô được thiết kế để kéo sơ-mi rơ-moóc
 
-id_27:
+QCVN_272:
   docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
   term: Ôtô đầu kéo kéo sơ-mi rơ-moóc
   explain: |-
@@ -277,7 +487,7 @@ id_27:
     - mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo 
     - ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người
 
-id_28:
+QCVN_28:
   docs: Ôtô kéo rơ-moóc là xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
   term: Ôtô kéo rơ-moóc
   explain: |-
@@ -286,7 +496,7 @@ id_28:
     - hoặc có kết cấu để kéo thêm rơ-moóc
     có khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB.
 
-id_29:
+QCVN_29:
   docs: Rơ-moóc là tổng hợp gồm hệ thống trục và lốp xe có kết cấu vững chắc được kết nối với xe ô tô sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
   term: Rơ-moóc
   explain: |-
@@ -295,7 +505,7 @@ id_29:
     - được kết nối với xe ô tô
       + sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
 
-id_30:
+QCVN_30:
   docs: Máy kéo là chỉ đầu máy tự di chuyển bằng xích hay bánh lốp để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
   term: Máy kéo
   explain: |-
@@ -303,7 +513,7 @@ id_30:
     - tự di chuyển bằng xích hay bánh lốp 
     - để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
 
-id_31:
+QCVN_31:
   docs: Xe mô tô (hay còn gọi là xe máy) là xe cơ giới hai hoặc ba bánh và các loại xe tương tự, di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên, trọng tải bản thân xe không quá 400 kg.
   term: Xe mô tô
   aka: [Xe máy, môtô]
@@ -313,7 +523,7 @@ id_31:
     - di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên
     - trọng tải bản thân xe không quá 400 kg.
 
-id_32:
+QCVN_32:
   docs: Xe gắn máy là chỉ phương tiện chạy bằng động cơ, có hai bánh hoặc ba bánh và vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
   term: Xe gắn máy
   explain: |-
@@ -322,7 +532,7 @@ id_32:
     - vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. 
     - Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
 
-id_33:
+QCVN_33:
   docs: Xe thô sơ gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
   term: Xe thô sơ
   explain: |-
@@ -333,7 +543,7 @@ id_33:
     - xe lăn dùng cho người khuyết tật 
     và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
 
-id_34:
+QCVN_34:
   docs: Xe đạp là phương tiện có hai bánh xe hoặc ba bánh và di chuyển được bằng sức người đạp hoặc bằng tay quay, kể cả xe chuyên dùng của người khuyết tật có tính năng tương tự.
   term: Xe đạp
   explain: |-
@@ -342,7 +552,7 @@ id_34:
     - di chuyển được bằng sức người đạp hoặc bằng tay quay, 
     và xe chuyên dùng của người khuyết tật có tính năng tương tự.
 
-id_35:
+QCVN_35:
   docs: Xe đạp thồ là xe đạp chở hàng trên giá đèo hàng hoặc chằng buộc hai bên thành xe.
   term: Xe đạp thồ
   explain: |-
@@ -350,7 +560,7 @@ id_35:
     - trên giá đèo hàng 
     - hoặc chằng buộc hai bên thành xe.
 
-id_36:
+QCVN_36:
   docs: Xe người kéo là những loại phương tiện thô sơ có một hoặc nhiều bánh và chuyển động được nhờ sức người kéo hoặc đẩy trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
   term: Xe người kéo
   explain: |-
@@ -359,14 +569,14 @@ id_36:
     - chuyển động được nhờ sức người kéo hoặc đẩy 
     trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
 
-id_37:
+QCVN_37:
   docs: Xe súc vật kéo là những phương tiện thô sơ chuyển động được do súc vật kéo.
   term: Xe súc vật kéo
   explain: |-
     Phương tiện thô sơ
     - chuyển động được do súc vật kéo.
 
-id_38:
+QCVN_38:
   docs: Người tham gia giao thông là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
   term: Người tham gia giao thông
   explain: |-
@@ -374,14 +584,14 @@ id_38:
     - Người điều khiển, dẫn dắt súc vật
     - Người đi bộ trên đường.
 
-id_39:
+QCVN_39:
   docs: Xe ưu tiên là xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
   term: Xe ưu tiên
   explain: |-
     Xe được quyền ưu tiên
     - theo quy định của Luật GTĐB.
 
-id_40:
+QCVN_40:
   docs: Mốc lộ giới là cọc mốc được đặt ở mép ngoài cùng xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
   term: Mốc lộ giới
   explain: |-
@@ -389,7 +599,7 @@ id_40:
     - được đặt ở mép ngoài cùng
     - xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
 
-id_41:
+QCVN_41:
   docs: Giá long môn là một dạng kết cấu ngang qua đường ở phía trên phần đường xe chạy.
   term: Giá long môn
   explain: |-
@@ -397,7 +607,7 @@ id_41:
     - ngang qua đường
     - ở phía trên phần đường xe chạy.
 
-id_42:
+QCVN_42:
   docs: Cột cần vươn là một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
   term: Cột cần vươn
   explain: |-
@@ -405,7 +615,7 @@ id_42:
     - có cần vươn ra
     - ở phía trên phần đường xe chạy.
 
-id_43:
+QCVN_43:
   docs: Hàng nguy hiểm là hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
   term: Hàng nguy hiểm
   explain: |-
@@ -416,14 +626,14 @@ id_43:
       + kết cấu hạ tầng công trình giao thông
       + môi trường, an toàn và an ninh quốc gia.
 
-id_44:
+QCVN_44:
   docs: Tốc độ vận hành là tốc độ mà người lái vận hành chiếc xe của mình.
   term: Tốc độ vận hành
   explain: |-
     Tốc độ 
     - mà người lái vận hành chiếc xe của mình.
 
-id_45:
+QCVN_45:
   docs: Tốc độ thiết kế là tốc độ được lựa chọn để thiết kế các yếu tố cơ bản của đường trong các điều kiện khó khăn.
   term: Tốc độ thiết kế
   explain: |-
@@ -432,7 +642,7 @@ id_45:
     - để thiết kế các yếu tố cơ bản của đường 
       - trong các điều kiện khó khăn.
 
-id_46:
+QCVN_46:
   docs: Tốc độ suất tích lũy 85% (V85) là tốc độ vận hành mà ở đó 85% các lái xe vận hành xe chạy từ tốc độ này trở xuống.
   term: Tốc độ suất tích lũy 85%
   aka: V85
@@ -441,7 +651,7 @@ id_46:
     - mà ở đó 85% các lái xe 
       - vận hành xe chạy từ tốc độ này trở xuống.
 
-id_47:
+QCVN_47:
   docs: Tốc độ tối đa cho phép là tốc độ lớn nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ cao hơn.
   term: Tốc độ tối đa cho phép
   explain: |-
@@ -452,7 +662,7 @@ id_47:
     Người điều khiển phương tiện
     - không được phép vận hành xe ở tốc độ cao hơn.
 
-id_48:
+QCVN_48:
   docs: Tốc độ tối thiểu cho phép là tốc độ nhỏ nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ nhỏ hơn khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
   term: Tốc độ tối thiểu cho phép
   explain: |-
@@ -464,7 +674,7 @@ id_48:
     - không được phép vận hành xe ở tốc độ nhỏ hơn
       - khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
 
-id_49:
+QCVN_49:
   docs: Tầm nhìn là khoảng cách đo dọc theo mặt đường tính từ mũi xe của một chiếc xe đang chạy đến một vật thể ở phía trước.
   term: Tầm nhìn
   explain: |-
@@ -472,7 +682,7 @@ id_49:
     - tính từ mũi xe của một chiếc xe đang chạy 
       - đến một vật thể ở phía trước.
 
-id_50:
+QCVN_50:
   docs: Tầm nhìn dừng xe an toàn là khoảng cách đo dọc theo đường tính từ mũi xe để một chiếc xe đang chạy có thể dừng lại an toàn trước một vật thể tĩnh bất ngờ xuất hiện trên cùng một làn đường ở phía trước.
   term: Tầm nhìn dừng xe an toàn
   explain: |-
@@ -484,7 +694,7 @@ id_50:
       - trước một vật thể tĩnh bất ngờ xuất hiện 
         - trên cùng một làn đường ở phía trước.
 
-id_51:
+QCVN_51:
   docs: Tầm nhìn vượt xe an toàn là khoảng cách đo dọc theo mặt đường tính từ mũi xe để một chiếc xe đang chạy trên đường 2 làn xe hai chiều có thể vượt qua một chiếc xe khác chạy chậm hơn cùng chiều bằng cách chiếm dụng làn xe chạy phía chiều ngược lại và quay trở về làn cũ của mình một cách an toàn.
   term: Tầm nhìn vượt xe an toàn
   explain: |-
@@ -497,7 +707,7 @@ id_51:
         - bằng cách chiếm dụng làn xe chạy phía chiều ngược lại 
           - và quay trở về làn cũ của mình một cách an toàn.
 
-id_52:
+QCVN_52:
   docs: Vượt xe là tình huống giao thông mà xe đi sau vượt xe đi trước; khi vượt, các xe phải vượt về bên trái (trừ các trường hợp được quy định trong Luật Giao thông đường bộ). Xe đi với tốc độ thấp hơn phải đi về bên phải, khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
   term: Vượt xe
   explain: |-
@@ -514,7 +724,7 @@ id_52:
       - đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, 
       - không được gây trở ngại đối với xe xin vượt.
 
-id_53:
+QCVN_53:
   docs: Xe trên các làn chạy nhanh hơn nhau - Trên đường có từ hai làn xe cơ giới mỗi chiều trở lên (được phân biệt bằng vạch kẻ phân làn đường), người điều khiển phương tiện phải cho xe đi trong một làn đường. Khi lưu thông, phương tiện trên các làn khác nhau có thể chạy nhanh hơn nhau miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường và khi chuyển làn phải tuân thủ theo quy tắc giao thông đường bộ.
   term: Xe trên các làn chạy nhanh hơn nhau
   explain: |-
@@ -525,7 +735,7 @@ id_53:
     - chạy nhanh hơn nhau: miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường 
     - chuyển làn: miễn là tuân thủ theo quy tắc GTĐB.
 
-id_54:
+QCVN_54:
   docs: Nhường đường cho phương tiện khác là tình huống giao thông mà phương tiện nhường đường không tiếp tục di chuyển như hiện tại để phương tiện được nhường đường không phải chuyên hướng hoặc phải phanh đột ngột.
   term: Nhường đường cho phương tiện khác
   explain: |-
@@ -539,29 +749,30 @@ id_54:
         + chuyên hướng 
         + phanh đột ngột.
 
-id_55:
+QCVN_55:
   docs: Nút giao khác mức liên thông là nơi giao nhau của đường bộ bằng tổ hợp các công trình vượt hoặc chui và nhánh nối mà ở đó cho phép các phương tiện tham gia giao thông chuyển hướng đến đường ở các cao độ khác nhau.
   term: Nút giao khác mức (liên thông)
   explain: |-
     Nơi giao nhau của đường bộ 
     - bằng tổ hợp các công trình vượt hoặc chui và nhánh nối 
-    - mà ở đó cho phép các PTTGGT chuyển hướng đến đường ở các cao độ khác nhau.
+    - mà ở đó cho phép các PTTGGT chuyển hướng 
+      - đến đường ở các cao độ khác nhau.
 
-id_56:
+QCVN_56:
   docs: Nhánh nối là đường dùng để kết nối các hướng đường trong nút giao.
   term: Nhánh nối
   explain: |-
     Đường dùng để kết nối
     - các hướng đường trong nút giao.
 
-id_57:
+QCVN_57:
   docs: Lối ra là nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
   term: Lối ra
   explain: |-
     Nơi các PTTGGT 
     - tách ra khỏi đường chính.
 
-id_58:
+QCVN_58:
   docs: Lối vào là nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
   term: Lối vào
   explain: |-
