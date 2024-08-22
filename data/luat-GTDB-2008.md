@@ -473,7 +473,7 @@ Người điều khiển phương tiện khi dừng xe, đỗ xe trên đường
 
 2. Xe quy định tại các điểm a, b, c và d khoản 1 Điều này khi đi làm nhiệm vụ phải có tín hiệu còi, cờ, đèn theo quy định; không bị hạn chế tốc độ; được phép đi vào đường ngược chiều, các đường khác có thể đi được, kể cả khi có tín hiệu đèn đỏ và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông.
 
-Chính phủ quy định cụ thể tín hiệu của xe được quyền ưu tiên.
+   Chính phủ quy định cụ thể tín hiệu của xe được quyền ưu tiên.
 
 3. Khi có tín hiệu của xe được quyền ưu tiên, người tham gia giao thông phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. Không được gây cản trở xe được quyền ưu tiên.
 
@@ -619,7 +619,7 @@ Người điều khiển phương tiện trong hầm đường bộ ngoài việ
 
 1. Người điều khiển xe đạp chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người.
 
-Người điều khiển xe đạp phải thực hiện quy định tại khoản 3 Điều 30 của Luật này; người ngồi trên xe đạp khi tham gia giao thông phải thực hiện quy định tại khoản 4 Điều 30 của Luật này.
+   Người điều khiển xe đạp phải thực hiện quy định tại khoản 3 Điều 30 của Luật này; người ngồi trên xe đạp khi tham gia giao thông phải thực hiện quy định tại khoản 4 Điều 30 của Luật này.
 
 2. Người điều khiển, người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng quy cách.
 
@@ -719,7 +719,7 @@ Người điều khiển xe đạp phải thực hiện quy định tại khoả
 
    b. Khi có tình huống gây ách tắc giao thông hoặc có yêu cầu cần thiết khác về bảo đảm an ninh, trật tự được tạm thời đình chỉ đi lại ở một số đoạn đường nhất định, phân lại luồng, phân lại tuyến và nơi tạm dừng xe, đỗ xe.
 
-### Điều 38.\*_ \*\*Trách nhiệm của cá nhân, cơ quan, tổ chức khi xảy ra tai nạn giao thông_
+### Điều 38. Trách nhiệm của cá nhân, cơ quan, tổ chức khi xảy ra tai nạn giao thông\_
 
 1. Người điều khiển phương tiện\*\* \*\*và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm sau đây:
 
@@ -747,7 +747,7 @@ Người điều khiển xe đạp phải thực hiện quy định tại khoả
 
 5. Ủy ban nhân dân cấp xã nơi xảy ra tai nạn có trách nhiệm kịp thời thông báo cho cơ quan công an, y tế đến để xử lý, giải quyết vụ tai nạn; tổ chức cứu chữa, giúp đỡ người bị nạn, bảo vệ hiện trường, bảo vệ tài sản của người bị nạn; trường hợp có người chết mà không rõ tung tích, không có thân nhân hoặc thân nhân không có khả năng chôn cất thì sau khi cơ quan nhà nước có thẩm quyền đã hoàn tất các công việc theo quy định của pháp luật và đồng ý cho chôn cất, Ủy ban nhân dân cấp xã có trách nhiệm tổ chức chôn cất.
 
-Trường hợp vụ tai nạn vượt quá khả năng giải quyết, Uỷ ban nhân dân cấp xã phải kịp thời báo cáo Uỷ ban nhân dân cấp trên.
+   Trường hợp vụ tai nạn vượt quá khả năng giải quyết, Uỷ ban nhân dân cấp xã phải kịp thời báo cáo Uỷ ban nhân dân cấp trên.
 
 6. Bộ Công an có trách nhiệm thống kê, tổng hợp, xây dựng cơ sở dữ liệu thông tin về tai nạn giao thông đường bộ, cung cấp cho cơ quan, tổ chức, cá nhân theo quy định của pháp luật.
 
@@ -755,7 +755,7 @@ Trường hợp vụ tai nạn vượt quá khả năng giải quyết, Uỷ ban
 
 ### Điều 39. Phân loại đường bộ
 
-1. Mạng lưới đường_ _bộ được chia thành sáu hệ thống,_ _gồm quốc lộ, đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng, quy định như sau:
+1. Mạng lưới đường bộ được chia thành sáu hệ thống, gồm quốc lộ, đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng, quy định như sau:
 
    a. Quốc lộ là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền trung tâm hành chính cấp tỉnh từ ba địa phương trở lên; đường nối liền từ cảng biển quốc tế, cảng hàng không quốc tế đến các cửa khẩu quốc tế, cửa khẩu chính trên đường bộ; đường có vị trí đặc biệt quan trọng đối với sự phát triển kinh tế - xã hội của vùng, khu vực;
 
@@ -821,7 +821,7 @@ Trường hợp vụ tai nạn vượt quá khả năng giải quyết, Uỷ ban
 
 4. Người đang sử dụng đất được pháp luật thừa nhận mà đất đó nằm trong hành lang an toàn đường bộ thì được tiếp tục sử dụng đất theo đúng mục đích đã được xác định và không được gây cản trở cho việc bảo vệ an toàn công trình đường bộ.
 
-Trường hợp việc sử dụng đất gây ảnh hưởng đến việc bảo vệ an toàn công trình đường bộ thì chủ công trình và người sử dụng đất phải có biện pháp khắc phục, nếu không khắc phục được thì Nhà nước thu hồi đất và bồi thường theo quy định của pháp luật.
+   Trường hợp việc sử dụng đất gây ảnh hưởng đến việc bảo vệ an toàn công trình đường bộ thì chủ công trình và người sử dụng đất phải có biện pháp khắc phục, nếu không khắc phục được thì Nhà nước thu hồi đất và bồi thường theo quy định của pháp luật.
 
 5. Chính phủ quy định cụ thể phạm vi đất dành cho đường bộ, việc sử dụng, khai thác đất hành lang an toàn đường bộ và việc xây dựng các công trình thiết yếu trong phạm vi đất dành cho đường bộ.
 
@@ -915,7 +915,7 @@ Trường hợp việc sử dụng đất gây ảnh hưởng đến việc bả
 
 1. Nguồn tài chính để quản lý, bảo trì hệ thống quốc lộ và đường địa phương được bảo đảm từ quỹ bảo trì đường bộ.
 
-Nguồn tài chính để quản lý, bảo trì đường chuyên dùng, đường không do Nhà nước quản lý khai thác, đường được đầu tư xây dựng không bằng nguồn vốn từ ngân sách nhà nước do tổ chức, cá nhân quản lý khai thác chịu trách nhiệm.
+   Nguồn tài chính để quản lý, bảo trì đường chuyên dùng, đường không do Nhà nước quản lý khai thác, đường được đầu tư xây dựng không bằng nguồn vốn từ ngân sách nhà nước do tổ chức, cá nhân quản lý khai thác chịu trách nhiệm.
 
 2. Quỹ bảo trì đường bộ được hình thành từ các nguồn sau đây:
 
@@ -939,7 +939,7 @@ Việc xây dựng đoạn đường giao nhau cùng mức giữa đường bộ
 
 4. Trạm kiểm tra tải trọng xe là nơi cơ quan quản lý đường bộ thực hiện việc thu thập, phân tích, đánh giá tác động của tải trọng xe, khổ giới hạn xe đến an toàn đường bộ; kiểm tra, xử lý vi phạm đối với xe quá khổ giới hạn, quá tải trọng cho phép của đường bộ và xe bánh xích lưu hành trên đường bộ, được xây dựng theo quy hoạch do Bộ Giao thông vận tải lập, trình Thủ tướng Chính phủ phê duyệt.
 
-Trường hợp cần thiết, để bảo vệ kết cấu hạ tầng giao thông đường bộ, Bộ trưởng Bộ Giao thông vận tải quyết định thành lập trạm kiểm tra tải trọng xe tạm thời.
+   Trường hợp cần thiết, để bảo vệ kết cấu hạ tầng giao thông đường bộ, Bộ trưởng Bộ Giao thông vận tải quyết định thành lập trạm kiểm tra tải trọng xe tạm thời.
 
 5. Bộ trưởng Bộ Giao thông vận tải quy định về quy chuẩn kỹ thuật bến xe, bãi đỗ xe, trạm dừng nghỉ, trạm thu phí, trạm kiểm tra tải trọng xe; quy định về tổ chức, hoạt động của trạm thu phí, trạm kiểm tra tải trọng xe*.*
 
@@ -947,7 +947,7 @@ Trường hợp cần thiết, để bảo vệ kết cấu hạ tầng giao th�
 
 1. Bảo vệ kết cấu hạ tầng giao thông đường bộ gồm hoạt động bảo đảm an toàn và tuổi thọ của công trình đường bộ, biện pháp phòng ngừa, ngăn chặn và xử lý hành vi xâm phạm kết cấu hạ tầng giao thông đường bộ.
 
-Phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ gồm đất của đường bộ, hành lang an toàn đường bộ, phần trên không, phần dưới mặt đất, phần dưới mặt nước có liên quan đến an toàn công trình và an toàn giao thông đường bộ.
+   Phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ gồm đất của đường bộ, hành lang an toàn đường bộ, phần trên không, phần dưới mặt đất, phần dưới mặt nước có liên quan đến an toàn công trình và an toàn giao thông đường bộ.
 
 2. Tổ chức, cá nhân được phép xây dựng, cải tạo, mở rộng, bảo trì công trình và tiến hành hoạt động khác trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ phải thực hiện theo quy định của pháp luật.
 
@@ -1059,7 +1059,7 @@ Phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ gồm đ
 
 1. Người lái xe tham gia giao thông phải đủ độ tuổi, sức khoẻ quy định tại Điều 60 của Luật này và có giấy phép lái xe phù hợp với loại xe được phép điều khiển do cơ quan nhà nước có thẩm quyền cấp.
 
-Người tập lái xe ô tô khi tham gia giao thông phải thực hành trên xe tập lái và có giáo viên bảo trợ tay lái.
+   Người tập lái xe ô tô khi tham gia giao thông phải thực hành trên xe tập lái và có giáo viên bảo trợ tay lái.
 
 2. Người lái xe khi điều khiển phương tiện phải mang theo các giấy tờ sau:
 
@@ -1141,7 +1141,7 @@ Người tập lái xe ô tô khi tham gia giao thông phải thực hành trên
 
    đ. Nâng hạng giấy phép lái xe từ các hạng B2, C, D, E lên các hạng giấy phép lái các xe tương ứng có kéo rơ moóc, sơ mi rơ moóc.
 
-5*.* Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe; người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.
+5. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe; người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.
 
 6. Việc đào tạo lái xe ô tô chở người từ 10 chỗ ngồi trở lên và lái xe kéo rơ moóc chỉ được thực hiện bằng hình thức đào tạo nâng hạng với các điều kiện quy định tại khoản 4 và khoản 5 Điều này.
 
@@ -1151,7 +1151,7 @@ Người tập lái xe ô tô khi tham gia giao thông phải thực hành trên
 
 9. Người đã qua đào tạo và đạt kết quả kỳ sát hạch được cấp giấy phép lái xe đúng hạng đã trúng tuyển.
 
-Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời hạn sử dụng người lái xe phải khám sức khỏe và làm các thủ tục theo quy định để được đổi giấy phép lái xe.
+   Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời hạn sử dụng người lái xe phải khám sức khỏe và làm các thủ tục theo quy định để được đổi giấy phép lái xe.
 
 10. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện, tiêu chuẩn và cấp giấy phép cho cơ sở đào tạo; quy định hình thức, nội dung, chương trình đào tạo; sát hạch và cấp, đổi, thu hồi giấy phép lái xe; Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về cơ sở đào tạo, tổ chức đào tạo, sát hạch và cấp, đổi, thu hồi giấy phép lái xe cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.
 
@@ -1215,7 +1215,7 @@ Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời
 
    d. Kinh doanh vận tải hàng nguy hiểm.
 
-3. Chính phủ quy định cụ thể về kinh doanh vận tải bằn*g _xe ô tô*._
+3. Chính phủ quy định cụ thể về kinh doanh vận tải bằn*g \_xe ô tô*.\_
 
 #### Điều 67. Điều kiện kinh doanh vận tải bằng xe ô tô
 
@@ -1389,7 +1389,7 @@ Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời
 
    b. Thanh toán chi phí phát sinh do nhận hàng chậm.
 
-#### Điều 76\*.**\* **Vận chuyển hàng siêu trường, siêu trọng
+#### Điều 76. Vận chuyển hàng siêu trường, siêu trọng
 
 1. Hàng siêu trường, siêu trọng là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng không thể tháo rời ra được.
 
@@ -1407,7 +1407,7 @@ Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời
 
 3. Việc vận chuyển động vật sống trên đường phải tuân theo quy định của pháp luật về vệ sinh, phòng dịch và bảo vệ môi trường.
 
-#### Điều 78\*.**\* **Vận chuyển hàng nguy hiểm
+#### Điều 78. Vận chuyển hàng nguy hiểm
 
 1. Xe vận chuyển hàng nguy hiểm phải có giấy phép do cơ quan nhà nước có thẩm quyền cấp.
 
@@ -1495,7 +1495,7 @@ Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời
 
 3. Bộ Công an thực hiện các nhiệm vụ quản lý nhà nước về giao thông đường bộ theo quy định của Luật này và các quy định khác của pháp luật có liên quan; thực hiện các biện pháp bảo đảm trật tự, an toàn giao thông; phối hợp với Bộ Giao thông vận tải bảo vệ kết cấu hạ tầng giao thông đường bộ.
 
-Bộ Công an, Bộ Giao thông vận tải có trách nhiệm phối hợp trong việc cung cấp số liệu đăng ký phương tiện giao thông đường bộ, dữ liệu về tai nạn giao thông và cấp, đổi, thu hồi giấy phép lái xe.
+   Bộ Công an, Bộ Giao thông vận tải có trách nhiệm phối hợp trong việc cung cấp số liệu đăng ký phương tiện giao thông đường bộ, dữ liệu về tai nạn giao thông và cấp, đổi, thu hồi giấy phép lái xe.
 
 4. Bộ Quốc phòng thực hiện các nhiệm vụ quản lý nhà nước về giao thông đường bộ theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
