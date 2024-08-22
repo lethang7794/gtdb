@@ -1,8 +1,8 @@
 import Link from 'next/link'
 
 import type { RoadSign } from '@/model/RoadSign'
-import { getRoadSigns } from '@/service/road-signs'
-import { getRoadSignImage } from '@/service/road-signs'
+import { getRoadSigns } from '@/service/road-sign'
+import { getRoadSignImage } from '@/service/road-sign'
 
 export default async function Home() {
   const data = getRoadSigns()

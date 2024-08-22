@@ -1,6 +1,6 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getRoadSignById, getRoadSignImage } from '@/service/road-signs'
-import { getRoadSigns } from '@/service/road-signs'
+import { getRoadSignById, getRoadSignImage } from '@/service/road-sign'
+import { getRoadSigns } from '@/service/road-sign'
 
 export async function generateStaticParams() {
   const roadSigns = getRoadSigns()
