@@ -52,9 +52,7 @@ _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;_
 
 _Quốc hội ban hành Luật Trật tự, an toàn giao thông đường bộ._
 
-**Chương I**
-
-**NHỮNG QUY ĐỊNH CHUNG**
+## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
 **Điều 1. Phạm vi điều chỉnh**
 
@@ -250,9 +248,7 @@ e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của 
 
 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này.
 
-**Chương II**
-
-**QUY TẮC GIAO THÔNG ĐƯỜNG BỘ**
+## Chương II. QUY TẮC GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 10. Quy tắc chung**
 
@@ -740,9 +736,7 @@ d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
 
 5. Xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất; chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 02 mét.
 
-**Chương III**
-
-**PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ**
+## Chương III. PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 34. Phân loại phương tiện giao thông đường bộ**
 
@@ -1272,9 +1266,7 @@ d) Tổ chức, cá nhân đưa xe có tay lái ở bên phải vào Việt Nam 
 
 4. Chính phủ quy định chi tiết Điều này.
 
-**Chương IV**
-
-**NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ**
+## Chương IV. NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ**
 
@@ -1516,9 +1508,7 @@ c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời h
 
 2. Đơn vị kinh doanh vận tải, đơn vị hoạt động vận tải nội bộ và người lái xe ô tô kinh doanh vận tải và vận tải nội bộ chịu trách nhiệm thực hiện các quy định tại Điều này.
 
-**Chương V**
-
-**TUẦN TRA, KIỂM SOÁT VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ**
+## Chương V. TUẦN TRA, KIỂM SOÁT VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 65. Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ**
 
@@ -1698,9 +1688,7 @@ c) Trường hợp người vi phạm có hành vi chống người thi hành c�
 
 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm.
 
-**Chương VI**
-
-**CHỈ HUY, ĐIỀU KHIỂN GIAO THÔNG ĐƯỜNG BỘ BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ**
+## Chương VI. CHỈ HUY, ĐIỀU KHIỂN GIAO THÔNG ĐƯỜNG BỘ BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 74. Chỉ huy, điều khiển giao thông đường bộ**
 
@@ -1798,9 +1786,7 @@ a) Tiếp nhận, kiểm tra và khắc phục các yếu tố có nguy cơ mấ
 
 b) Chịu trách nhiệm nếu để xảy ra hậu quả do không xử lý, khắc phục các yếu tố gây mất an toàn giao thông đường bộ theo quy định tại điểm a khoản này.
 
-**Chương VII**
-
-**GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ**
+## Chương VII. GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ **
 
@@ -1928,9 +1914,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 5. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này; quy định việc thành lập, quản lý, sử dụng Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ.
 
-**Chương VIII**
-
-**QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ**
+## Chương VIII. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 
 **Điều 86. Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ**
 
@@ -1978,9 +1962,7 @@ c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại kho�
 
 8. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về trật tự, an toàn giao thông đường bộ tại địa phương.
 
-**Chương IX**
-
-**ĐIỀU KHOẢN THI HÀNH**
+## Chương IX. ĐIỀU KHOẢN THI HÀNH
 
 **Điều 88. Hiệu lực thi hành**
 
