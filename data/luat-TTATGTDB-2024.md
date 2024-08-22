@@ -51,7 +51,6 @@ Conversion notes:
   TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
 </p>
 
-
 _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;_
 
 _Quốc hội ban hành Luật Trật tự, an toàn giao thông đường bộ._
@@ -377,7 +376,7 @@ Luật này quy định về quy tắc, phương tiện, người tham gia giao 
 
 1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.
 
-Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.
+   Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.
 
 2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải.
 
@@ -385,7 +384,7 @@ Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiề
 
 4. Khi có xe xin vượt, người điều khiển phương tiện tham gia giao thông đường bộ phía trước phải quan sát phần đường phía trước, nếu đủ điều kiện an toàn thì phải giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt.
 
-Trường hợp có chướng ngại vật hoặc không đủ điều kiện an toàn thì người điều khiển phương tiện tham gia giao thông đường bộ phía trước có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.
+   Trường hợp có chướng ngại vật hoặc không đủ điều kiện an toàn thì người điều khiển phương tiện tham gia giao thông đường bộ phía trước có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.
 
 5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
 
@@ -407,7 +406,7 @@ Trường hợp có chướng ngại vật hoặc không đủ điều kiện an
 
    h. Ở phần đường dành cho người đi bộ qua đường;
 
-   i.\_ \_Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+   i. Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
 
    k. Trong hầm đường bộ.
 
@@ -544,7 +543,7 @@ Khi đến gần đường giao nhau, người điều khiển phương tiện t
 
    d. Xe chở khách công cộng.
 
-Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầu phao thì xe nào đến trước được qua trước.
+   Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầu phao thì xe nào đến trước được qua trước.
 
 3. Khi qua phà, phải chấp hành quy định sau đây:
 
@@ -570,7 +569,7 @@ Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầ
 
 ### Điều 25. Giao thông trên đường cao tốc
 
-1. Người lái xe, người điều khiển xe máy chuyên dùng\*\* \*\*trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ sau đây:
+1. Người lái xe, người điều khiển xe máy chuyên dùng trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ sau đây:
 
    a. Trước khi nhập vào làn đường của đường cao tốc phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường, quan sát xe phía sau bảo đảm khoảng cách an toàn mới cho xe nhập vào làn đường sát bên phải, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi nhập vào làn đường của đường cao tốc;
 
@@ -744,29 +743,29 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
 ### Điều 34. Phân loại phương tiện giao thông đường bộ
 
-1. Xe cơ giới bao gồm:
+1. _Xe cơ giới_ bao gồm:
 
-   a. Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
+   a. _Xe ô tô_ gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
 
-   b. Rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
+   b. _Rơ moóc_ là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
 
-   c. Sơ mi rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
+   c. _Sơ mi rơ moóc_ là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
 
-   d. Xe chở người bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
+   d. *Xe chở người bốn bánh có gắn động cơ* là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
 
-   đ. Xe chở hàng bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
+   đ. _Xe chở hàng bốn bánh có gắn động cơ_ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
 
-   e. Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
+   e. _Xe mô tô_ gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
 
-   g. Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
+   g. _Xe gắn máy_ là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
 
    h. Xe tương tự các loại xe quy định tại khoản này.
 
-2. Xe thô sơ bao gồm:
+2. _Xe thô sơ_ bao gồm:
 
-   a. Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
+   a. _Xe đạp_ là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
 
-   b. Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
+   b. _Xe đạp máy, gồm cả xe đạp điện_, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
 
    c. Xe xích lô;
 
@@ -776,7 +775,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    e. Xe tương tự các loại xe quy định tại khoản này.
 
-3. Xe máy chuyên dùng bao gồm:
+3. _Xe máy chuyên dùng_ bao gồm:
 
    a. Xe máy thi công;
 
@@ -790,7 +789,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
    e. Các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
 
-4. Phương tiện giao thông thông minh là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ.
+4. _Phương tiện giao thông thông minh_ là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ.
 
 5. Xe tương tự các loại xe cơ giới, xe thô sơ được quản lý, sử dụng theo quy định đối với loại xe cơ giới, xe thô sơ đó.
 
@@ -1026,7 +1025,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ khi
 
 1. Cơ sở đăng kiểm là tổ chức cung cấp dịch vụ công thực hiện kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, xe máy chuyên dùng được tổ chức, hoạt động theo quy định của Chính phủ.
 
-Cơ sở đăng kiểm chịu trách nhiệm về kết quả kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng; từ chối kiểm định phương tiện vi phạm khi chủ phương tiện chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ.
+   Cơ sở đăng kiểm chịu trách nhiệm về kết quả kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng; từ chối kiểm định phương tiện vi phạm khi chủ phương tiện chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ.
 
 2. Trách nhiệm của chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng được quy định như sau:
 
@@ -1068,21 +1067,21 @@ Cơ sở đăng kiểm chịu trách nhiệm về kết quả kiểm định an 
 
    e. Không chở hàng hóa trong khoang chở hành khách.
 
-2.\*\* \*\*Người lái xe, nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm sau đây:
+2. Người lái xe, nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm sau đây:
 
-a. Thực hiện quy định tại khoản 1 Điều này;
+   a. Thực hiện quy định tại khoản 1 Điều này;
 
-b. Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố;
+   b. Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố;
 
-c. Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này;
+   c. Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này;
 
-d. Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn;
+   d. Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn;
 
-đ. Giữ gìn trật tự, vệ sinh trong xe;
+   đ. Giữ gìn trật tự, vệ sinh trong xe;
 
-e. Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội;
+   e. Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội;
 
-g. Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.
+   g. Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.
 
 ### Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh
 
@@ -1306,39 +1305,39 @@ g. Thực hiện các quy tắc giao thông đường bộ khác quy định t�
 
 1. Giấy phép lái xe bao gồm các hạng sau đây:
 
-   a. Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
+   a. _Hạng A1_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
 
-   b. Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh  trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+   b. _Hạng A_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh  trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
 
-   c. Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+   c. _Hạng B1_ cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
 
-   d. Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
+   d. _Hạng B_ cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
 
-   đ. Hạng C1 cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
+   đ. _Hạng C1_ cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
 
-   e. Hạng C cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
+   e. _Hạng C_ cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
 
-   g. Hạng D1 cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
+   g. _Hạng D1_ cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
 
-   h. Hạng D2 cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
+   h. _Hạng D2_ cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
 
-   i. Hạng D cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
+   i. _Hạng D_ cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
 
-   k. Hạng BE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   k. _Hạng BE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-   l. Hạng C1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   l. _Hạng C1E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-   m. Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+   m. _Hạng CE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
 
-   n. Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   n. _Hạng D1E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-   o. Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+   o. _Hạng D2E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
-   p. Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+   p. _Hạng DE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
 
 2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.
 
-Người khuyết tật điều khiển xe ô tô số tự động có kết cấu phù hợp với tình trạng khuyết tật thì được cấp giấy phép lái xe hạng B.
+   Người khuyết tật điều khiển xe ô tô số tự động có kết cấu phù hợp với tình trạng khuyết tật thì được cấp giấy phép lái xe hạng B.
 
 3. Người điều khiển xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô tải hoặc xe ô tô chở người tương ứng.
 
@@ -1432,9 +1431,9 @@ Người khuyết tật điều khiển xe ô tô số tự động có kết c�
 
    đ. Nâng hạng giấy phép lái xe từ hạng D2 lên hạng D;
 
-   e. Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên  hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
+   e. Nâng hạng giấy phép lái xe từ hạng B lên hạng BE, từ hạng C1 lên hạng C1E, từ hạng C lên hạng CE, từ hạng D1 lên hạng D1E, từ hạng D2 lên hạng D2E, từ hạng D lên hạng DE.
 
-4. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe khi giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng giấy phép lái xe; đối với việc nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người có nhu cầu được đào tạo còn phải có trình độ từ trung học cơ sở trở lên.
+4. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe khi giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng giấy phép lái xe; đối với việc nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người có nhu cầu được đào tạo còn phải có trình độ từ trung học cơ sở trở lên.
 
 5. Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E, DE phải được đào tạo bằng hình thức đào tạo nâng hạng theo các điều kiện quy định tại khoản 3 và khoản 4 Điều này.
 
@@ -1626,7 +1625,7 @@ Trong trường hợp cấp bách theo quy định tại khoản 1 Điều này,
 
 1. Khi phát hiện phương tiện giao thông đường bộ vi phạm quy định dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ nhưng người điều khiển phương tiện tham gia giao thông đường bộ, chủ phương tiện giao thông đường bộ không có mặt tại nơi xảy ra vi phạm hoặc có mặt nhưng không chấp hành yêu cầu của Cảnh sát giao thông thì Cảnh sát giao thông thực hiện việc di chuyển phương tiện vi phạm ra khỏi vị trí dừng, đỗ trên.
 
-Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao thông được thuê tổ chức, cá nhân thực hiện việc di chuyển phương tiện đó.
+   Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao thông được thuê tổ chức, cá nhân thực hiện việc di chuyển phương tiện đó.
 
 2. Khi người điều khiển phương tiện tham gia giao thông đường bộ hoặc chủ phương tiện giao thông đường bộ có hành vi cản trở, chống đối việc di chuyển phương tiện vi phạm ra khỏi vị trí dừng, đỗ thì Cảnh sát giao thông thực hiện các biện pháp quy định tại khoản 1 Điều 73 của Luật này, nếu người đó vẫn tiếp tục cản trở, chống đối thì Cảnh sát giao thông được cưỡng chế thi hành.
 
@@ -2044,24 +2043,25 @@ Trường hợp không đủ điều kiện thực hiện thì Cảnh sát giao 
 
 _Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 7 thông qua ngày 27 tháng 6 năm 2024._
 
-\_ \_
-
 <table>
   <tr>
-   <td><strong><em> </em></strong>
-<p>
-<strong>E-pas: 60179</strong>
-<p>
-<strong> </strong>
-   </td>
-   <td><strong>CHỦ TỊCH QUỐC HỘI \
- \
- \
- \
- \
-Trần Thanh Mẫn</strong>
-   </td>
+    <td>
+      <p>
+        <strong>E-pas: 60179</strong>
+      </p>
+      <br />
+      <br />
+    </td>
+    <td style="text-align: center">
+      <p>
+        <strong>CHỦ TỊCH QUỐC HỘI</strong>
+      </p>
+      <br />
+      <br />
+      <br />
+      <p>
+        <strong>Trần Thanh Mẫn</strong>
+      </p>
+    </td>
   </tr>
 </table>
-
-\_ \_
