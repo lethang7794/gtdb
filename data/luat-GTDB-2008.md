@@ -49,9 +49,11 @@ Conversion notes:
   </tr>
 </table>
 
-**LUẬT**
-
-**Giao thông đường bộ**
+<p style="text-align: center">
+  <strong>LUẬT</strong>
+  <br />
+  <strong>Giao thông đường bộ</strong>
+</p>
 
 _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;_
 
@@ -71,15 +73,15 @@ Luật này áp dụng đối với tổ chức, cá nhân liên quan đến gia
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-1. _Đường bộ_ gồm đường, cầu đường bộ,\_ \_hầm đường bộ, bến phà đường bộ.
+1. _Đường bộ_ gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.
 
 2. _Công trình đường bộ_ gồm đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu, rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí và các công trình, thiết bị phụ trợ đường bộ khác.
 
-3.**_ Kết cấu hạ tầng giao thông đường bộ_** gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
+3. _Kết cấu hạ tầng giao thông đường bộ_ gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
 
-4._ Đất của đường bộ_ là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
+4. _Đất của đường bộ_ là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
 
-5.**_ Hành lang an toàn đường bộ_** là dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.
+5. _Hành lang an toàn đường bộ_ là dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.
 
 6. _Phần đường xe chạy_ là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
 
@@ -87,21 +89,21 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 8. _Khổ giới hạn của đường bộ_ là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
 
-9. \_Đường phố\*\* \*\*\_là đường đô thị, gồm lòng đường và hè phố.
+9. _Đường phố_ là đường đô thị, gồm lòng đường và hè phố.
 
 10. _Dải phân cách_ là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ. Dải phân cách gồm loại cố định và loại di động.
 
-11.**_ Nơi đường giao nhau cùng mức_** (sau đây gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
+11. _Nơi đường giao nhau cùng mức_ (sau đây gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
 
-12.\_ Đường cao tốc\*\* \*\*\_là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+12. _Đường cao tốc_ là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
 
-13.**_ Đường chính_** là đường bảo đảm giao thông chủ yếu trong khu vực.
+13. _Đường chính_ là đường bảo đảm giao thông chủ yếu trong khu vực.
 
-14. \_Đường nhánh\*\* \*\*\_là đường nối vào đường chính.
+14. _Đường nhánh_ là đường nối vào đường chính.
 
 15. _Đường ưu tiên_ là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
 
-16._ Đường gom_ là đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.\_ \_
+16. _Đường gom_ là đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.
 
 17. _Phương tiện giao thông đường bộ_ gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.
 
@@ -121,19 +123,19 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 25. _Người điều khiển giao thông_ là cảnh sát giao thông; người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
 
-26. \_Hành khách \_là người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
+26. _Hành khách_ là người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
 
-27. \_Hành lý \_là vật phẩm mà hành khách mang theo trên cùng phương tiện hoặc gửi theo phương tiện khác.
+27. _Hành lý_ là vật phẩm mà hành khách mang theo trên cùng phương tiện hoặc gửi theo phương tiện khác.
 
 28. _Hàng hóa_ là máy móc, thiết bị, nguyên vật liệu, nhiên liệu, hàng tiêu dùng, động vật sống và các động sản khác được vận chuyển bằng phương tiện giao thông đường bộ.
 
 29. _Hàng nguy hiểm_ là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
 
-30._ Vận tải đường bộ_ là hoạt động sử dụng phương tiện giao thông đường bộ để vận chuyển người, hàng hóa trên đường bộ.
+30. _Vận tải đường bộ_ là hoạt động sử dụng phương tiện giao thông đường bộ để vận chuyển người, hàng hóa trên đường bộ.
 
-31._ Người vận tải_ là tổ chức, cá nhân sử dụng phương tiện giao thông đường bộ để thực hiện hoạt động vận tải đường bộ.
+31. _Người vận tải_ là tổ chức, cá nhân sử dụng phương tiện giao thông đường bộ để thực hiện hoạt động vận tải đường bộ.
 
-32.\_ Cơ quan quản lý đường bộ \_là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã).
+32. _Cơ quan quản lý đường bộ_ là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã).
 
 ### Điều 4. Nguyên tắc hoạt động giao thông đường bộ
 
@@ -165,7 +167,7 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 3. Quy hoạch giao thông vận tải đường bộ được lập cho ít nhất 10 năm và định hướng phát triển cho ít nhất 10 năm tiếp theo; được điều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn. Việc điều chỉnh quy hoạch phải bảo đảm tính kế thừa của các quy hoạch đã được phê duyệt.
 
-Quy hoạch giao thông vận tải đường bộ sau khi được phê duyệt phải được công bố để cơ quan, tổ chức, cá nhân có liên quan biết, thực hiện và tham gia giám sát.
+   Quy hoạch giao thông vận tải đường bộ sau khi được phê duyệt phải được công bố để cơ quan, tổ chức, cá nhân có liên quan biết, thực hiện và tham gia giám sát.
 
 4. Quy hoạch giao thông vận tải đường bộ phải xác định rõ mục tiêu, quan điểm, tính chất và quy mô phát triển; nhu cầu sử dụng đất, nhu cầu vốn, nguồn vốn, nguồn nhân lực; xác định danh mục các dự án, dự án ưu tiên; đánh giá tác động của quy hoạch; xác định cơ chế, chính sách và giải pháp thực hiện quy hoạch.
 
@@ -173,7 +175,7 @@ Quy hoạch giao thông vận tải đường bộ sau khi được phê duyệt
 
 6. Uỷ ban nhân dân cấp tỉnh tổ chức lập, trình Hội đồng nhân dân cùng cấp quyết định quy hoạch giao thông vận tải đường bộ do địa phương quản lý, trước khi trình Hội đồng nhân dân cùng cấp quyết định phải có ý kiến của Bộ Giao thông vận tải.
 
-Đối với quy hoạch giao thông vận tải đường bộ của thành phố trực thuộc trung ương loại đô thị đặc biệt thì Uỷ ban nhân dân thành phố lập, trình Hội đồng nhân dân cùng cấp thông qua và phải có ý kiến của Bộ Giao thông vận tải, Bộ Xây dựng trước khi trình Thủ tướng Chính phủ phê duyệt.
+   Đối với quy hoạch giao thông vận tải đường bộ của thành phố trực thuộc trung ương loại đô thị đặc biệt thì Uỷ ban nhân dân thành phố lập, trình Hội đồng nhân dân cùng cấp thông qua và phải có ý kiến của Bộ Giao thông vận tải, Bộ Xây dựng trước khi trình Thủ tướng Chính phủ phê duyệt.
 
 7. Quy hoạch các công trình kỹ thuật hạ tầng khác phải phù hợp, đồng bộ với quy hoạch kết cấu hạ tầng giao thông đường bộ.
 
@@ -211,11 +213,11 @@ Thành viên trong gia đình có trách nhiệm tuyên truyền, giáo dục, n
 
 8. Điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn.
 
-Điều khiển xe mô tô, xe gắn máy mà trong máu có nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở.
+   Điều khiển xe mô tô, xe gắn máy mà trong máu có nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở.
 
 9. Điều khiển xe cơ giới không có giấy phép lái xe theo quy định.
 
-Điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng.
+   Điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng.
 
 10. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông đường bộ.
 
@@ -359,7 +361,7 @@ e) Xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhi�
 
 3. Trong khu dân cư, người lái xe, người điều khiển xe máy chuyên dùng chỉ được quay đầu xe ở nơi đường giao nhau và nơi có biển báo cho phép quay đầu xe.
 
-4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt,**\_ \_**đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất.
+4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt,\*\* \*\*đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất.
 
 ### Điều 16. Lùi xe
 
@@ -431,9 +433,9 @@ l) Che khuất biển báo hiệu đường bộ.
 
 Người điều khiển phương tiện khi dừng xe, đỗ xe trên đường phố phải tuân theo quy định tại Điều 18 của Luật này và các quy định sau đây:
 
-1. Phải cho xe dừng, đỗ sát theo lề đường, hè phố phía bên phải theo chiều đi của mình;\_ \_bánh xe gần nhất không được cách xa lề đường, hè phố quá 0,25 mét và không gây cản trở, nguy hiểm cho giao thông. Trường hợp đường phố hẹp, phải dừng xe, đỗ xe ở vị trí cách xe ô tô đang đỗ bên kia đường tối thiểu 20 mét.
+1. Phải cho xe dừng, đỗ sát theo lề đường, hè phố phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, hè phố quá 0,25 mét và không gây cản trở, nguy hiểm cho giao thông. Trường hợp đường phố hẹp, phải dừng xe, đỗ xe ở vị trí cách xe ô tô đang đỗ bên kia đường tối thiểu 20 mét.
 
-2. Không được dừng xe, đỗ xe trên đường xe điện,\_ \_trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước. Không được để phương tiện giao thông ở lòng đường, hè phố trái quy định.
+2. Không được dừng xe, đỗ xe trên đường xe điện, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước. Không được để phương tiện giao thông ở lòng đường, hè phố trái quy định.
 
 ### Điều 20. Xếp hàng hóa trên phương tiện giao thông đường bộ
 
@@ -501,11 +503,11 @@ Khi đến gần đường giao nhau, người điều khiển phương tiện p
 
 1. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải;
 
-2. Tại nơi đường giao nhau có báo hiệu đi theo vòng\_ \_xuyến, phải nhường đường cho xe đi bên trái;
+2. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi bên trái;
 
 3. Tại nơi đường giao nhau giữa đường không ưu tiên và đường ưu tiên hoặc giữa đường nhánh và đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.
 
-### Điều 25. Đi trên đoạn đường bộ giao nhau cùng mức với\_ \_đường sắt, cầu đường bộ đi chung với đường sắt
+### Điều 25. Đi trên đoạn đường bộ giao nhau cùng mức với đường sắt, cầu đường bộ đi chung với đường sắt
 
 1. Trên đoạn đường bộ giao nhau cùng mức với đường sắt, cầu đường bộ đi chung với đường sắt, phương tiện giao thông đường sắt được quyền ưu tiên đi trước.
 
@@ -521,7 +523,7 @@ Khi đến gần đường giao nhau, người điều khiển phương tiện p
 
 ### Điều 26. Giao thông trên đường cao tốc
 
-1. Người lái xe, người điều khiển xe máy chuyên dùng**\_ \_**trên đường cao tốc ngoài việc tuân thủ các quy tắc giao thông quy định tại Luật này còn phải thực hiện các**\_ \_**quy định sau đây:
+1. Người lái xe, người điều khiển xe máy chuyên dùng\*\* **trên đường cao tốc ngoài việc tuân thủ các quy tắc giao thông quy định tại Luật này còn phải thực hiện các** \*\*quy định sau đây:
 
 a) Khi vào đường cao tốc phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường, khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc;
 
@@ -531,7 +533,7 @@ c) Không được cho xe chạy ở làn dừng xe khẩn cấp và phần lề
 
 d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo hiệu, sơn kẻ trên mặt đường.
 
-2. Người lái xe, người điều khiển xe máy chuyên dùng**\_ \_**phải cho xe chạy cách nhau một khoảng cách an toàn\_ \_ghi trên biển báo hiệu.
+2. Người lái xe, người điều khiển xe máy chuyên dùng\*\* \*\*phải cho xe chạy cách nhau một khoảng cách an toàn ghi trên biển báo hiệu.
 
 3. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.
 
@@ -541,7 +543,7 @@ d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc đ
 
 Người điều khiển phương tiện trong hầm đường bộ ngoài việc tuân thủ các quy tắc giao thông quy định tại Luật này còn phải thực hiện các quy định sau đây:
 
-1. Xe cơ giới, xe máy chuyên dùng phải bật đèn; xe thô sơ phải bật**\_ \_**đèn hoặc có vật phát sáng báo hiệu;
+1. Xe cơ giới, xe máy chuyên dùng phải bật đèn; xe thô sơ phải bật\*\* \*\*đèn hoặc có vật phát sáng báo hiệu;
 
 2. Chỉ được dừng xe, đỗ xe ở nơi quy định.
 
@@ -719,7 +721,7 @@ b) Khi có tình huống gây ách tắc giao thông hoặc có yêu cầu cần
 
 ### Điều 38.\*_ \*\*Trách nhiệm của cá nhân, cơ quan, tổ chức khi xảy ra tai nạn giao thông_
 
-1. Người điều khiển phương tiện**\_ \_**và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm sau đây:
+1. Người điều khiển phương tiện\*\* \*\*và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm sau đây:
 
 a) Dừng ngay phương tiện; giữ nguyên hiện trường; cấp cứu người bị nạn và phải có mặt khi cơ quan có thẩm quyền yêu cầu;
 
@@ -753,7 +755,7 @@ Trường hợp vụ tai nạn vượt quá khả năng giải quyết, Uỷ ban
 
 ### Điều 39. Phân loại đường bộ
 
-1. Mạng lưới đường\_ _bộ được chia thành sáu hệ thống,_ \_gồm quốc lộ, đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng, quy định như sau:
+1. Mạng lưới đường_ _bộ được chia thành sáu hệ thống,_ _gồm quốc lộ, đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng, quy định như sau:
 
 a) Quốc lộ là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền trung tâm hành chính cấp tỉnh từ ba địa phương trở lên; đường nối liền từ cảng biển quốc tế, cảng hàng không quốc tế đến các cửa khẩu quốc tế, cửa khẩu chính trên đường bộ; đường có vị trí đặc biệt quan trọng đối với sự phát triển kinh tế - xã hội của vùng, khu vực;
 
@@ -1017,7 +1019,7 @@ k) Các kết cấu phải đủ độ bền và bảo đảm tính năng vận 
 
 5. Chủ phương tiện, người lái xe ô tô chịu trách nhiệm duy trì tình trạng an toàn kỹ thuật của phương tiện theo tiêu chuẩn quy định khi tham gia giao thông đường bộ giữa hai kỳ kiểm định.
 
-6. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện, tiêu chuẩn và cấp giấy phép cho cơ sở đăng kiểm xe cơ giới; quy định và tổ chức thực hiện kiểm định xe cơ giới. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định và tổ chức**\_ \_**kiểm định xe cơ giới của quân đội, công an sử dụng vào mục đích quốc phòng, an ninh.
+6. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện, tiêu chuẩn và cấp giấy phép cho cơ sở đăng kiểm xe cơ giới; quy định và tổ chức thực hiện kiểm định xe cơ giới. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định và tổ chức\*\* \*\*kiểm định xe cơ giới của quân đội, công an sử dụng vào mục đích quốc phòng, an ninh.
 
 ### Điều 56. Điều kiện tham gia giao thông của xe thô sơ
 
@@ -1097,7 +1099,7 @@ d) Hạng C cấp cho người lái xe ô tô tải, máy kéo có trọng tải
 
 e) Hạng E cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D;
 
-g) Giấy phép lái xe hạng FB2, FD, FE cấp cho người lái xe đã có giấy phép lái xe hạng B2, D, E để lái các loại xe quy định cho các giấy phép lái xe hạng này khi kéo rơ moóc\_ \_hoặc xe ô tô chở khách nối toa; hạng FC cấp cho người lái xe đã có giấy phép lái xe hạng C để lái các loại xe quy định cho hạng C khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc.
+g) Giấy phép lái xe hạng FB2, FD, FE cấp cho người lái xe đã có giấy phép lái xe hạng B2, D, E để lái các loại xe quy định cho các giấy phép lái xe hạng này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa; hạng FC cấp cho người lái xe đã có giấy phép lái xe hạng C để lái các loại xe quy định cho hạng C khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc.
 
 5. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam và lãnh thổ của nước hoặc vùng lãnh thổ mà Việt Nam ký cam kết công nhận giấy phép lái xe của nhau.
 
@@ -1139,7 +1141,7 @@ d) Nâng hạng giấy phép lái xe từ hạng D lên hạng E;
 
 đ) Nâng hạng giấy phép lái xe từ các hạng B2, C, D, E lên các hạng giấy phép lái các xe tương ứng có kéo rơ moóc, sơ mi rơ moóc.
 
-5*.* Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe;\_ \_người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.
+5*.* Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe; người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.
 
 6. Việc đào tạo lái xe ô tô chở người từ 10 chỗ ngồi trở lên và lái xe kéo rơ moóc chỉ được thực hiện bằng hình thức đào tạo nâng hạng với các điều kiện quy định tại khoản 4 và khoản 5 Điều này.
 
@@ -1157,7 +1159,7 @@ Trường hợp giấy phép lái xe có thời hạn, trước khi hết thời
 
 1. Người điều khiển xe máy chuyên dùng tham gia giao thông phải đủ độ tuổi, sức khỏe phù hợp với ngành nghề lao động và có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng do cơ sở đào tạo người điều khiển xe máy chuyên dùng cấp.
 
-2. Người điều khiển xe máy chuyên dùng khi tham gia giao thông phải mang theo\_ \_các giấy tờ sau đây:
+2. Người điều khiển xe máy chuyên dùng khi tham gia giao thông phải mang theo các giấy tờ sau đây:
 
 a) Đăng ký xe;
 
@@ -1213,7 +1215,7 @@ c) Kinh doanh vận tải hàng hóa siêu trường, siêu trọng;
 
 d) Kinh doanh vận tải hàng nguy hiểm.
 
-3. Chính phủ quy định cụ thể về kinh doanh vận tải bằn*g \_xe ô tô*.\_
+3. Chính phủ quy định cụ thể về kinh doanh vận tải bằn*g _xe ô tô*._
 
 #### Điều 67. Điều kiện kinh doanh vận tải bằng xe ô tô
 
