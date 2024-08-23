@@ -1,4 +1,7 @@
 import createMDX from '@next/mdx'
+import remarkTOC from 'remark-toc'
+import rehypeSlug from 'rehype-slug'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -8,6 +11,10 @@ const nextConfig = {
 
 const withMDX = createMDX({
   // Add markdown plugins here, as desired
+  options: {
+    remarkPlugins: [remarkTOC],
+    rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
+  },
 })
 
 // Merge MDX config with Next.js config
