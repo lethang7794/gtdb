@@ -19,6 +19,20 @@ export default async function Home() {
             Thuật ngữ
           </Link>
         </div>
+        <div>
+          <Link className="text-5xl text-blue-500" href="/vbpl/luat-GTDB-2008">
+            Luật Giao thông đường bộ 2008 (Có hiệu lực đến 31/12/2024)
+          </Link>
+        </div>
+        <div>
+          <Link
+            className="text-5xl text-blue-500"
+            href="/vbpl/luat-TTATGTDB-2024"
+          >
+            Luật Trật tự, an toàn giao thông đường bộ 2024 (Có hiệu lực từ
+            1/1/2025)
+          </Link>
+        </div>
       </div>
     </div>
   )
