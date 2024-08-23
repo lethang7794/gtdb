@@ -1,5 +1,5 @@
-.markdown-body #muc-luc + ul,
-.markdown-body #muc-luc + ol,
+.markdown-body #mục-lục + ul,
+.markdown-body #mục-lục + ol,
 .markdown-body #toc + ul,
 .markdown-body #toc + ol,
 .markdown-body #table-of-contents + ul,
@@ -11,8 +11,8 @@
   padding-left: 0;
 }
 
-.markdown-body #muc-luc + ul ul,
-.markdown-body #muc-luc + ol ul,
+.markdown-body #mục-lục + ul ul,
+.markdown-body #mục-lục + ol ul,
 .markdown-body #toc + ul ul,
 .markdown-body #toc + ol ul,
 .markdown-body #table-of-contents + ul ul,
@@ -24,8 +24,8 @@
   padding-left: 1em;
 }
 
-.markdown-body #muc-luc + ul > li,
-.markdown-body #muc-luc + ol > li,
+.markdown-body #mục-lục + ul > li,
+.markdown-body #mục-lục + ol > li,
 .markdown-body #toc + ul > li,
 .markdown-body #toc + ol > li,
 .markdown-body #table-of-contents + ul > li,
