@@ -1,4 +1,5 @@
 import 'github-markdown-css/github-markdown.css'
+import './style.css'
 
 export default function MdxLayout({ children }: { children: React.ReactNode }) {
   return (

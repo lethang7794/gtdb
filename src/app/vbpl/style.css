@@ -1,0 +1,36 @@
+.markdown-body #muc-luc + ul,
+.markdown-body #muc-luc + ol,
+.markdown-body #toc + ul,
+.markdown-body #toc + ol,
+.markdown-body #table-of-contents + ul,
+.markdown-body #table-of-contents + ol,
+.markdown-body #contents + ul,
+.markdown-body #contents + ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.markdown-body #muc-luc + ul ul,
+.markdown-body #muc-luc + ol ul,
+.markdown-body #toc + ul ul,
+.markdown-body #toc + ol ul,
+.markdown-body #table-of-contents + ul ul,
+.markdown-body #table-of-contents + ol ul,
+.markdown-body #contents + ul ul,
+.markdown-body #contents + ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1em;
+}
+
+.markdown-body #muc-luc + ul > li,
+.markdown-body #muc-luc + ol > li,
+.markdown-body #toc + ul > li,
+.markdown-body #toc + ol > li,
+.markdown-body #table-of-contents + ul > li,
+.markdown-body #table-of-contents + ol > li,
+.markdown-body #contents + ul > li,
+.markdown-body #contents + ol > li {
+  margin-bottom: 1em;
+}
