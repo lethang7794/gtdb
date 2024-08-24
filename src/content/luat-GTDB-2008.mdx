@@ -16,29 +16,24 @@ Conversion notes:
 * Tables are currently converted to HTML tables. 
 */}
 
-<div className="flex flex-col gap-4 mb-4">
-  <div className="flex gap-4 overflow-auto text-center whitespace-nowrap text-nowrap">
-    <div>
+<DocumentHeading 
+  left={
+    <>
       <div className="font-bold">QUỐC HỘI</div>
       <div>----------</div>
       <br />
       <div>Luật số: 23/2008/QH12</div>
-    </div>
-    <div className="flex-grow" />
-    <div>
-      <div className="font-bold">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</div>
-      <div className="font-bold">Độc lập - Tự do - Hạnh phúc</div>
-      <div>----------</div>
-      <div className="italic">
-        Hà Nội, ngày 13 tháng 11 năm 2008
-      </div>
-    </div>
-  </div>
-  <div className="text-center text-3xl font-bold">
-    LUẬT<br />
-    Giao thông đường bộ
-  </div>
-</div>
+    </>
+  }
+  right="Hà Nội, ngày 13 tháng 11 năm 2008"
+  title={
+    <>
+      LUẬT
+      <br />
+      Giao thông đường bộ
+    </>
+  }
+/>
 
 _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;_
 

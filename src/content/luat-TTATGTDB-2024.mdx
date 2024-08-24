@@ -15,43 +15,24 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 */}
 
-<>
-  <table style={{ fontSize: '16px' }}>
-    <tbody>
-      <tr style={{ border: 'none' }}>
-        <td style={{ border: 'none' }} tabIndex="-1">
-          <div style={{ textAlign: "center" }}>
-            QUỐC&nbsp;HỘI<br />
-            ---
-            <br />
-          </div>
-        </td>
-        <td style={{ border: 'none', width: 600 }} />
-        <td style={{ border: 'none' }} tabIndex="-1">
-          <div style={{ textAlign: "center" }}>
-            CỘNG&nbsp;HÒA&nbsp;XÃ&nbsp;HỘI&nbsp;CHỦ&nbsp;NGHĨA&nbsp;VIỆT&nbsp;NAM<br />
-            Độc lập - Tự do - Hạnh phúc<br />
-            ---
-          </div>
-        </td>
-      </tr>
-      <tr style={{ border: 'none', backgroundColor: 'var(--bgColor-default)' }}>
-        <td style={{ border: 'none' }}>Luật&nbsp;số: 36/2024/QH15</td>
-        <td style={{ border: 'none', width: 600 }} />
-        <td style={{ border: 'none' }}>
-          <div style={{ textAlign: "center" }}>
-            <strong>Hà Nội, ngày 27 tháng 6 năm 2024</strong>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <div style={{ textAlign: "center", fontSize: '2em', marginBottom: '1rem' }}>
-    <strong>LUẬT</strong>
-    <br />
-    <strong>TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ</strong>
-  </div>
-</>
+<DocumentHeading 
+  left={
+    <>
+      <div className="font-bold">QUỐC HỘI</div>
+      <div>----------</div>
+      <br />
+      <div>Luật số: 36/2024/QH15</div>
+    </>
+  }
+  right="Hà Nội, ngày 27 tháng 6 năm 2024"
+  title={
+    <>
+      LUẬT
+      <br />
+      TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ
+    </>
+  }
+/>
 
 _Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;_
 
