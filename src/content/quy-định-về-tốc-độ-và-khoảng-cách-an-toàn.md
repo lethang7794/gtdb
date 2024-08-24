@@ -17,24 +17,27 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 ----->
 
-<table>
-  <tr>
-   <td>
-   </td>
-    <td>
-      <strong>
-      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br />
-      Độc lập - Tự do - Hạnh phúc<br />
-      </strong>
-   </td>
-  </tr>
+<table style={{ fontSize: '16px' }}>
+  <tbody>
+    <tr style={{ border: 'none' }}>
+      <td style={{ border: 'none', width: 600 }} />
+      <td style={{ border: 'none' }} tabIndex="-1">
+        <div style={{ textAlign: "center" }}>
+          CỘNG&nbsp;HÒA&nbsp;XÃ&nbsp;HỘI&nbsp;CHỦ&nbsp;NGHĨA&nbsp;VIỆT&nbsp;NAM<br />
+          Độc lập - Tự do - Hạnh phúc<br />
+          ---
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-**THÔNG TƯ**
-
-**Quy định về tốc độ và khoảng cách an toàn**
-
-**của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ**
+<div style={{ textAlign: "center", fontSize: '2em', marginBottom: '1rem' }}>
+  <strong>THÔNG TƯ</strong><br />
+  <strong>Quy định về tốc độ và khoảng cách an toàn</strong><br />
+  <strong>của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ</strong><br />
+  ---
+</div>
+<br />
 
 Thông tư số 31/2019/TT-BGTVT ngày 29 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ, có hiệu lực kể từ ngày 15 tháng 10 năm 2019 được sửa đổi, bổ sung bởi:
 
@@ -244,38 +247,12 @@ Người điều khiển phương tiện tham gia giao thông đường bộ ph�
 
    a. Trong điều kiện mặt đường khô ráo, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau:
 
-      <table>
-        <tr>
-         <td>Tốc độ lưu hành (km/h)
-         </td>
-         <td>Khoảng cách an toàn tối thiểu (m)
-         </td>
-        </tr>
-        <tr>
-         <td>V = 60
-         </td>
-         <td>35
-         </td>
-        </tr>
-        <tr>
-         <td>60 &lt; V ≤ 80
-         </td>
-         <td>55
-         </td>
-        </tr>
-        <tr>
-         <td>80 &lt; V ≤ 100
-         </td>
-         <td>70
-         </td>
-        </tr>
-        <tr>
-         <td>100 &lt; V ≤ 120
-         </td>
-         <td>100
-         </td>
-        </tr>
-      </table>
+      | Tốc độ lưu hành (km/h) | Khoảng cách an toàn tối thiểu (m) |
+      | ---------------------- | --------------------------------- |
+      | V = 60                 | 35                                |
+      | 60 < V ≤ 80            | 55                                |
+      | 80 < V ≤ 100           | 70                                |
+      | 100 < V ≤ 120          | 100                               |
 
       Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.
 
@@ -293,29 +270,22 @@ Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trư�
 
 <table>
   <tr>
-   <td><strong>BỘ GIAO THÔNG VẬN TẢI</strong>
-   </td>
-   <td><strong>XÁC THỰC VĂN BẢN HỢP NHẤT</strong>
-   </td>
-  </tr>
-  <tr>
-    <td>Số: 12/VBHN-BGTVT
+    <td>
+      <strong>BỘ GIAO THÔNG VẬN TẢI</strong><br />
+      ---<br />
+      Số: 12/VBHN-BGTVT<br /><br /><br /><br /><br /><br /><br />
     </td>
     <td>
-      <strong>Hà Nội, ngày 28 tháng 7 năm 2023</strong>
-      <br />
-      <strong>KT. BỘ TRƯỞNG</strong>
-      <br />
-      <strong>THỨ TRƯỞNG</strong>
-      <br />
+      <strong>XÁC THỰC VĂN BẢN HỢP NHẤT</strong><br /><br /><br />
+      <strong>Hà Nội, ngày 28 tháng 7 năm 2023</strong><br />
+      <strong>KT. BỘ TRƯỞNG</strong><br />
+      <strong>THỨ TRƯỞNG</strong><br /><br /><br />
       <strong>Lê Đình Thọ</strong>
-   </td>
+    </td>
   </tr>
 </table>
 
 <!-- Footnotes themselves at the bottom. -->
-
-## Notes
 
 [^1]:
     Thông tư số 06/2023/TT-BGTVT sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có căn cứ ban hành như sau:
