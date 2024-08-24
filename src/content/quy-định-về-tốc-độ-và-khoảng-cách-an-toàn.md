@@ -17,15 +17,14 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 ----->
 
-**VĂN BẢN HỢP NHẤT - BỘ GIAO THÔNG VẬN TẢI**
-
 <table>
   <tr>
    <td>
    </td>
     <td>
-      <strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \
-      Độc lập - Tự do - Hạnh phúc \
+      <strong>
+      CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br />
+      Độc lập - Tự do - Hạnh phúc<br />
       </strong>
    </td>
   </tr>
@@ -65,7 +64,7 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn (gọi chung là nội đô thị) và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, có các hoạt động ảnh hưởng đến an toàn giao thông; được xác định bằng biển báo hiệu là đường qua khu đông dân cư.
 
-2. _Xe cơ giới_ gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+2. Xe cơ giới gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
 
 3. Ô tô chuyên dùng là ô tô có kết cấu và trang bị để thực hiện một chức năng công dụng đặc biệt, bao gồm: ô tô quét đường, ô tô tưới nước; ô tô hút chất thải, ô tô ép rác; ô tô trộn vữa; ô tô trộn bê tông; ô tô bơm bê tông; ô tô cần cẩu; ô tô thang; ô tô khoan; ô tô cứu hộ giao thông; ô tô truyền hình lưu động, ô tô đo sóng truyền hình lưu động, ô tô kiểm tra và bảo dưỡng cầu, ô tô kiểm tra cáp điện ngầm, ô tô chụp X-quang, ô tô phẫu thuật lưu động và các loại ô tô tương tự.
 
@@ -117,7 +116,7 @@ Người điều khiển phương tiện tham gia giao thông đường bộ ph�
 
 12. Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ.
 
-## Chương II QUY ĐỊNH TỐC ĐỘ, KHOẢNG CÁCH CỦA XE CƠ GIỚI, XE MÁY CHUYÊN DÙNG THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ
+## Chương II. QUY ĐỊNH TỐC ĐỘ, KHOẢNG CÁCH CỦA XE CƠ GIỚI, XE MÁY CHUYÊN DÙNG THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ
 
 ### Điều 6. Tốc độ tối đa cho phép xe cơ giới tham gia giao thông trong khu vực đông dân cư (trừ đường cao tốc)
 
@@ -245,46 +244,44 @@ Người điều khiển phương tiện tham gia giao thông đường bộ ph�
 
    a. Trong điều kiện mặt đường khô ráo, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau:
 
-<table>
-  <tr>
-   <td>Tốc độ lưu hành (km/h)
-   </td>
-   <td>Khoảng cách an toàn tối thiểu (m)
-   </td>
-  </tr>
-  <tr>
-   <td>V = 60
-   </td>
-   <td>35
-   </td>
-  </tr>
-  <tr>
-   <td>60 &lt; V ≤ 80
-   </td>
-   <td>55
-   </td>
-  </tr>
-  <tr>
-   <td>80 &lt; V ≤ 100
-   </td>
-   <td>70
-   </td>
-  </tr>
-  <tr>
-   <td>100 &lt; V ≤ 120
-   </td>
-   <td>100
-   </td>
-  </tr>
-</table>
+      <table>
+        <tr>
+         <td>Tốc độ lưu hành (km/h)
+         </td>
+         <td>Khoảng cách an toàn tối thiểu (m)
+         </td>
+        </tr>
+        <tr>
+         <td>V = 60
+         </td>
+         <td>35
+         </td>
+        </tr>
+        <tr>
+         <td>60 &lt; V ≤ 80
+         </td>
+         <td>55
+         </td>
+        </tr>
+        <tr>
+         <td>80 &lt; V ≤ 100
+         </td>
+         <td>70
+         </td>
+        </tr>
+        <tr>
+         <td>100 &lt; V ≤ 120
+         </td>
+         <td>100
+         </td>
+        </tr>
+      </table>
 
-Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.
+      Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.
 
    b. Khi trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn thích hợp lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a Khoản này
 
-## Chương III
-
-**TỔ CHỨC THỰC HIỆN**[^3]
+## Chương III. TỔ CHỨC THỰC HIỆN[^3]
 
 ### Điều 12. Hiệu lực thi hành
 
@@ -328,6 +325,7 @@ Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trư�
     _Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư sửa đổi, bổ sung một số điều của các Thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ.”_
 
 [^2]: Cụm từ “Tổng cục Đường bộ Việt Nam” được thay thế bởi cụm từ “Cục Đường bộ Việt Nam” theo quy định tại khoản 1, Điều 15 của Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có hiệu lực kể từ ngày 01 tháng 7 năm 2023.
+
 [^3]:
     Điều 20 của Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có hiệu lực kể từ ngày 01 tháng 7 năm 2023 quy định như sau:
     **_“Điều 20. Điều khoản thi hành_**
