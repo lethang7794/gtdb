@@ -23,9 +23,10 @@ Conversion notes:
   <tr>
    <td>
    </td>
-   <td><strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \
-Độc lập - Tự do - Hạnh phúc \
-</strong>
+    <td>
+      <strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \
+      Độc lập - Tự do - Hạnh phúc \
+      </strong>
    </td>
   </tr>
 </table>
@@ -62,7 +63,7 @@ Thông tư này áp dụng đối với người lái xe, người điều khi�
 
 Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn (gọi chung là nội đô thị) và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, có các hoạt động ảnh hưởng đến an toàn giao thông; được xác định bằng biển báo hiệu là đường qua khu đông dân cư.<span style="text-decoration:underline;"> </span>
+1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn (gọi chung là nội đô thị) và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, có các hoạt động ảnh hưởng đến an toàn giao thông; được xác định bằng biển báo hiệu là đường qua khu đông dân cư.
 
 2. _Xe cơ giới_ gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
 
@@ -220,21 +221,21 @@ Người điều khiển phương tiện tham gia giao thông đường bộ ph�
 
 3. Cơ quan có thẩm quyền quy định tại khoản 4 Điều này, quyết định đặt biển báo hiệu các trường hợp dưới đây:
 
-a) Đối với đường đôi, đặt biển báo hạn chế tốc độ riêng cho từng chiều đường;
+   a. Đối với đường đôi, đặt biển báo hạn chế tốc độ riêng cho từng chiều đường;
 
-b) Đặt biển báo hạn chế tốc độ cho một khoảng thời gian trong ngày (biển phụ, biển điện tử);
+   b. Đặt biển báo hạn chế tốc độ cho một khoảng thời gian trong ngày (biển phụ, biển điện tử);
 
-c) Đặt biển báo hạn chế tốc độ riêng đối với các loại phương tiện có nguy cơ mất an toàn giao thông cao;
+   c. Đặt biển báo hạn chế tốc độ riêng đối với các loại phương tiện có nguy cơ mất an toàn giao thông cao;
 
-d) Đặt biển báo hạn chế tốc độ có trị số lớn hơn 60 km/h (đối với đoạn đường trong khu vực đông dân cư), lớn hơn 90 km/h (đối với đoạn đường ngoài khu vực đông dân cư) cho các tuyến đường có vận tốc thiết kế lớn hơn vận tốc tối đa quy định tại Điều 6, Điều 7 Thông tư này nhưng phải đảm bảo khai thác an toàn giao thông.
+   d. Đặt biển báo hạn chế tốc độ có trị số lớn hơn 60 km/h (đối với đoạn đường trong khu vực đông dân cư), lớn hơn 90 km/h (đối với đoạn đường ngoài khu vực đông dân cư) cho các tuyến đường có vận tốc thiết kế lớn hơn vận tốc tối đa quy định tại Điều 6, Điều 7 Thông tư này nhưng phải đảm bảo khai thác an toàn giao thông.
 
 4. Cơ quan có thẩm quyền quyết định đặt biển báo đối với các trường hợp quy định tại khoản 3 Điều này, bao gồm:
 
-a) Bộ Giao thông vận tải đối với đường bộ cao tốc;
+   a. Bộ Giao thông vận tải đối với đường bộ cao tốc;
 
-b) Cục Đường bộ Việt Nam[^2] đối với hệ thống quốc lộ và đường khác thuộc phạm vi quản lý của Bộ Giao thông vận tải (trừ đường bộ cao tốc);
+   b. Cục Đường bộ Việt Nam[^2] đối với hệ thống quốc lộ và đường khác thuộc phạm vi quản lý của Bộ Giao thông vận tải (trừ đường bộ cao tốc);
 
-c) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương đối với hệ thống đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng thuộc phạm vi quản lý.
+   c. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương đối với hệ thống đường tỉnh, đường huyện, đường xã, đường đô thị và đường chuyên dùng thuộc phạm vi quản lý.
 
 ### Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường
 
@@ -242,7 +243,7 @@ c) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương đối v
 
 2. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường
 
-a) Trong điều kiện mặt đường khô ráo, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau:
+   a. Trong điều kiện mặt đường khô ráo, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau:
 
 <table>
   <tr>
@@ -279,7 +280,7 @@ a) Trong điều kiện mặt đường khô ráo, khoảng cách an toàn ứng
 
 Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.
 
-b) Khi trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn thích hợp lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a Khoản này
+   b. Khi trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn thích hợp lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a Khoản này
 
 ## Chương III
 
@@ -301,15 +302,16 @@ Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trư�
    </td>
   </tr>
   <tr>
-   <td>Số: 12/VBHN-BGTVT
-   </td>
-   <td><em>Hà Nội, ngày 28 tháng 7 năm 2023</em>
-<p>
-<strong>KT. BỘ TRƯỞNG</strong>
-<p>
-<strong>THỨ TRƯỞNG</strong>
-<p>
-<strong>Lê Đình Thọ</strong>
+    <td>Số: 12/VBHN-BGTVT
+    </td>
+    <td>
+      <strong>Hà Nội, ngày 28 tháng 7 năm 2023</strong>
+      <br />
+      <strong>KT. BỘ TRƯỞNG</strong>
+      <br />
+      <strong>THỨ TRƯỞNG</strong>
+      <br />
+      <strong>Lê Đình Thọ</strong>
    </td>
   </tr>
 </table>
