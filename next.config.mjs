@@ -2,6 +2,7 @@ import createMDX from '@next/mdx'
 import remarkTOC from 'remark-toc'
 import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
+import remarkGfm from 'remark-gfm'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -14,8 +15,13 @@ const withMDX = createMDX({
   options: {
     remarkPlugins: [
       [remarkTOC, { heading: '(table[ -]of[ -])?contents?|toc|mục lục' }],
+      remarkGfm,
     ],
     rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
+    remarkRehypeOptions: {
+      clobberPrefix: 'footnote-',
+      footnoteLabel: 'Chú thích',
+    },
   },
 })
 

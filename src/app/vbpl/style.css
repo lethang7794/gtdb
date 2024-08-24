@@ -1,3 +1,6 @@
+/* 
+ * remark-toc 
+ */
 .markdown-body #mục-lục + ul,
 .markdown-body #mục-lục + ol,
 .markdown-body #toc + ul,
@@ -33,4 +36,19 @@
 .markdown-body #contents + ul > li,
 .markdown-body #contents + ol > li {
   margin-bottom: 1em;
+}
+
+/* 
+ * remark-gfm - Footnotes list
+ */
+.markdown-body .footnotes ol {
+  list-style: revert;
+}
+
+/*
+ * Table
+ */
+.markdown-body table.no-border tr,
+.markdown-body table.no-border td {
+  border: none;
 }
