@@ -16,28 +16,16 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 */}
 
-
-<table style={{ fontSize: '16px' }} className="no-border">
-  <tbody>
-    <tr>
-      <td style={{ width: 600 }} />
-      <td tabIndex="-1">
-        <div style={{ textAlign: "center" }}>
-          CỘNG&nbsp;HÒA&nbsp;XÃ&nbsp;HỘI&nbsp;CHỦ&nbsp;NGHĨA&nbsp;VIỆT&nbsp;NAM<br />
-          Độc lập - Tự do - Hạnh phúc<br />
-          ---
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<div style={{ textAlign: "center", fontSize: '1.5rem', marginBottom: '1rem' }}>
-  <strong>THÔNG TƯ</strong><br />
-  <strong>Quy định về tốc độ và khoảng cách an toàn</strong><br />
-  <strong>của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ</strong><br />
-  ---
-</div>
-<br />
+<DocumentHeading 
+  title={
+    <>
+      THÔNG TƯ<br />
+      Quy định về tốc độ và khoảng cách an toàn<br />
+      của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ<br />
+      ---
+    </>
+  }
+/>
 
 Thông tư số 31/2019/TT-BGTVT ngày 29 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ, có hiệu lực kể từ ngày 15 tháng 10 năm 2019 được sửa đổi, bổ sung bởi:
 
@@ -276,32 +264,25 @@ Thông tư này có hiệu lực kể từ ngày 15 tháng 10 năm 2019 và thay
 Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đường bộ Việt Nam, Cục trưởng Cục Đường cao tốc Việt Nam[^4], Giám đốc Sở Giao thông vận tải các tỉnh và thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này./.
 
 ---
-<table
-  style={{
-    display: 'table',
-    width: '100%',
-    textAlign: 'center',
-  }}
-  className="no-border"
->
-  <tbody>
-    <tr>
-      <td>
-        <strong>BỘ GIAO THÔNG VẬN TẢI</strong><br />
-        ---<br />
-        Số: 12/VBHN-BGTVT<br /><br /><br /><br /><br /><br /><br />
-      </td>
-      <td>
-        <strong>XÁC THỰC VĂN BẢN HỢP NHẤT</strong><br /><br /><br />
-        <span style={{ fontStyle: 'italic' }}>Hà Nội, ngày 28 tháng 7 năm 2023</span><br />
-        <strong>KT. BỘ TRƯỞNG</strong><br />
-        <strong>THỨ TRƯỞNG</strong><br /><br /><br />
-        <strong>Lê Đình Thọ</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
+<DocumentEnding 
+  left={
+    <div className="text-center">
+      <div className="font-bold">BỘ GIAO THÔNG VẬN TẢI</div>
+      <div>---</div>
+      <div>Số: 12/VBHN-BGTVT</div>
+    </div>
+  }
+  right={
+    <div className="font-bold">
+      <div>XÁC THỰC VĂN BẢN HỢP NHẤT</div><br />
+      <div className="font-normal italic">Hà Nội, ngày 28 tháng 7 năm 2023</div>
+      <div>KT. BỘ TRƯỞNG</div>
+      <div>THỨ TRƯỞNG</div><br /><br />
+      <div>Lê Đình Thọ</div>
+    </div>
+  }
+/>
 
 [^1]:
     Thông tư số 06/2023/TT-BGTVT sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có căn cứ ban hành như sau:
