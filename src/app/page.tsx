@@ -33,6 +33,14 @@ export default async function Home() {
             1/1/2025)
           </Link>
         </div>
+        <div>
+          <Link
+            className="text-5xl text-blue-500"
+            href="/vbpl/toc-do-khoang-cach-an-toan"
+          >
+            Quy định về tốc độ và khoảng cách an toàn (2023)
+          </Link>
+        </div>
       </div>
     </div>
   )
