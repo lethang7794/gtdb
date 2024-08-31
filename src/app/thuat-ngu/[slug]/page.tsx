@@ -1,6 +1,5 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getMarkingById, getMarkingImage } from '@/service/markings'
-import { getMarkings } from '@/service/markings'
+import { getMarkings, getMarkingById, getMarkingImage } from '@/service/marking'
 import { MarkingImage } from '@/model/Marking'
 
 export async function generateStaticParams() {

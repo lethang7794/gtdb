@@ -1,6 +1,5 @@
 import Link from 'next/link'
-import { getMarkings } from '@/service/markings'
-import { getMarkingImage } from '@/service/markings'
+import { getMarkings, getMarkingImage } from '@/service/marking'
 
 export default async function Home() {
   const data = getMarkings()
