@@ -7,8 +7,8 @@ export default async function Home() {
   const entries = Object.entries(data)
 
   return (
-    <main className="flex min-h-screen flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(250px,_1fr))] justify-between gap-4">
+    <main className="flex h-full flex-col justify-between p-6 md:p-8">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] justify-between gap-4">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
 

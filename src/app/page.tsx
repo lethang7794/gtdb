@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default async function Home() {
   return (
-    <div className="flex min-h-screen flex-col justify-between p-6 md:p-8">
+    <div className="flex h-full flex-col justify-between m-6 md:m-8">
       <ol className="flex flex-col gap-2">
         <li>
           <Link className="text-5xl text-blue-500" href="/bbgt">
