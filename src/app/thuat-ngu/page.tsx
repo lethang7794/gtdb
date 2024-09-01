@@ -16,7 +16,7 @@ export default async function GlossariesPage() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(400px,_1fr))] justify-between gap-4">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(250px,_1fr))] justify-between gap-4">
         {entries.map(([key, val]) => {
           return (
             <Collapsible
