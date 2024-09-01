@@ -1,6 +1,8 @@
 # P
+
 P.101:
   docs_name: 'Biển số P.101: Đường cấm'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P101.svg
@@ -8,6 +10,7 @@ P.101:
 
 P.102:
   docs_name: 'Biển số P.102: Cấm đi ngược chiều'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P102.svg
@@ -15,6 +18,7 @@ P.102:
 
 P.103a:
   docs_name: 'Biển số P.103a: Cấm xe ôtô'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P103a.svg
@@ -22,6 +26,7 @@ P.103a:
 
 P.103b:
   docs_name: 'Biển số P.103(b,c): Cấm xe ôtô rẽ trái; Cấm xe ôtô rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P103b.svg
@@ -29,6 +34,7 @@ P.103b:
 
 P.103c:
   docs_name: 'Biển số P.103(b,c): Cấm xe ôtô rẽ trái; Cấm xe ôtô rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P103c.svg
@@ -36,6 +42,7 @@ P.103c:
 
 P.104:
   docs_name: 'Biển số P.104: Cấm xe máy'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P104.svg
@@ -43,6 +50,7 @@ P.104:
 
 P.105:
   docs_name: 'Biển số P.105: Cấm xe ôtô và xe máy'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P105.svg
@@ -50,6 +58,7 @@ P.105:
 
 P.106a:
   docs_name: 'Biển số P.106(a,b): Cấm xe ôtô tải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P106a.svg
@@ -57,6 +66,7 @@ P.106a:
 
 P.106b:
   docs_name: 'Biển số P.106(a,b): Cấm xe ôtô tải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P106b.svg
@@ -64,6 +74,7 @@ P.106b:
 
 P.106c:
   docs_name: 'Biển số P.106c: Cấm các xe chở hàng nguy hiểm'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P106c.svg
@@ -71,6 +82,7 @@ P.106c:
 
 P.107:
   docs_name: 'Biển số P.107: Cấm xe ôtô khách và xe ôtô tải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P107.svg
@@ -78,6 +90,7 @@ P.107:
 
 P.107a:
   docs_name: 'Biển số P.107a: Cấm xe ôtô khách'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P107a.svg
@@ -85,6 +98,7 @@ P.107a:
 
 P.107b:
   docs_name: 'Biển số P.107b: Cấm xe ôtô taxi'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P107b.svg
@@ -92,6 +106,7 @@ P.107b:
 
 P.108:
   docs_name: 'Biển số P.108: Cấm xe kéo rơ-moóc'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P108.svg
@@ -99,6 +114,7 @@ P.108:
 
 P.108a:
   docs_name: 'Biển số P.108a: Cấm xe sơ-mi rơ-moóc'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P108a.svg
@@ -106,6 +122,7 @@ P.108a:
 
 P.109:
   docs_name: 'Biển số P.109: Cấm máy kéo'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P109.svg
@@ -113,6 +130,7 @@ P.109:
 
 P.110a:
   docs_name: 'Biển số P.110a: Cấm xe đạp'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P110a.svg
@@ -120,6 +138,7 @@ P.110a:
 
 P.110b:
   docs_name: 'Biển số P.110b: Cấm xe đạp thồ'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P110b.svg
@@ -127,6 +146,7 @@ P.110b:
 
 P.111a:
   docs_name: 'Biển số P.111a: Cấm xe gắn máy'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P111a.svg
@@ -134,22 +154,27 @@ P.111a:
 
 P.111b:
   docs_name: 'Biển số P.111(b) hoặc (c): Cấm xe ba bánh loại có động cơ (xe lam, xích lô máy)'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P111b.svg
   name: 'Cấm xe ba bánh loại có động cơ'
 
   including: Xe lam, xe xích lô máy, xe lôi máy
+
 P.111c:
   docs_name: 'Biển số P.111(b) hoặc (c): Cấm xe ba bánh loại có động cơ (xe lam, xích lô máy)'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P111c.svg
   name: 'Cấm xe ba bánh loại có động cơ'
 
   including: Xe lam, xe xích lô máy, xe lôi máy
+
 P.111d:
   docs_name: 'Biển số P.111d: Cấm xe ba bánh loại không có động cơ (xích lô)'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P111d.svg
@@ -157,6 +182,7 @@ P.111d:
 
 P.112:
   docs_name: 'Biển số P.112: Cấm người đi bộ'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P112.svg
@@ -164,6 +190,7 @@ P.112:
 
 P.113:
   docs_name: 'Biển số P.113: Cấm xe người kéo, đẩy'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P113.svg
@@ -171,6 +198,7 @@ P.113:
 
 P.114:
   docs_name: 'Biển số P.114: Cấm xe súc vật kéo'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P114.svg
@@ -178,6 +206,7 @@ P.114:
 
 P.115:
   docs_name: 'Biển số P.115: Hạn chế trọng tải toàn bộ xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P115.svg
@@ -185,6 +214,7 @@ P.115:
 
 P.116:
   docs_name: 'Biển số P.116: Hạn chế tải trọng trên trục xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P116.svg
@@ -192,6 +222,7 @@ P.116:
 
 P.117:
   docs_name: 'Biển số P.117: Hạn chế chiều cao'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P117.svg
@@ -199,6 +230,7 @@ P.117:
 
 P.118:
   docs_name: 'Biển số P.118: Hạn chế chiều ngang xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P118.svg
@@ -206,6 +238,7 @@ P.118:
 
 P.119:
   docs_name: 'Biển số P.119: Hạn chế chiều dài xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P119.svg
@@ -213,6 +246,7 @@ P.119:
 
 P.120:
   docs_name: 'Biển số P.120: Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ moóc'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P120.svg
@@ -220,6 +254,7 @@ P.120:
 
 P.121:
   docs_name: 'Biển số P.121: Cự ly tối thiểu giữa hai xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P121.svg
@@ -227,6 +262,7 @@ P.121:
 
 P.123a:
   docs_name: 'Biển số P.123(a,b): Cấm rẽ trái; Cấm rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P123a.svg
@@ -234,6 +270,7 @@ P.123a:
 
 P.123b:
   docs_name: 'Biển số P.123(a,b): Cấm rẽ trái; Cấm rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P123b.svg
@@ -241,6 +278,7 @@ P.123b:
 
 P.124a1:
   docs_name: 'Biển số P.124(a,b): Cấm quay đầu xe; Cấm ô tô quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124a1.svg
@@ -248,6 +286,7 @@ P.124a1:
 
 P.124a2:
   docs_name: 'Biển số P.124(a,b): Cấm quay đầu xe; Cấm ô tô quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124a2.svg
@@ -255,6 +294,7 @@ P.124a2:
 
 P.124b1:
   docs_name: 'Biển số P.124(a,b): Cấm quay đầu xe; Cấm ô tô quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124b1.svg
@@ -262,6 +302,7 @@ P.124b1:
 
 P.124b2:
   docs_name: 'Biển số P.124(a,b): Cấm quay đầu xe; Cấm ô tô quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124b2.svg
@@ -269,6 +310,7 @@ P.124b2:
 
 P.124c:
   docs_name: 'Biển số P.124(c,d): Cấm rẽ trái và quay đầu xe; Cấm rẽ phải và quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124c.svg
@@ -276,6 +318,7 @@ P.124c:
 
 P.124d:
   docs_name: 'Biển số P.124(c,d): Cấm rẽ trái và quay đầu xe; Cấm rẽ phải và quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124d.svg
@@ -283,6 +326,7 @@ P.124d:
 
 P.124e:
   docs_name: 'Biển số P.124(e,f): Cấm ô tô rẽ trái và quay đầu xe; Cấm ô tô rẽ phải và quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124e.svg
@@ -290,6 +334,7 @@ P.124e:
 
 P.124f:
   docs_name: 'Biển số P.124(e,f): Cấm ô tô rẽ trái và quay đầu xe; Cấm ô tô rẽ phải và quay đầu xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P124f.svg
@@ -297,6 +342,7 @@ P.124f:
 
 P.125:
   docs_name: 'Biển số P.125: Cấm vượt'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P125.svg
@@ -304,6 +350,7 @@ P.125:
 
 P.126:
   docs_name: 'Biển số P.126: Cấm xe ôtô tải vượt'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P126.svg
@@ -311,6 +358,7 @@ P.126:
 
 P.127-20:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-20.svg
@@ -318,6 +366,7 @@ P.127-20:
 
 P.127-30:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-30.svg
@@ -325,6 +374,7 @@ P.127-30:
 
 P.127-40:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-40.svg
@@ -332,6 +382,7 @@ P.127-40:
 
 P.127-50:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-50.svg
@@ -339,6 +390,7 @@ P.127-50:
 
 P.127-60:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-60.svg
@@ -346,6 +398,7 @@ P.127-60:
 
 P.127-70:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-70.svg
@@ -353,6 +406,7 @@ P.127-70:
 
 P.127-80:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-80.svg
@@ -360,6 +414,7 @@ P.127-80:
 
 P.127-90:
   docs_name: 'Biển số P.127: Tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127-90.svg
@@ -367,6 +422,7 @@ P.127-90:
 
 P.127a:
   docs_name: 'Biển số P.127a: Tốc độ tối đa cho phép về ban đêm'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127a.svg
@@ -374,6 +430,7 @@ P.127a:
 
 P.127b:
   docs_name: 'Biển số P.127b: Biển ghép tốc độ tối đa cho phép trên từng làn đường'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127b.svg
@@ -381,6 +438,7 @@ P.127b:
 
 P.127c:
   docs_name: 'Biển số P.127c: Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P127c.svg
@@ -388,6 +446,7 @@ P.127c:
 
 DP.127a:
   docs_name: 'Biển số DP.127: Biển hết tốc độ tối đa cho phép theo biển ghép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: DP127a.svg
@@ -395,6 +454,7 @@ DP.127a:
 
 DP.127b:
   docs_name: 'Biển số DP.127: Biển hết tốc độ tối đa cho phép theo biển ghép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: DP127b.svg
@@ -402,13 +462,16 @@ DP.127b:
 
 DP.127c:
   docs_name: 'Biển số DP.127: Biển hết tốc độ tối đa cho phép theo biển ghép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   name: 'Biển hết tốc độ tối đa cho phép theo biển ghép P.127c'
 
   docs: |-
 
   image: DP127c.png
+
 P.128:
   docs_name: 'Biển số P.128: Cấm sử dụng còi'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P128.svg
@@ -416,6 +479,7 @@ P.128:
 
 P.129:
   docs_name: 'Biển số P.129: Kiểm tra'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P129.svg
@@ -423,6 +487,7 @@ P.129:
 
 P.130:
   docs_name: 'Biển số P.130: Cấm dừng xe và đỗ xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P130.svg
@@ -430,6 +495,7 @@ P.130:
 
 P.131a:
   docs_name: 'Biển số P.131(a,b,c): Cấm đỗ xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P131a.svg
@@ -437,6 +503,7 @@ P.131a:
 
 P.131b:
   docs_name: 'Biển số P.131(a,b,c): Cấm đỗ xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P131b.svg
@@ -444,6 +511,7 @@ P.131b:
 
 P.131c:
   docs_name: 'Biển số P.131(a,b,c): Cấm đỗ xe'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P131c.svg
@@ -451,6 +519,7 @@ P.131c:
 
 P.132:
   docs_name: 'Biển số P.132: Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P132.svg
@@ -458,6 +527,7 @@ P.132:
 
 DP.133:
   docs_name: 'Biển số DP.133: Hết cấm vượt'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: DP133.svg
@@ -465,6 +535,7 @@ DP.133:
 
 DP.134:
   docs_name: 'Biển số DP.134: Hết tốc độ tối đa cho phép'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: DP134.svg
@@ -472,6 +543,7 @@ DP.134:
 
 DP.135:
   docs_name: 'Biển số DP.135: Hết tất cả các lệnh cấm'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: DP135.svg
@@ -479,6 +551,7 @@ DP.135:
 
 P.136:
   docs_name: 'Biển số P.136: Cấm đi thẳng'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P136.svg
@@ -486,6 +559,7 @@ P.136:
 
 P.137:
   docs_name: 'Biển số P.137: Cấm rẽ trái, rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P137.svg
@@ -493,6 +567,7 @@ P.137:
 
 P.138:
   docs_name: 'Biển số P.138: Cấm đi thẳng, rẽ trái'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P138.svg
@@ -500,6 +575,7 @@ P.138:
 
 P.139:
   docs_name: 'Biển số P.139: Cấm đi thẳng, rẽ phải'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P139.svg
@@ -507,14 +583,17 @@ P.139:
 
 P.140:
   docs_name: 'Biển số P.140: Cấm xe công nông và các loại xe tương tự.'
+  docs_source: 'Phụ lục B - Ý nghĩa - Sử dụng biển báo cấm'
   docs: |-
 
   image: P140.svg
   name: 'Cấm xe công nông và các loại xe tương tự.'
 
 # W
+
 W.201a:
   docs_name: 'Biển số W.201(a,b): Chỗ ngoặt nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W201a.svg
@@ -522,6 +601,7 @@ W.201a:
 
 W.201b:
   docs_name: 'Biển số W.201(a,b): Chỗ ngoặt nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W201b.svg
@@ -529,6 +609,7 @@ W.201b:
 
 W.201c:
   docs_name: 'Biển số W.201(c,d): Chỗ ngoặt nguy hiểm có nguy cơ lật xe'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W201c.svg
@@ -536,6 +617,7 @@ W.201c:
 
 W.201d:
   docs_name: 'Biển số W.201(c,d): Chỗ ngoặt nguy hiểm có nguy cơ lật xe'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W201d.svg
@@ -543,6 +625,7 @@ W.201d:
 
 W.202a:
   docs_name: 'Biển số W.202(a,b): Nhiều chỗ ngoặt nguy hiểm liên tiếp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W202a.svg
@@ -550,6 +633,7 @@ W.202a:
 
 W.202b:
   docs_name: 'Biển số W.202(a,b): Nhiều chỗ ngoặt nguy hiểm liên tiếp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W202b.svg
@@ -557,6 +641,7 @@ W.202b:
 
 W.203a:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W203a.svg
@@ -564,6 +649,7 @@ W.203a:
 
 W.203b:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W203b.svg
@@ -571,6 +657,7 @@ W.203b:
 
 W.203c:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W203c.svg
@@ -578,6 +665,7 @@ W.203c:
 
 W.204:
   docs_name: 'Biển số W.204: Đường hai chiều'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W204.svg
@@ -585,6 +673,7 @@ W.204:
 
 W.205a:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W205a.svg
@@ -592,6 +681,7 @@ W.205a:
 
 W.205b:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W205b.svg
@@ -599,6 +689,7 @@ W.205b:
 
 W.205c:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W205c.svg
@@ -606,6 +697,7 @@ W.205c:
 
 W.205d:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W205d.svg
@@ -613,6 +705,7 @@ W.205d:
 
 W.205e:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W205e.svg
@@ -620,6 +713,7 @@ W.205e:
 
 W.206:
   docs_name: 'Biển số W.206: Giao nhau chạy theo vòng xuyến'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W206.svg
@@ -627,6 +721,7 @@ W.206:
 
 W.207a:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207a.svg
@@ -634,6 +729,7 @@ W.207a:
 
 W.207b:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207b.svg
@@ -641,6 +737,7 @@ W.207b:
 
 W.207c:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207c.svg
@@ -648,6 +745,7 @@ W.207c:
 
 W.207d:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207d.svg
@@ -655,6 +753,7 @@ W.207d:
 
 W.207e:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207e.svg
@@ -662,6 +761,7 @@ W.207e:
 
 W.207f:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207f.svg
@@ -669,6 +769,7 @@ W.207f:
 
 W.207g:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207g.svg
@@ -676,6 +777,7 @@ W.207g:
 
 W.207h:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207h.svg
@@ -683,6 +785,7 @@ W.207h:
 
 W.207i:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207i.svg
@@ -690,6 +793,7 @@ W.207i:
 
 W.207k:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207k.svg
@@ -697,6 +801,7 @@ W.207k:
 
 W.207l:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W207l.svg
@@ -704,14 +809,17 @@ W.207l:
 
 W.208:
   docs_name: 'Biển số W.208: Giao nhau với đường ưu tiên (đường chính)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W208.svg
   name: 'Giao nhau với đường ưu tiên (đường chính)'
 
   similar: [W.247]
+
 W.209:
   docs_name: 'Biển số W.209: Giao nhau có tín hiệu đèn'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W209.svg
@@ -719,6 +827,7 @@ W.209:
 
 W.210:
   docs_name: 'Biển số W.210: Giao nhau với đường sắt có rào chắn'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W210.svg
@@ -726,14 +835,17 @@ W.210:
 
 W.211a:
   docs_name: 'Biển số W.211a: Giao nhau với đường sắt không có rào chắn'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W211a.svg
   name: 'Giao nhau với đường sắt không có rào chắn'
 
   related: [W.242a, W.242b]
+
 W.211b:
   docs_name: 'Biển số W.211b: Giao nhau với đường tàu điện'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W211b.svg
@@ -741,6 +853,7 @@ W.211b:
 
 W.212:
   docs_name: 'Biển số W.212: Cầu hẹp'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W212.svg
@@ -748,6 +861,7 @@ W.212:
 
 W.213:
   docs_name: 'Biển số W.213: Cầu tạm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W213.svg
@@ -755,6 +869,7 @@ W.213:
 
 W.214:
   docs_name: 'Biển số W.214: Cầu quay - cầu cất'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W214.svg
@@ -762,6 +877,7 @@ W.214:
 
 W.215a:
   docs_name: 'Biển số W.215a: Kè, vực sâu phía trước'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W215a.svg
@@ -769,6 +885,7 @@ W.215a:
 
 W.215b:
   docs_name: 'Biển số W.215(b,c): Kè, vực sâu bên đường phía bên phải; Kè, vực sâu bên đường phía bên trái'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W215b.svg
@@ -776,6 +893,7 @@ W.215b:
 
 W.215c:
   docs_name: 'Biển số W.215(b,c): Kè, vực sâu bên đường phía bên phải; Kè, vực sâu bên đường phía bên trái'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W215c.svg
@@ -783,6 +901,7 @@ W.215c:
 
 W.216a:
   docs_name: 'Biển số W.216a: Đường ngầm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W216a.svg
@@ -790,6 +909,7 @@ W.216a:
 
 W.216b:
   docs_name: 'Biển số W.216b: Đường ngầm có nguy cơ lũ quét'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W216b.svg
@@ -797,6 +917,7 @@ W.216b:
 
 W.217:
   docs_name: 'Biển số W.217: Bến phà'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W217.svg
@@ -804,6 +925,7 @@ W.217:
 
 W.218:
   docs_name: 'Biển số W.218: Cửa chui'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W218.svg
@@ -811,22 +933,27 @@ W.218:
 
 W.219:
   docs_name: 'Biển số W.219: Dốc xuống nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W219.svg
   name: 'Dốc xuống nguy hiểm'
 
   related: [S.501]
+
 W.220:
   docs_name: 'Biển số W.220: Dốc lên nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W220.svg
   name: 'Dốc lên nguy hiểm'
 
   related: [S.501]
+
 W.221a:
   docs_name: 'Biển số W.221a: Đường lồi lõm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W221a.svg
@@ -834,6 +961,7 @@ W.221a:
 
 W.221b:
   docs_name: 'Biển số W.221b: Đường có gồ giảm tốc'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W221b.svg
@@ -841,6 +969,7 @@ W.221b:
 
 W.222a:
   docs_name: 'Biển số W.222a: Đường trơn'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W222a.svg
@@ -848,6 +977,7 @@ W.222a:
 
 W.222b:
   docs_name: 'Biển số W.222b: Lề đường nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W222b.svg
@@ -855,6 +985,7 @@ W.222b:
 
 W.223a:
   docs_name: 'Biển số W.223(a,b): Vách núi nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W223a.svg
@@ -862,6 +993,7 @@ W.223a:
 
 W.223b:
   docs_name: 'Biển số W.223(a,b): Vách núi nguy hiểm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W223b.svg
@@ -869,6 +1001,7 @@ W.223b:
 
 W.224:
   docs_name: 'Biển số W.224: Đường người đi bộ cắt ngang'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W224.svg
@@ -876,14 +1009,17 @@ W.224:
 
 W.225:
   docs_name: 'Biển số W.225: Trẻ em'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W225.svg
   name: 'Trẻ em'
 
   related: [S.501]
+
 W.226:
   docs_name: 'Biển số W.226: Đường người đi xe đạp cắt ngang'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W226.svg
@@ -891,6 +1027,7 @@ W.226:
 
 W.227:
   docs_name: 'Biển số W.227: Công trường'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W227.svg
@@ -898,22 +1035,27 @@ W.227:
 
 W.228a:
   docs_name: 'Biển số W.228(a,b): Đá lở'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W228a.svg
   name: 'Đá lở (bên trái)'
 
   related: [S.501]
+
 W.228b:
   docs_name: 'Biển số W.228(a,b): Đá lở'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W228b.svg
   name: 'Đá lở (bên phải)'
 
   related: [S.501]
+
 W.228c:
   docs_name: 'Biển số W.228c: Sỏi đá bắn lên'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W228c.svg
@@ -921,6 +1063,7 @@ W.228c:
 
 W.228d:
   docs_name: 'Biển số W.228d: Nền đường yếu'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W228d.svg
@@ -928,6 +1071,7 @@ W.228d:
 
 W.229:
   docs_name: 'Biển số W.229: Dải máy bay lên xuống'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W229.svg
@@ -935,6 +1079,7 @@ W.229:
 
 W.230:
   docs_name: 'Biển số W.230: Gia súc'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W230.svg
@@ -942,14 +1087,17 @@ W.230:
 
 W.231:
   docs_name: 'Biển số W.231: Thú rừng vượt qua đường'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W231.svg
   name: 'Thú rừng (vượt qua đường)'
 
   related: [S.501]
+
 W.232:
   docs_name: 'Biển số W.232: Gió ngang'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W232.svg
@@ -957,6 +1105,7 @@ W.232:
 
 W.233:
   docs_name: 'Biển số W.233: Nguy hiểm khác'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W233.svg
@@ -964,6 +1113,7 @@ W.233:
 
 W.234:
   docs_name: 'Biển số W.234: Giao nhau với đường hai chiều'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W234.svg
@@ -971,14 +1121,17 @@ W.234:
 
 W.235:
   docs_name: 'Biển số W.235: Đường đôi'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W235.svg
   name: 'Đường đôi (2 chiều phân biêt bằng dải phân cách cứng)'
 
   similar: [W.246a, W.246b, W.246c]
+
 W.236:
   docs_name: 'Biển số W.236: Kết thúc đường đôi'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W236.svg
@@ -986,6 +1139,7 @@ W.236:
 
 W.237:
   docs_name: 'Biển số W.237: Cầu vồng'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W237.svg
@@ -993,6 +1147,7 @@ W.237:
 
 W.238:
   docs_name: 'Biển số W.238: Đường cao tốc phía trước'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W238.svg
@@ -1000,6 +1155,7 @@ W.238:
 
 W.239a:
   docs_name: 'Biển số W.239a: Đường cáp điện ở phía trên; '
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W239a.svg
@@ -1007,13 +1163,16 @@ W.239a:
 
 W.239b:
   docs_name: 'Biển số W.239b: Chiều cao tĩnh không thực tế'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   name: 'Chiều cao tĩnh không thực tế'
 
   docs: |-
 
   image: W239b.png
+
 W.240:
   docs_name: 'Biển số W.240: Đường hầm'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W240.svg
@@ -1021,6 +1180,7 @@ W.240:
 
 W.241:
   docs_name: 'Biển số W.241: Ùn tắc giao thông'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W241.svg
@@ -1028,46 +1188,57 @@ W.241:
 
 W.242a:
   docs_name: 'Biển số W.242(a,b): Nơi đường sắt giao vuông góc với đường bộ'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W242a.svg
   name: '(Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray)'
 
   related: [W.211a]
+
 W.242b:
   docs_name: 'Biển số W.242(a,b): Nơi đường sắt giao vuông góc với đường bộ'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W242b.svg
   name: '(Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray)'
 
   related: [W.211a]
+
 W.243a:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W243a.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m)'
 
   related: [W.211a]
+
 W.243b:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W243b.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m)'
 
   related: [W.211a]
+
 W.243c:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W243c.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m)'
 
   related: [W.211a]
+
 W.244:
   docs_name: 'Biển số W.244: Đoạn đường hay xảy ra tai nạn'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W244.svg
@@ -1075,6 +1246,7 @@ W.244:
 
 W.245a:
   docs_name: 'Biển số W.245(a,b): Đi chậm (a), Đi chậm có chỉ dẫn tiếng Anh (b)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W245a.svg
@@ -1082,6 +1254,7 @@ W.245a:
 
 W.245b:
   docs_name: 'Biển số W.245(a,b): Đi chậm (a), Đi chậm có chỉ dẫn tiếng Anh (b)'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W245b.svg
@@ -1089,30 +1262,37 @@ W.245b:
 
 W.246a:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W246a.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang 2 bên'
 
   similar: [W.235]
+
 W.246b:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W246b.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên trái'
 
   similar: [W.235]
+
 W.246c:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W246c.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên phải'
 
   similar: [W.235]
+
 W.247:
   docs_name: 'Biển số W.247: Chú ý xe đỗ.'
+  docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
 
   image: W247.svg
@@ -1121,8 +1301,10 @@ W.247:
   similar: [W.208]
 
 # R
+
 R.122:
   docs_name: 'Biển số R.122: Dừng lại'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R122.svg
@@ -1130,13 +1312,16 @@ R.122:
 
 R.301:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hướng đi phải theo'
 
   docs: |-
 
   image: R301a.svg
+
 R.301a:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R301a.svg
@@ -1144,46 +1329,57 @@ R.301a:
 
 R.301b:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R301b.svg
   name: '(Các xe) chỉ được đi ngang qua phải'
 
   note: Đặt sau nơi đường giao nhau
+
 R.301c:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R301c.svg
   name: '(Các xe) chỉ được đi ngang qua trái'
 
   note: Đặt sau nơi đường giao nhau
+
 R.301d:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: '(Các xe) chỉ được rẽ phải'
 
   note: Đặt trước nơi đường giao nhau
   docs: |-
 
   image: R301d.png
+
 R.301e:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: '(Các xe) chỉ được rẽ trái'
 
   note: Đặt trước nơi đường giao nhau
   docs: |-
 
   image: R301e.png
+
 R.301f:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: '(Các xe) chỉ được đi thẳng và rẽ phải'
 
   note: Đặt trước nơi đường giao nhau
   docs: |-
 
   image: R301f.png
+
 R.301g:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
 
   note: Đặt trước nơi đường giao nhau
@@ -1191,8 +1387,10 @@ R.301g:
   docs: |-
 
   image: R301g.png
+
 R.301h:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R301h.svg
@@ -1200,24 +1398,30 @@ R.301h:
 
   note: Đặt sau nơi đường giao nhau
   similar: [R.411]
+
 R.302a:
   docs_name: 'Biển số R.302(a,b,c): Hướng phải đi vòng chướng ngại vật'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R302a.svg
   name: 'Hướng phải đi vòng chướng ngại vật (vòng sang phải)'
 
   related: [P.102]
+
 R.302b:
   docs_name: 'Biển số R.302(a,b,c): Hướng phải đi vòng chướng ngại vật'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R302b.svg
   name: 'Hướng phải đi vòng chướng ngại vật (vòng sang trái)'
 
   related: [P.102]
+
 R.302c:
   docs_name: 'Biển số R.302(a,b,c): Hướng phải đi vòng chướng ngại vật'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R302c.svg
@@ -1225,6 +1429,7 @@ R.302c:
 
 R.303:
   docs_name: 'Biển số R.303: Nơi giao nhau chạy theo vòng xuyến'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R303.svg
@@ -1232,6 +1437,7 @@ R.303:
 
 R.304:
   docs_name: 'Biển số R.304: Đường dành cho xe thô sơ'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R304.svg
@@ -1239,6 +1445,7 @@ R.304:
 
 R.305:
   docs_name: 'Biển số R.305: Đường dành cho người đi bộ'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R305.svg
@@ -1246,6 +1453,7 @@ R.305:
 
 R.306:
   docs_name: 'Biển số R.306: Tốc độ tối thiểu cho phép'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R306.svg
@@ -1253,6 +1461,7 @@ R.306:
 
 R.307:
   docs_name: 'Biển số R.307: Hết tốc độ tối thiểu'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R307.svg
@@ -1260,6 +1469,7 @@ R.307:
 
 R.308a:
   docs_name: 'Biển số R.308(a,b): Tuyến đường cầu vượt cắt qua'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R308a.svg
@@ -1267,6 +1477,7 @@ R.308a:
 
 R.308b:
   docs_name: 'Biển số R.308(a,b): Tuyến đường cầu vượt cắt qua'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R308b.svg
@@ -1274,6 +1485,7 @@ R.308b:
 
 R.309:
   docs_name: 'Biển số R.309: Ấn còi'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R309.svg
@@ -1281,6 +1493,7 @@ R.309:
 
 R.310a:
   docs_name: 'Biển số R.310(a,b,c): Hướng đi phải theo cho các xe chở hàng nguy hiểm'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R310a.svg
@@ -1288,6 +1501,7 @@ R.310a:
 
 R.310b:
   docs_name: 'Biển số R.310(a,b,c): Hướng đi phải theo cho các xe chở hàng nguy hiểm'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R310b.svg
@@ -1295,6 +1509,7 @@ R.310b:
 
 R.310c:
   docs_name: 'Biển số R.310(a,b,c): Hướng đi phải theo cho các xe chở hàng nguy hiểm'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R310c.svg
@@ -1302,6 +1517,7 @@ R.310c:
 
 R.403a:
   docs_name: 'Biển số R.403a: Đường dành cho xe ôtô'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R403a.svg
@@ -1309,6 +1525,7 @@ R.403a:
 
 R.403b:
   docs_name: 'Biển số R.403b: Đường dành cho xe ôtô, xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R403b.svg
@@ -1316,20 +1533,25 @@ R.403b:
 
 R.403c:
   docs_name: 'Biển số R.403c: Đường dành cho xe buýt'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Đường dành cho xe buýt 🔍'
 
   docs: |-
 
   image: R403c.png
+
 R.403d:
   docs_name: 'Biển số R.403d: Đường dành cho xe ôtô con'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Đường dành cho xe ôtô con 🔍'
 
   docs: |-
 
   image: R403d.png
+
 R.403e:
   docs_name: 'Biển số R.403e: Đường dành cho xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R403e.svg
@@ -1337,183 +1559,233 @@ R.403e:
 
 R.403f:
   docs_name: 'Biển số R.403f: Đường dành cho xe máy và xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ) 🔍'
 
   docs: |-
 
   image: R403f.png
+
 R.404a:
   docs_name: 'Biển số R.404a: Hết đoạn đường dành cho xe ôtô'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe ôtô'
 
   docs: |-
 
   image: R404a.png
+
 R.404b:
   docs_name: 'Biển số R.404b: Hết đoạn đường dành cho xe ôtô, xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe ôtô, xe máy'
 
   docs: |-
 
   image: R404b.png
+
 R.404c:
   docs_name: 'Biển số R.404c: Hết đoạn đường dành cho xe buýt'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe buýt'
 
   docs: |-
 
   image: R404c.png
+
 R.404d:
   docs_name: 'Biển số R.404d: Hết đoạn đường dành cho xe ôtô con'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe ôtô con'
 
   docs: |-
 
   image: R404d.png
+
 R.404e:
   docs_name: 'Biển số R.404e: Hết đoạn đường dành cho xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe máy'
 
   docs: |-
 
   image: R404e.png
+
 R.404f:
   docs_name: 'Biển số R.404f: Hết đoạn đường dành cho xe máy và xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết đoạn đường dành cho xe máy và xe đạp (kể cả xe gắn máy, xe thô sơ)'
 
   docs: |-
 
   image: R404f.png
+
 R.411:
   docs_name: 'Biển số R.411: Hướng đi trên mỗi làn đường phải theo'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hướng đi trên mỗi làn đường phải theo'
 
   similar: [R.301g, R.301h]
   docs: |-
 
   image: R411.png
+
 R.412:
   name: 'Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)'
 
   docs: |-
 
   image: R412.png
+
 R.412a:
   docs_name: 'Biển số R.412a: Làn đường dành cho xe ôtô khách'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe ôtô khách'
 
   docs: |-
 
   image: R412a.png
+
 R.412b:
   docs_name: 'Biển số R.412b: Làn đường dành cho xe ôtô con'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe ôtô con'
 
   note: 🪤
   docs: |-
 
   image: R412b.png
+
 R.412c:
   docs_name: 'Biển số R.412c: Làn đường dành cho xe ôtô tải'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe ôtô tải'
 
   docs: |-
 
   image: R412c.png
+
 R.412d:
   docs_name: 'Biển số R.412d: Làn đường dành cho xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe máy'
 
   docs: |-
 
   image: R412d.png
+
 R.412e:
   docs_name: 'Biển số R.412e: Làn đường dành cho xe buýt'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe buýt'
 
   docs: |-
 
   image: R412e.png
+
 R.412f:
   docs_name: 'Biển số R.412f: Làn đường dành cho xe ôtô'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe ôtô'
 
   note: 🪤
   docs: |-
 
   image: R412f.png
+
 R.412g:
   docs_name: 'Biển số R.412g: Làn đường dành cho xe máy và xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe máy và xe đạp'
 
   docs: |-
 
   image: R412g.png
+
 R.412h:
   docs_name: 'Biển số R.412h: Làn đường dành cho xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Làn đường dành cho xe đạp'
 
   docs: |-
 
   image: R412h.png
+
 R.412i:
   docs_name: 'Biển số R.412i: Kết thúc làn đường dành cho xe ôtô khách'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe ôtô khách'
 
   docs: |-
 
   image: R412i.jpeg
+
 R.412j:
   docs_name: 'Biển số R.412j: Kết thúc làn đường dành cho xe ôtô con'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe ôtô con'
 
   docs: |-
 
   image: R412j.jpeg
+
 R.412k:
   docs_name: 'Biển số R.412k: Kết thúc làn đường dành cho xe ôtô tải'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe ôtô tải'
 
   docs: |-
 
   image: R412k.jpeg
+
 R.412l:
   docs_name: 'Biển số R.412l: Kết thúc làn đường dành cho xe máy'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe máy'
 
   docs: |-
 
   image: R412l.jpeg
+
 R.412m:
   docs_name: 'Biển số R.412m: Kết thúc làn đường dành cho xe buýt'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe buýt'
 
   docs: |-
 
   image: R412m.jpeg
+
 R.412n:
   docs_name: 'Biển số R.412n: Kết thúc làn đường dành cho xe ôtô'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe ôtô'
 
   docs: |-
 
   image: R412n.jpeg
+
 R.412o:
   docs_name: 'Biển số R.412o: Kết thúc làn đường dành cho xe máy và xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe máy và xe đạp'
 
   docs: |-
 
   image: R412o.jpeg
+
 R.412p:
   docs_name: 'Biển số R.412p: Kết thúc làn đường dành cho xe đạp'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc làn đường dành cho xe đạp'
 
   docs: |-
 
   image: R412p.jpeg
+
 R.415a:
   docs_name: 'Biển số R.415: Biển gộp làn đường theo phương tiện'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R415a.svg
@@ -1525,8 +1797,10 @@ R.415b:
   docs: |-
 
   image: R415b.jpeg
+
 R.420:
   docs_name: 'Biển số R.420: Bắt đầu khu đông dân cư'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R420.svg
@@ -1534,6 +1808,7 @@ R.420:
 
 R.421:
   docs_name: 'Biển số R.421: Hết khu đông dân cư'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
 
   image: R421.svg
@@ -1541,69 +1816,88 @@ R.421:
 
 R.E,9a:
   docs_name: 'Biển số R.E,9a: Cấm đỗ xe trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Cấm đỗ xe trong khu vực'
 
   docs: |-
 
   image: RE9a.jpeg
+
 R.E,9b:
   docs_name: 'Biển số R.E,9b: Cấm đỗ xe theo giờ trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Cấm đỗ xe theo giờ trong khu vực'
 
   docs: |-
 
   image: RE9b.jpeg
+
 R.E,9c:
   docs_name: 'Biển số R.E,9c: Khu vực đỗ xe'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Khu vực đỗ xe'
 
   docs: |-
 
   image: RE9c.jpeg
+
 R.E,9d:
   docs_name: 'Biển số R.E,9d: Tốc độ tối đa trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Tốc độ tối đa trong khu vực'
 
   docs: |-
 
   image: RE9d.jpeg
+
 R.E,10a:
   docs_name: 'Biển số R.E,10a: Hết cấm đỗ xe trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết cấm đỗ xe trong khu vực'
 
   docs: |-
 
   image: RE10a.jpeg
+
 R.E,10b:
   docs_name: 'Biển số R.E,10b: Hết cấm đỗ xe theo giờ trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết cấm đỗ xe theo giờ trong khu vực'
 
   docs: |-
 
   image: RE10b.jpeg
+
 R.E,10c:
   docs_name: 'Biển số R.E,10c: Hết khu vực đỗ xe'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết khu vực đỗ xe'
 
   docs: |-
 
   image: RE10c.jpeg
+
 R.E,10d:
   docs_name: 'Biển số R.E,10d: Hết tốc độ tối đa trong khu vực'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Hết tốc độ tối đa trong khu vực'
 
   docs: |-
 
   image: RE10d.jpeg
+
 R.E,11a:
   docs_name: 'Biển số R.E,11a: Đường hầm'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Đường hầm'
 
   docs: |-
 
   image: RE11a.jpeg
+
 R.E,11b:
   docs_name: 'Biển số R.E,11b: Kết thúc đường hầm.'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   name: 'Kết thúc đường hầm.'
 
   docs: |-
@@ -1611,8 +1905,10 @@ R.E,11b:
   image: RE11b.jpeg
 
 # I
+
 I.401:
   docs_name: 'Biển số I.401: Bắt đầu đường ưu tiên'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I401.svg
@@ -1620,6 +1916,7 @@ I.401:
 
 I.402:
   docs_name: 'Biển số I.402: Hết đoạn đường ưu tiên'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I402.svg
@@ -1627,6 +1924,7 @@ I.402:
 
 I.405a:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I405a.svg
@@ -1634,6 +1932,7 @@ I.405a:
 
 I.405b:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I405b.svg
@@ -1641,6 +1940,7 @@ I.405b:
 
 I.405c:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I405c.svg
@@ -1648,14 +1948,17 @@ I.405c:
 
 I.406:
   docs_name: 'Biển số I.406: Được ưu tiên qua đường hẹp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I406.svg
   name: 'Được ưu tiên qua đường hẹp'
 
   related: [P.132]
+
 I.407a:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I407a.svg
@@ -1663,8 +1966,10 @@ I.407a:
 
   note: Đặt sau nơi đường giao nhau
   related: [R.302, W.204]
+
 I.407b:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I407b.svg
@@ -1672,8 +1977,10 @@ I.407b:
 
   note: Đặt trước nơi đường giao nhau
   related: [R.302, W.204]
+
 I.407c:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I407c.svg
@@ -1681,8 +1988,10 @@ I.407c:
 
   note: Đặt trước nơi đường giao nhau
   related: [R.302, W.204]
+
 I.408:
   docs_name: 'Biển số I.408: Nơi đỗ xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I408.svg
@@ -1690,6 +1999,7 @@ I.408:
 
 I.408a:
   docs_name: 'Biển số I.408a: Nơi đỗ xe một phần trên hè phố'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I408a.svg
@@ -1697,30 +2007,37 @@ I.408a:
 
 I.409:
   docs_name: 'Biển số I.409: Chỗ quay xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I409.svg
   name: 'Chỗ quay xe'
 
   related: [S.502]
+
 I.410:
   docs_name: 'Biển số I.410: Khu vực quay xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I410.svg
   name: 'Khu vực quay xe'
 
   related: [S.502]
+
 I.413a:
   docs_name: 'Biển số I.413a: Đường phía trước có làn đường dành cho ôtô khách'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I413a.svg
   name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại)'
 
   note: Đặt ở đầu đường 1 chiều
+
 I.413b:
   docs_name: 'Biển số I.413(b,c): Rẽ ra đường có làn đường dành cho ôtô khách'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I413b.svg
@@ -1728,6 +2045,7 @@ I.413b:
 
 I.413c:
   docs_name: 'Biển số I.413(b,c): Rẽ ra đường có làn đường dành cho ôtô khách'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I413c.svg
@@ -1735,48 +2053,61 @@ I.413c:
 
 I.414:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ hướng đường (đến địa danh, khu dân cư)'
 
   docs: |-
 
   image: I414a.jpeg
+
 I.414a:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
 
   docs: |-
 
   image: I414a.jpeg
+
 I.414b:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
 
   docs: |-
 
   image: I414b.jpeg
+
 I.414c:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
 
   docs: |-
 
   image: I414c.jpeg
+
 I.414d:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
 
   docs: |-
 
   image: I414d.jpeg
+
 I.415:
   docs_name: 'Biển số I.415: Mũi tên chỉ hướng đi'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Mũi tên chỉ hướng đi (đến địa danh tiếp theo)'
 
   docs: |-
 
   image: I415.jpeg
+
 I.416:
   docs_name: 'Biển số I.416: Đường tránh'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I416.svg
@@ -1784,20 +2115,25 @@ I.416:
 
 I.417a:
   docs_name: 'Biển số I.417(a,b,c): Chỉ hướng đường phải đi cho từng loại xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ hướng đường phải đi cho từng loại xe'
 
   docs: |-
 
   image: I417a.jpeg
+
 I.417b:
   docs_name: 'Biển số I.417(a,b,c): Chỉ hướng đường phải đi cho từng loại xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Chỉ hướng đường phải đi cho từng loại xe'
 
   docs: |-
 
   image: I417b.jpeg
+
 I.418:
   docs_name: 'Biển số I.418: Lối đi ở những vị trí cấm rẽ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I418.svg
@@ -1805,6 +2141,7 @@ I.418:
 
 I.419a:
   docs_name: 'Biển số I.419a: Chỉ dẫn địa giới'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I419a.svg
@@ -1812,6 +2149,7 @@ I.419a:
 
 I.419b:
   docs_name: 'Biển số I.419b: Chỉ dẫn địa giới trên tuyến đường đối ngoại'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I419b.svg
@@ -1819,6 +2157,7 @@ I.419b:
 
 I.422a:
   docs_name: 'Biển số I.422a: Di tích lịch sử'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I422a.svg
@@ -1826,6 +2165,7 @@ I.422a:
 
 I.422b:
   docs_name: 'Biển số I.422b: Di tích lịch sử trên tuyến đường đối ngoại'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I422b.svg
@@ -1833,22 +2173,27 @@ I.422b:
 
 I.423a:
   docs_name: 'Biển số I.423(a,b): Vị trí người đi bộ sang ngang'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I423a.svg
   name: 'Vị trí người đi bộ sang ngang'
 
   related: [W.224, R.305]
+
 I.423b:
   docs_name: 'Biển số I.423(a,b): Vị trí người đi bộ sang ngang'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I423b.svg
   name: 'Vị trí người đi bộ sang ngang'
 
   related: [W.224, R.305]
+
 I.423c:
   docs_name: 'Biển số I.423c: Điểm bắt đầu đường đi bộ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I423c.svg
@@ -1856,34 +2201,43 @@ I.423c:
 
 I.424a:
   docs_name: 'Biển số I.424(a,b): Cầu vượt qua đường cho người đi bộ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
 
   image: I424a.jpeg
+
 I.424b:
   docs_name: 'Biển số I.424(a,b): Cầu vượt qua đường cho người đi bộ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
 
   image: I424b.jpeg
+
 I.424c:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
 
   image: I424c.jpeg
+
 I.424d:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
 
   image: I424d.jpeg
+
 I.425:
   docs_name: 'Biển số I.425: Bệnh viện'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I425.svg
@@ -1891,6 +2245,7 @@ I.425:
 
 I.426:
   docs_name: 'Biển số I.426: Trạm cấp cứu'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I426.svg
@@ -1898,6 +2253,7 @@ I.426:
 
 I.427a:
   docs_name: 'Biển số I.427a: Trạm sửa chữa'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I427a.svg
@@ -1905,6 +2261,7 @@ I.427a:
 
 I.427b:
   docs_name: 'Biển số I.427b: Trạm kiểm tra tải trọng xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I427b.svg
@@ -1912,6 +2269,7 @@ I.427b:
 
 I.428:
   docs_name: 'Biển số I.428: Cửa hàng xăng dầu'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I428.svg
@@ -1919,6 +2277,7 @@ I.428:
 
 I.429:
   docs_name: 'Biển số I.429: Nơi rửa xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I429.svg
@@ -1926,6 +2285,7 @@ I.429:
 
 I.430:
   docs_name: 'Biển số I.430: Điện thoại'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I430.svg
@@ -1933,6 +2293,7 @@ I.430:
 
 I.431:
   docs_name: 'Biển số I.431: Trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I431.svg
@@ -1940,6 +2301,7 @@ I.431:
 
 I.432:
   docs_name: 'Biển số I.432: Khách sạn'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I432.svg
@@ -1947,49 +2309,62 @@ I.432:
 
 I.433a:
   docs_name: 'Biển số I.433a: Nơi nghỉ mát'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Nơi nghỉ mát'
 
   docs: |-
 
   image: I433a.jpeg
+
 I.433b:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Nơi cắm trại'
 
   docs: |-
 
   image: I433b.jpeg
+
 I.433c:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Nhà nghỉ lưu động'
 
   docs: |-
 
   image: I433c.jpeg
+
 I.433d:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Nơi cắm trại, nhà nghỉ lưu động'
 
   docs: |-
 
   image: I433d.jpeg
+
 I.433e:
   docs_name: 'Biển số I.433e: Báo hiệu nhà trọ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Nhà trọ'
 
   docs: |-
 
   image: I433e.jpeg
+
 I.434a:
   docs_name: 'Biển số I.434a: Bến xe buýt'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I434a.svg
   name: 'Bến xe buýt'
 
   similar: [Hình xe khách]
+
 I.434b:
   docs_name: 'Biển số I.434b: Bến xe tải'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I434b.svg
@@ -1997,6 +2372,7 @@ I.434b:
 
 I.435:
   docs_name: 'Biển số I.435: Bến xe điện'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I435.svg
@@ -2004,6 +2380,7 @@ I.435:
 
 I.436:
   docs_name: 'Biển số I.436: Trạm cảnh sát giao thông'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I436.svg
@@ -2011,13 +2388,16 @@ I.436:
 
 I.437:
   docs_name: 'Biển số I.437: Đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Bắt đầu) đường cao tốc'
 
   docs: |-
 
   image: I437.jpeg
+
 I.439:
   docs_name: 'Biển số I.439: Tên cầu'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I439.svg
@@ -2025,6 +2405,7 @@ I.439:
 
 I.440:
   docs_name: 'Biển số I.440: Đoạn đường thi công'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I440.svg
@@ -2032,6 +2413,7 @@ I.440:
 
 I.441a:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I441a.svg
@@ -2039,6 +2421,7 @@ I.441a:
 
 I.441b:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I441b.svg
@@ -2046,6 +2429,7 @@ I.441b:
 
 I.441c:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I441c.svg
@@ -2053,6 +2437,7 @@ I.441c:
 
 I.442:
   docs_name: 'Biển số I.442: Chợ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I442.svg
@@ -2060,6 +2445,7 @@ I.442:
 
 I.443:
   docs_name: 'Biển số I.443: Xe kéo rơ-moóc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I443.svg
@@ -2067,6 +2453,7 @@ I.443:
 
 I.444a:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I444a.svg
@@ -2074,6 +2461,7 @@ I.444a:
 
 I.444b:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I444b.svg
@@ -2081,6 +2469,7 @@ I.444b:
 
 I.444c:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I444c.svg
@@ -2088,77 +2477,98 @@ I.444c:
 
 I.444d:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) bến xe khách'
 
   similar: [Bus station]
   docs: |-
 
   image: I444d.jpeg
+
 I.444e:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) trạm cấp cứu'
 
   docs: |-
 
   image: I444e.jpeg
+
 I.444f:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) bến tàu thủy'
 
   docs: |-
 
   image: I444f.jpeg
+
 I.444g:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) danh lam thắng cảnh, khu du lịch'
 
   docs: |-
 
   image: I444g.jpeg
+
 I.444h:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) trạm xăng dầu'
 
   docs: |-
 
   image: I444h.jpeg
+
 I.444i:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) trạm rửa xe'
 
   docs: |-
 
   image: I444i.jpeg
+
 I.444j:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) bến phà'
 
   docs: |-
 
   image: I444j.jpeg
+
 I.444k:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) ga tàu điện ngầm'
 
   docs: |-
 
   image: I444k.jpeg
+
 I.444l:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) nhà hàng ăn uống'
 
   docs: |-
 
   image: I444l.jpeg
+
 I.444m:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Đường vào) trạm sửa chữa ôtô'
 
   docs: |-
 
   image: I444m.jpeg
+
 I.445a:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445a.svg
@@ -2166,6 +2576,7 @@ I.445a:
 
 I.445b:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445b.svg
@@ -2173,6 +2584,7 @@ I.445b:
 
 I.445c:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445c.svg
@@ -2180,6 +2592,7 @@ I.445c:
 
 I.445d:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445d.svg
@@ -2187,6 +2600,7 @@ I.445d:
 
 I.445e:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445e.svg
@@ -2194,6 +2608,7 @@ I.445e:
 
 I.445f:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445f.svg
@@ -2201,6 +2616,7 @@ I.445f:
 
 I.445g:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445g.svg
@@ -2208,6 +2624,7 @@ I.445g:
 
 I.445h:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I445h.svg
@@ -2215,89 +2632,112 @@ I.445h:
 
 I.446:
   docs_name: 'Biển số I.446: Nơi đỗ xe dành cho người khuyết tật'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I446.svg
   name: 'Nơi đỗ xe dành cho người khuyết tật'
 
   related: [P.131a, I.408]
+
 I.447a:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt liên thông'
 
   related: [R.308, I414c, d]
   image: I447a.jpeg
+
 I.447b:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt liên thông'
 
   related: [R.308, I414c, d]
   image: I447b.jpeg
+
 I.447c:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt liên thông'
 
   related: [R.308, I414c, d]
   image: I447c.jpeg
+
 I.447d:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Cầu vượt liên thông'
 
   related: [R.308, I414c, d]
   image: I447d.jpeg
+
 I.448:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Đường cứu nạn (làn thoát xe khẩn cấp)'
 
   docs: |-
 
   image: I448a.png
+
 I.448a:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Đường cứu nạn (cách 2km)'
 
   image: I448a.png
+
 I.448b:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Đường cứu nạn (cách 1km)'
 
   image: I448b.png
+
 I.448c:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Đường cứu nạn (cách 300m)'
 
   image: I448c.png
+
 I.448d:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   name: 'Đường cứu nạn'
 
   image: I448d.jpeg
+
 I.449:
   docs_name: 'Biển số I.449: Biển tên đường.'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: I449.svg
   name: 'Biển tên đường (tuyến đường đối ngoại)'
 
 # IE
+
 IE.450a:
   docs_name: 'Biển số IE.450a: Chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE450a.svg
@@ -2305,6 +2745,7 @@ IE.450a:
 
 IE.450b:
   docs_name: 'Biển số IE.450b: Chỉ dẫn sơ đồ đến đường dẫn vào đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE450b.svg
@@ -2312,6 +2753,7 @@ IE.450b:
 
 IE.451a:
   docs_name: 'Biển số IE.451a: Chỉ dẫn khoảng cách đến lối vào đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE451a.svg
@@ -2319,6 +2761,7 @@ IE.451a:
 
 IE.451b:
   docs_name: 'Biển số IE.451b: Chỉ dẫn lối vào đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE451b.svg
@@ -2326,6 +2769,7 @@ IE.451b:
 
 IE.452:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE452.svg
@@ -2333,20 +2777,25 @@ IE.452:
 
 IE.452b:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
 
   docs: |-
 
   image: IE452b.png
+
 IE.452c:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '(Bắt đầu đường cao tốc) - phân làn đường (có tốc độ khác nhau)'
 
   docs: |-
 
   image: IE452c.png
+
 IE.453a:
   docs_name: 'Biển số IE.453a: Chỉ dẫn khoảng cách đến điểm kết thúc đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE453a.svg
@@ -2354,22 +2803,27 @@ IE.453a:
 
 IE.453b:
   docs_name: 'Biển số IE.453b: Chỉ dẫn điểm kết thúc đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE453b.svg
   name: 'Điểm kết thúc đường cao tốc'
 
   similar: [IE.453c]
+
 IE.453c:
   docs_name: 'Biển số IE.453c: Hết đường cao tốc'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE453c.svg
   name: 'Hết đường cao tốc'
 
   similar: [IE.453b]
+
 IE.454a:
   docs_name: 'Biển số IE.454: Chỉ dẫn khoảng cách đến lối ra phía trước'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE454a.svg
@@ -2377,21 +2831,26 @@ IE.454a:
 
 IE.454b:
   docs_name: 'Biển số IE.454: Chỉ dẫn khoảng cách đến lối ra phía trước'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Lối ra phía trước (cách 1km)'
 
   related: [IE.464b]
   docs: |-
 
   image: IE454b.png
+
 IE.455:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Khoảng cách đến các lối ra tiếp theo'
 
   docs: |-
 
   image: IE455a.svg
+
 IE.455a:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE455a.svg
@@ -2399,13 +2858,16 @@ IE.455a:
 
 IE.455b:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: 'Khoảng cách đến 3 lối ra tiếp theo'
 
   docs: |-
 
   image: IE455b.jpg
+
 IE.456a:
   docs_name: 'Biển số IE.456a: Chỉ dẫn khoảng cách đến trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE456a.svg
@@ -2413,6 +2875,7 @@ IE.456a:
 
 IE.456b:
   docs_name: 'Biển số IE.456b: Chỉ dẫn hướng rẽ đến trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE456b.svg
@@ -2420,6 +2883,7 @@ IE.456b:
 
 IE.456c:
   docs_name: 'Biển số IE.456c: Chỉ dẫn trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE456c.svg
@@ -2427,6 +2891,7 @@ IE.456c:
 
 IE.457a:
   docs_name: 'Biển số IE.457: Chỉ dẫn nơi đỗ xe trong trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE457a.svg
@@ -2434,6 +2899,7 @@ IE.457a:
 
 IE.457b:
   docs_name: 'Biển số IE.457: Chỉ dẫn nơi đỗ xe trong trạm dừng nghỉ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE457b.svg
@@ -2441,14 +2907,17 @@ IE.457b:
 
 IE.458:
   docs_name: 'Biển số IE.458: Chỉ dẫn khoảng cách đến trạm dừng nghỉ tiếp theo'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE458.svg
   name: 'Khoảng cách đến các trạm dừng nghỉ tiếp theo'
 
   note: Đặt ngay sau khi ra khỏi trạm dừng nghỉ
+
 IE.459a:
   docs_name: 'Biển số IE.459a: Chỉ dẫn khoảng cách đến khu tham quan, du lịch'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE459a.svg
@@ -2456,6 +2925,7 @@ IE.459a:
 
 IE.459b:
   docs_name: 'Biển số IE.459b: Chỉ dẫn hướng rẽ vào khu tham quan, du lịch'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE459b.svg
@@ -2463,6 +2933,7 @@ IE.459b:
 
 IE.460a:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE460a.svg
@@ -2470,6 +2941,7 @@ IE.460a:
 
 IE.460b:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE460b.svg
@@ -2477,6 +2949,7 @@ IE.460b:
 
 IE.460c:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE460c.svg
@@ -2484,6 +2957,7 @@ IE.460c:
 
 IE.461a:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE461a.svg
@@ -2491,6 +2965,7 @@ IE.461a:
 
 IE.461b:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE461b.svg
@@ -2498,6 +2973,7 @@ IE.461b:
 
 IE.461c:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE461c.svg
@@ -2505,6 +2981,7 @@ IE.461c:
 
 IE.461d:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE461d.svg
@@ -2512,6 +2989,7 @@ IE.461d:
 
 IE.462:
   docs_name: 'Biển số IE.462: Chỉ dẫn tần số trên sóng radio'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE462.svg
@@ -2519,6 +2997,7 @@ IE.462:
 
 IE.463a:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE463a.svg
@@ -2526,6 +3005,7 @@ IE.463a:
 
 IE.463b:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE463b.svg
@@ -2533,6 +3013,7 @@ IE.463b:
 
 IE.463c:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE463c.svg
@@ -2540,22 +3021,27 @@ IE.463c:
 
 IE.464a:
   docs_name: 'Biển số IE.464a: Chỉ dẫn lối ra một chiều'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE464a.svg
   name: '[Địa điểm và phương hướng - Làn đường đến lối ra một chiều]'
 
   note: Đặt ở trước khu vực lối ra
+
 IE.464b:
   docs_name: 'Biển số IE.464b: Chỉ dẫn hướng ra (tại lối ra)'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE464b.svg
   name: '[Địa điểm và phương hướng - Hướng ra]'
 
   note: Đặt ở đường ra khỏi đường cao tốc
+
 IE.465a:
   docs_name: 'Biển số IE.465: Chỉ dẫn địa điểm và khoảng cách'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE465a.svg
@@ -2563,13 +3049,16 @@ IE.465a:
 
 IE.465b:
   docs_name: 'Biển số IE.465: Chỉ dẫn địa điểm và khoảng cách'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   name: '[Địa điểm và khoảng cách] 3 địa điểm'
 
   docs: |-
 
   image: IE465b.jpg
+
 IE.466:
   docs_name: 'Biển số IE.466: Chỉ dẫn sơ đồ lối ra một chiều'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE466.svg
@@ -2577,22 +3066,27 @@ IE.466:
 
 IE.467a:
   docs_name: 'Biển số IE.467: Chỉ dẫn vị trí nhập làn'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE467a.svg
   name: 'Nhập làn'
 
   related: [W.207g, W238]
+
 IE.467b:
   docs_name: 'Biển số IE.467: Chỉ dẫn vị trí nhập làn'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE467b.svg
   name: 'Nhập làn (cách 250m)'
 
   related: [W.207g, W238]
+
 IE.468a:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE468a.svg
@@ -2600,6 +3094,7 @@ IE.468a:
 
 IE.468b:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE468b.svg
@@ -2607,6 +3102,7 @@ IE.468b:
 
 IE.468c:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE468c.svg
@@ -2614,6 +3110,7 @@ IE.468c:
 
 IE.469a:
   docs_name: 'Biển số IE.469: Chỉ dẫn hướng rẽ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE469a.svg
@@ -2621,6 +3118,7 @@ IE.469a:
 
 IE.469b:
   docs_name: 'Biển số IE.469: Chỉ dẫn hướng rẽ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE469b.svg
@@ -2628,6 +3126,7 @@ IE.469b:
 
 IE.470:
   docs_name: 'Biển số IE.470: Chỉ dẫn số điện thoại khẩn cấp'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE470.svg
@@ -2635,6 +3134,7 @@ IE.470:
 
 IE.471:
   docs_name: 'Biển số IE.471: Chỉ dẫn giữ khoảng cách lái xe an toàn'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE471.svg
@@ -2642,6 +3142,7 @@ IE.471:
 
 IE.472a:
   docs_name: 'Biển số IE.472: Chỉ dẫn khoảng cách đến trạm thu phí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE472a.svg
@@ -2649,6 +3150,7 @@ IE.472a:
 
 IE.472b:
   docs_name: 'Biển số IE.472: Chỉ dẫn khoảng cách đến trạm thu phí'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE472b.svg
@@ -2656,6 +3158,7 @@ IE.472b:
 
 IE.473:
   docs_name: 'Biển số IE.473: Chỉ dẫn giảm tốc độ'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE473.svg
@@ -2663,14 +3166,17 @@ IE.473:
 
 IE.474:
   docs_name: 'Biển số IE.474: Chỉ dẫn lối ra'
+  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
 
   image: IE474.svg
   name: 'Lối ra (đường cao tốc)'
 
 # S
+
 S.501:
   docs_name: 'Biển số S.501: Phạm vi tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S501.svg
@@ -2678,6 +3184,7 @@ S.501:
 
 S.502:
   docs_name: 'Biển số S.502: Khoảng cách đến đối tượng báo hiệu'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S502.svg
@@ -2685,6 +3192,7 @@ S.502:
 
 S.503a:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S503a.svg
@@ -2692,6 +3200,7 @@ S.503a:
 
 S.503b:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S503b.svg
@@ -2699,6 +3208,7 @@ S.503b:
 
 S.503c:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S503c.svg
@@ -2706,28 +3216,35 @@ S.503c:
 
 S.503d:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Hướng tác dụng] Trước (Song song với chiều đi)'
 
   docs: |-
 
   image: S503d.jpeg
+
 S.503e:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Hướng tác dụng] Trước và sau (Song song với chiều đi)'
 
   docs: |-
 
   image: S503e.jpeg
+
 S.503f:
   docs_name: 'Biển số S.503 (a,b,c,d,e,f): Hướng tác dụng của biển'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Hướng tác dụng] Sau (Song song với chiều đi)'
 
   docs: |-
 
   image: S503f.jpeg
+
 S.504:
   # docs_name: "Biển S.H,3 (a,b,c): Hướng tác dụng của biển"
   docs_name: 'Biển số S.504: Làn đường'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S504.svg
@@ -2735,6 +3252,7 @@ S.504:
 
 S.505a:
   docs_name: 'Biển số S.505a: Loại xe'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S505a.svg
@@ -2742,6 +3260,7 @@ S.505a:
 
 S.505b:
   docs_name: 'Biển số S.505b: Loại xe hạn chế qua cầu'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S505b.svg
@@ -2749,6 +3268,7 @@ S.505b:
 
 S.505c:
   docs_name: 'Biển số S.505c: Tải trọng trục hạn chế qua cầu'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S505c.svg
@@ -2756,37 +3276,46 @@ S.505c:
 
 S.506a:
   docs_name: 'Biển số S.506(a,b): Hướng đường ưu tiên'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S506a.svg
   name: '[Hướng đường ưu tiên]'
 
   note: Đặt ở đường ưu tiên
+
 S.506b:
   docs_name: 'Biển số S.506(a,b): Hướng đường ưu tiên'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Hướng đường (không) ưu tiên]'
 
   note: Đặt ở đường không ưu tiên
   docs: |-
 
   image: S506b.jpeg
+
 S.507:
   docs_name: 'Biển số S.507: Hướng rẽ'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S507.svg
   name: 'Hướng rẽ'
 
   related: [W.201, W.202]
+
 S.508a:
   docs_name: 'Biển số S.508(a,b): Biểu thị thời gian'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Biểu thị thời gian'
 
   docs: |-
 
   image: S508a.jpeg
+
 S.508b:
   docs_name: 'Biển số S.508(a,b): Biểu thị thời gian'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S508b.svg
@@ -2794,85 +3323,108 @@ S.508b:
 
 S.509a:
   docs_name: 'Biển số S.509(a,b): Thuyết minh biển chính'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S509a.svg
   name: '[Thuyết minh biển chính] Chiều cao an toàn'
 
   related: [W.239]
+
 S.509b:
   docs_name: 'Biển số S.509(a,b): Thuyết minh biển chính'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   docs: |-
 
   image: S509b.svg
   name: '[Thuyết minh biển chính] Cấm đổ xe'
 
   related: [P.130, P.131]
+
 S.510a:
   docs_name: 'Biển số S.510a: Chú ý đường trơn có băng tuyết'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '(Chú ý) đường trơn có băng tuyết'
 
   docs: |-
 
   image: S510a.jpeg
+
 S.510b:
   docs_name: 'Biển số S.510b: Chú ý đường sắt'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '(Chú ý) đường sắt'
 
   docs: |-
 
   image: S510b.jpeg
+
 S.G,7:
   docs_name: 'Biển số S.G,7: Địa điểm cắm trại'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Địa điểm] nơi cắm trại'
 
   docs: |-
 
   image: SG7.jpeg
+
 S.G,8:
   docs_name: 'Biển số S.G,8: Địa điểm nhà trọ'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: '[Địa điểm] nhà trọ'
 
   docs: |-
 
   image: SG8.jpeg
+
 S.G,9b:
   docs_name: 'Biển số S.G,9b: Chỉ dẫn tới điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng'
 
   docs: |-
 
   image: SG9b.jpeg
+
 S.G,11a:
   docs_name: 'Biển số S.G,11a; S.G,11c: Chỉ dẫn số lượng làn và hướng đi cho từng làn'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Số lượng làn và hướng đi cho từng làn'
 
   docs: |-
 
   image: SG11a.jpeg
+
 S.G,11c:
   docs_name: 'Biển số S.G,11a; S.G,11c: Chỉ dẫn số lượng làn và hướng đi cho từng làn'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Số lượng làn và hướng đi cho từng làn'
 
   docs: |-
 
   image: SG11c.jpeg
+
 S.G,12a:
   docs_name: 'Biển số S.G,12a; S.G,12b: Chỉ dẫn làn đường không lưu thông'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Làn đường không lưu thông'
 
   docs: |-
 
   image: SG12a.jpeg
+
 S.G,12b:
   docs_name: 'Biển số S.G,12a; S.G,12b: Chỉ dẫn làn đường không lưu thông'
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Làn đường không lưu thông'
 
   docs: |-
 
   image: SG12b.jpeg
+
 S.H,6:
   docs_name: 'Biển số S.H,6: Ngoại lệ. '
+  docs_source: 'Phụ lục F - Ý nghĩa - Sử dụng các biển phụ'
   name: 'Ngoại lệ'
 
   docs: |-
