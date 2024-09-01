@@ -622,34 +622,15 @@ QCVN_26:
     - để chở người với số lượng lớn hơn 9 người
     - được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
-QCVN_271:
-  source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
-  source_abbr: QCVN 41:2019
-  docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
-  term: Ôtô đầu kéo
-  explain: |-
-    ôtô được thiết kế để kéo sơ-mi rơ-moóc
-
 QCVN_272:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
-  docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
-  term: Ôtô đầu kéo kéo sơ-mi rơ-moóc
+  docs: thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo
+  term: Sơ-mi rơ-moóc
   explain: |-
-    Xe cơ giới chuyên chở hàng hóa 
-    - mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo 
-    - ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người
-
-QCVN_28:
-  source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
-  source_abbr: QCVN 41:2019
-  docs: Ôtô kéo rơ-moóc là xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
-  term: Ôtô kéo rơ-moóc
-  explain: |-
-    Xe ôtô 
-    - được thiết kế để dành riêng kéo rơ-moóc 
-    - hoặc có kết cấu để kéo thêm rơ-moóc
-    có khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
+    Thùng xe
+    - kết nối với ôtô đầu kéo 
+    - truyền một phần trọng lượng đáng kể lên ôtô đầu kéo
 
 QCVN_29:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -661,6 +642,29 @@ QCVN_29:
     - có kết cấu vững chắc 
     - được kết nối với xe ô tô
       + sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
+
+QCVN_273:
+  source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
+  source_abbr: QCVN 41:2019
+  docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
+  term: Ôtô đầu kéo
+  aka: [Ôtô kéo sơ-mi rơ-moóc, Ôtô đầu kéo kéo sơ-mi rơ-moóc]
+  explain: |-
+    Xe cơ giới chuyên chở hàng hóa 
+    - mà thùng xe là sơ-mi rơ-moóc
+    - ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người
+
+QCVN_28:
+  source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
+  source_abbr: QCVN 41:2019
+  docs: Ôtô kéo rơ-moóc là xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
+  term: Ôtô kéo rơ-moóc
+  explain: |-
+    Xe ôtô 
+    - được thiết kế để (dành riêng) kéo rơ-moóc, hoặc 
+    - có kết cấu để kéo thêm rơ-moóc
+
+    (khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB)
 
 QCVN_30:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
