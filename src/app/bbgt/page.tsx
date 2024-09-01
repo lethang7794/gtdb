@@ -12,7 +12,7 @@ export default async function Home() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] justify-between gap-4">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] justify-between gap-4">
         {entries?.map(([signKey, sign]) => {
           const imgUrl = getRoadSignImage(sign)
 

@@ -47,12 +47,12 @@ export default async function RoadSignPage({
   return (
     <div
       key={slug}
-      className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
+      className="flex items-center justify-start flex-col px-3 py-2 mt-4 rounded-md"
     >
       <img
         alt={slug}
         src={getRoadSignImage(sign)}
-        className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+        className="max-h-[250px] w-full order-none object-contain object-bottom mb-1"
       />
       <div className="line-clamp-3 text-balance text-center leading-5">
         {sign.name}
