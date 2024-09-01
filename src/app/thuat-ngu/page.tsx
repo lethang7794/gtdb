@@ -25,29 +25,31 @@ export default async function GlossariesPage() {
               // defaultOpen
             >
               <CollapsibleTrigger asChild>
-                <div className="flex items-center justify-between space-x-4 pl-2 py-2 pr-2">
-                  <h4 className="flex items-center gap-2 text-lg font-semibold">
-                    <Badge
-                      variant="outline"
-                      className="text-lg border-transparent text-left"
-                    >
-                      {val.term}
-                    </Badge>
-                    <AkaBadges aka={val.aka} />
-                  </h4>
-                  <Button variant="ghost" size="sm">
-                    <CaretSortIcon className="h-4 w-4" />
-                    <span className="sr-only">Toggle</span>
-                  </Button>
+                <div>
+                  <div className="flex items-center justify-between space-x-4 pl-2 py-2 pr-2">
+                    <h4 className="flex items-center gap-2 text-lg font-semibold">
+                      <Badge
+                        variant="outline"
+                        className="text-lg border-transparent text-left"
+                      >
+                        {val.term}
+                      </Badge>
+                      <AkaBadges aka={val.aka} />
+                    </h4>
+                    <Button variant="ghost" size="sm">
+                      <CaretSortIcon className="h-4 w-4" />
+                      <span className="sr-only">Toggle</span>
+                    </Button>
+                  </div>
+                  <div className="flex justify-end">
+                    {val.source_abbr ? (
+                      <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
+                        ({val.source_abbr})
+                      </div>
+                    ) : null}
+                  </div>
                 </div>
               </CollapsibleTrigger>
-              <div className="flex justify-end">
-                {val.source_abbr ? (
-                  <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
-                    ({val.source_abbr})
-                  </div>
-                ) : null}
-              </div>
               <CollapsibleContent className="space-y-2">
                 <div className="border-t mr-6 ml-3">
                   <div className="pt-4 pr-4 pl-3 pb-4 font-mono text-sm whitespace-pre-wrap">
