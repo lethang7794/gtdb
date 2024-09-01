@@ -1,6 +1,11 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getRoadSignById, getRoadSignImage } from '@/service/road-sign'
+import {
+  getRoadSignById,
+  getRoadSignImage,
+  getRoadSignsWithAroundById,
+} from '@/service/road-sign'
 import { getRoadSigns } from '@/service/road-sign'
+import Link from 'next/link'
 
 export async function generateStaticParams() {
   const roadSigns = getRoadSigns()
@@ -16,7 +21,8 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const sign = getRoadSignById(slug)
+  const decodedSlug = slug.replace('%2C', ',')
+  const sign = getRoadSignById(decodedSlug)
   if (!sign) {
     return { title: 'Not Found' }
   }
@@ -24,7 +30,7 @@ export async function generateMetadata(
   // optionally access and extend (rather than replace) parent metadata
   const previousImages = (await parent).openGraph?.images || []
 
-  const pageTitle = `${slug}: ${sign.name}`
+  const pageTitle = `${decodedSlug}: ${sign.name}`
   return {
     title: pageTitle,
     openGraph: {
@@ -39,10 +45,18 @@ export default async function RoadSignPage({
   params: { slug: string }
 }) {
   const slug = params.slug
-  const sign = getRoadSignById(slug)
-  if (!sign) {
+  const decodedSlug = slug.replace('%2C', ',')
+  const signWithAround = getRoadSignsWithAroundById(decodedSlug)
+  console.log({ slug, decodedSlug, signWithAround })
+  if (!signWithAround) {
     return <>Not Found</>
   }
+  const sign = signWithAround.cur[1]
+  const prev = signWithAround.prev
+  const next = signWithAround.next
+
+  const prevSignKey = prev?.[0]
+  const nextSignKey = next?.[0]
 
   return (
     <div
@@ -52,13 +66,28 @@ export default async function RoadSignPage({
       <img
         alt={slug}
         src={getRoadSignImage(sign)}
-        className="max-h-[250px] w-full order-none object-contain object-bottom mb-1"
+        className="h-[250px] w-full order-none object-contain object-bottom mb-1"
       />
-      <div className="line-clamp-3 text-balance text-center leading-5">
-        {sign.name}
-      </div>
+      <div className="text-balance text-center leading-5">{sign.name}</div>
       <div className="flex-grow" />
-      <div className="self-end text-gray-500 text-xs italic">{slug}</div>
+      {/* <div className="text-balance text-center leading-5">{sign.docs_name}</div> */}
+      <div className="flex justify-between w-full">
+        {prevSignKey ? (
+          <Link className="min-w-24" href={`/bbgt/${prevSignKey}`}>
+            ← {prevSignKey}
+          </Link>
+        ) : (
+          <div className="min-w-24" />
+        )}
+        <div className="text-gray-500 italic">{decodedSlug}</div>
+        {nextSignKey ? (
+          <Link className="min-w-24 text-right" href={`/bbgt/${nextSignKey}`}>
+            {nextSignKey} →
+          </Link>
+        ) : (
+          <div className="min-w-24" />
+        )}
+      </div>
     </div>
   )
 }
