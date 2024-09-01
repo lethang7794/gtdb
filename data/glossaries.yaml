@@ -1,3 +1,231 @@
+LAW_2008_1:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường bộ_ gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.
+  term: Đường bộ
+  explain: |-
+    gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.
+LAW_2008_2:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Công trình đường bộ_ gồm đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu, rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí và các công trình, thiết bị phụ trợ đường bộ khác.
+  term: Công trình đường bộ
+  explain: |-
+    gồm đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu, rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí và các công trình, thiết bị phụ trợ đường bộ khác.
+LAW_2008_3:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Kết cấu hạ tầng giao thông đường bộ_ gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
+  term: Kết cấu hạ tầng giao thông đường bộ
+  explain: |-
+    gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
+LAW_2008_4:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đất của đường bộ_ là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
+  term: Đất của đường bộ
+  explain: |-
+    phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
+LAW_2008_5:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Hành lang an toàn đường bộ_ là dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.
+  term: Hành lang an toàn đường bộ
+  explain: |-
+    dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.
+LAW_2008_6:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Phần đường xe chạy_ là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
+  term: Phần đường xe chạy
+  explain: |-
+    phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
+LAW_2008_7:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Làn đường_ là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.
+  term: Làn đường
+  explain: |-
+    một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.
+LAW_2008_8:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Khổ giới hạn của đường bộ_ là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
+  term: Khổ giới hạn của đường bộ
+  explain: |-
+    khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
+LAW_2008_9:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường phố_ là đường đô thị, gồm lòng đường và hè phố.
+  term: Đường phố
+  explain: |-
+    đường đô thị, gồm lòng đường và hè phố.
+LAW_2008_10:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Dải phân cách_ là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ. Dải phân cách gồm loại cố định và loại di động.
+  term: Dải phân cách
+  explain: |-
+    bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ. Dải phân cách gồm loại cố định và loại di động.
+LAW_2008_11:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Nơi đường giao nhau cùng mức_ (sau đây gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
+  term: Nơi đường giao nhau cùng mức
+  aka: nơi đường giao nhau
+  explain: |-
+    nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
+LAW_2008_12:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường cao tốc_ là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+  term: Đường cao tốc
+  explain: |-
+    đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+LAW_2008_13:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường chính_ là đường bảo đảm giao thông chủ yếu trong khu vực.
+  term: Đường chính
+  explain: |-
+    đường bảo đảm giao thông chủ yếu trong khu vực.
+LAW_2008_14:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường nhánh_ là đường nối vào đường chính.
+  term: Đường nhánh
+  explain: |-
+    đường nối vào đường chính.
+LAW_2008_15:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường ưu tiên_ là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
+  term: Đường ưu tiên
+  explain: |-
+    đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
+LAW_2008_16:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Đường gom_ là đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.
+  term: Đường gom
+  explain: |-
+    đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.
+LAW_2008_17:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Phương tiện giao thông đường bộ_ gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.
+  term: Phương tiện giao thông đường bộ
+  explain: |-
+    gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.
+LAW_2008_18:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Phương tiện giao thông cơ giới đường bộ_ (sau đây gọi là xe cơ giới) gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+  term: Phương tiện giao thông cơ giới đường bộ
+  aka: xe cơ giới
+  explain: |-
+    gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+LAW_2008_19:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Phương tiện giao thông thô sơ đường bộ_ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
+  term: Phương tiện giao thông thô sơ đường bộ
+  aka: xe thô sơ
+  explain: |-
+    gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
+LAW_2008_20:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Xe máy chuyên dùng_ gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
+  term: Xe máy chuyên dùng
+  explain: |-
+    gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
+LAW_2008_21:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Phương tiện tham gia giao thông đường bộ_ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng.
+  term: Phương tiện tham gia giao thông đường bộ
+  explain: |-
+    gồm phương tiện giao thông đường bộ và xe máy chuyên dùng.
+LAW_2008_22:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Người tham gia giao thông_ gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.
+  term: Người tham gia giao thông
+  explain: |-
+    gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.
+LAW_2008_23:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Người điều khiển phương tiện_ gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ.
+  term: Người điều khiển phương tiện
+  explain: |-
+    gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ.
+LAW_2008_24:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Người lái xe_ là người điều khiển xe cơ giới.
+  term: Người lái xe
+  explain: |-
+    người điều khiển xe cơ giới.
+LAW_2008_25:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Người điều khiển giao thông_ là cảnh sát giao thông; người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
+  term: Người điều khiển giao thông
+  explain: |-
+    cảnh sát giao thông; người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
+LAW_2008_26:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Hành khách_ là người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
+  term: Hành khách
+  explain: |-
+    người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
+LAW_2008_27:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Hành lý_ là vật phẩm mà hành khách mang theo trên cùng phương tiện hoặc gửi theo phương tiện khác.
+  term: Hành lý
+  explain: |-
+    vật phẩm mà hành khách mang theo trên cùng phương tiện hoặc gửi theo phương tiện khác.
+LAW_2008_28:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Hàng hóa_ là máy móc, thiết bị, nguyên vật liệu, nhiên liệu, hàng tiêu dùng, động vật sống và các động sản khác được vận chuyển bằng phương tiện giao thông đường bộ.
+  term: Hàng hóa
+  explain: |-
+    máy móc, thiết bị, nguyên vật liệu, nhiên liệu, hàng tiêu dùng, động vật sống và các động sản khác được vận chuyển bằng phương tiện giao thông đường bộ.
+LAW_2008_29:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Hàng nguy hiểm_ là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
+  term: Hàng nguy hiểm
+  explain: |-
+    hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
+LAW_2008_30:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Vận tải đường bộ_ là hoạt động sử dụng phương tiện giao thông đường bộ để vận chuyển người, hàng hóa trên đường bộ.
+  term: Vận tải đường bộ
+  explain: |-
+    hoạt động sử dụng phương tiện giao thông đường bộ để vận chuyển người, hàng hóa trên đường bộ.
+LAW_2008_31:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Người vận tải_ là tổ chức, cá nhân sử dụng phương tiện giao thông đường bộ để thực hiện hoạt động vận tải đường bộ.
+  term: Người vận tải
+  explain: |-
+    tổ chức, cá nhân sử dụng phương tiện giao thông đường bộ để thực hiện hoạt động vận tải đường bộ.
+LAW_2008_32:
+  source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
+  source_abbr: Luật GTĐB 2008
+  docs: _Cơ quan quản lý đường bộ_ là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã).
+  term: Cơ quan quản lý đường
+  explain: |-
+    cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã).
+
 LAW_2024_ABBR_1:
   term: PT
   explain: phương tiện
