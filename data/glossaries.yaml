@@ -23,8 +23,12 @@ LAW_2024_ABBR_6:
   explain: phương tiện giao thông đường bộ
 
 LAW_2024_ABBR_7:
-  term: tham-gia-GTĐB
+  term: Tham-Gia-GTĐB
   explain: tham gia giao thông đường bộ
+
+LAW_2024_ABBR_7.1:
+  term: PT-Tham-Gia-GT
+  explain: phương tiện tham gia giao thông
 
 LAW_2024_ABBR_7.2:
   term: PT-Tham-Gia-GTĐB
@@ -40,12 +44,12 @@ LAW_2024_ABBR_9:
   aka: xe thô sơ
   explain: phương tiện giao thông thô sơ đường bộ
 
-QCVN_ABBR_01:
-  term: GTĐB
-  explain: giao thông đường bộ
+# QCVN_ABBR_01:
+#   term: GTĐB
+#   explain: giao thông đường bộ
 
 QCVN_ABBR_02:
-  term: ATGTĐB
+  term: An-Toàn-GTĐB
   explain: an toàn giao thông đường bộ
 
 QCVN_ABBR_03:
@@ -351,7 +355,7 @@ QCVN_6:
   term: Đường ưu tiên
   explain: |-
     Đường mà
-    - trên đó PTTGGT
+    - trên đó PT-Tham-Gia-GT
       + khi qua nơi đường giao nhau
         - được các phương tiện giao thông đến từ hướng khác nhường đường 
     - được đặt biển báo hiệu đường ưu tiên.
@@ -363,7 +367,7 @@ QCVN_7:
   term: Làn đường ưu tiên
   explain: |-
     Làn đường mà 
-    - trên đó PTTGGT được quy định là ưu tiên 
+    - trên đó PT-Tham-Gia-GT được quy định là ưu tiên 
       + sẽ được các phương tiện khác nhường đường 
       + khi cùng tham gia giao thông.
 
@@ -718,7 +722,7 @@ QCVN_38:
   docs: Người tham gia giao thông là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
   term: Người tham gia giao thông
   explain: |-
-    - Người điều khiển, sử dụng PTTGGT đường bộ
+    - Người điều khiển, sử dụng PT-Tham-Gia-GT đường bộ
     - Người điều khiển, dẫn dắt súc vật
     - Người đi bộ trên đường.
 
@@ -927,7 +931,7 @@ QCVN_55:
   explain: |-
     Nơi giao nhau của đường bộ 
     - bằng tổ hợp các công trình vượt hoặc chui và nhánh nối 
-    - mà ở đó cho phép các PTTGGT chuyển hướng 
+    - mà ở đó cho phép các PT-Tham-Gia-GT chuyển hướng 
       - đến đường ở các cao độ khác nhau.
 
 QCVN_56:
@@ -945,7 +949,7 @@ QCVN_57:
   docs: Lối ra là nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
   term: Lối ra
   explain: |-
-    Nơi các PTTGGT 
+    Nơi các PT-Tham-Gia-GT 
     - tách ra khỏi đường chính.
 
 QCVN_58:
@@ -954,7 +958,7 @@ QCVN_58:
   docs: Lối vào là nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
   term: Lối vào
   explain: |-
-    Nơi các PTTGGT
+    Nơi các PT-Tham-Gia-GT
     - nhập vào đường chính.
 
 LAW_2024_1:
@@ -988,7 +992,7 @@ LAW_2024_3:
   docs: |-
     Phương tiện tham gia giao thông đường bộ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.
   term: Phương tiện tham gia giao thông đường bộ
-  aka: PTTGGTĐB
+  aka: PT-Tham-Gia-GTĐB
   explain: |-
     PTGTĐB
     - tham gia giao thông 
@@ -1002,8 +1006,8 @@ LAW_2024_4:
   term: Đường ưu tiên
   explain: |-
     đường mà trên đó 
-    - PTTGGTĐB được
-      - các PTTGGTĐB đến từ hướng khác 
+    - PT-Tham-Gia-GTĐB được
+      - các PT-Tham-Gia-GTĐB đến từ hướng khác 
         - nhường đường 
       - khi qua nơi đường giao nhau, 
     - được cắm biển báo hiệu đường ưu tiên.
@@ -1050,7 +1054,7 @@ LAW_2024_8:
   term: Người tham gia giao thông ĐB
   explain: |-
     Bao gồm: 
-    - người điều khiển, người được chở trên PTTGGTĐB; 
+    - người điều khiển, người được chở trên PT-Tham-Gia-GTĐB; 
     - người điều khiển, dẫn dắt vật nuôi trên đường bộ;
     - người đi bộ trên đường bộ.
 
@@ -1094,7 +1098,7 @@ LAW_2024_11:
   term: Ùn tắc giao thông đường bộ
   aka: ùn tắc giao thông
   explain: |-
-    tình trạng người, phương tiện tham-gia-GTĐB 
+    tình trạng người, phương tiện Tham-Gia-GTĐB 
     - bị dồn ứ,
     - di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
 
