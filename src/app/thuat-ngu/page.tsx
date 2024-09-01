@@ -12,7 +12,7 @@ import { Badge } from '@/components/ui/badge'
 export default async function GlossariesPage() {
   const data = getGlossaries()
   const entries = Object.entries(data) || []
-  console.log({ data, entries })
+  // console.log({ data, entries })
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
