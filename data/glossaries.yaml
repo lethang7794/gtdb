@@ -256,7 +256,7 @@ LAW_2008_18:
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông cơ giới đường bộ_ (sau đây gọi là xe cơ giới) gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
   term: Phương tiện giao thông cơ giới đường bộ
-  aka: xe cơ giới
+  aka: [xe cơ giới, '"PTGT-Cơ-Giới-ĐB"']
   explain: |-
     gồm 
     - xe ô tô; 
@@ -271,7 +271,7 @@ LAW_2008_19:
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông thô sơ đường bộ_ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
   term: Phương tiện giao thông thô sơ đường bộ
-  aka: [xe thô sơ, 'PTGT-Thô-Sơ-ĐB']
+  aka: [xe thô sơ, '"PTGT-Thô-Sơ-ĐB"']
   explain: |-
     gồm 
     - xe đạp (kể cả xe đạp máy), 
