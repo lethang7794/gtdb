@@ -61,7 +61,7 @@ QCVN_ABBR_02:
 #   explain: phương tiện tham gia giao thông
 
 QCVN_ABBR_05:
-  term: '"GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB"'
+  term: '"GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB"'
   explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGT-Cơ-Giới-ĐB
 
 # LAW 2008
@@ -564,7 +564,7 @@ QCVN_21:
   explain: |-
     Bằng trọng tải bản thân xe 
     - cộng với khối lượng chuyên chở cho phép 
-      - xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
+      - xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
 
 QCVN_22:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -584,7 +584,7 @@ QCVN_23:
   explain: |-
     Xe ôtô 
     - để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái)
-    - được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
+    - được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
 QCVN_24:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -620,7 +620,7 @@ QCVN_26:
   explain: |-
     Xe ôtô 
     - để chở người với số lượng lớn hơn 9 người
-    - được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
+    - được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
 QCVN_272:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -664,7 +664,7 @@ QCVN_28:
     - được thiết kế để (dành riêng) kéo rơ-moóc, hoặc 
     - có kết cấu để kéo thêm rơ-moóc
 
-    (khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB)
+    (khối lượng cho phép kéo theo được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB)
 
 QCVN_30:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
