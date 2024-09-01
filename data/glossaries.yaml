@@ -1,67 +1,67 @@
 LAW_2024_ABBR_1:
-  term: PT
+  term: '"PT"'
   explain: phương tiện
 
 LAW_2024_ABBR_2:
-  term: GT
+  term: '"GT"'
   explain: giao thông
 
 LAW_2024_ABBR_3:
-  term: ĐB
+  term: '"ĐB"'
   explain: đường bộ
 
 LAW_2024_ABBR_4:
-  term: PTGT
+  term: '"PTGT"'
   explain: phương tiện giao thông
 
 LAW_2024_ABBR_5:
-  term: GTĐB
+  term: '"GTĐB"'
   explain: giao thông đường bộ
 
 LAW_2024_ABBR_6:
-  term: PTGTĐB
+  term: '"PTGTĐB"'
   explain: phương tiện giao thông đường bộ
 
 LAW_2024_ABBR_7:
-  term: Tham-Gia-GTĐB
+  term: '"Tham-Gia-GTĐB"'
   explain: tham gia giao thông đường bộ
 
 LAW_2024_ABBR_7.1:
-  term: PT-Tham-Gia-GT
+  term: '"PT-Tham-Gia-GT"'
   explain: phương tiện tham gia giao thông
 
 LAW_2024_ABBR_7.2:
-  term: PT-Tham-Gia-GTĐB
+  term: '"PT-Tham-Gia-GTĐB"'
   explain: phương tiện tham gia giao thông đường bộ
 
 LAW_2024_ABBR_8:
-  term: PTGT-Cơ-Giới-ĐB
+  term: '"PTGT-Cơ-Giới-ĐB"'
   aka: xe cơ giới
   explain: phương tiện giao thông cơ giới đường bộ
 
 LAW_2024_ABBR_9:
-  term: PTGT-Thô-Sơ-ĐB
+  term: '"PTGT-Thô-Sơ-ĐB"'
   aka: xe thô sơ
   explain: phương tiện giao thông thô sơ đường bộ
 
 # QCVN_ABBR_01:
-#   term: GTĐB
+#   term: '"GTĐB"'
 #   explain: giao thông đường bộ
 
 QCVN_ABBR_02:
-  term: An-Toàn-GTĐB
+  term: '"An-Toàn-GTĐB"'
   explain: an toàn giao thông đường bộ
 
 # QCVN_ABBR_03:
-#   term: PTGTCGĐB
+#   term: '"PTGTCGĐB"'
 #   explain: phương tiện giao thông cơ giới đường bộ
 
 # QCVN_ABBR_04:
-#   term: PTTGGT
+#   term: '"PTTGGT"'
 #   explain: phương tiện tham gia giao thông
 
 QCVN_ABBR_05:
-  term: GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
+  term: '"GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB"'
   explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGT-Cơ-Giới-ĐB
 
 # LAW 2008
