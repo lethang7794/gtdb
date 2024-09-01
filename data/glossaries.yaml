@@ -52,17 +52,17 @@ QCVN_ABBR_02:
   term: An-Toàn-GTĐB
   explain: an toàn giao thông đường bộ
 
-QCVN_ABBR_03:
-  term: PTGTCGĐB
-  explain: phương tiện giao thông cơ giới đường bộ
+# QCVN_ABBR_03:
+#   term: PTGTCGĐB
+#   explain: phương tiện giao thông cơ giới đường bộ
 
-QCVN_ABBR_04:
-  term: PTTGGT
-  explain: phương tiện tham gia giao thông
+# QCVN_ABBR_04:
+#   term: PTTGGT
+#   explain: phương tiện tham gia giao thông
 
 QCVN_ABBR_05:
-  term: GCNKĐ ATKT-BVMT PTGTCGĐB
-  explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGTCGĐB
+  term: GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
+  explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGT-Cơ-Giới-ĐB
 
 LAW_2008_1:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
@@ -428,7 +428,7 @@ QCVN_13:
   explain: |-
     Phần của đường bộ 
     - được sử dụng cho 
-      + các PTGTCGĐB
+      + các PTGT-Cơ-Giới-ĐB
       + xe máy chuyên dùng
     - qua lại.
 
@@ -508,7 +508,7 @@ QCVN_19:
     Khối lượng bản thân của xe
     - ở trạng thái tĩnh 
     - không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
-    - được ghi theo thông số quy định trong GCNKĐ ATKT-BVMT PTGTCGĐB
+    - được ghi theo thông số quy định trong GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
     - đo bằng kilôgam (kg) hoặc tấn (t)
 
 QCVN_20:
@@ -531,7 +531,7 @@ QCVN_21:
   explain: |-
     Bằng trọng tải bản thân xe 
     - cộng với khối lượng chuyên chở cho phép 
-      - xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB.
+      - xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
 
 QCVN_22:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -551,7 +551,7 @@ QCVN_23:
   explain: |-
     Xe ôtô 
     - để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái)
-    - được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB
+    - được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
 QCVN_24:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -587,7 +587,7 @@ QCVN_26:
   explain: |-
     Xe ôtô 
     - để chở người với số lượng lớn hơn 9 người
-    - được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB
+    - được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
 QCVN_271:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
@@ -616,7 +616,7 @@ QCVN_28:
     Xe ôtô 
     - được thiết kế để dành riêng kéo rơ-moóc 
     - hoặc có kết cấu để kéo thêm rơ-moóc
-    có khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGTCGĐB.
+    có khối lượng cho phép kéo theo được xác định theo GCNKĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
 
 QCVN_29:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
