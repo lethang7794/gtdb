@@ -724,9 +724,9 @@ HÀ NỘI - 2019
 
 **Lời nói đầu**
 
-Quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT do Tổng cục Đường bộ Việt Nam biên soạn, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 54/2019/TT-BGTVT ngày 31 tháng 12 năm 2019. Quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT thay thế QCVN 41:2016/BGTVT.  
+Quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT do Tổng cục Đường bộ Việt Nam biên soạn, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 54/2019/TT-BGTVT ngày 31 tháng 12 năm 2019. Quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT thay thế QCVN 41:2016/BGTVT.
 
-	
+
 
 **MỤC LỤC**
 
@@ -1008,7 +1008,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **3.1.** _Đường đô thị (ĐĐT)_ là đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
 
-**3.2. _Đường qua khu đông dân cư _**là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường). 
+**3.2. _Đường qua khu đông dân cư _**là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
 
 **3.3. _Đường dành riêng cho các loại phương tiện cơ giới_** là tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 
@@ -1026,7 +1026,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **3.10. _Đường hai chiều_** là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
 
-**3.11. _Đường đôi_** là đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi). 
+**3.11. _Đường đôi_** là đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
 
 **3.12. _Phần đường xe chạy _**là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
 
@@ -1050,7 +1050,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **	3.22**. _Tải trọng trục xe_ là phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
 
-**3.23. _Xe ôtô con_** _(hay còn gọi là xe con)** **_là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái). 
+**3.23. _Xe ôtô con_** _(hay còn gọi là xe con)** **_là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
 
 **3.24.** Xe bán tải (xe pickup), xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
 
@@ -1080,7 +1080,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **3.37. _Xe súc vật kéo_** là những phương tiện thô sơ chuyển động được do súc vật kéo.
 
-**3.38. _Người tham gia giao thông_** là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường. 
+**3.38. _Người tham gia giao thông_** là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
 
 **3.39. _Xe ưu tiên_** là xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
 
@@ -1090,7 +1090,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **3.42.** _Cột cần vươn_ là một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
 
-**3.43. _Hàng nguy hiểm_ **là hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia. 
+**3.43. _Hàng nguy hiểm_ **là hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
 
 **3.44. _Tốc độ vận hành_** là tốc độ mà người lái vận hành chiếc xe của mình.
 
@@ -1191,7 +1191,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **6.1.2.** Bằng cờ;
 
-**6.1.3.** Bằng gậy điều khiển giao thông có màu đen trắng xen kẽ (có đèn hoặc không có đèn ở bên trong); 
+**6.1.3.** Bằng gậy điều khiển giao thông có màu đen trắng xen kẽ (có đèn hoặc không có đèn ở bên trong);
 
 **6.1.4.**  Bằng đèn tín hiệu ánh sáng.
 
@@ -1213,7 +1213,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **7.2.3**. Tay phải giơ về phía trước để báo hiệu cho người tham gia giao thông ở phía sau và bên phải người điều khiển dừng lại; người tham gia giao thông ở phía trước người điều khiển được rẽ phải; người tham gia giao thông ở phía bên trái người điều khiển được đi tất cả các hướng; người đi bộ qua đường phía sau lưng người điều khiển giao thông được phép đi; đồng thời tay trái giơ về phía trước lặp đi lặp lại nhiều lần, song song với tay phải báo hiệu người tham gia giao thông ở phía bên trái người điều khiển được rẽ trái qua trước mặt người điều khiển.
 
-**7.3.** Quy định về việc sử dụng âm hiệu còi trong điều khiển giao thông của cảnh sát điều khiển giao thông như sau: 
+**7.3.** Quy định về việc sử dụng âm hiệu còi trong điều khiển giao thông của cảnh sát điều khiển giao thông như sau:
 
 **7.3.1**.  Một tiếng còi dài, mạnh là ra lệnh dừng lại;
 
@@ -1225,7 +1225,7 @@ Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 **7.3.5**.  Ba tiếng còi ngắn thổi nhanh là báo hiệu đi nhanh lên;
 
-**7.3.6**. Thổi liên tiếp tiếng một, nhiều lần, mạnh là báo hiệu phương tiện dừng lại để kiểm tra hoặc báo hiệu phương tiện vi phạm. 
+**7.3.6**. Thổi liên tiếp tiếng một, nhiều lần, mạnh là báo hiệu phương tiện dừng lại để kiểm tra hoặc báo hiệu phương tiện vi phạm.
 
 **7.4.** Quy định về việc sử dụng ánh sáng trong hiệu lệnh dừng xe của người điều khiển giao thông như sau: cầm đèn ánh sáng có mặt đỏ giơ cao hướng về phía phương tiện đang chạy tới.
 
@@ -1239,7 +1239,7 @@ Người tham gia giao thông đều phải chấp hành nghiêm chỉnh hiệu 
 
 **Điều 9. Người điều khiển giao thông**
 
-Người điều khiển giao thông là cảnh sát giao thông mặc sắc phục theo quy định; người được giao nhiệm vụ hướng dẫn giao thông. 
+Người điều khiển giao thông là cảnh sát giao thông mặc sắc phục theo quy định; người được giao nhiệm vụ hướng dẫn giao thông.
 
 **Điều 10. Điều khiển giao thông bằng tín hiệu đèn**
 
@@ -1255,13 +1255,13 @@ Người điều khiển giao thông là cảnh sát giao thông mặc sắc ph�
 
 **10.2.2. **Trong từng tín hiệu của đèn có thể có hình mũi tên. Nếu mũi tên chỉ hướng cho phép rẽ trái thì đồng thời cho phép quay đầu, trừ khi có đặt biển báo số P.124 (a,b) “Cấm quay đầu xe”.
 
-**10.2.3. **Đồng hồ đếm ngược (khi đang hoạt động bình thường) có tác dụng báo hiệu thời gian có hiệu lực của đèn. 
+**10.2.3. **Đồng hồ đếm ngược (khi đang hoạt động bình thường) có tác dụng báo hiệu thời gian có hiệu lực của đèn.
 
 **10.2.4. **Đèn tín hiệu có hình chữ thập màu đỏ báo hiệu xe phải dừng lại. Trong trường hợp xe đã ở trong nút giao thì phải nhanh chóng đi ra khỏi nút giao.
 
 **10.3.** Ý nghĩa của  đèn tín hiệu:
 
-**10.3.1.** Tín hiệu xanh: cho phép đi. 
+**10.3.1.** Tín hiệu xanh: cho phép đi.
 
 **10.3.2**.Tín hiệu vàng báo hiệu thay đổi tín hiệu của đèn xanh sang đỏ. Tín hiệu vàng bật sáng, phải dừng lại trước vạch dừng, trường hợp đã đi quá vạch dừng hoặc đã quá gần vạch dừng nếu dừng lại thấy nguy hiểm thì được đi tiếp.
 
@@ -1275,7 +1275,7 @@ Trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng ph�
 
 **10.4. **Ý nghĩa của đèn hình mũi tên:
 
-**10.4.1. **Nếu đèn có lắp đèn hình mũi tên màu xanh thì các loại phương tiện giao thông chỉ được đi khi tín hiệu mũi tên bật sáng cho phép. Tín hiệu mũi tên cho phép rẽ trái thì đồng thời cho phép quay đầu nếu không có báo hiệu cấm quay đầu khác. 
+**10.4.1. **Nếu đèn có lắp đèn hình mũi tên màu xanh thì các loại phương tiện giao thông chỉ được đi khi tín hiệu mũi tên bật sáng cho phép. Tín hiệu mũi tên cho phép rẽ trái thì đồng thời cho phép quay đầu nếu không có báo hiệu cấm quay đầu khác.
 
 **10.4.2**. Nếu đèn có hình của một loại phương tiện giao thông nào đó xanh thì chỉ loại phương tiện đó được phép đi.
 
@@ -1345,7 +1345,7 @@ Xe cứu thương có đèn quay hoặc đèn chớp phát sáng màu đỏ gắ
 
 **11.8.** Tín hiệu của xe hộ đê, xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật.
 
-**11.8.1.** Xe làm nhiệm vụ cứu hộ đê có cờ hiệu “HỘ ĐÊ” đặt ở đầu xe phía bên trái người lái. 
+**11.8.1.** Xe làm nhiệm vụ cứu hộ đê có cờ hiệu “HỘ ĐÊ” đặt ở đầu xe phía bên trái người lái.
 
 **11.8.2.** Xe đi làm nhiệm vụ khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật thực hiện như sau:
 
@@ -1369,7 +1369,7 @@ b) Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định c�
 
 **13.1.** Mặt đèn quay về hướng đi** **của người tham gia giao thông.
 
-**13.2.** Khi đèn bố trí theo chiều thẳng đứng trên cột đặt trên lề đường, dải phân cách, đảo giao thông: chiều cao  vị trí thấp nhất của đèn từ 1,7m đến 5,8m, khoảng cách từ bộ đèn đến mép phần đường xe chạy từ 0,5 đến 2m. 
+**13.2.** Khi đèn bố trí theo chiều thẳng đứng trên cột đặt trên lề đường, dải phân cách, đảo giao thông: chiều cao  vị trí thấp nhất của đèn từ 1,7m đến 5,8m, khoảng cách từ bộ đèn đến mép phần đường xe chạy từ 0,5 đến 2m.
 
 **13.3**. Khi đèn được đặt theo chiều ngang trên cần vươn thì chiều cao tối thiểu là 5,2 m, tối đa là 7,8m tính từ điểm thấp nhất của đèn đến mặt đường hoặc mặt vỉa hè;
 
@@ -1405,13 +1405,13 @@ Biển báo hiệu trên đường cao tốc và đường đối ngoại phải
 
 **15.4. _Nhóm biển chỉ dẫn_** là nhóm biển báo dùng để cung cấp thông tin và các chỉ dẫn cần thiết cho người tham gia giao thông. Biển chỉ dẫn chủ yếu có hình chữ nhật hoặc hình vuông hoặc hình mũi tên, nền màu xanh.
 
-**15.5. _Nhóm biển phụ, biển viết bằng chữ_** là nhóm biển nhằm thuyết minh bổ sung nội dung nhóm biển tại khoản 15.1, 15.2, 15.3, 15.4 Điều này hoặc được sử dụng độc lập. 
+**15.5. _Nhóm biển phụ, biển viết bằng chữ_** là nhóm biển nhằm thuyết minh bổ sung nội dung nhóm biển tại khoản 15.1, 15.2, 15.3, 15.4 Điều này hoặc được sử dụng độc lập.
 
 **Điều 16. Kích thước của biển báo**
 
-**16.1.** Quy chuẩn này quy định các thông số về kích thước biển, hình vẽ trong biển và chữ viết tương ứng với đường đô thị có hệ số là 1 (xem Hình 1 và Bảng 1). Trường hợp đặc biệt, kích thước biển có thể được điều chỉnh để đảm bảo cân đối, đáp ứng tính thẩm mỹ và rõ ràng thông tin. 
+**16.1.** Quy chuẩn này quy định các thông số về kích thước biển, hình vẽ trong biển và chữ viết tương ứng với đường đô thị có hệ số là 1 (xem Hình 1 và Bảng 1). Trường hợp đặc biệt, kích thước biển có thể được điều chỉnh để đảm bảo cân đối, đáp ứng tính thẩm mỹ và rõ ràng thông tin.
 
-**16.2.** Đối với các đường khác, kích thước biển, hình vẽ trong biển và chữ viết phải nhân với hệ số tương ứng trong Bảng 2, kích thước biển được làm tròn theo nguyên tắc: 
+**16.2.** Đối với các đường khác, kích thước biển, hình vẽ trong biển và chữ viết phải nhân với hệ số tương ứng trong Bảng 2, kích thước biển được làm tròn theo nguyên tắc:
 
  a) Số hàng đơn vị ≤ 5 thì lấy bằng 5;
 
@@ -1519,7 +1519,7 @@ Biển báo hiệu trên đường cao tốc và đường đối ngoại phải
   <tr>
    <td>Loại đường
    </td>
-   <td>Đường cao tốc 
+   <td>Đường cao tốc
    </td>
    <td>Đường đôi ngoài đô thị
    </td>
@@ -1554,7 +1554,7 @@ Biển báo hiệu trên đường cao tốc và đường đối ngoại phải
   </tr>
   <tr>
    <td colspan="5" >
-    Ghi chú: 
+    Ghi chú:
 <p>
 
     (*) Đường ô tô thông thường là các đường ô tô không phải là đường ô tô cao tốc, đường đôi, đường đô thị.
@@ -1582,11 +1582,11 @@ Biển báo hiệu trên đường cao tốc và đường đối ngoại phải
 
 **Điều 17. Chữ viết, màu sắc và biểu tượng trên biển**
 
-**17.1. _Chữ viết trên biển_ **phù hợp với quy định về kiểu chữ nêu tại Phụ lục K của Quy chuẩn này, trường hợp đặc biệt có thể điều chỉnh cho cân đối, phù hợp và đáp ứng thông tin rõ ràng, trong đó: 
+**17.1. _Chữ viết trên biển_ **phù hợp với quy định về kiểu chữ nêu tại Phụ lục K của Quy chuẩn này, trường hợp đặc biệt có thể điều chỉnh cho cân đối, phù hợp và đáp ứng thông tin rõ ràng, trong đó:
 
 **17.1.1.** Sử dụng kiểu chữ tiêu chuẩn “gt1 - Kiểu chữ nén” và “gt2 - Kiểu chữ thường” để ghi thông tin bằng chữ trên biển.
 
-**17.1.2.** _Chữ viết_ _hoa_ kiểu chữ thường hoặc kiểu chữ nén sử dụng để viết các thông tin chỉ dẫn về hướng đi, các danh từ riêng hoặc các thông tin có tính chất nhấn mạnh, gây chú ý cho người tham gia giao thông. Chỉ nên sử dụng kiểu chữ nén trong trường hợp phải hạn chế kích thước của biển. 
+**17.1.2.** _Chữ viết_ _hoa_ kiểu chữ thường hoặc kiểu chữ nén sử dụng để viết các thông tin chỉ dẫn về hướng đi, các danh từ riêng hoặc các thông tin có tính chất nhấn mạnh, gây chú ý cho người tham gia giao thông. Chỉ nên sử dụng kiểu chữ nén trong trường hợp phải hạn chế kích thước của biển.
 
 **17.1.3.** _Chữ viết_ _thường_ được sử dụng để viết tên địa danh bằng tiếng Anh, các thông tin dịch vụ và trên các biển phụ.
 
@@ -1730,7 +1730,7 @@ Xe sơ-mi  rơ-moóc
 </table>
 
 
-Khi cần biểu thị trọng tải hoặc số chỗ ngồi cho các loại xe tải, xe khách thì bổ sung chữ viết số tấn, số chỗ ngồi (chẳng hạn, xe tải >3,5 tấn thì viết chữ >3,5t lên hình vẽ xe tải, xe khách dưới 16 chỗ thì viết chữ &lt;16c lên hình vẽ xe khách). 
+Khi cần biểu thị trọng tải hoặc số chỗ ngồi cho các loại xe tải, xe khách thì bổ sung chữ viết số tấn, số chỗ ngồi (chẳng hạn, xe tải >3,5 tấn thì viết chữ >3,5t lên hình vẽ xe tải, xe khách dưới 16 chỗ thì viết chữ &lt;16c lên hình vẽ xe khách).
 
 **Điều 18. Biển báo giao thông có thông tin thay đổi, biển báo tạm thời**
 
@@ -1750,7 +1750,7 @@ Khi ở một vị trí đã có biển báo có thông tin tĩnh đồng thời
 
 **18.2.5.** Chữ màu đỏ thể hiện thông tin cấm, chữ màu vàng thể hiện thông tin cảnh báo, chữ màu trắng thể hiện các thông tin hiệu lệnh, chữ màu xanh lam dùng để cung cấp thông tin chỉ dẫn, chữ màu da cam để thể hiện hiệu lệnh tạm thời, chữ màu hồng huỳnh quang thể hiện sự điều tiết giao thông theo điều kiện khai thác thực tế, và màu vàng - xanh lá cây huỳnh quang cho người đi xe đạp, đi bộ.
 
-**18.2.6.** Mỗi thông tin không được quá hai câu. Mỗi câu không được quá ba dòng chữ trên biển. Câu phải rõ nghĩa, dễ hiểu và không gây hiểu nhầm. 
+**18.2.6.** Mỗi thông tin không được quá hai câu. Mỗi câu không được quá ba dòng chữ trên biển. Câu phải rõ nghĩa, dễ hiểu và không gây hiểu nhầm.
 
 **18.2.7.** Nội dung thông tin được hiển thị tức thì, không sử dụng các hiệu ứng như: nhấp nháy, mờ dần hoặc rõ dần, cuốn trượt ngang, trượt dọc, hoạt hoạ.
 
@@ -1760,7 +1760,7 @@ Khi ở một vị trí đã có biển báo có thông tin tĩnh đồng thời
 
 **19.1.** Hiệu lực của các loại biển báo nguy hiểm và cảnh báo và biển chỉ dẫn có giá trị trên các làn đường của chiều xe chạy.
 
-**19.2. **Hiệu lực của các loại biển báo cấm và biển hiệu lệnh có giá trị trên tất cả các làn đường hoặc chỉ có giá trị trên một hoặc một số làn đường theo biển báo trên đường. 
+**19.2. **Hiệu lực của các loại biển báo cấm và biển hiệu lệnh có giá trị trên tất cả các làn đường hoặc chỉ có giá trị trên một hoặc một số làn đường theo biển báo trên đường.
 
 **19.3.** Biển báo khi sử dụng độc lập thì người tham gia giao thông phải tuân theo ý nghĩa của biển báo. Biển báo khi sử dụng kết hợp với đèn tín hiệu thì người tham gia giao thông phải tuân theo ý nghĩa, hiệu lệnh của cả biển báo và đèn tín hiệu theo thứ tự quy định tại Điều 4 của Quy chuẩn này.
 
@@ -1768,15 +1768,15 @@ Khi ở một vị trí đã có biển báo có thông tin tĩnh đồng thời
 
 **20.1. **Biển báo hiệu đặt ở vị trí để người tham gia giao thông dễ nhìn thấy và có đủ thời gian để chuẩn bị đề phòng, thay đổi tốc độ hoặc thay đổi hướng nhưng không được làm cản trở tầm nhìn và sự đi lại của người tham gia giao thông.
 
-**20.2. **Biển được đặt thẳng đứng, mặt biển quay về hướng đối diện chiều đi; Biển được đặt về phía tay phải hoặc phía trên phần đường xe chạy (trừ các trường hợp đặc biệt). Ngoài ra, tùy từng trường hợp, có thể đặt bổ sung biển báo ở bên trái theo chiều đi. 
+**20.2. **Biển được đặt thẳng đứng, mặt biển quay về hướng đối diện chiều đi; Biển được đặt về phía tay phải hoặc phía trên phần đường xe chạy (trừ các trường hợp đặc biệt). Ngoài ra, tùy từng trường hợp, có thể đặt bổ sung biển báo ở bên trái theo chiều đi.
 
-**20.3. **Trường hợp biển báo đặt trên cột (có thể đặt trên trụ chiếu sáng, trụ điện) thì khoảng cách mép ngoài của biển theo phương ngang đường cách mép phần đường xe chạy tối thiểu là 0,5 m và tối đa là 1,7 m. Trường hợp không có lề đường, hè đường, khuất tầm nhìn hoặc các trường hợp đặc biệt khác được phép điều chỉnh theo phương ngang nhưng mép biển phía phần xe chạy không được chờm lên mép phần đường xe chạy và cách mép phần đường xe chạy không quá 3,5 m. 
+**20.3. **Trường hợp biển báo đặt trên cột (có thể đặt trên trụ chiếu sáng, trụ điện) thì khoảng cách mép ngoài của biển theo phương ngang đường cách mép phần đường xe chạy tối thiểu là 0,5 m và tối đa là 1,7 m. Trường hợp không có lề đường, hè đường, khuất tầm nhìn hoặc các trường hợp đặc biệt khác được phép điều chỉnh theo phương ngang nhưng mép biển phía phần xe chạy không được chờm lên mép phần đường xe chạy và cách mép phần đường xe chạy không quá 3,5 m.
 
 **Điều 21. Giá long môn và cột cần vươn**
 
 **21.1.** Giá long môn và cột cần vươn** **là kết cấu chịu được trọng lượng bản thân, trọng lượng biển báo và chịu được cấp gió bão theo vùng, do Bộ Tài nguyên- Môi trường công bố.
 
-**21.2.** Chân trụ giá long môn và chân cột cần vươn** **đặt ở lề đường, vỉa hè, dải phân cách, đảo giao thông cách mép ngoài phần đường xe chạy (kể cả những nơi bố trí làn đường dừng xe khẩn cấp, làn đường tăng, giảm tốc) ít nhất là 0,5 m. 
+**21.2.** Chân trụ giá long môn và chân cột cần vươn** **đặt ở lề đường, vỉa hè, dải phân cách, đảo giao thông cách mép ngoài phần đường xe chạy (kể cả những nơi bố trí làn đường dừng xe khẩn cấp, làn đường tăng, giảm tốc) ít nhất là 0,5 m.
 
 **21.3. **Khi treo biển trên giá long môn, cột cần vươn** **thì cạnh dưới của biển (hoặc mép dưới của dầm nếu thấp hơn cạnh dưới biển) cách mặt đường ít nhất là 5,2 m đối với đường cao tốc và 5,0 m đối với các đường khác (xem Hình 2).
 
@@ -1792,7 +1792,7 @@ Khi ở một vị trí đã có biển báo có thông tin tĩnh đồng thời
 
 **Điều 22. Độ cao đặt biển và ghép biển**
 
-**22.1. **Biển báo được đặt chắc chắn cố định trên cột như quy định ở 
+**22.1. **Biển báo được đặt chắc chắn cố định trên cột như quy định ở
 
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Điều 2"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1804,7 +1804,7 @@ Khi ở một vị trí đã có biển báo có thông tin tĩnh đồng thời
 
 [507](#heading=h.3l18frh) “Hướng rẽ” đặt cao từ 1,2 m đến 1,5 m. Loại biển áp dụng riêng cho xe thô sơ và người đi bộ đặt cao hơn mặt, lề đường hoặc hè đường là 1,8 m. Trường hợp đặc biệt có thể thay đổi cho phù hợp nhưng không nhỏ hơn 1,2 m, không quá 5,0 m, do Cơ quan quản lý đường bộ quyết định.
 
-**22.3.** Nếu có nhiều biển cần đặt cùng một vị trí, cho phép đặt kết hợp trên cùng một cột nhưng không quá 3 biển và theo thứ tự ưu tiên như sau: biển báo cấm, biển hiệu lệnh, biển báo nguy hiểm hoặc cảnh báo, biển chỉ dẫn (xem minh họa trên Hình 3). 
+**22.3.** Nếu có nhiều biển cần đặt cùng một vị trí, cho phép đặt kết hợp trên cùng một cột nhưng không quá 3 biển và theo thứ tự ưu tiên như sau: biển báo cấm, biển hiệu lệnh, biển báo nguy hiểm hoặc cảnh báo, biển chỉ dẫn (xem minh họa trên Hình 3).
 
 
 
@@ -1924,7 +1924,7 @@ Khi cần thiết cấm theo thời gian phải đặt biển phụ số S.508 
 
 **Điều 29. Kích thước, hình dạng và màu sắc của biển báo cấm**
 
-Kích thước, hình dạng và màu sắc của biển được quy định chi tiết ở Điều 16, Điều 17 và Phụ lục B của Quy chuẩn này. 
+Kích thước, hình dạng và màu sắc của biển được quy định chi tiết ở Điều 16, Điều 17 và Phụ lục B của Quy chuẩn này.
 
 **Điều 30. Vị trí đặt biển báo cấm theo chiều đi và hướng hiệu lực của biển**
 
@@ -1958,9 +1958,9 @@ Biển có hiệu lực bắt đầu từ vị trí đặt biển trở đi. N�
 
 [130](#heading=h.4h042r0) và P.131(a,b,c) còn căn cứ vào các biển phụ.
 
-**30.9. **Nếu đoạn đường phải thi hành biển cấm đi qua các nút giao (trừ giao với các ngõ, ngách, hẻm hoặc lối ra vào cơ quan, đơn vị; hoặc khu đất lân cận mà phương tiện chỉ có thể ra, vào khu đất bằng một lối đi chung), biển cấm phải được nhắc lại đặt phía sau nút giao theo hướng đường đang có biển cấm, trừ các trường hợp có qui định riêng hoặc có biển phụ kèm theo. 
+**30.9. **Nếu đoạn đường phải thi hành biển cấm đi qua các nút giao (trừ giao với các ngõ, ngách, hẻm hoặc lối ra vào cơ quan, đơn vị; hoặc khu đất lân cận mà phương tiện chỉ có thể ra, vào khu đất bằng một lối đi chung), biển cấm phải được nhắc lại đặt phía sau nút giao theo hướng đường đang có biển cấm, trừ các trường hợp có qui định riêng hoặc có biển phụ kèm theo.
 
- 
+
 
 
 ## **Chương 5**
@@ -2024,7 +2024,7 @@ Biển báo nguy hiểm và cảnh báo được dùng để báo cho người t
 - Biển số W.236: Kết thúc đường đôi;
 - Biển số W.237: Cầu vồng;
 - Biển số W.238: Đường cao tốc phía trước;
-- Biển số W.239a: Đường cáp điện ở phía trên; 
+- Biển số W.239a: Đường cáp điện ở phía trên;
 - Biển số W.239b: Chiều cao tĩnh không thực tế;
 - Biển số W.240: Đường hầm;
 - Biển số W.241: Ùn tắc giao thông;
@@ -2245,7 +2245,7 @@ Biển chỉ dẫn viết bằng chữ đặt trong thành phố, thị xã và 
 
 **Điều 42. Kích thước, hình dạng và màu sắc của biển chỉ dẫn**
 
-**42.1.** Biển chỉ dẫn có hình dạng là hình vuông, hình chữ nhật. 
+**42.1.** Biển chỉ dẫn có hình dạng là hình vuông, hình chữ nhật.
 
 **42.2.** Các biển có nền là màu xanh lam, hình vẽ và chữ viết màu trắng. Nếu nền màu trắng thì hình vẽ và chữ viết màu đen trừ một số biển chỉ dẫn khác với quy định này được cụ thể ở Phụ lục E của Quy chuẩn này.
 
@@ -2391,7 +2391,7 @@ Biển phụ thường được đặt kết hợp với các biển báo chính
         - Biển số S.G,12a; S.G,12b: Chỉ dẫn làn đường không lưu thông;
 
 
-        - Biển số S.H,6: Ngoại lệ. 
+        - Biển số S.H,6: Ngoại lệ.
 
 
         Ngoài ra, tùy theo các tình huống giao thông khác để có thể bố trí các biển phụ khác cho phù hợp.
@@ -2408,7 +2408,7 @@ Biển phụ thường được đặt kết hợp với các biển báo chính
 
 [507](#heading=h.3l18frh) và S.508 (a,b) có đặc điểm riêng chỉ dẫn ở Phụ lục F của Quy chuẩn này;
 
-**45.3.3. **Kích thước chi tiết của hình vẽ và màu sắc của các biển quy định ở Điều 16, Điều 17 và Phụ lục K của Quy chuẩn này. 
+**45.3.3. **Kích thước chi tiết của hình vẽ và màu sắc của các biển quy định ở Điều 16, Điều 17 và Phụ lục K của Quy chuẩn này.
 
 **45.4.** Vị trí đặt biển phụ:
 
@@ -2454,7 +2454,7 @@ Hình dạng, kích thước, hình vẽ của biển quy định tại Điều 
 
 **49.1.** Chức năng biển chỉ dẫn trên đường cao tốc
 
-Cung cấp thông tin đầy đủ, chính xác cho người điều khiển phương tiện nhằm lái xe an toàn trên đường cao tốc và đi đến địa điểm mong muốn, cụ thể: 
+Cung cấp thông tin đầy đủ, chính xác cho người điều khiển phương tiện nhằm lái xe an toàn trên đường cao tốc và đi đến địa điểm mong muốn, cụ thể:
 
 **49.1.1**. Chỉ dẫn tên đường và hướng tuyến;
 
@@ -2466,7 +2466,7 @@ Cung cấp thông tin đầy đủ, chính xác cho người điều khiển ph�
 
 **49.1.5**. Chỉ dẫn tách, nhập làn khi ra, vào đường cao tốc;
 
-**49.1.6**. Chỉ dẫn tốc độ tối đa, tốc độ tối thiểu khi tham gia giao thông trên đường cao tốc; 
+**49.1.6**. Chỉ dẫn tốc độ tối đa, tốc độ tối thiểu khi tham gia giao thông trên đường cao tốc;
 
 **49.1.7**. Chỉ dẫn giữ khoảng cách lái xe an toàn cho người điều khiển phương tiện;
 
@@ -2495,11 +2495,11 @@ Kích thước biển chỉ dẫn trên đường cao tốc được xác địn
 
 **50.1. Nội dung biển chỉ dẫn trên đường cao tốc**
 
-**50.1.1.** Nội dung biển chỉ dẫn đường cao tốc được tổ hợp từ một hoặc nhiều thông tin sau: địa danh, ký hiệu đường bộ, mũi tên chỉ hướng, mũi tên chỉ làn xe, chữ viết, chữ số, hình vẽ và các ký hiệu khác. 
+**50.1.1.** Nội dung biển chỉ dẫn đường cao tốc được tổ hợp từ một hoặc nhiều thông tin sau: địa danh, ký hiệu đường bộ, mũi tên chỉ hướng, mũi tên chỉ làn xe, chữ viết, chữ số, hình vẽ và các ký hiệu khác.
 
 **50.1.2.** Trình bày nội dung biển chỉ dẫn trên đường cao tốc được thực hiện theo quy tắc sau đây:
 
-a) Địa danh, tên đoạn tuyến đường cao tốc, ký hiệu đường bộ được viết bằng chữ in hoa; 
+a) Địa danh, tên đoạn tuyến đường cao tốc, ký hiệu đường bộ được viết bằng chữ in hoa;
 
 b) Trong biển chỉ dẫn, không ghi quá ba tên điểm đến trên cùng một biển chỉ dẫn thông báo trước hoặc trên biển chỉ dẫn chỉ lối ra;
 
@@ -2570,21 +2570,21 @@ d) Khoảng trống ở phía bên trái và bên phải biển chỉ dẫn (c�
 
 đ) Thông thường, dòng chữ của biển chỉ dẫn được bố trí căn chính giữa theo chiều ngang của biển chỉ dẫn. Khi bố trí biểu tượng, sơ đồ nút giao, dòng chữ trên biển chỉ dẫn được bố trí sao cho phù hợp, tuân thủ theo quy định tại các Phụ lục của Quy chuẩn này.
 
-**50.2.2.** Kích thước chữ viết, chữ số và khoảng cách giữa các chữ được quy định chi tiết trong Phụ lục K của Quy chuẩn này. 
+**50.2.2.** Kích thước chữ viết, chữ số và khoảng cách giữa các chữ được quy định chi tiết trong Phụ lục K của Quy chuẩn này.
 
 **50.3. Màu sắc của biển chỉ dẫn trên đường cao tốc**
 
-**50.3.1.** Màu nền, màu chữ và đường viền của biển chỉ dẫn trên đường cao tốc được quy định như sau: 
+**50.3.1.** Màu nền, màu chữ và đường viền của biển chỉ dẫn trên đường cao tốc được quy định như sau:
 
 a) Đối với biển có tính chất chỉ dẫn giao thông, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu xanh lá cây và đường viền mép biển là màu trắng;
 
-b) Đối với biển có tính chất chỉ dẫn dịch vụ công cộng, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu xanh lam và đường viền mép biển là màu trắng; 
+b) Đối với biển có tính chất chỉ dẫn dịch vụ công cộng, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu xanh lam và đường viền mép biển là màu trắng;
 
 c) Đối với biển có tính chất chỉ dẫn cảnh báo, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu đen trên nền màu vàng huỳnh quang và đường viền mép biển là màu đen;
 
 d) Đối với biển có tính chất chỉ dẫn giải trí, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu nâu và đường viền mép biển là màu trắng;
 
-đ) Trừ những quy định khác, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu xanh lá cây và đường viền mép biển là màu trắng. 
+đ) Trừ những quy định khác, chữ viết, chữ số và hình vẽ trên biển chỉ dẫn được thể hiện bằng màu trắng trên nền màu xanh lá cây và đường viền mép biển là màu trắng.
 
 **50.3.2.** Chi tiết cụ thể về màu nền, màu chữ và đường viền được quy định cụ thể cho từng biển chỉ dẫn tại Phụ lục P của Quy chuẩn này. Kiểu chữ viết, màu chữ viết và màu nền của biển chỉ dẫn trên đường cao tốc được quy định trong Bảng 5.
 
@@ -2848,7 +2848,7 @@ Màu chữ, số
   <tr>
    <td>18
    </td>
-   <td>Biển số IE.464 (a,b) chỉ dẫn địa điểm và phương hướng 
+   <td>Biển số IE.464 (a,b) chỉ dẫn địa điểm và phương hướng
    </td>
    <td>gt2
    </td>
@@ -2912,7 +2912,7 @@ Màu chữ, số
    </td>
    <td>vàng huỳnh quang
    </td>
-   <td>đen 
+   <td>đen
    </td>
   </tr>
   <tr>
@@ -2924,7 +2924,7 @@ Màu chữ, số
    </td>
    <td>-
    </td>
-   <td>vàng huỳnh quang 
+   <td>vàng huỳnh quang
    </td>
    <td>đen
    </td>
@@ -3022,11 +3022,11 @@ Màu chữ, số
 
 **50.4.1.** Chiều rộng đường viền xung quanh biển chỉ dẫn được quy định như sau:
 
-a) Lấy bằng 5,0 cm đối với biển chỉ dẫn có kích thước ≥ 300,0 x 100,0 cm; 
+a) Lấy bằng 5,0 cm đối với biển chỉ dẫn có kích thước ≥ 300,0 x 100,0 cm;
 
-b) Lấy bằng 3,0 cm đối với biển chỉ dẫn có kích thước &lt; 300,0 x 100,0 cm. 
+b) Lấy bằng 3,0 cm đối với biển chỉ dẫn có kích thước &lt; 300,0 x 100,0 cm.
 
-**50.4.2.** Bán kính cong của đường viền xung quanh biển chỉ dẫn được lấy bằng 2% cạnh dài nhất của biển chỉ dẫn. 
+**50.4.2.** Bán kính cong của đường viền xung quanh biển chỉ dẫn được lấy bằng 2% cạnh dài nhất của biển chỉ dẫn.
 
 **50.5. Ký hiệu mũi tên trên biển chỉ dẫn trên đường cao tốc**
 
@@ -3148,7 +3148,7 @@ b) Mã hiệu quốc lộ, đường tỉnh và đường huyện được thể
 
 
 ![alt_text](images/image16.png "image_tooltip")
-	
+
 
 <p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3158,7 +3158,7 @@ b) Mã hiệu quốc lộ, đường tỉnh và đường huyện được thể
 
 **a) Mã hiệu đường cao tốc	b) Mã hiệu quốc lộ**
 
-  
+
 
 <p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3196,13 +3196,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image21.png "image_tooltip")
- 	
+
 
 <p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image22.png "image_tooltip")
-	
+
 
 <p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3218,13 +3218,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image24.png "image_tooltip")
-	
+
 
 <p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image25.png "image_tooltip")
-	
+
 
 <p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3240,13 +3240,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image27.png "image_tooltip")
-	
+
 
 <p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image28.png "image_tooltip")
-	
+
 
 <p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3262,13 +3262,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image30.png "image_tooltip")
-	
+
 
 <p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image31.png "image_tooltip")
-	
+
 
 <p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3284,13 +3284,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image33.png "image_tooltip")
-	
+
 
 <p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image34.png "image_tooltip")
-	
+
 
 <p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3306,13 +3306,13 @@ Các biểu tượng khu công nghiệp, dịch vụ công cộng và giải tr�
 
 
 ![alt_text](images/image36.png "image_tooltip")
-	
+
 
 <p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image37.png "image_tooltip")
-	
+
 
 <p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3349,7 +3349,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
   <tr>
    <td>2
    </td>
-   <td>Biển số IE. 451(a,b) 
+   <td>Biển số IE. 451(a,b)
    </td>
    <td>Lối vào và khoảng cách đến lối vào đường cao tốc
    </td>
@@ -3373,7 +3373,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
   <tr>
    <td>5
    </td>
-   <td>Biển số IE.454 
+   <td>Biển số IE.454
    </td>
    <td>Khoảng cách đến lối ra phía trước
    </td>
@@ -3415,13 +3415,13 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
    </td>
    <td>Biển số IE.459(a,b)
    </td>
-   <td>Khoảng cách đến khu tham quan, du lịch 
+   <td>Khoảng cách đến khu tham quan, du lịch
    </td>
   </tr>
   <tr>
    <td>11
    </td>
-   <td>Biển số IE.460 
+   <td>Biển số IE.460
    </td>
    <td>Cột lý trình kilômét
    </td>
@@ -3429,7 +3429,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
   <tr>
    <td>12
    </td>
-   <td>Biển số IE.461(a,b,c,d) 
+   <td>Biển số IE.461(a,b,c,d)
    </td>
    <td>Khu dịch vụ công cộng, giải trí
    </td>
@@ -3437,7 +3437,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
   <tr>
    <td>13
    </td>
-   <td>Biển số IE.462 
+   <td>Biển số IE.462
    </td>
    <td>Tần số  trên sóng radio
    </td>
@@ -3455,7 +3455,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
    </td>
    <td>Biển số IE.464(a,b)
    </td>
-   <td>Địa điểm và phương hướng 
+   <td>Địa điểm và phương hướng
    </td>
   </tr>
   <tr>
@@ -3469,7 +3469,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
   <tr>
    <td>17
    </td>
-   <td>Biển số IE.466 
+   <td>Biển số IE.466
    </td>
    <td>Sơ đồ lối ra một chiều
    </td>
@@ -3511,7 +3511,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
    </td>
    <td>Biển số IE.471
    </td>
-   <td>Giữ khoảng cách lái xe an toàn 
+   <td>Giữ khoảng cách lái xe an toàn
    </td>
   </tr>
   <tr>
@@ -3543,7 +3543,7 @@ Về nguyên tắc, các biểu tượng khu công nghiệp, dịch vụ công c
 
 **50.9. Lắp đặt biển chỉ dẫn **
 
-Biển chỉ dẫn trên đường cao tốc được lắp trên cột cần vươn, giá long môn, trên cột hoặc vật kiến trúc nhưng đảm bảo an toàn và mỹ quan. 
+Biển chỉ dẫn trên đường cao tốc được lắp trên cột cần vươn, giá long môn, trên cột hoặc vật kiến trúc nhưng đảm bảo an toàn và mỹ quan.
 
 **50.9.1.** Lắp đặt biển chỉ dẫn trên giá long môn, cột cần vươn:
 
@@ -3569,7 +3569,7 @@ Vị trí lắp đặt biển chỉ dẫn bên lề đường cao tốc tuân th
 
 **51.1. Sơ đồ, khoảng cách đến nút giao với đường dẫn vào đường cao tốc**
 
-**51.1.1.** Biển số IE.450a chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc (Hình 7a), dùng để báo trước khoảng cách sắp đến nút giao với đường dẫn vào đường cao tốc, với khoảng cách ghi trên biển quy về bội số của 100 m. Tùy theo mạng lưới đường kết nối, có thể đặt biển IE.450a tại khu vực các nút giao trong phạm vi bán kính 5km (trường hợp đặc biệt đặt xa hơn tại các đầu mối giao thông lớn) để báo trước từ xa cho người tham gia giao thông biết hướng lên đường cao tốc. 
+**51.1.1.** Biển số IE.450a chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc (Hình 7a), dùng để báo trước khoảng cách sắp đến nút giao với đường dẫn vào đường cao tốc, với khoảng cách ghi trên biển quy về bội số của 100 m. Tùy theo mạng lưới đường kết nối, có thể đặt biển IE.450a tại khu vực các nút giao trong phạm vi bán kính 5km (trường hợp đặc biệt đặt xa hơn tại các đầu mối giao thông lớn) để báo trước từ xa cho người tham gia giao thông biết hướng lên đường cao tốc.
 
 **51.1.2.** Biển số IE.450b chỉ dẫn sơ đồ đến đường dẫn vào đường cao tốc (Hình 7b). Biển này đặt cách nút giao với đường dẫn vào đường cao tốc tối thiểu bằng tầm nhìn một chiều của cấp đường trên đường xe đang chạy theo quy định tại Bảng 6.
 
@@ -3579,7 +3579,7 @@ Vị trí lắp đặt biển chỉ dẫn bên lề đường cao tốc tuân th
 
 
 ![alt_text](images/image40.png "image_tooltip")
-	
+
 
 <p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3595,7 +3595,7 @@ Vị trí lắp đặt biển chỉ dẫn bên lề đường cao tốc tuân th
 
 
 ![alt_text](images/image42.png "image_tooltip")
-	
+
 
 <p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3658,7 +3658,7 @@ Vị trí lắp đặt biển chỉ dẫn bên lề đường cao tốc tuân th
 
 
 ![alt_text](images/image44.png "image_tooltip")
-	
+
 
 <p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3684,13 +3684,13 @@ Biển số IE.452 chỉ dẫn bắt đầu đường cao tốc (Hình 9a). Bi�
 
 **Hình 9a - Biển số IE.452 chỉ dẫn bắt đầu đường cao tốc**
 
-    
+
 
 <p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image47.jpg "image_tooltip")
-                             
+
 
 <p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3710,7 +3710,7 @@ Biển số IE.452 chỉ dẫn bắt đầu đường cao tốc (Hình 9a). Bi�
 
 
 ![alt_text](images/image49.png "image_tooltip")
-	
+
 
 <p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3794,9 +3794,9 @@ Biển số IE.455 chỉ dẫn khoảng cách đến các lối ra tiếp theo**
 
 **51.7. Trạm dừng nghỉ**
 
-**51.7.1.** Biển số IE.456 chỉ dẫn khoảng cách và hướng rẽ đến trạm dừng nghỉ, được đặt bên lề đường cao tốc. Biển chỉ dẫn đến trạm dừng nghỉ bố trí ba hoặc bốn dịch vụ cơ bản, trong đó có ba dịch vụ chính sau: xăng dầu – ăn uống – nơi cung cấp thông tin. Dịch vụ thứ tư được lựa chọn trong số dịch vụ có trong trạm dừng nghỉ, chẳng hạn như: điện thoại; nhà nghỉ; trạm sửa chữa; cấp cứu; bãi đỗ xe tải; dịch vụ cho người tàn tật … Các loại dịch vụ trong trạm dừng nghỉ được biểu hiện dưới dạng hình vẽ, biểu tượng đơn giản, dễ hiểu. Kích thước biểu tượng dịch vụ được quy định chi tiết trong Phụ lục P (mục P.13) của Quy chuẩn này. 
+**51.7.1.** Biển số IE.456 chỉ dẫn khoảng cách và hướng rẽ đến trạm dừng nghỉ, được đặt bên lề đường cao tốc. Biển chỉ dẫn đến trạm dừng nghỉ bố trí ba hoặc bốn dịch vụ cơ bản, trong đó có ba dịch vụ chính sau: xăng dầu – ăn uống – nơi cung cấp thông tin. Dịch vụ thứ tư được lựa chọn trong số dịch vụ có trong trạm dừng nghỉ, chẳng hạn như: điện thoại; nhà nghỉ; trạm sửa chữa; cấp cứu; bãi đỗ xe tải; dịch vụ cho người tàn tật … Các loại dịch vụ trong trạm dừng nghỉ được biểu hiện dưới dạng hình vẽ, biểu tượng đơn giản, dễ hiểu. Kích thước biểu tượng dịch vụ được quy định chi tiết trong Phụ lục P (mục P.13) của Quy chuẩn này.
 
-**51.7.2.** Biển số IE.456a thông báo khoảng cách đến trạm dừng nghỉ (Hình 13); Biển số IE.456b chỉ dẫn hướng rẽ vào trạm dừng nghỉ, đặt cách nút giao vào trạm dừng nghỉ khoảng 150 m (Hình 14); Biển số IE.456c chỉ dẫn lối vào trạm dừng nghỉ, đặt ngay trước lối vào trạm dừng nghỉ (Hình 15). 
+**51.7.2.** Biển số IE.456a thông báo khoảng cách đến trạm dừng nghỉ (Hình 13); Biển số IE.456b chỉ dẫn hướng rẽ vào trạm dừng nghỉ, đặt cách nút giao vào trạm dừng nghỉ khoảng 150 m (Hình 14); Biển số IE.456c chỉ dẫn lối vào trạm dừng nghỉ, đặt ngay trước lối vào trạm dừng nghỉ (Hình 15).
 
 **51.8. Nơi đỗ xe trong trạm dừng nghỉ **
 
@@ -3808,7 +3808,7 @@ Thông thường, Biển số IE.457a chỉ dẫn khoảng cách đến nơi đ�
 
 
 ![alt_text](images/image56.png "image_tooltip")
-	
+
 
 <p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3826,7 +3826,7 @@ Thông thường, Biển số IE.457a chỉ dẫn khoảng cách đến nơi đ�
 
 
 ![alt_text](images/image58.png "image_tooltip")
-	
+
 
 <p id="gdcalert73" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert74">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3844,7 +3844,7 @@ Thông thường, Biển số IE.457a chỉ dẫn khoảng cách đến nơi đ�
 
 
 ![alt_text](images/image60.png "image_tooltip")
-	
+
 
 <p id="gdcalert75" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert76">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3862,7 +3862,7 @@ Thông thường, Biển số IE.457a chỉ dẫn khoảng cách đến nơi đ�
 
 
 ![alt_text](images/image62.png "image_tooltip")
-	
+
 
 <p id="gdcalert77" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert78">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3900,7 +3900,7 @@ Biển số IE.458 chỉ dẫn khoảng cách đến các trạm dừng nghỉ t
 
 
 ![alt_text](images/image65.png "image_tooltip")
-	
+
 
 <p id="gdcalert80" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image66.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert81">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3922,13 +3922,13 @@ Biển số IE.460** **chỉ dẫn cột  kilômét trên đường cao tốc đ
 
 
 ![alt_text](images/image67.png "image_tooltip")
-	
+
 
 <p id="gdcalert82" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image68.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert83">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image68.png "image_tooltip")
-	
+
 
 <p id="gdcalert83" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image69.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert84">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -3950,7 +3950,7 @@ Biển số IE.461 chỉ dẫn khoảng cách và hướng đến khu dịch v�
 
 
 ![alt_text](images/image70.png "image_tooltip")
-	
+
 
 <p id="gdcalert85" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image71.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert86">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -4006,7 +4006,7 @@ Biển số IE.463 chỉ dẫn đến trạm kiểm tra tải trọng xe (Hình 
 
 
 ![alt_text](images/image75.png "image_tooltip")
-	
+
 
 <p id="gdcalert90" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image76.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert91">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -4043,7 +4043,7 @@ Biển số IE.464 chỉ dẫn địa điểm và phương hướng dùng để 
 **a) Biển số IE.464a chỉ dẫn lối ra một chiều**
 
 
-    
+
 
 <p id="gdcalert93" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image79.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert94">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -4105,7 +4105,7 @@ Biển số IE.467a chỉ dẫn vị trí nhập làn xe tại các vị trí n�
 
 
 ![alt_text](images/image83.png "image_tooltip")
-	 
+
 
 <p id="gdcalert98" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image84.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert99">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -4143,7 +4143,7 @@ Biển số IE.469 (tiêu phản quang) chỉ dẫn hướng rẽ để nhắc n
 
 
 ![alt_text](images/image86.png "image_tooltip")
- 	
+
 
 <p id="gdcalert101" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image87.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert102">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -4292,7 +4292,7 @@ Biển số IE.474 sử dụng chữ màu trắng trên nền màu xanh lá cây
 
 **52.4. **Vạch kẻ đường phải bảo đảm cho xe chạy trên đường êm thuận, đảm bảo độ bám giữa lốp xe và mặt đường, không bị trơn trượt, không cao quá mặt đường 6 mm.
 
-**52.5. **Khi sử dụng, lựa chọn vạch kẻ đường phải đảm bảo hợp lý về tổ chức giao thông đối với từng tuyến đường và căn cứ vào chiều rộng mặt đường phần xe chạy, tốc độ xe chạy, lưu lượng, phương tiện và người đi bộ tham gia giao thông để quyết định. 
+**52.5. **Khi sử dụng, lựa chọn vạch kẻ đường phải đảm bảo hợp lý về tổ chức giao thông đối với từng tuyến đường và căn cứ vào chiều rộng mặt đường phần xe chạy, tốc độ xe chạy, lưu lượng, phương tiện và người đi bộ tham gia giao thông để quyết định.
 
 **52.6. **Đối với đường cao tốc, đường có tốc độ thiết kế ≥ 60 km/h và các đường có tốc độ V<sub>85</sub> từ 80 km/h trở lên, vạch kẻ đường phải có vật liệu phản quang. Các loại đường khác, căn cứ theo khả năng tài chính và yêu cầu khác mà có thể sử dụng vật liệu phản quang.
 
@@ -4304,19 +4304,19 @@ Biển số IE.474 sử dụng chữ màu trắng trên nền màu xanh lá cây
 
 **53.1.2. **Vạch đứng kẻ trên thành vỉa hè, các công trình giao thông và một số bộ phận khác của đường. Loại vạch này kết hợp giữa vạch vàng và vạch đen hoặc vạch trắng và vạch đỏ.
 
-**53.2.** Dựa vào phương pháp kẻ, vạch kẻ đường được chia thành ba loại như sau: 
+**53.2.** Dựa vào phương pháp kẻ, vạch kẻ đường được chia thành ba loại như sau:
 
 **53.2.1.** Vạch dọc đường là vạch kẻ dọc theo hướng xe chạy trên đường;
 
 **53.2.2.** Vạch ngang đường là vạch kẻ có hướng cắt ngang đường hoặc hình thành một góc chéo với hướng xe chạy;
 
-**53.2.3.** Các loại vạch khác là các loại ký hiệu chữ hoặc hình thức khác. 
+**53.2.3.** Các loại vạch khác là các loại ký hiệu chữ hoặc hình thức khác.
 
 **53.3. **Dựa vào chức năng, ý nghĩa sử dụng, vạch kẻ đường gồm: vạch hiệu lệnh, vạch cảnh báo, vạch chỉ dẫn, vạch giảm tốc độ.
 
-**53.4. **Dựa vào hình dáng, kiểu, vạch kẻ đường được chia thành hai loại sau: 
+**53.4. **Dựa vào hình dáng, kiểu, vạch kẻ đường được chia thành hai loại sau:
 
-**53.4.1.** Vạch trên mặt đường, trên thành vỉa hè (bó vỉa) hoặc ở ranh giới phân cách làn xe, gồm vạch kẻ liền và vạch kẻ đứt khúc; 
+**53.4.1.** Vạch trên mặt đường, trên thành vỉa hè (bó vỉa) hoặc ở ranh giới phân cách làn xe, gồm vạch kẻ liền và vạch kẻ đứt khúc;
 
 **  53.4.2.** Ký hiệu chữ và ký hiệu hình gồm chữ cái, chữ số hoặc hình vẽ trên mặt đường.
 
@@ -4336,7 +4336,7 @@ Vạch kẻ đường khi sử dụng độc lập thì người tham gia giao t
 
 **Điều 56. Tác dụng của cọc tiêu hoặc tường bảo vệ**
 
-Cọc tiêu hoặc tường bảo vệ đặt ở lề của các các đoạn đường nguy hiểm có tác dụng hướng dẫn cho người tham gia giao thông biết phạm vi phần đường an toàn và hướng đi của tuyến đường. 
+Cọc tiêu hoặc tường bảo vệ đặt ở lề của các các đoạn đường nguy hiểm có tác dụng hướng dẫn cho người tham gia giao thông biết phạm vi phần đường an toàn và hướng đi của tuyến đường.
 
 Tường bảo vệ còn có tác dụng hạn chế các phương tiện tham gia giao thông khỏi văng ra khỏi phần đường xe chạy. Tường bảo vệ đồng thời cần có tác dụng dẫn hướng cho lái xe vào ban đêm bằng vạch sơn đứng hoặc tiêu phản quang gắn trên đó.
 
@@ -4418,9 +4418,9 @@ Trên những đoạn đường nếu hàng cây có đủ điều kiện như s
 
 **61.1.1**. Tiêu phản quang là thiết bị dẫn hướng được gắn các công cụ phản quang để dẫn hướng xe chạy vào ban đêm hoặc trong điều kiện sương mù, điều kiện hạn chế tầm nhìn. Tiêu phản quang được bố trí tại các nơi mà tuyến đường có thể gây ngộ nhận hoặc lúng túng về hướng đường.
 
-**61.1.2**. Tiêu phản quang phải gắn công cụ phản quang cho phép nhìn rõ vào buổi tối dưới ánh đèn pha ôtô đạt tiêu chuẩn trong điều kiện thời tiết bình thường ở cự ly 300m. 
+**61.1.2**. Tiêu phản quang phải gắn công cụ phản quang cho phép nhìn rõ vào buổi tối dưới ánh đèn pha ôtô đạt tiêu chuẩn trong điều kiện thời tiết bình thường ở cự ly 300m.
 
-**61.1.3**. Công cụ phản quang có thể là các tấm nhựa phản quang, các khối kim loại gắn phản quang, màng phản quang dán trên các miếng kim loại v.v... Công cụ phản quang có thể có dạng hình tròn, hình chữ nhật, hình tam giác hoặc hình đa giác được gắn lên các lan can phòng hộ, tường bảo vệ hoặc gắn xuống mặt đường. Công cụ phản quang cũng bao gồm các vật liệu phản quang dạng dải quấn quanh các cọc tiêu phản quang. 
+**61.1.3**. Công cụ phản quang có thể là các tấm nhựa phản quang, các khối kim loại gắn phản quang, màng phản quang dán trên các miếng kim loại v.v... Công cụ phản quang có thể có dạng hình tròn, hình chữ nhật, hình tam giác hoặc hình đa giác được gắn lên các lan can phòng hộ, tường bảo vệ hoặc gắn xuống mặt đường. Công cụ phản quang cũng bao gồm các vật liệu phản quang dạng dải quấn quanh các cọc tiêu phản quang.
 
 **61.1.4**. Tiêu phản quang màu vàng được sử dụng ở các dải phân cách giữa, tại bên đường các đường một chiều hay bên phải của đường hai chiều. Tiêu phản quang màu đỏ được sử dụng cho hướng ngược chiều (bên trái) theo chiều đi của đường hai chiều (để cảnh báo người lái đi nhầm đường) và sử dụng cho các đường lánh nạn.
 
@@ -4436,15 +4436,15 @@ a) Trên các đường cao tốc:
 
 + Bố trí ít nhất một bên trên các nhánh nối của các nút giao khác mức liên thông.
 
-b) Trên các đường khác: nên sử dụng tiêu phản quang tại vị trí các đoạn đường bị thu hẹp phần đường xe chạy mà không có lan can phòng hộ, các đoạn đường đèo dốc quanh co hạn chế tầm nhìn, trong phạm vi đường lánh nạn, nơi đường bộ giao nhau với đường sắt. Nơi đường thường xuyên có sương mù cần bố trí tiêu phản quang trên các vật thể cứng liền kề phần xe chạy như các đầu đảo giao thông, bó vỉa v.v... khi khó nhận biết các vật thể này về ban đêm. 
+b) Trên các đường khác: nên sử dụng tiêu phản quang tại vị trí các đoạn đường bị thu hẹp phần đường xe chạy mà không có lan can phòng hộ, các đoạn đường đèo dốc quanh co hạn chế tầm nhìn, trong phạm vi đường lánh nạn, nơi đường bộ giao nhau với đường sắt. Nơi đường thường xuyên có sương mù cần bố trí tiêu phản quang trên các vật thể cứng liền kề phần xe chạy như các đầu đảo giao thông, bó vỉa v.v... khi khó nhận biết các vật thể này về ban đêm.
 
 **61.2.2.** Không cần sử dụng tiêu phản quang bố trí bên đường và trên dải phân cách trong các trường hợp sau:
 
- a) Trên mặt đường đã được gắn đinh phản quang liên tục; 
+ a) Trên mặt đường đã được gắn đinh phản quang liên tục;
 
  b) Đã sử dụng tiêu phản quang dạng mũi tên trong các đường cong;
 
- c) Tại những nơi có đèn đường chiếu sáng liên tục về ban đêm; 
+ c) Tại những nơi có đèn đường chiếu sáng liên tục về ban đêm;
 
  d) Làn đường mở rộng dần theo chiều xe chạy.
 
@@ -4679,7 +4679,7 @@ Trường hợp bề rộng dải phân cách giữa hẹp, không đặt đư�
 
 **69.3. **Khi thay đổi điểm gốc đường và điều chỉnh cục bộ hướng tuyến theo quyết định của cấp có thẩm quyền quy định ở khoản 69.2 Điều này mới đặt lại hệ thống cột kilômét. Nhà thầu bảo trì không được tự ý thay đổi vị trí cột kilômét.
 
-**69.4.** Khi không thể đặt cột kilômét chính xác tại lý trình yêu cầu do vướng chướng ngại vật thì cho phép dịch chuyển cột trong cự ly 50 m theo phương dọc đường. 
+**69.4.** Khi không thể đặt cột kilômét chính xác tại lý trình yêu cầu do vướng chướng ngại vật thì cho phép dịch chuyển cột trong cự ly 50 m theo phương dọc đường.
 
 **Điều 70. Tên địa danh và khoảng cách ghi trên cột kilômét**
 
@@ -4697,7 +4697,7 @@ Cột kilômét quy định như trên chỉ áp dụng trên các hệ thống 
 
 **72.2**.  Trường hợp tại vị trí cần cắm cọc H đã có hộ lan, tường bảo vệ hoặc các vật cứng cố định thì có thể viết hoặc gắn thông tin cọc H trực tiếp lên các kết cấu nói trên hoặc sử dụng dạng tấm gắn trên các kết cấu đó. Thông tin cần thể hiện trên cọc H xem Phụ lục I của Quy chuẩn này.
 
-**72.3.** Kích thước, hình dáng, màu sắc quy định tại Phụ lục I của Quy chuẩn này. 
+**72.3.** Kích thước, hình dáng, màu sắc quy định tại Phụ lục I của Quy chuẩn này.
 
 
 ## **Chương 13**
@@ -4811,7 +4811,7 @@ d) Đến giáp vị trí đường tắc, không cho phương tiện đi tiếp
 
 **Điều 82. Báo hiệu cấm đường trong những trường hợp khẩn cấp**
 
-Trong những trường hợp khẩn cấp phải cấm đường nhưng chưa kịp bố trí hệ thống báo hiệu theo quy định thì những tín hiệu sau đây có giá trị ngăn cấm đường: một cây chắn ngang đường, đồng thời có cờ đỏ hoặc vải đỏ thì treo ở giữa cây chắn, ban đêm dùng đèn đỏ thay cờ. Cần thiết có người gác hướng dẫn giao thông đứng ở vị trí giữa đường, hai tay giơ ngang vai làm lệnh, mặt hướng về phía xe chạy đến. 
+Trong những trường hợp khẩn cấp phải cấm đường nhưng chưa kịp bố trí hệ thống báo hiệu theo quy định thì những tín hiệu sau đây có giá trị ngăn cấm đường: một cây chắn ngang đường, đồng thời có cờ đỏ hoặc vải đỏ thì treo ở giữa cây chắn, ban đêm dùng đèn đỏ thay cờ. Cần thiết có người gác hướng dẫn giao thông đứng ở vị trí giữa đường, hai tay giơ ngang vai làm lệnh, mặt hướng về phía xe chạy đến.
 
 **Điều 83. Báo hiệu cấm từng phần mặt đường, lề đường, vỉa hè**
 
@@ -4841,7 +4841,7 @@ Khi cần thiết có thể bố trí kèm theo các thiết bị cảnh báo kh
 
 **84.2.1. **Gương cầu lồi sử dụng ở các vị trí đường cong bán kính nhỏ, bị che khuất tầm nhìn được đặt chủ yếu ở các đường cong ôm núi có tầm nhìn hạn chế.
 
-**84.2.2. **Vị trí gương cầu lồi đặt ở sát vai nền đường phía lưng, trên đường phân giác của góc đỉnh đường cong và mép dưới gương cao hơn cao độ vai đường là 1,2 m. 
+**84.2.2. **Vị trí gương cầu lồi đặt ở sát vai nền đường phía lưng, trên đường phân giác của góc đỉnh đường cong và mép dưới gương cao hơn cao độ vai đường là 1,2 m.
 
 **Điều 85. Dải phân cách**
 
@@ -4884,9 +4884,9 @@ c) Dải phân cách sử dụng lan can phòng hộ cứng xây cố định tr
 
 **Điều 87.  Nguyên tắc quản lý**
 
-**87.1.** Các tuyến đường bộ khi đưa vào khai thác phải bố trí, lắp đặt đầy đủ báo hiệu theo quy định của Quy chuẩn này; 
+**87.1.** Các tuyến đường bộ khi đưa vào khai thác phải bố trí, lắp đặt đầy đủ báo hiệu theo quy định của Quy chuẩn này;
 
-**87.2.** Lộ trình thay thế, điều chỉnh đối với báo hiệu đường bộ: 
+**87.2.** Lộ trình thay thế, điều chỉnh đối với báo hiệu đường bộ:
 
 **87.2.1.** Báo hiệu đường bộ thay thế, bổ sung mới phải tuân thủ theo quy định của Quy chuẩn này.
 
@@ -4912,14 +4912,14 @@ c) Dải phân cách sử dụng lan can phòng hộ cứng xây cố định tr
 
 **89.3.** Có trách nhiệm phát hiện, kiến nghị đến cơ quan quản lý đường bộ các hư hỏng, mất mát, không phù hợp của hệ thống báo hiệu đường bộ.
 
-**89.4.** Chịu trách nhiệm bồi thường các thiệt hại do làm hư hỏng, mất mát; bị xử lý theo quy định của pháp luật nếu làm thay đổi tác dụng hiệu lực báo hiệu đường bộ. 
+**89.4.** Chịu trách nhiệm bồi thường các thiệt hại do làm hư hỏng, mất mát; bị xử lý theo quy định của pháp luật nếu làm thay đổi tác dụng hiệu lực báo hiệu đường bộ.
 
 
 ## **PHẦN 4: TỔ CHỨC THỰC HIỆN**
 
 **Điều 90. Tổ chức thực hiện**
 
-**90.1. **Tổng cục Đường bộ Việt Nam có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Quy chuẩn này trên toàn mạng lưới đường bộ; triển khai thực hiện trên hệ thống Quốc lộ; xây dựng các bộ định hình, hướng dẫn việc thiết kế và lắp đặt hệ thống báo hiệu đường bộ, bảo đảm tính thống nhất, đồng bộ theo Quy chuẩn này. 
+**90.1. **Tổng cục Đường bộ Việt Nam có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Quy chuẩn này trên toàn mạng lưới đường bộ; triển khai thực hiện trên hệ thống Quốc lộ; xây dựng các bộ định hình, hướng dẫn việc thiết kế và lắp đặt hệ thống báo hiệu đường bộ, bảo đảm tính thống nhất, đồng bộ theo Quy chuẩn này.
 
 **90.2.** Sở Giao thông vận tải có trách nhiệm triển khai thực hiện Quy chuẩn này trên hệ thống Đường tỉnh, Đường huyện, Đường xã, Đường đô thị và Đường chuyên dùng trong phạm vi địa giới hành chính.
 
@@ -4945,17 +4945,17 @@ c) Dải phân cách sử dụng lan can phòng hộ cứng xây cố định tr
 
 **Hình A.1 - Các dạng đèn tín hiệu**
 
-a) Dạng đèn 1 Kiểu 1 là dạng đèn thường dùng, có 3 đèn tín hiệu xanh - vàng - đỏ. Ngoài ra còn các kiểu 2, 3, 4 các loại đèn báo hiệu cho phép ngoài đèn chính còn đèn mũi tên báo hiệu cho phép xe đi thẳng hoặc rẽ trái, rẽ phải, quay đầu. 
+a) Dạng đèn 1 Kiểu 1 là dạng đèn thường dùng, có 3 đèn tín hiệu xanh - vàng - đỏ. Ngoài ra còn các kiểu 2, 3, 4 các loại đèn báo hiệu cho phép ngoài đèn chính còn đèn mũi tên báo hiệu cho phép xe đi thẳng hoặc rẽ trái, rẽ phải, quay đầu.
 
 b) Dạng đèn 2 bao gồm các kiểu đèn ba màu hình mũi tên nhằm điều khiển các phương tiện theo các hướng cụ thể.
 
 c) Dạng đèn 3: Bên trái là đèn 2 mũi gạch chéo màu đỏ, bên phải là đèn mũi tên màu xanh. Khi tín hiệu màu đỏ sáng, các phương tiện phải dừng lại, khi đèn màu xanh sáng, các phương tiện được phép đi theo hướng mũi tên.
 
-d) Dạng đèn 4: Đèn tín hiệu 2 màu, xanh và đỏ. Kiểu 1 là đèn dạng đứng: tín hiệu đỏ ở trên, tín hiệu xanh ở dưới; Kiểu 2 là đèn dạng nằm ngang: đèn đỏ bên trái, đèn xanh bên phải. Tín hiệu màu đỏ các phương tiện dừng lại, tín hiệu màu xanh các phương tiện được đi. 
+d) Dạng đèn 4: Đèn tín hiệu 2 màu, xanh và đỏ. Kiểu 1 là đèn dạng đứng: tín hiệu đỏ ở trên, tín hiệu xanh ở dưới; Kiểu 2 là đèn dạng nằm ngang: đèn đỏ bên trái, đèn xanh bên phải. Tín hiệu màu đỏ các phương tiện dừng lại, tín hiệu màu xanh các phương tiện được đi.
 
 e) Dạng đèn 5: Đèn tín hiệu một màu đỏ. Kiểu 1 là đèn tròn, kiểu 2 là đèn chữ thập. Khi đèn sáng cấm đi, đặt phía sau nút giao theo chiều đi.
 
-i) Dạng đèn 6 gồm 4 tín hiệu màu trắng có đường kính từ 80 mm đến 100 mm: bảng bố trí đèn tín hiệu. 
+i) Dạng đèn 6 gồm 4 tín hiệu màu trắng có đường kính từ 80 mm đến 100 mm: bảng bố trí đèn tín hiệu.
 
 k) Dạng đèn 7 là đèn tín hiệu điều khiển người đi bộ, người đứng màu đỏ, người đi màu xanh. Khi tín hiệu đỏ sáng, người đi bộ không được phép đi, khi tín hiệu xanh sáng, người đi bộ được phép đi trong phần đường dành cho người đi bộ.  Kiểu 1: Tín hiệu đỏ bên trái, tín hiệu xanh bên phải; Kiểu 2: tín hiệu đỏ ở trên, tín hiệu xanh ở dưới.
 
@@ -5064,7 +5064,7 @@ e) Nếu phần xe chạy quá hẹp, biển đặt ở giữa phần xe chạy 
 
 
 ![alt_text](images/image97.jpg "image_tooltip")
- 
+
 
 **Hình B.1 - Biển số P.101**
 
@@ -5080,7 +5080,7 @@ b) Chiều đi ngược lại với chiều đặt biển P.102 là lối đi th
 
 
 ![alt_text](images/image98.jpg "image_tooltip")
- 
+
 
 **Hình B.2 - Biển số P.102**
 
@@ -5093,13 +5093,13 @@ Nếu đường cấm vì lý do đường, cầu bị yếu, có thể đặt h
 b) Để báo đường cấm các loại xe cơ giới kể cả xe máy 3 bánh có thùng rẽ phải hay rẽ trái, trừ xe máy 2 bánh, xe gắn máy và các xe được ưu tiên theo quy định, đặt biển số P.103b "Cấm xe ôtô rẽ phải" hay biển số P.103c "Cấm xe ôtô rẽ trái".
 
 
-    
+
 
 <p id="gdcalert113" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image99.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert114">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image99.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert114" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image100.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert115">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -5128,7 +5128,7 @@ b) Để báo đường cấm các loại xe cơ giới kể cả xe máy 3 bán
 
 
 ![alt_text](images/image102.jpg "image_tooltip")
- 
+
 
 **Hình B.4 - Biển số P.104**
 
@@ -5142,7 +5142,7 @@ b) Để báo đường cấm các loại xe cơ giới kể cả xe máy 3 bán
 
 
 ![alt_text](images/image103.jpg "image_tooltip")
- 
+
 
 **Hình B.5 - Biển số P.105**
 
@@ -5160,19 +5160,19 @@ c) Để báo đường cấm các xe chở hàng nguy hiểm, đặt biển s�
 
 
 ![alt_text](images/image104.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert119" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image105.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert120">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image105.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert120" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image106.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert121">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image106.jpg "image_tooltip")
- 
+
 
 
     **a) Biển số P.106a		b) Biển số P.106b		c) Biển số P.106c**
@@ -5184,13 +5184,13 @@ c) Để báo đường cấm các xe chở hàng nguy hiểm, đặt biển s�
 Để báo đường cấm xe ôtô chở khách và các loại xe ôtô tải kể cả các loại máy kéo và xe máy chuyên dùng đi qua trừ các xe được ưu tiên theo quy định, đặt biển số P.107 "Cấm xe ôtô khách và xe ôtô tải".
 
 
-    
+
 
 <p id="gdcalert121" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image107.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert122">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image107.jpg "image_tooltip")
- 
+
 
 
     **Hình B.7 - Biển số P.107**
@@ -5202,7 +5202,7 @@ a) Để báo đường cấm ôtô chở khách đi qua trừ các xe ưu tiên
 b) Trường hợp cấm xe khách theo số chỗ ngồi thì sử dụng biển phụ ghi số chỗ ngồi đối với các xe cần cấm hoặc ghi số chỗ ngồi vào biểu tượng xe bằng chữ trắng.
 
 
-    
+
 
 <p id="gdcalert122" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image108.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert123">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -5231,13 +5231,13 @@ b) Trường hợp cấm xe khách theo số chỗ ngồi thì sử dụng biể
 
 Để báo đường cấm các loại xe cơ giới kéo theo rơ-moóc kể cả xe máy, máy kéo, ôtô khách kéo theo rơ-moóc đi lại, trừ loại ôtô sơ-mi rơ-moóc và các xe được ưu tiên (có kéo theo rơ-moóc) theo quy định, đặt biển số P.108 "Cấm xe ôtô, máy kéo kéo rơ-moóc".
 
-. 
+.
 
 <p id="gdcalert124" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image110.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert125">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image110.jpg "image_tooltip")
- 
+
 
 **Hình B.8 - Biển số P.108**
 
@@ -5265,7 +5265,7 @@ b) Trường hợp cấm xe khách theo số chỗ ngồi thì sử dụng biể
 
 
 ![alt_text](images/image112.jpg "image_tooltip")
- 
+
 
 **Hình B.9 - Biển số P.109**
 
@@ -5295,38 +5295,38 @@ b) Để báo đường cấm xe đạp thồ đi qua, đặt biển số P.110b
 
 **B.11	Biển số P.111a "Cấm xe gắn máy", biển số P.111 (b,c) "Cấm xe ba bánh loại có động cơ" và biển số P.111d "Cấm xe ba bánh loại không có động cơ"**
 
-a) Để báo đường cấm xe gắn máy đi qua, đặt biển số P.111a "Cấm xe gắn máy". Biển không có giá trị đối với xe đạp. 
+a) Để báo đường cấm xe gắn máy đi qua, đặt biển số P.111a "Cấm xe gắn máy". Biển không có giá trị đối với xe đạp.
 
 b) Để báo đường cấm xe ba bánh loại có động cơ như xe lam, xe xích lô máy, xe lôi máy, v.v... đặt biển số P.111b hoặc P.111c "Cấm xe ba bánh loại có động cơ".
 
 c) Để báo đường cấm xe ba bánh loại không có động cơ như xe xích lô, xe lôi đạp, v.v... đặt biển số P.111d "Cấm xe ba bánh loại không có động cơ".
 
 
-    
+
 
 <p id="gdcalert129" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image115.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert130">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image115.jpg "image_tooltip")
- 	
+
 
 <p id="gdcalert130" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image116.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert131">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image116.jpg "image_tooltip")
- 	
+
 
 <p id="gdcalert131" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image117.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert132">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image117.jpg "image_tooltip")
- 	
+
 
 <p id="gdcalert132" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image118.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert133">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image118.jpg "image_tooltip")
- 
+
 
 
     **a) Biển số P.111a	b) Biển số P.111b	c) Biển số P.111c     d) Biển số P.111d**
@@ -5344,7 +5344,7 @@ c) Để báo đường cấm xe ba bánh loại không có động cơ như xe 
 
 
 ![alt_text](images/image119.jpg "image_tooltip")
- 
+
 
 **Hình B.12 - Biển số P.112**
 
@@ -5358,7 +5358,7 @@ c) Để báo đường cấm xe ba bánh loại không có động cơ như xe 
 
 
 ![alt_text](images/image120.jpg "image_tooltip")
- 
+
 
 **Hình B.13 - Biển số P.113**
 
@@ -5372,7 +5372,7 @@ c) Để báo đường cấm xe ba bánh loại không có động cơ như xe 
 
 
 ![alt_text](images/image121.jpg "image_tooltip")
- 
+
 
 **Hình B.14 - Biển số P.114**
 
@@ -5400,7 +5400,7 @@ c) Để báo đường cấm xe ba bánh loại không có động cơ như xe 
 
 
 ![alt_text](images/image123.jpg "image_tooltip")
- 
+
 
 **Hình B.16 - Biển số P.116**
 
@@ -5420,7 +5420,7 @@ d) Tất cả những vị trí trên đường có chiều cao tĩnh không dư
 
 
 ![alt_text](images/image124.jpg "image_tooltip")
- 
+
 
 **Hình B.17 - Biển số P.117**
 
@@ -5440,7 +5440,7 @@ d) Những vị trí trên đường có chướng ngại vật mà khoảng cá
 
 
 ![alt_text](images/image125.jpg "image_tooltip")
- 
+
 
 **Hình B.18 - Biển số P.118**
 
@@ -5450,7 +5450,7 @@ a) Để báo đường cấm các loại xe (cơ giới và thô sơ) kể cả
 
 b) Trị số ghi trên biển là chỉ độ dài cho phép lớn nhất tính bằng mét đối với xe đơn chiếc nhằm ngăn ngừa khả năng gây ách tắc giao thông.
 
-c) Biển được đặt ở những đoạn đường có bán kính đường cong nằm nhỏ, đèo dốc quanh co hoặc ở những đoạn đường mà xe có chiều dài lớn, gây nguy hiểm. 
+c) Biển được đặt ở những đoạn đường có bán kính đường cong nằm nhỏ, đèo dốc quanh co hoặc ở những đoạn đường mà xe có chiều dài lớn, gây nguy hiểm.
 
 
 
@@ -5458,7 +5458,7 @@ c) Biển được đặt ở những đoạn đường có bán kính đường
 
 
 ![alt_text](images/image126.jpg "image_tooltip")
- 
+
 
 **Hình B.19 - Biển số P.119**
 
@@ -5474,7 +5474,7 @@ b) Trị số ghi trên biển là chỉ độ dài cho phép lớn nhất tính
 
 
 ![alt_text](images/image127.jpg "image_tooltip")
- 
+
 
 **Hình B.20 - Biển số P.120**
 
@@ -5510,13 +5510,13 @@ c) Trước khi đặt biển cấm rẽ, có thể đặt biển chỉ dẫn 
 
 
 ![alt_text](images/image129.jpg "image_tooltip")
- 			
+
 
 <p id="gdcalert144" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image130.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert145">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image130.jpg "image_tooltip")
- 
+
 
 **a) Biển số P.123a			b) Biển số P.123b**
 
@@ -5528,13 +5528,13 @@ a) Để báo cấm các loại xe quay đầu (theo kiểu chữ U), đặt bi�
 
 b) Để báo cấm xe ôtô quay đầu (theo kiểu chữ U), đặt biển số P.124b "Cấm ôtô quay đầu xe". Chiều mũi tên phù hợp với chiều cấm xe ô tô quay đầu.
 
-c) Để báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, đặt biển P.124c “Cấm rẽ trái và quay đầu xe”. 
+c) Để báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, đặt biển P.124c “Cấm rẽ trái và quay đầu xe”.
 
-d) Để báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, đặt biển P.124d “Cấm rẽ phải và quay đầu xe”. 
+d) Để báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, đặt biển P.124d “Cấm rẽ phải và quay đầu xe”.
 
-e) Để báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu, đặt biển P.124e “Cấm ôtô rẽ trái và quay đầu xe”. 
+e) Để báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu, đặt biển P.124e “Cấm ôtô rẽ trái và quay đầu xe”.
 
-f) Để báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu, đặt biển P.124f “Cấm ôtô rẽ phải và quay đầu xe”. 
+f) Để báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu, đặt biển P.124f “Cấm ôtô rẽ phải và quay đầu xe”.
 
 g) Biển số P.124a có hiệu lực cấm các loại xe (cơ giới và thô sơ) và biển số P.124b có hiệu lực cấm xe ôtô và xe máy 3 bánh (side car) quay đầu (theo kiểu chữ U) trừ các xe được ưu tiên theo quy định.
 
@@ -5548,19 +5548,19 @@ h) Nếu đặt biển "Cấm quay đầu xe" hay biển "Cấm ôtô quay đầ
 
 
 ![alt_text](images/image131.png "image_tooltip")
-hoặc 
+hoặc
 
 <p id="gdcalert146" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image132.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert147">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image132.png "image_tooltip")
- 	
+
 
 <p id="gdcalert147" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image133.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert148">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image133.png "image_tooltip")
-hoặc 
+hoặc
 
 <p id="gdcalert148" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image134.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert149">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -5576,25 +5576,25 @@ hoặc
 
 
 ![alt_text](images/image135.png "image_tooltip")
-        
+
 
 <p id="gdcalert150" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image136.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert151">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image136.png "image_tooltip")
-   	
+
 
 <p id="gdcalert151" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image137.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert152">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image137.png "image_tooltip")
-         
+
 
 <p id="gdcalert152" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image138.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert153">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image138.png "image_tooltip")
- 	
+
 
 **    c) Biển số P.124c	d) Biển số P.124d	  e) Biển số P.124e   f) Biển số P.124f**
 
@@ -5648,7 +5648,7 @@ c) Số ghi trên biển tốc độ tối đa cho phép tính bằng km/h và t
 
 d) Không nên quy định tốc độ tối đa cho phép nhỏ hơn 40 km/h và lớn hơn 120 km/h. Không sử dụng biển số P.127 một cách tràn lan khi không có nghiên cứu cụ thể;
 
-e) Trong trường hợp chuyển tiếp từ giá trị tốc độ lớn xuống giá trị tốc độ nhỏ mà sự chênh lệch giữa hai giá trị tốc độ này lớn thì nên đặt biển tốc độ tối đa trung gian. Đoạn chuyển tiếp trung gian được quy định là không nhỏ hơn 250 m cho việc chuyển tiếp từ tốc độ 120 km/h xuống 100 km/h; 200 m cho cho việc chuyển tiếp từ tốc độ 100 km/h xuống 80 km/h; 150 m cho việc chuyển tiếp từ tốc độ 80 km/h xuống 60 km/h; 180 m cho việc chuyển tiếp từ tốc độ 90 km/h xuống 60 km/h hoặc từ tốc độ 80 km/h xuống 50 km/h; 
+e) Trong trường hợp chuyển tiếp từ giá trị tốc độ lớn xuống giá trị tốc độ nhỏ mà sự chênh lệch giữa hai giá trị tốc độ này lớn thì nên đặt biển tốc độ tối đa trung gian. Đoạn chuyển tiếp trung gian được quy định là không nhỏ hơn 250 m cho việc chuyển tiếp từ tốc độ 120 km/h xuống 100 km/h; 200 m cho cho việc chuyển tiếp từ tốc độ 100 km/h xuống 80 km/h; 150 m cho việc chuyển tiếp từ tốc độ 80 km/h xuống 60 km/h; 180 m cho việc chuyển tiếp từ tốc độ 90 km/h xuống 60 km/h hoặc từ tốc độ 80 km/h xuống 50 km/h;
 
 
 
@@ -5660,11 +5660,11 @@ e) Trong trường hợp chuyển tiếp từ giá trị tốc độ lớn xuố
 
 **Hình B.27a - Toán đồ xác định tốc độ hạn chế tối đa theo tầm nhìn xe chạy và độ dốc dọc đường (sử dụng để tham khảo)**
 
-g) Trường hợp đường qua cầu tạm, cầu yếu, qua cầu phao, đường vào phà, trạm kiểm tra giao thông, qua hầm, qua trạm thu phí, trạm kiểm tra tải trọng xe, thì tuỳ theo yêu cầu kỹ thuật để quy định tốc độ tối đa cho phép. 
+g) Trường hợp đường qua cầu tạm, cầu yếu, qua cầu phao, đường vào phà, trạm kiểm tra giao thông, qua hầm, qua trạm thu phí, trạm kiểm tra tải trọng xe, thì tuỳ theo yêu cầu kỹ thuật để quy định tốc độ tối đa cho phép.
 
 h) Trường hợp đường qua công trường đang thi công sử dụng biển cảnh báo công trường, trường hợp cần thiết thì sử dụng biển hạn chế tốc độ tối đa cho phép tạm thời. Hết phạm vi công trường cần có biển báo hết cấm. Khi công trường hoàn thành hoặc ngừng thi công, phải tháo bỏ biển báo cấm tạm thời ngay sau khi khôi phục lại giao thông bình thường;
 
-i) Khi sử dụng biển số P.127 tại các đoạn nhập làn và tách làn của các vị trí ra và vào đường ô tô, để chỉ rõ hiệu lực của biển chỉ có tác dụng cho các xe nhập làn và tách làn tại vị trí này, sử dụng kèm biển số S.509, trên biển ghi chữ “Lối vào” hoặc “Lối ra” tương ứng.   
+i) Khi sử dụng biển số P.127 tại các đoạn nhập làn và tách làn của các vị trí ra và vào đường ô tô, để chỉ rõ hiệu lực của biển chỉ có tác dụng cho các xe nhập làn và tách làn tại vị trí này, sử dụng kèm biển số S.509, trên biển ghi chữ “Lối vào” hoặc “Lối ra” tương ứng.
 
 
 
@@ -5672,17 +5672,17 @@ i) Khi sử dụng biển số P.127 tại các đoạn nhập làn và tách l�
 
 
 ![alt_text](images/image142.jpg "image_tooltip")
- 
+
 
 **Hình B.27b - Biển số P.127**
 
 **B.27a	Biển số P.127a "Tốc độ tối đa cho phép về ban đêm"**
 
-a) Khi cần quy định tốc độ tối đa về ban đêm cho các phương tiện, đặt biển số P.127a “Tốc độ tối đa cho phép về ban đêm”. 
+a) Khi cần quy định tốc độ tối đa về ban đêm cho các phương tiện, đặt biển số P.127a “Tốc độ tối đa cho phép về ban đêm”.
 
-Áp dụng biển số P.127a cho một số trường hợp qua khu đông dân cư vào ban đêm nhằm mục đích nâng cao tốc độ vận hành khi đường ít xe chạy. Biển chỉ có hiệu lực trong thời gian ghi trên biển và trong phạm vi từ vị trí đặt biển đến vị trí biển số R.421 “Hết khu đông dân cư”. Biển được đặt sau vị trí biển số R.420 “Bắt đầu khu đông dân cư”. 
+Áp dụng biển số P.127a cho một số trường hợp qua khu đông dân cư vào ban đêm nhằm mục đích nâng cao tốc độ vận hành khi đường ít xe chạy. Biển chỉ có hiệu lực trong thời gian ghi trên biển và trong phạm vi từ vị trí đặt biển đến vị trí biển số R.421 “Hết khu đông dân cư”. Biển được đặt sau vị trí biển số R.420 “Bắt đầu khu đông dân cư”.
 
-b) Số ghi trên biển tốc độ tối đa cho phép lớn nhất về ban đêm tính bằng  km/h và không lớn hơn 80 km/h. Người tham gia giao thông về ban đêm không được vượt quá giá trị tốc độ ghi trên biển trừ một số trường hợp ưu tiên được quy định. Trong phạm vi hiệu lực của biển P.127a ”Tốc độ tối đa cho phép về ban đêm”, nếu gặp biển số P.127 “Tốc độ tối đa cho phép” thì người lái phải tuân thủ theo giá trị tốc độ tối đa quy định ghi trên biển số P.127. 
+b) Số ghi trên biển tốc độ tối đa cho phép lớn nhất về ban đêm tính bằng  km/h và không lớn hơn 80 km/h. Người tham gia giao thông về ban đêm không được vượt quá giá trị tốc độ ghi trên biển trừ một số trường hợp ưu tiên được quy định. Trong phạm vi hiệu lực của biển P.127a ”Tốc độ tối đa cho phép về ban đêm”, nếu gặp biển số P.127 “Tốc độ tối đa cho phép” thì người lái phải tuân thủ theo giá trị tốc độ tối đa quy định ghi trên biển số P.127.
 
 
 
@@ -5690,7 +5690,7 @@ b) Số ghi trên biển tốc độ tối đa cho phép lớn nhất về ban �
 
 
 ![alt_text](images/image143.jpg "image_tooltip")
- 
+
 
 **Hình B.27c - Biển số P.127a**
 
@@ -5698,7 +5698,7 @@ b) Số ghi trên biển tốc độ tối đa cho phép lớn nhất về ban �
 
 a) Khi quy định tốc độ tối đa cho phép trên từng làn đường, nếu chỉ sử dụng biển đặt bên đường hoặc trên cột cần vươn hay giá long môn, sử dụng biển số P.127b. Xe chạy trên làn nào phải tuân thủ tốc độ tối đa cho phép trên làn đường đó.
 
-b) Biển số P.127b là biển hình chữ nhật nền màu xanh, trên đó thể hiện tốc độ tối đa trên các làn đường. Biển đặt bên đường hoặc treo trên giá long môn, cột cần vươn. 
+b) Biển số P.127b là biển hình chữ nhật nền màu xanh, trên đó thể hiện tốc độ tối đa trên các làn đường. Biển đặt bên đường hoặc treo trên giá long môn, cột cần vươn.
 
 
 
@@ -5716,7 +5716,7 @@ a) Khi quy định tốc độ tối đa cho phép theo phương tiện trên t�
 
 b) Biển số P.127c là biển hình chữ nhật nền màu xanh, trên đó thể hiện tốc độ tối đa trên các làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn hay giá long môn. Biểu tượng trên biển có thể thay đổi theo điều kiện sử dụng thực tế.
 
- 
+
 
 <p id="gdcalert159" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image145.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert160">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -5741,7 +5741,7 @@ b) Biển có giá trị báo cho người tham gia giao thông biết hiệu l�
 
 
 <img src="images/image146.jpg" width="" alt="alt_text" title="image_tooltip">
-  
+
 <p>
 <strong>               Biển số DP.127a                                                            </strong>
    </td>
@@ -5763,7 +5763,7 @@ b) Biển có giá trị báo cho người tham gia giao thông biết hiệu l�
 
 
 <img src="images/image148.jpg" width="" alt="alt_text" title="image_tooltip">
- 
+
 <p>
 <strong>Biển số DP.127c</strong>
    </td>
@@ -5786,7 +5786,7 @@ b) Chiều dài có hiệu lực của biển cấm sử dụng còi được b�
 
 
 ![alt_text](images/image149.jpg "image_tooltip")
- 
+
 
 **Hình B.28 - Biển số P.128**
 
@@ -5800,7 +5800,7 @@ b) Chiều dài có hiệu lực của biển cấm sử dụng còi được b�
 
 
 ![alt_text](images/image150.jpg "image_tooltip")
- 
+
 
 **Hình B.29 - Biển số P.129**
 
@@ -5812,7 +5812,7 @@ Biển có hiệu lực cấm các loại xe cơ giới dừng và đỗ ở ph�
 
 b) Hiệu lực cấm của biển bắt đầu từ vị trí đặt biển đến nơi đường giao nhau hoặc đến vị trí quy định đỗ xe, dừng xe (hoặc đến vị trí đặt biển số DP.135 "Hết tất cả các lệnh cấm" nếu đồng thời có nhiều biển cấm khác hết tác dụng). Nếu cần thể hiện đặc biệt thì vị trí bắt đầu cấm phải dùng biển số S.503f và vị trí kết thúc, dùng biển số S.503d "Hướng tác dụng của biển" đặt bên dưới biển chính.
 
-c) Trong trường hợp chỉ cấm dừng, đỗ xe vào thời gian nhất định thì dùng biển số S.508 (a, b).  
+c) Trong trường hợp chỉ cấm dừng, đỗ xe vào thời gian nhất định thì dùng biển số S.508 (a, b).
 
 d) Trong phạm vi có hiệu lực của biển, nếu có chỗ mở dải phân cách cho phép xe quay đầu thì cần đặt thêm biển số P.130 nhắc lại.
 
@@ -5822,7 +5822,7 @@ d) Trong phạm vi có hiệu lực của biển, nếu có chỗ mở dải ph�
 
 
 ![alt_text](images/image151.jpg "image_tooltip")
- 
+
 
 **Hình B.30 - Biển số P.130**
 
@@ -5848,19 +5848,19 @@ c) Trong phạm vi có hiệu lực của biển, nếu có chỗ mở dải ph�
 
 
 ![alt_text](images/image152.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert168" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image153.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert169">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image153.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert169" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image154.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert170">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image154.jpg "image_tooltip")
- 
+
 
 
     **a) Biển số P.131a		b) Biển số P.131b		c) Biển số P.131c**
@@ -5879,7 +5879,7 @@ b) Biển có hiệu lực đối với các loại xe cơ giới và thô sơ k
 
 
 ![alt_text](images/image155.jpg "image_tooltip")
- 
+
 
 **Hình B.32 - Biển số P.132**
 
@@ -5927,7 +5927,7 @@ b) Biển có giá trị báo cho người tham gia giao thông biết hiệu l�
 
 
 ![alt_text](images/image158.jpg "image_tooltip")
- 
+
 
 **Hình B.35 - Biển số DP.135**
 
@@ -5941,7 +5941,7 @@ b) Biển có giá trị báo cho người tham gia giao thông biết hiệu l�
 
 
 ![alt_text](images/image159.jpg "image_tooltip")
- 
+
 
 **Hình B.36 - Biển số P.136**
 
@@ -5957,7 +5957,7 @@ Các ngả đường phía trước cấm tất cả các loại xe (trừ xe ư
 
 
 ![alt_text](images/image160.jpg "image_tooltip")
- 
+
 
 **Hình B.37 - Biển số P.137**
 
@@ -5971,7 +5971,7 @@ Biểu thị đường qua nút giao cấm tất cả các loại xe (trừ xe �
 
 
 ![alt_text](images/image161.jpg "image_tooltip")
- 
+
 
 **Hình B.38 - Biển số P.138**
 
@@ -5985,7 +5985,7 @@ Biểu thị đường qua nút giao cấm tất cả các loại xe (trừ xe �
 
 
 ![alt_text](images/image162.jpg "image_tooltip")
- 
+
 
 **Hình B.39 - Biển số P.139**
 
@@ -5999,7 +5999,7 @@ Biểu thị đường qua nút giao cấm tất cả các loại xe (trừ xe �
 
 
 ![alt_text](images/image163.jpg "image_tooltip")
- 
+
 
 **Hình B.40 - Biển số P.140**
 
@@ -6056,13 +6056,13 @@ d) Sau đoạn thẳng dài từ 1 km trở lên thì đường cong đầu tiê
 - Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.
 
                                                                \
-                                
+
 
 <p id="gdcalert181" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image166.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert182">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image166.jpg "image_tooltip")
-                                
+
 
 <p id="gdcalert182" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image167.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert183">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6092,7 +6092,7 @@ b) Hai chỗ ngoặt gọi là gần nhau khi đoạn thẳng từ tiếp cuối
 
 
 ![alt_text](images/image168.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert184" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image169.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert185">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6172,25 +6172,25 @@ b) Các đoạn đầu và cuối đường có dải phân cách giữa chuyể
 
 
 ![alt_text](images/image174.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert190" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image175.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert191">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image175.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert191" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image176.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert192">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image176.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert192" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image177.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert193">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image177.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert193" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image178.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert194">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6232,13 +6232,13 @@ e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên t
 
 
 ![alt_text](images/image180.jpg "image_tooltip")
-	   
+
 
 <p id="gdcalert196" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image181.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert197">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image181.jpg "image_tooltip")
-	     
+
 
 <p id="gdcalert197" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image182.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert198">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6249,13 +6249,13 @@ e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên t
 **                 a) Biển số W.207a   b) Biển số W.207b    c) Biển số W.207c**
 
 
-            
+
 
 <p id="gdcalert198" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image183.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert199">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image183.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert199" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image184.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert200">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6343,7 +6343,7 @@ d) Trường hợp đặt biển số W.208 ở trong khu đông dân cư, biể
 
 a) Để báo trước nơi giao nhau có điều khiển giao thông bằng tín hiệu đèn trong trường hợp người tham gia giao thông khó quan sát thấy đèn để kịp thời xử lý, đặt biển số W.209 "Giao nhau có tín hiệu đèn". Trường hợp dễ dàng nhận biết đèn tín hiệu thì không nên đặt biển số W.209.
 
-b) Biển số W.209 có thể được dùng bổ sung hoặc thay thế cho các biển số W.205, W.206, W.207, W.208. 
+b) Biển số W.209 có thể được dùng bổ sung hoặc thay thế cho các biển số W.205, W.206, W.207, W.208.
 
 
 
@@ -6380,13 +6380,13 @@ c) Nơi đặt biển số W.211a, đặt thêm biển số W.242(a,b) "Nơi đ�
 d) Để chỉ nơi đường bộ giao nhau cùng mức với đường tàu điện, đặt biển số W.211b "Giao nhau với đường tàu điện". Chỉ cần thiết phải đặt biển này khi đường tàu điện không được nhìn thấy rõ ràng và kịp thời.
 
 
-        
+
 
 <p id="gdcalert210" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image194.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert211">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image194.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert211" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image195.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert212">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6404,7 +6404,7 @@ d) Để chỉ nơi đường bộ giao nhau cùng mức với đường tàu đ
 Để báo trước sắp đến cầu hẹp là loại cầu có chiều rộng phần xe chạy nhỏ hơn hoặc bằng 4,50 m, đặt biển số W.212 "Cầu hẹp". Khi qua các cầu này lái xe phải đi chậm, quan sát, nhường nhau và dừng lại chờ ở hai đầu cầu.
 
 
-        
+
 
 <p id="gdcalert212" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image196.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert213">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6437,7 +6437,7 @@ b) Nếu trọng tải của cầu thấp và khổ cầu hẹp thì đặt thê
 Để báo phía trước gặp cầu quay, cầu cất là loại cầu trong từng thời gian có cắt giao thông đường bộ bằng cách quay hoặc nâng nhịp thông thuyền để cho tàu thuyền qua lại, đặt biển số W.214 "Cầu quay - cầu cất". Các phương tiện đi trên đường bộ phải dừng lại chờ đợi.
 
 
-        
+
 
 <p id="gdcalert214" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image198.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert215">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6458,13 +6458,13 @@ b) Nếu trọng tải của cầu thấp và khổ cầu hẹp thì đặt thê
 
 
 ![alt_text](images/image199.jpg "image_tooltip")
- 		
+
 
 <p id="gdcalert216" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image200.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert217">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image200.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert217" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image201.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert218">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6486,7 +6486,7 @@ b) Đường ngầm là những đoạn đường vượt qua sông, suối, khe
 c) Ở hai đầu đường ngầm phải đặt cột báo mức nước (cột thủy chí).
 
 
-           
+
 
 <p id="gdcalert218" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image202.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert219">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6594,13 +6594,13 @@ Người lái các phương tiện phải lựa chọn phương thức chạy xe
 
 Để báo trước sắp tới đoạn đường có mặt đường không bằng phẳng, lồi lõm, v.v... xe chạy với tốc độ cao sẽ nguy hiểm, đặt biển số W.221 (a,b):
 
-- Biển số W.221a "Đường lồi lõm" đặt trong trường hợp đường đang tốt, xe chạy nhanh lại đột ngột chuyển sang những đoạn lồi lõm, gập ghềnh, ổ gà, lượn sóng; 
+- Biển số W.221a "Đường lồi lõm" đặt trong trường hợp đường đang tốt, xe chạy nhanh lại đột ngột chuyển sang những đoạn lồi lõm, gập ghềnh, ổ gà, lượn sóng;
 
 - Những đoạn đường khi xe chỉ chạy được tốc độ dưới 50 km/h hoặc khi bố trí vạch sơn giảm tốc thì không phải đặt biển số W.221a trong trường hợp trên.
 
 - Chiều dài của đoạn đường không bằng phẳng được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
 
-- Biển số W.221b báo hiệu đoạn "Đường có gồ giảm tốc" để cảnh báo xe đi chậm trước khi qua những điểm có gồ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng; 
+- Biển số W.221b báo hiệu đoạn "Đường có gồ giảm tốc" để cảnh báo xe đi chậm trước khi qua những điểm có gồ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng;
 
 
 
@@ -6608,7 +6608,7 @@ Người lái các phương tiện phải lựa chọn phương thức chạy xe
 
 
 ![alt_text](images/image208.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert225" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image209.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert226">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6629,13 +6629,13 @@ a) Để báo trước sắp tới đoạn đường có thể xảy ra trơn tr
 b) Để báo những nơi lề đường không ổn định, khi xe đi vào dễ gây văng đất đá hoặc bánh xe quay tại chỗ, đặt biển số W.222b "Lề đường nguy hiểm".
 
 
-        
+
 
 <p id="gdcalert226" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image210.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert227">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image210.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert227" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image211.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert228">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6653,19 +6653,19 @@ b) Để báo những nơi lề đường không ổn định, khi xe đi vào d
 
 Để báo hiệu đường đi sát vách núi, đặt biển báo nguy hiểm số W.223(a,b) "Vách núi nguy hiểm". Biển dùng để báo nguy hiểm cho người tham gia giao thông phải cẩn thận. Biển đặt ở nơi sắp vào đoạn đường đi sát vách núi vừa hẹp vừa hạn chế tầm nhìn. Khi dùng biển cần chú ý vách núi nằm ở bên trái hay bên phải đường để đặt biển W.223a hoặc biển W.223b cho phù hợp.
 
-            
+
 
 <p id="gdcalert228" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image212.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert229">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image212.jpg "image_tooltip")
-		                     
+
 
 <p id="gdcalert229" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image213.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert230">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image213.jpg "image_tooltip")
-		
+
 
 
     **                  a) Biển số W.223a			      b) Biển số W.223b**
@@ -6675,7 +6675,7 @@ b) Để báo những nơi lề đường không ổn định, khi xe đi vào d
 
 **C.24	Biển số W.224 "Đường người đi bộ cắt ngang"**
 
-a) Để báo trước sắp tới phần đường dành cho người đi bộ sang qua đường, đặt biển số W.224 "Đường người đi bộ cắt ngang". Gặp biển này các xe phải giảm tốc độ, nhường ưu tiên cho người đi bộ và chỉ được chạy xe khi không gây nguy hiểm cho người đi bộ.    
+a) Để báo trước sắp tới phần đường dành cho người đi bộ sang qua đường, đặt biển số W.224 "Đường người đi bộ cắt ngang". Gặp biển này các xe phải giảm tốc độ, nhường ưu tiên cho người đi bộ và chỉ được chạy xe khi không gây nguy hiểm cho người đi bộ.
 
 b) Phần đường dành cho người đi bộ cắt ngang tại nơi đường giao nhau, trong nội thành, nội thị nơi người qua lại nhiều phải được sơn kẻ vạch đường dành cho người đi bộ.
 
@@ -6751,7 +6751,7 @@ b) Để báo trước nơi có kết cấu mặt đường rời rạc, khi ph�
 c) Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
 
 
-        
+
 
 <p id="gdcalert234" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image218.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert235">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -6946,7 +6946,7 @@ c) Khi chiều cao an toàn > 5,5 m không phải đặt biển W.239(a, b), ngo
 
 _Chiều cao an toàn_: là chiều cao từ điểm võng tĩnh thấp nhấp ở trạng thái võng cực đại đến điểm cao nhất của công trình trừ đi chiều cao phóng điện an toàn theo cấp điện.
 
-_Chiều cao tĩnh không thực tế:_ là khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật. 
+_Chiều cao tĩnh không thực tế:_ là khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật.
 
 
 
@@ -6954,7 +6954,7 @@ _Chiều cao tĩnh không thực tế:_ là khoảng cách từ điểm cao nh�
 
 
 ![alt_text](images/image232.jpg "image_tooltip")
-               
+
 
 <p id="gdcalert249" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image233.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert250">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7011,7 +7011,7 @@ _Chiều cao tĩnh không thực tế:_ là khoảng cách từ điểm cao nh�
 
 
 ![alt_text](images/image236.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert253" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image237.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert254">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7030,19 +7030,19 @@ _Chiều cao tĩnh không thực tế:_ là khoảng cách từ điểm cao nh�
 Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn, đặt biển số W.243 "Nơi đường sắt giao không vuông góc với đường bộ". Biển được đặt ở phía dưới biển số W.211 “Giao nhau với đường sắt không có rào chắn”. Báo hiệu đường sắt giao cắt không vuông góc với đường bộ gồm có 3 biển: biển số W.243a đặt ở nơi cách ray gần nhất nơi giao đường sắt 50 m, biển số W.243b và biển số W.243c đặt cách ray gần nhất nơi giao  đường sắt 100 m và 150 m.
 
 
-               
+
 
 <p id="gdcalert254" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image238.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert255">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image238.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert255" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image239.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert256">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image239.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert256" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image240.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert257">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7077,13 +7077,13 @@ Dùng để nhắc lái xe giảm tốc độ đi chậm, đặt biển số W.2
 
 Đối với các tuyến đường đối ngoại, bắt buộc dùng biển số W.245b.
 
-                             
+
 
 <p id="gdcalert258" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image242.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert259">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image242.jpg "image_tooltip")
-     		 
+
 
 <p id="gdcalert259" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image243.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert260">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7101,7 +7101,7 @@ Dùng để nhắc lái xe giảm tốc độ đi chậm, đặt biển số W.2
 
 Dùng để báo trước cho lái xe biết phía trước có chướng ngại vật, xe cần giảm tốc độ và đi theo chỉ dẫn trên biển báo, đặt biển số W.246a "Chú ý chướng ngại vật - Vòng tránh ra hai bên", biển số W.246b "Chú ý chướng ngại vật - Vòng tránh sang bên trái” và biển số W.246c "Chú ý chướng ngại vật - Vòng tránh sang bên phải”. Biển này đặt ở vị trí thích hợp trước khi đến đoạn đường có chướng ngại vật.
 
-	
+
 
 
 
@@ -7186,7 +7186,7 @@ a) Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hư�
 
 b) Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-- Biển số R.301a: các xe chỉ được đi thẳng; 
+- Biển số R.301a: các xe chỉ được đi thẳng;
 
 - Biển số R.301b: các xe chỉ được rẽ phải;
 
@@ -7215,7 +7215,7 @@ c) Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hi�
 - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
 
 
-    
+
 
 <p id="gdcalert266" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image249.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert267">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7247,18 +7247,18 @@ c) Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hi�
 
 a) Để báo các loại xe (cơ giới và thô sơ) hướng đi để qua một chướng ngại vật, đặt biển số R.302(a,b,c) "Hướng phải đi vòng chướng ngại vật". Biển số R.302(a,b) còn dùng kết hợp với biển P.102 tại dải phân cách để báo hiệu chiều đi của phần đường một chiều.
 
-b) Biển được đặt trước chướng ngại vật và tùy theo hướng đi: chỉ được vòng sang phải; chỉ được vòng sang trái; hay phải vòng sang trái hoặc sang phải mà lựa chọn kiểu biển cho phù hợp. 
+b) Biển được đặt trước chướng ngại vật và tùy theo hướng đi: chỉ được vòng sang phải; chỉ được vòng sang trái; hay phải vòng sang trái hoặc sang phải mà lựa chọn kiểu biển cho phù hợp.
 
 c) Biển có hiệu lực bắt buộc các loại xe phải đi vòng chướng ngại vật theo hướng mũi tên chỉ.
 
 <p style="text-align: right">
-                    
+
 
 <p id="gdcalert268" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image251.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert269">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image251.jpg" width="" alt="alt_text" title="image_tooltip">
-                                      
+
 
 <p id="gdcalert269" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image252.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert270">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7336,7 +7336,7 @@ a) Để báo tốc độ tối thiểu cho phép các xe cơ giới chạy, đ�
 
 b) Biển có hiệu lực bắt buộc các loại xe cơ giới vận hành với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Các loại xe có tốc độ tối đa theo quy định của nhà sản xuất không đạt tốc độ tối thiểu đã ghi trên biển không được phép đi vào đường này.
 
-c) Trị số ghi trên biển chỉ tốc độ tối thiểu cho phép tính bằng km/h và được quy định tùy theo tiêu chuẩn kỹ thuật của cầu đường và tổ chức giao thông, không được quy định trị số lớn hơn trị số tốc độ an toàn. 
+c) Trị số ghi trên biển chỉ tốc độ tối thiểu cho phép tính bằng km/h và được quy định tùy theo tiêu chuẩn kỹ thuật của cầu đường và tổ chức giao thông, không được quy định trị số lớn hơn trị số tốc độ an toàn.
 
 d) Kiểu biển này chỉ áp dụng trên những đoạn đường cần nâng cao năng lực thông xe, ở ngoài khu đông dân cư, xe chạy với tốc độ cao.
 
@@ -7371,13 +7371,13 @@ b) Biển có giá trị báo cho người tham gia giao thông biết hiệu l�
 Biểu thị phía trước có cầu vượt, xe có thể đi thẳng hoặc theo chỉ dẫn trên hình vẽ để rẽ trái (hay rẽ phải), đặt biển số R.308 (a,b) “Tuyến đường cầu vượt cắt qua”. Biển đặt tại vị trí thích hợp trước cầu vượt để hướng dẫn xe đi thẳng hoặc rẽ trái (hay rẽ phải).
 
 
-        
+
 
 <p id="gdcalert276" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image259.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert277">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image259.jpg "image_tooltip")
-		           	
+
 
 <p id="gdcalert277" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image260.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert278">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7394,7 +7394,7 @@ Biểu thị phía trước có cầu vượt, xe có thể đi thẳng hoặc t
 
 Biểu thị xe cộ đi đến vị trí đặt biển đó thì phải ấn còi. Đặt biển ở trước khúc đường ngoặt gấp hoặc sắp vào đường đèo dốc dọc lớn hơn 10%, tầm nhìn bị hạn chế.
 
-    
+
 
 <p id="gdcalert278" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image261.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert279">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7435,17 +7435,17 @@ e) Để báo hiệu bắt đầu đường dành cho xe máy, đặt biển s�
 
 f) Để báo hiệu bắt đầu đường dành cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả xe thô sơ), đặt biển số R.403f “Đường dành cho xe máy và xe đạp”.
 
-g) Ngoài các loại phương tiện quy định trên biển được đi lại, các loại phương tiện giao thông khác không được phép đi vào đoạn đường có đặt các biển R.403a, R.403b, R.403c, R.403d, R.403e, R.403f. 
+g) Ngoài các loại phương tiện quy định trên biển được đi lại, các loại phương tiện giao thông khác không được phép đi vào đoạn đường có đặt các biển R.403a, R.403b, R.403c, R.403d, R.403e, R.403f.
 
 h) Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng trên biển cho phù hợp và đảm bảo mỹ quan.
 
-      			
+
 
 <p id="gdcalert280" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image263.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert281">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image263.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert281" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image264.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert282">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7514,7 +7514,7 @@ Giống như biển số R.404 nhưng có thêm vạch chéo đỏ từ góc ph�
 
 
 ![alt_text](images/image269.jpg "image_tooltip")
-		      	
+
 
 <p id="gdcalert287" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image270.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert288">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7531,7 +7531,7 @@ Giống như biển số R.404 nhưng có thêm vạch chéo đỏ từ góc ph�
 
 
 ![alt_text](images/image271.jpg "image_tooltip")
-		            
+
 
 <p id="gdcalert289" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image272.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert290">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7600,25 +7600,25 @@ a) Để báo hiệu cho người tham gia giao thông biết có làn đường
 
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
 
-   
+
 
 <p id="gdcalert293" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image276.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert294">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image276.jpg "image_tooltip")
-       
+
 
 <p id="gdcalert294" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image277.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert295">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image277.jpg "image_tooltip")
-       
+
 
 <p id="gdcalert295" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image278.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert296">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image278.jpg "image_tooltip")
-      
+
 
 <p id="gdcalert296" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image279.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert297">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7628,25 +7628,25 @@ a) Để báo hiệu cho người tham gia giao thông biết có làn đường
 
 **a) Biển số R.412a       b) Biển số R.412b   c) Biển số R.412c   d) Biển số R.412d**
 
-      
+
 
 <p id="gdcalert297" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image280.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert298">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image280.jpg "image_tooltip")
-	       
+
 
 <p id="gdcalert298" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image281.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert299">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image281.jpg "image_tooltip")
-     
+
 
 <p id="gdcalert299" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image282.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert300">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image282.jpg "image_tooltip")
-      
+
 
 <p id="gdcalert300" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image283.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert301">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7686,25 +7686,25 @@ g) Khi kết thúc  làn đường dành cho xe máy và xe đạp đi lại, đ
 
 h) Khi kết thúc làn đường dành cho đạp đi lại, đặt biển số R.413p "Kết thúc làn đường dành cho xe đạp".
 
-    
+
 
 <p id="gdcalert302" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image285.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert303">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image285.jpg "image_tooltip")
-          
+
 
 <p id="gdcalert303" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image286.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert304">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image286.jpg "image_tooltip")
-       
+
 
 <p id="gdcalert304" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image287.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert305">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image287.jpg "image_tooltip")
-     
+
 
 <p id="gdcalert305" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image288.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert306">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7714,25 +7714,25 @@ h) Khi kết thúc làn đường dành cho đạp đi lại, đặt biển số
 
 **a) Biển số R.412i      b) Biển số R.412j     c) Biển số R.412k      d) Biển số R.412l**
 
-      
+
 
 <p id="gdcalert306" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image289.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert307">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image289.jpg "image_tooltip")
-        
+
 
 <p id="gdcalert307" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image290.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert308">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image290.jpg "image_tooltip")
-      
+
 
 <p id="gdcalert308" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image291.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert309">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image291.jpg "image_tooltip")
-     
+
 
 <p id="gdcalert309" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image292.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert310">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7740,7 +7740,7 @@ h) Khi kết thúc làn đường dành cho đạp đi lại, đặt biển số
 ![alt_text](images/image292.jpg "image_tooltip")
 
 
-**e) Biển số R.412m       f) Biển số R.412n   g) Biển số R.412o   h) Biển số R.413p**   
+**e) Biển số R.412m       f) Biển số R.412n   g) Biển số R.412o   h) Biển số R.413p**
 
 
 
@@ -7757,10 +7757,10 @@ h) Khi kết thúc làn đường dành cho đạp đi lại, đặt biển số
 **D.16	Biển số R.415 “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”**
 
 
-    a) Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông. 
+    a) Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông.
 
 
-    
+
 
 <p id="gdcalert311" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image294.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert312">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7788,7 +7788,7 @@ h) Khi kết thúc làn đường dành cho đạp đi lại, đặt biển số
     b) Khi đến gần nơi đường bộ giao nhau, xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
 
 
-    c) Biển R.415 là biển hình chữ nhật nền màu xanh, trên đó  thể hiện hình vẽ các loại phương tiện cho phép sử dụng trên từng làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn, giá long môn. 
+    c) Biển R.415 là biển hình chữ nhật nền màu xanh, trên đó  thể hiện hình vẽ các loại phương tiện cho phép sử dụng trên từng làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn, giá long môn.
 
 
     d) Biển này chỉ áp dụng với những đoạn đường có 2 đến 4 làn đường cơ giới cho mỗi hướng lưu thông.
@@ -7799,7 +7799,7 @@ a) Để báo hiệu bắt đầu đoạn đường vào phạm vi khu đông d�
 
 b) Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.
 
-c) Đoạn đường qua khu vực đông dân cư được xác định bắt đầu bằng biển số R.420 “Bắt đầu khu đông dân cư” và kết thúc bằng biển số R.421 “Hết khu đông dân cư”. 
+c) Đoạn đường qua khu vực đông dân cư được xác định bắt đầu bằng biển số R.420 “Bắt đầu khu đông dân cư” và kết thúc bằng biển số R.421 “Hết khu đông dân cư”.
 
 Đối với đoạn đường nằm trong khu đông dân cư: Căn cứ vào mức độ đô thị hóa và mật độ dân cư sinh sống bên đường để đặt biển báo hiệu "Bắt đầu khu đông dân cư" (Biển số R.420) và biển báo hiệu "Hết khu đông dân cư" (Biển số R.421) trên các tuyến đường ở vị trí vào, ra đô thị cho phù hợp (không đặt biển báo theo địa giới hành chính được quy hoạch, nếu chưa đô thị hóa hoặc dân cư thưa thớt); Biển số R.420 có hiệu lực khu đông dân cư đối với tất cả các tuyến đường nằm trong khu đông dân cư đô thị cho đến vị trí đặt biển số R.421.
 
@@ -7819,7 +7819,7 @@ d) Trong phạm vi biển số R.420 có hiệu lực, khi gặp biển báo t�
 
 **D.18	Biển số R.421 "Hết khu đông dân cư"**
 
-Để báo hiệu hết đoạn đường qua phạm vi khu đông dân cư, đặt biển số R.421 "Hết khu đông dân cư". Biển có tác dụng báo cho người tham gia giao thông  biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực. 
+Để báo hiệu hết đoạn đường qua phạm vi khu đông dân cư, đặt biển số R.421 "Hết khu đông dân cư". Biển có tác dụng báo cho người tham gia giao thông  biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.
 
 
 
@@ -7885,25 +7885,25 @@ d) Trong phạm vi biển số R.420 có hiệu lực, khi gặp biển báo t�
 
 - Để quy định hết hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,10d “Hết hạn chế tốc độ tối đa trong khu vực”.
 
-      
+
 
 <p id="gdcalert319" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image302.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert320">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image302.jpg "image_tooltip")
-         
+
 
 <p id="gdcalert320" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image303.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert321">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image303.jpg "image_tooltip")
-        
+
 
 <p id="gdcalert321" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image304.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert322">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image304.jpg "image_tooltip")
-       
+
 
 <p id="gdcalert322" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image305.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert323">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7922,13 +7922,13 @@ a) Để chỉ dẫn đoạn đường qua hầm có áp dụng quy định giao
 b) Để chỉ dẫn hết đoạn đường qua hầm, các quy định giao thông riêng không còn áp dụng, đặt biển R.E,11b “ Kết thúc đường hầm”.
 
 
-      
+
 
 <p id="gdcalert323" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image306.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert324">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image306.jpg "image_tooltip")
-			 
+
 
 <p id="gdcalert324" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image307.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert325">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -7970,7 +7970,7 @@ d) Trên các đường không ưu tiên, ở những điểm giao nhau, đặt 
 
 **E.2	Biển số I.402 "Hết đoạn đường ưu tiên"**
 
-Đến hết đoạn đường quy định là ưu tiên, đặt biển số I.402 "Hết đoạn đường ưu tiên".  
+Đến hết đoạn đường quy định là ưu tiên, đặt biển số I.402 "Hết đoạn đường ưu tiên".
 
 
 
@@ -7995,7 +7995,7 @@ a) Để chỉ dẫn những đường cụt, đặt các biển sau:
 b) Những đường cụt mà xe cộ không thể đi vào được hoặc không sử dụng thì không đặt biển đường cụt mà phải rào chắn ngay tại nơi đường giao nhau và đặt biển số P.101 "Đường cấm".
 
 
-    
+
 
 <p id="gdcalert327" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image310.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert328">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8049,7 +8049,7 @@ c) Khi hết đoạn đường một chiều đặt biển số W.204 "Đường
 **           **
 
 
-    
+
 
 <p id="gdcalert331" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image314.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert332">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8080,7 +8080,7 @@ b) Chiều dài nơi đỗ xe có thể được xác định giới hạn bằn
 
 **E.8a	Biển số 408a "Nơi đỗ xe một phần trên hè phố"**
 
-a) Để chỉ dẫn những nơi được phép đỗ xe một phần trên hè phố rộng, đặt biển số I.408a "Nơi đỗ xe một phần trên hè phố". Xe phải đỗ sao cho các bánh phía ghế phụ trên hè phố. 
+a) Để chỉ dẫn những nơi được phép đỗ xe một phần trên hè phố rộng, đặt biển số I.408a "Nơi đỗ xe một phần trên hè phố". Xe phải đỗ sao cho các bánh phía ghế phụ trên hè phố.
 
 b) Mặt biển có thể theo chiều hướng đi hoặc đặt song song và có hiệu lực từ vị trí đặt biển. Chiều dài nơi đỗ xe có thể được xác định giới hạn bằng vạch kẻ trên mặt đường. Khi cần thiết có thể đặt thêm biển phụ chỉ hiệu lực của vùng cho phép đỗ.
 
@@ -8141,19 +8141,19 @@ a) Để chỉ dẫn cho người tham gia giao thông biết đường phía tr
 b) Để chỉ dẫn cho người tham gia giao thông biết ở nơi đường giao nhau rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành riêng cho ô tô khách, đặt biển số I.413b hoặc biển số I.413c báo hiệu "Rẽ ra đường có làn đường dành cho ô tô khách". Tùy theo hướng rẽ mà lựa chọn kiểu biển cho phù hợp.
 
 
-    
+
 
 <p id="gdcalert338" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image319.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert339">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image319.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert339" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image320.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert340">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image320.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert340" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image321.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert341">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8181,19 +8181,19 @@ b) Để chỉ dẫn cho người tham gia giao thông biết ở nơi đường
 
 
 ![alt_text](images/image322.jpg "image_tooltip")
-  
+
 
 <p id="gdcalert342" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image323.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert343">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image323.jpg "image_tooltip")
-  
+
 
 <p id="gdcalert343" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image324.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert344">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image324.jpg "image_tooltip")
-  
+
 
 <p id="gdcalert344" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image325.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert345">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8221,7 +8221,7 @@ Trong khu đông dân cư, hoặc ở các đường giao nhau để chỉ dẫn
 
 **E.16	Biển số I.416 "Đường tránh" **
 
-a) Để chỉ dẫn lối đi đường tránh, đường vòng trong trường hợp đường cấm vì lý do đường, cầu bị tắc hoặc thi công và cấm một số loại xe đi qua, đặt biển số I.416 "Đường tránh" trước các đường giao nhau. 
+a) Để chỉ dẫn lối đi đường tránh, đường vòng trong trường hợp đường cấm vì lý do đường, cầu bị tắc hoặc thi công và cấm một số loại xe đi qua, đặt biển số I.416 "Đường tránh" trước các đường giao nhau.
 
 b) Hình biển cấm vẽ trên biển này được sử dụng các loại biển từ số P.101 đến biển số P.120 tùy theo trường hợp cần thiết yêu cầu. Trường hợp cần thiết có thể ghi tên các đường trên hình vẽ để dễ nhận biết hướng đi.
 
@@ -8247,13 +8247,13 @@ b) Tùy theo loại xe, địa danh khu đông dân cư và hướng đi cần c
 
 
 ![alt_text](images/image328.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert348" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image329.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert349">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image329.jpg "image_tooltip")
- 
+
 
 <p id="gdcalert349" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image330.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert350">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8269,7 +8269,7 @@ b) Tùy theo loại xe, địa danh khu đông dân cư và hướng đi cần c
 
 a) Để chỉ lối đi ở các nơi đường giao nhau bị cấm rẽ, đặt biển số I.418 "Lối đi ở những vị trí cấm rẽ". Biển được đặt ở nơi đường giao nhau trước đường cấm rẽ.
 
-b) Hình vẽ trên biển tùy theo quy định thực tế mà vẽ cho phù hợp. 
+b) Hình vẽ trên biển tùy theo quy định thực tế mà vẽ cho phù hợp.
 
 
 
@@ -8291,7 +8291,7 @@ b) Trên đường quốc lộ biển "Chỉ dẫn địa giới" đặt ở ran
 
 c) Lý trình ghi trên biển số I.419(a,b) "Chỉ dẫn địa giới" được làm tròn đến mét.
 
-d) Tùy theo địa hình, biển "Chỉ dẫn địa giới" có thể đặt ở phía tay trái hay phải theo hướng đi của người tham gia giao thông.  
+d) Tùy theo địa hình, biển "Chỉ dẫn địa giới" có thể đặt ở phía tay trái hay phải theo hướng đi của người tham gia giao thông.
 
 
 
@@ -8370,7 +8370,7 @@ Khi đã có vạch sơn kẻ đường cho người đi bộ hoặc trước v�
 
 Để chỉ dẫn cho người đi bộ và người lái xe biết nơi bắt đầu đoạn đường dành cho người đi bộ, đặt biển số I.423c "Điểm bắt đầu đường đi bộ". Biển này không dùng cho các vị trí đi bộ cắt ngang qua đường.
 
-            
+
 
 <p id="gdcalert357" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image338.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert358">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8392,7 +8392,7 @@ Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho n
 
 
 ![alt_text](images/image339.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert359" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image340.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert360">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8415,7 +8415,7 @@ Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho n
 
 
 ![alt_text](images/image341.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert361" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image342.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert362">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8516,7 +8516,7 @@ b) Gặp biển này người tham gia giao thông đi chậm, chú ý quan sát
 
 **E.32	Biển số I.430 "Điện thoại"**
 
-Để chỉ dẫn những nơi có đặt trạm điện thoại công cộng chuyên phục vụ khách đi đường, đặt biển số I.430 "Điện thoại". 
+Để chỉ dẫn những nơi có đặt trạm điện thoại công cộng chuyên phục vụ khách đi đường, đặt biển số I.430 "Điện thoại".
 
 
 
@@ -8575,19 +8575,19 @@ b) Gặp biển này người tham gia giao thông đi chậm, chú ý quan sát
 Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có vị trí cắm trại, nơi tập kết nhà lưu động, đặt biển số I.433b "Nơi cắm trại", biển số I.433c “Nơi dành cho nhà lưu động” hoặc biển số I.433d “Nơi cắm trại và nhà lưu động”.
 
 
-    
+
 
 <p id="gdcalert372" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image353.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert373">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image353.jpg "image_tooltip")
-	
+
 
 <p id="gdcalert373" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image354.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert374">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image354.jpg "image_tooltip")
-  	
+
 
 <p id="gdcalert374" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image355.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert375">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8604,7 +8604,7 @@ Trên các tuyến đường đối ngoại và các tuyến đường có nhi�
 Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có nhà trọ, đặt biển số I.433e "Nhà trọ".
 
 
-                
+
 
 <p id="gdcalert375" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image356.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert376">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8616,13 +8616,13 @@ Trên các tuyến đường đối ngoại và các tuyến đường có nhi�
 
 **E.36	Biển số I.434a "Bến xe buýt"**
 
-Để chỉ dẫn chỗ dừng đỗ xe buýt cho khách lên xuống, đặt biển số I.434a "Bến xe buýt". Biển số I.434a được bố trí kết hợp với biển phụ để chỉ dẫn các thông tin về số hiệu tuyến, tên tuyến, điểm đầu, điểm cuối và lộ trình tuyến xe buýt. Biển phụ có thể bố trí liền kề với biển số I.434a hoặc trong khu vực đón trả khách. 
+Để chỉ dẫn chỗ dừng đỗ xe buýt cho khách lên xuống, đặt biển số I.434a "Bến xe buýt". Biển số I.434a được bố trí kết hợp với biển phụ để chỉ dẫn các thông tin về số hiệu tuyến, tên tuyến, điểm đầu, điểm cuối và lộ trình tuyến xe buýt. Biển phụ có thể bố trí liền kề với biển số I.434a hoặc trong khu vực đón trả khách.
 
 Trong trường hợp chỗ dừng đỗ xe buýt không phải là bến xe theo các quy định hiện hành thì thay chữ “Bến xe buýt” trên biển thành chữ “Điểm dừng xe buýt”.
 
 Trong trường hợp chỗ dừng đỗ dùng để đón trả khách tuyến cố định thì thay chữ “Bến xe buýt” thành chữ “Điểm đón trả khách tuyến cố định” và bỏ chữ “BUS STOP” trên biển.
 
-Trong trường hợp để báo điểm dừng xe của các loại xe khác thì sử dụng hình vẽ loại xe và dòng chữ tương ứng (chẳng hạn, “Điểm dừng xe taxi”, ...). 
+Trong trường hợp để báo điểm dừng xe của các loại xe khác thì sử dụng hình vẽ loại xe và dòng chữ tương ứng (chẳng hạn, “Điểm dừng xe taxi”, ...).
 
 
 
@@ -8714,7 +8714,7 @@ c) Trên biển "Tên cầu" ghi: Tên cầu, lý trình và tên đường.
 
 **E.43	Biển số I.440 "Đường đang thi công"**
 
-a) Để chỉ dẫn những đoạn đường đang thi công sửa chữa hoặc nâng cấp cải tạo, đặt biển số I.440 "Đường đang thi công". 
+a) Để chỉ dẫn những đoạn đường đang thi công sửa chữa hoặc nâng cấp cải tạo, đặt biển số I.440 "Đường đang thi công".
 
 Lý trình ghi trên biển được làm tròn đến mét.
 
@@ -8739,19 +8739,19 @@ b) Biển số I.441(a,b,c) được đặt ở hai đầu đoạn thi công và
 c) Cùng với biển số I.441(a,b,c), đặt kèm theo biển số W.227. Khi cần thiết có thể đặt thêm biển P.127 "Tốc độ tối đa cho phép" và biển số P.134 "Hết hạn chế tốc độ tối đa" khi kết thúc đoạn đường thi công.
 
 
-    
+
 
 <p id="gdcalert383" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image364.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert384">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image364.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert384" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image365.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert385">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image365.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert385" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image366.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert386">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8770,7 +8770,7 @@ c) Cùng với biển số I.441(a,b,c), đặt kèm theo biển số W.227. Khi
 Để báo sắp đến khu vực có chợ gần đường có thể đặt biển số I.442 "Chợ", xe cơ giới qua lại khu vực này phải chú ý quan sát, giảm tốc độ.
 
 
-    
+
 
 <p id="gdcalert386" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image367.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert387">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8831,7 +8831,7 @@ Nhằm chỉ dẫn cho người đi đường biết hướng đến những đ�
 - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
 
 
-    
+
 
 <p id="gdcalert388" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image369.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert389">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8910,7 +8910,7 @@ Nhằm chỉ dẫn cho người đi đường biết hướng đến những đ�
     **Hình E.49 - Biển số I.444(g,h,i)**
 
 
-    
+
 
 <p id="gdcalert397" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image378.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert398">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -8949,7 +8949,7 @@ Nhằm chỉ dẫn cho người đi đường biết hướng đến những đ�
 
 **E.48	Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” **
 
-Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây:
 
 - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
 
@@ -8968,7 +8968,7 @@ Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở 
 - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
 
 
-    
+
 
 <p id="gdcalert401" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image382.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert402">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9057,13 +9057,13 @@ Biển đặt tại vị trí trước khi vào cầu vượt có tổ chức gi
 
 Nếu sơ đồ, hình thái giao không phù hợp với hình vẽ trên các biển I.447a, I.447b, I.445c, I.447d thì phải điều chỉnh hình vẽ cho phù hợp (đồng dạng) với sơ đồ, hình thái nút giao (các hướng tuyến trong nút giao).
 
-                   
+
 
 <p id="gdcalert410" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image391.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert411">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image391.jpg "image_tooltip")
-	        
+
 
 <p id="gdcalert411" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image392.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert412">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9182,19 +9182,19 @@ c) Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d
 d) Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
 
 
-        
+
 
 <p id="gdcalert420" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image400.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert421">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image400.jpg "image_tooltip")
-	
+
 
 <p id="gdcalert421" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image401.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert422">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image401.jpg "image_tooltip")
-	
+
 
 <p id="gdcalert422" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image402.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert423">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9209,19 +9209,19 @@ d) Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trư�
         **Hình F.3a - Biển số S.503 (a,b,c)**
 
 
-        
+
 
 <p id="gdcalert423" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image403.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert424">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image403.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert424" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image404.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert425">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image404.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert425" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image405.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert426">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9243,13 +9243,13 @@ d) Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trư�
 
 
 ![alt_text](images/image406.jpg "image_tooltip")
-         
+
 
 <p id="gdcalert427" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image407.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert428">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image407.jpg "image_tooltip")
-          
+
 
 <p id="gdcalert428" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image408.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert429">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9339,7 +9339,7 @@ b) Biển số S.506b được đặt bên dưới biển số W.208 và biển 
 
 
 ![alt_text](images/image413.jpg "image_tooltip")
-			
+
 
 <p id="gdcalert435" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image414.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert436">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9375,13 +9375,13 @@ c) Biển không thay thế cho việc đặt các biển báo nguy hiểm số 
 Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển hiệu lệnh nhằm quy định phạm vi thời gian hiệu lực của các biển báo cấm, biển hiệu lệnh cho phù hợp yêu cầu. Thời gian hiệu lực có thể là khoảng thời gian trong ngày (từ giờ ... đến giờ ...) hoặc ngày chẵn, lẻ hoặc thứ trong tuần hoặc một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) và cần thiết có thể bổ sung thêm tiếng Anh.
 
 
-        
+
 
 <p id="gdcalert437" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image416.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert438">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image416.jpg "image_tooltip")
-		
+
 
 <p id="gdcalert438" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image417.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert439">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9398,9 +9398,9 @@ Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển 
 
 a) Để bổ sung cho biển số W.239 "Đường cáp điện ở phía trên", có thể đặt biển số S.509a "Chiều cao an toàn" bên dưới biển số W.239, biển này chỉ rõ chiều cao cho các phương tiện đi qua an toàn.
 
-b) Trong trường hợp cần thiết, có thể đặt thêm biển số S.509b "Cấm đỗ xe" bên dưới biển số P.130, P.131 (a,b,c) để làm rõ thông tin. 
+b) Trong trường hợp cần thiết, có thể đặt thêm biển số S.509b "Cấm đỗ xe" bên dưới biển số P.130, P.131 (a,b,c) để làm rõ thông tin.
 
-c) Các trường hợp khác có thể vận dụng cho phù hợp. 
+c) Các trường hợp khác có thể vận dụng cho phù hợp.
 
 
 
@@ -9408,7 +9408,7 @@ c) Các trường hợp khác có thể vận dụng cho phù hợp.
 
 
 ![alt_text](images/image418.jpg "image_tooltip")
- 			
+
 
 <p id="gdcalert440" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image419.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert441">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9459,7 +9459,7 @@ c) Các trường hợp khác có thể vận dụng cho phù hợp.
 
 
 ![alt_text](images/image422.jpg "image_tooltip")
-    
+
 
 <p id="gdcalert444" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image423.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert445">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9475,7 +9475,7 @@ c) Các trường hợp khác có thể vận dụng cho phù hợp.
 
 **F.14	Chỉ dẫn tới điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng (biển G,9b  theo GMS)**
 
-Để chỉ dẫn tới địa điểm đỗ xe dành cho xe có lái xe muốn sử dụng phương tiện công cộng, đặt biển số S.G,9b. 
+Để chỉ dẫn tới địa điểm đỗ xe dành cho xe có lái xe muốn sử dụng phương tiện công cộng, đặt biển số S.G,9b.
 
 
 
@@ -9492,7 +9492,7 @@ c) Các trường hợp khác có thể vận dụng cho phù hợp.
 Để thông báo cho lái xe số làn và hướng đi của từng làn xe, đặt biển số S.G,11a; S.G,11c; các biển này phải có số mũi tên bằng số lượng làn xe đi cùng hướng và phải chỉ dẫn số lượng làn xe của hướng đi sắp tới.
 
 
-        	    
+
 
 <p id="gdcalert446" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image425.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert447">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9514,7 +9514,7 @@ c) Các trường hợp khác có thể vận dụng cho phù hợp.
 
 Để chỉ dẫn cho lái xe biết làn đường không lưu thông, đặt biển S.G,12a; S.G,12b.
 
-  
+
 
 <p id="gdcalert448" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image427.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert449">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9578,7 +9578,7 @@ Tốc độ vận hành càng cao, chọn chiều dài đoạn nét liền L1 v�
 
 **b. Vạch 1.2: Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, nét liền**
 
-Ý nghĩa sử dụng: dùng để phân chia hai chiều xe chạy ngược chiều; xe không được lấn làn, không được đè lên vạch. 
+Ý nghĩa sử dụng: dùng để phân chia hai chiều xe chạy ngược chiều; xe không được lấn làn, không được đè lên vạch.
 
 Minh họa:
 
@@ -9592,7 +9592,7 @@ Minh họa:
 
 **Hình G.2 - Vạch 1.2**
 
-Quy cách: 
+Quy cách:
 
 - Vạch 1.2 là vạch đơn, liền nét, màu vàng, bề rộng vạch 15 cm. Vạch này thường sử dụng ở đoạn đường không đảm bảo tầm nhìn vượt xe, nguy cơ tai nạn giao thông đối đầu lớn trên các đường có 2 hoặc 3 làn xe cơ giới và không có dải phân cách giữa.
 
@@ -9614,17 +9614,17 @@ Minh họa:
 
 **Hình G.3 - Vạch 1.3**
 
-Quy cách: 
+Quy cách:
 
 - Vạch 1.3 là vạch đôi song song, liền nét, màu vàng, bề rộng nét vẽ b = 15 cm, khoảng cách phía trong hai mép vạch đơn nhỏ nhất là 15 cm; lớn nhất là 50 cm. Nếu  khoảng cách hai mép phía trong của các vạch đơn lớn hơn 50 cm thì sử dụng vạch kênh hóa dòng xe dạng gạch chéo, màu vàng (vạch 4.1).
 
 - Vạch này thường dùng để phân chia hai chiều xe chạy ngược chiều cho đường có từ 4 làn xe cơ giới trở lên, không có dải phân cách giữa trên đoạn đường không đảm bảo tầm nhìn vượt xe, nguy cơ tai nạn giao thông đối đầu lớn hoặc ở các vị trí cần thiết khác.
 
-- Trường hợp các đường có 2 hoặc 3 làn xe cơ giới, không có dải phân cách giữa có thể sử dụng vạch 1.3 ở các vị trí cần thiết để nhấn mạnh mức độ nguy hiểm, không được lấn làn, không được đè lên vạch. Tác dụng của vạch 1.3 trong trường hợp này tương tự vạch 1.2. 
+- Trường hợp các đường có 2 hoặc 3 làn xe cơ giới, không có dải phân cách giữa có thể sử dụng vạch 1.3 ở các vị trí cần thiết để nhấn mạnh mức độ nguy hiểm, không được lấn làn, không được đè lên vạch. Tác dụng của vạch 1.3 trong trường hợp này tương tự vạch 1.2.
 
 * Trong trường hợp tại các vị trí cần thiết để cho xe cắt ngang qua thì sử dụng vạch đứt nét màu vàng có qui cách như sau:
 
-	
+
 
 <p id="gdcalert454" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image433.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert455">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9648,9 +9648,9 @@ Minh họa:
 
 **Hình G.4 - Vạch 1.4**
 
-Quy cách: 
+Quy cách:
 
-- Vạch 1.4 là vạch đôi song song, một vạch liền nét, một vạch đứt nét. Bề rộng nét vẽ của các vạch b = 15 cm; khoảng cách phía trong hai mép vạch đơn là 15 cm - 20 cm. Đối với vạch đứt nét, chiều dài đoạn nét liền L1 = (1 m - 3 m); chiều dài đoạn nét đứt L2 = (2 m - 6 m); tỷ lệ L1/L2 = 1:2. 
+- Vạch 1.4 là vạch đôi song song, một vạch liền nét, một vạch đứt nét. Bề rộng nét vẽ của các vạch b = 15 cm; khoảng cách phía trong hai mép vạch đơn là 15 cm - 20 cm. Đối với vạch đứt nét, chiều dài đoạn nét liền L1 = (1 m - 3 m); chiều dài đoạn nét đứt L2 = (2 m - 6 m); tỷ lệ L1/L2 = 1:2.
 
 Tốc độ vận hành càng cao, chọn chiều dài đoạn nét liền L1 và chiều dài đoạn nét đứt L2 càng lớn. Chọn giá trị chiều dài đoạn nét liền L1 và đoạn nét đứt L2 nhỏ trong các trường hợp cần tăng tính dẫn hướng xe chạy (ví dụ trong phạm vi đường cong nằm bán kính nhỏ).
 
@@ -9817,7 +9817,7 @@ Ghi chú: Khoảng cách d = 75 m, L1 ≥ 100 m, khoảng cách L2 ≥ 100 m.
 
 **Hình G.9 - Bố trí vạch sơn phân chia hai chiều xe chạy cho đường có 3 làn xe trong khu vực số làn trên một hướng thay đổi từ hai làn sang một làn**
 
-Lưu ý: 
+Lưu ý:
 
 + Các vạch gạch chéo được vẽ song song mỗi vạch rộng 45 cm, khoảng cách hai mép vạch 100 cm, vạch nghiêng một góc 135<sup>o</sup> theo chiều ngược chiều kim đồng hồ so với hướng chuyển động của xe (vạch 4.1).
 
@@ -9847,9 +9847,9 @@ Tốc độ vận hành càng cao, chọn chiều dài đoạn nét liền L1 v�
 
 	**b. Vạch 2.2: Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, liền nét.**
 
-Ý nghĩa sử dụng: dùng để phân chia các làn xe cùng chiều trong trường hợp không cho phép xe chuyển làn hoặc sử dụng làn khác; xe không được lấn làn, không được đè lên vạch. 
+Ý nghĩa sử dụng: dùng để phân chia các làn xe cùng chiều trong trường hợp không cho phép xe chuyển làn hoặc sử dụng làn khác; xe không được lấn làn, không được đè lên vạch.
 
-Minh họa: 
+Minh họa:
 
 
 
@@ -9865,7 +9865,7 @@ Quy cách: Vạch 2.2 là vạch đơn, liền nét, màu trắng, bề rộng v
 
 **	c. Vạch 2.3: Vạch giới hạn làn đường dành riêng hoặc làn đường ưu tiên**
 
-Ý nghĩa sử dụng: Vạch giới hạn làn đường dành riêng cho một loại xe cơ giới nhất định (vạch liền nét), các loại xe khác không được đi vào làn xe này trừ những trường hợp khẩn cấp theo Luật Giao thông đường bộ. 
+Ý nghĩa sử dụng: Vạch giới hạn làn đường dành riêng cho một loại xe cơ giới nhất định (vạch liền nét), các loại xe khác không được đi vào làn xe này trừ những trường hợp khẩn cấp theo Luật Giao thông đường bộ.
 
 Vạch giới hạn làn đường ưu tiên cho một loại xe cơ giới nhất định (vạch đứt nét), các xe khác có thể sử dụng làn đường này nhưng phải nhường đường cho xe được ưu tiên sử dụng làn khi xuất hiện loại xe này trên làn xe.
 
@@ -9873,7 +9873,7 @@ Vạch giới hạn làn đường ưu tiên cho một loại xe cơ giới nh�
 
 Minh họa:
 
- 
+
 
 <p id="gdcalert463" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image442.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert464">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -9897,9 +9897,9 @@ Quy cách:
 
 	**d. Vạch 2.4: Vạch phân chia các làn xe cùng chiều, dạng vạch kép (một vạch liền, một vạch đứt nét).**
 
-Ý nghĩa sử dụng: dùng để phân chia các làn xe cùng chiều, xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua khi cần thiết; xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch. 
+Ý nghĩa sử dụng: dùng để phân chia các làn xe cùng chiều, xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua khi cần thiết; xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch.
 
-Minh họa: 
+Minh họa:
 
 
 
@@ -9919,11 +9919,11 @@ Quy cách: Gồm Vạch 2.1 kết hợp với Vạch 2.2.
 
 Ý nghĩa sử dụng: để xác định mép ngoài phần đường xe chạy; hoặc phân cách làn xe cơ giới và xe thô sơ, xe chạy được phép đè lên vạch khi cần thiết và phải nhường đường cho xe thô sơ.
 
-Qui cách : 
+Qui cách :
 
 - Khi sử dụng vạch 3.1 (a, b) để xác định mép ngoài phần xe chạy _(phần lề gia cố có kết cấu tương đương với kết cấu mặt đường được coi là phần xe chạy)_ thì mép ngoài cùng của vạch cách mép ngoài cùng phần xe chạy từ 15 đến 30 cm đối với đường thông thường và phân chia làn dừng khẩn cấp với phần đường xe chạy đối với đường ôtô cao tốc. Chỉ kẻ vạch giới hạn mép phần đường xe chạy trên đường cao tốc, đường có bề rộng phần đường xe chạy từ 7,0 m trở lên và các trường hợp cần thiết khác.
 
-- Khi sử dụng vạch 3.1 (a, b) để phân chia giữa làn đường xe cơ giới và làn đường xe thô sơ, phải sử dụng biển báo hoặc sơn chữ “XE ĐẠP”, hoặc biểu tượng xe đạp trên làn xe thô sơ. 
+- Khi sử dụng vạch 3.1 (a, b) để phân chia giữa làn đường xe cơ giới và làn đường xe thô sơ, phải sử dụng biển báo hoặc sơn chữ “XE ĐẠP”, hoặc biểu tượng xe đạp trên làn xe thô sơ.
 
 - Chỉ bố trí làn đường dành riêng cho xe thô sơ khi mật độ xe thô sơ lớn trên đường có mỗi chiều xe chạy từ 2 làn xe cơ giới trở lên hoặc trong trường hợp cần thiết khác và bề rộng phần đường dành cho xe thô sơ phải đảm bảo tối thiểu 1,5 m. Khi không bố trí làn xe thô sơ riêng thì có thể bố trí vạch phân chia các làn xe cùng chiều 2.1 hoặc 2.1 kết hợp 2.2.
 
@@ -10095,18 +10095,18 @@ Lưu ý:
 
 - Các quy định về bố trí vạch sơn đề cập ở mục này chỉ áp dụng cho khu vực phần xe chạy bị thay đổi. Khu vực bề rộng phần xe chạy bị thay đổi được xác định là phạm vi chiều dài tổng cộng các đoạn D, L, và d tương ứng trên các Hình G.20, G.21, G.22, và G.23.
 
-- Trong khu vực bề rộng phần xe chạy bị thay đổi, vạch 1.3 được sử dụng để phân chia hai chiều xe chạy. Đối với hướng xe chạy có bề rộng mặt đường bị thu hẹp trong khu vực phần xe chạy bị thay đổi phải bố trí vạch giới hạn mép phần xe chạy (vạch 3.1) kết hợp với đặt biển số W.203 (b,c) “Đường bị thu hẹp”. 
+- Trong khu vực bề rộng phần xe chạy bị thay đổi, vạch 1.3 được sử dụng để phân chia hai chiều xe chạy. Đối với hướng xe chạy có bề rộng mặt đường bị thu hẹp trong khu vực phần xe chạy bị thay đổi phải bố trí vạch giới hạn mép phần xe chạy (vạch 3.1) kết hợp với đặt biển số W.203 (b,c) “Đường bị thu hẹp”.
 
 - Chiều dài đoạn biến đổi bề rộng mặt đường L(m) được xác định như sau:
 
-	
+
 
 
         <p style="text-align: right">
 L=          		(khi V ≤ 60 km/h) 				(1)</p>
 
 
-		
+
 
 <p style="text-align: right">
 hoặc L = 0.625V.W (khi V > 60 km/h)				(2)</p>
@@ -10298,7 +10298,7 @@ Dưới đây là một số trường hợp sử dụng vạch 4.1 và 4.2 đ�
 
 **	d. Vạch 4.3: Vạch kênh hóa dòng xe dạng vành khuyên**
 
-Ý nghĩa sử dụng: Vạch kênh hóa dòng xe dạng vàch khuyên được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ. 
+Ý nghĩa sử dụng: Vạch kênh hóa dòng xe dạng vàch khuyên được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ.
 
 Khi vạch 4.3 được sử dụng, các phương tiện giao thông không được lấn vạch hoặc cắt qua vạch trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
 
@@ -10330,7 +10330,7 @@ Quy cách vạch như sau:
 
 **	e. Vạch 4.4: Vạch kẻ kiểu mắt võng**
 
-Ý nghĩa sử dụng: Vạch kẻ kiểu mắt võng được sử dụng để báo cho người điều khiển không được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông. 
+Ý nghĩa sử dụng: Vạch kẻ kiểu mắt võng được sử dụng để báo cho người điều khiển không được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.
 
 - Tùy theo sự cần thiết mà có thể sử dụng vạch kẻ kiểu mắt võng ở các vị trí thích hợp. Vạch kẻ kiểu mắt võng có thể sử dụng để xác định phạm vi cấm dừng trong phạm vi nút giao giao cùng mức, trên nhánh dẫn cửa vào hoặc cửa ra của nút giao hoặc những vị trí mặt đường cần thiết không cho phép dừng xe. Tùy theo mặt bằng nút giao rộng, hẹp để bố trí vạch 4.4 như dưới đây để đảm bảo cân đối, mỹ quan.
 
@@ -10366,9 +10366,9 @@ Quy cách vạch như sau:
 
 	**a. Vạch 5.1: Vạch dẫn hướng rẽ trái qua phạm vi nút giao**
 
-Ý nghĩa sử dụng: dùng để định hướng quỹ đạo cho dòng xe rẽ trái theo giải pháp tổ chức làn đường được sử dụng trong nút. Mục đích sử dụng vạch là tăng tính dẫn hướng cho xe chạy; xe có thể cắt qua vạch khi cần thiết. Vạch dẫn hướng rẽ trái qua phạm vi nút giao là đoạn kéo dài của vạch phân cách hai chiều xe chạy (vạch tim đường) hoặc vạch phân chia các làn đường cùng chiều. Không nhất thiết phải sử dụng cả hai loại vạch kéo dài nói trên để định hướng quỹ đạo dòng xe rẽ trái. 
+Ý nghĩa sử dụng: dùng để định hướng quỹ đạo cho dòng xe rẽ trái theo giải pháp tổ chức làn đường được sử dụng trong nút. Mục đích sử dụng vạch là tăng tính dẫn hướng cho xe chạy; xe có thể cắt qua vạch khi cần thiết. Vạch dẫn hướng rẽ trái qua phạm vi nút giao là đoạn kéo dài của vạch phân cách hai chiều xe chạy (vạch tim đường) hoặc vạch phân chia các làn đường cùng chiều. Không nhất thiết phải sử dụng cả hai loại vạch kéo dài nói trên để định hướng quỹ đạo dòng xe rẽ trái.
 
-Chỉ sử dụng vạch khi quỹ đạo xe chạy được định hướng bởi vạch 5.1 phù hợp với ý đồ tổ chức giao thông và không gây khó hiểu cho các phương tiện qua nút. 
+Chỉ sử dụng vạch khi quỹ đạo xe chạy được định hướng bởi vạch 5.1 phù hợp với ý đồ tổ chức giao thông và không gây khó hiểu cho các phương tiện qua nút.
 
 Minh họa:
 
@@ -10420,7 +10420,7 @@ Minh họa:
 
 Quy cách vạch như sau:
 
-Vạch 5.3 gồm hai vạch đơn, đứt nét, màu trắng chạy song song hơi cong về bên trái và một vạch dừng xe (vạch 7.1) ở đầu các vạch đơn đứt nét. Vạch đơn đứt nét có bề rộng nét vẽ b = 15 cm, chiều dài đoạn nét liền L1 = (0,5 m - 1,0 m); chiều dài nét đứt L2 = (0,5 m - 1,0 m). Tỷ lệ L1/L2 = 1:1. 
+Vạch 5.3 gồm hai vạch đơn, đứt nét, màu trắng chạy song song hơi cong về bên trái và một vạch dừng xe (vạch 7.1) ở đầu các vạch đơn đứt nét. Vạch đơn đứt nét có bề rộng nét vẽ b = 15 cm, chiều dài đoạn nét liền L1 = (0,5 m - 1,0 m); chiều dài nét đứt L2 = (0,5 m - 1,0 m). Tỷ lệ L1/L2 = 1:1.
 
 **	d. Minh họa bố trí vạch phân làn đường trong khu vực nút giao cùng mức**
 
@@ -10586,7 +10586,7 @@ Bố trí vạch đi bộ qua đường ở những nơi có người đi bộ q
 
 Trên những đoạn đường không bình thường (tầm nhìn bị hạn chế, dốc dọc lớn, góc ngoặt lớn hoặc đường cong nằm bán kính nhỏ hoặc có các nguy hiểm khó lường hoặc ở những đoạn đường có bề rộng làn xe bị thu hẹp dần) thì không bố trí vạch đi bộ qua đường.
 
-Minh họa: 
+Minh họa:
 
 
 
@@ -10608,7 +10608,7 @@ Minh họa:
 
 **b. Dạng cắt chéo**
 
-**				    _Đơn vị: cm_**	
+**				    _Đơn vị: cm_**
 
 **Hình G.51 - Vạch đi bộ qua đường – Mẫu 1**
 
@@ -10659,7 +10659,7 @@ Hai vạch đứt quãng chạy song song rộng bằng nhau bằng 40 cm, chi�
 
 Vạch 7.5: Vạch xác định khu vực cấm xe thô sơ trong nút giao
 
-Ý nghĩa sử dụng: Vạch 7.5 sử dụng để báo cho người điều khiển xe thô sơ biết phạm vi cấm khi đi vào nút giao ngã tư có sử dụng đèn tín hiệu điều khiển. 
+Ý nghĩa sử dụng: Vạch 7.5 sử dụng để báo cho người điều khiển xe thô sơ biết phạm vi cấm khi đi vào nút giao ngã tư có sử dụng đèn tín hiệu điều khiển.
 
 Minh họa:
 
@@ -10730,7 +10730,7 @@ Quy cách vạch như sau:
 
 - Chữ "R" dùng sơn phản quang màu trắng ở bên phải và bên trái vạch chéo "X".
 
-- Vạch chéo "X" cách vạch nét đứt nằm ngang trước và sau là 450 cm, vạch rộng 40 cm, vạch chéo theo phương ngang hết bề rộng chiều xe chạy và dài 600 cm theo chiều dọc. 
+- Vạch chéo "X" cách vạch nét đứt nằm ngang trước và sau là 450 cm, vạch rộng 40 cm, vạch chéo theo phương ngang hết bề rộng chiều xe chạy và dài 600 cm theo chiều dọc.
 
 - Vạch nét đứt nằm ngang dùng sơn phản quang trắng, nét rộng 40 cm, mỗi nét dài 60 cm, cách nhau 60 cm trước và sau vạch chéo "X".
 
@@ -10739,7 +10739,7 @@ Quy cách vạch như sau:
 
     **G2.8. 	Vạch xác định khoảng cách xe trên đường**
 
-	Vạch 7.8: Vạch xác định khoảng cách xe trên đường.  
+	Vạch 7.8: Vạch xác định khoảng cách xe trên đường.
 
 Ý nghĩa sử dụng: Vạch 7.8 là vạch dùng để xác định khoảng cách trên đường, giúp cho lái xe biết cần phải giãn cách cự ly để đảm bảo an toàn với xe chạy phía trước. Vạch thường được sử dụng trên đường ôtô cao tốc ở những nơi hay xảy ra tai nạn do vượt xe hoặc đâm va từ phía sau hoặc ở những vị trí có yêu cầu đặc biệt. Vạch được sử dụng kèm biển báo ghi khoảng cách giữa các vạch theo phương dọc đường.
 
@@ -10807,7 +10807,7 @@ Minh họa:
 
 Quy cách vạch như sau:
 
-Vạch 8.1 cấu tạo gồm những nét chéo vàng, đen hoặc đỏ, trắng xen kẽ nhau, nghiêng góc 45°, bề rộng và khoảng cách nét là 15 cm khi kẻ nên cho nét chéo xuống chéo về phía đường xe chạy. 
+Vạch 8.1 cấu tạo gồm những nét chéo vàng, đen hoặc đỏ, trắng xen kẽ nhau, nghiêng góc 45°, bề rộng và khoảng cách nét là 15 cm khi kẻ nên cho nét chéo xuống chéo về phía đường xe chạy.
 
 Thông thường màu vàng, đen được sử dụng cho các đường ngoài khu vực đô thị; màu đỏ, trắng được sử dụng cho các đường trong khu vực đô thị. Khi cần thiết, các vạch cũng có thể được bẻ gập dạng chữ V (xem ví dụ trên Hình G.63). Chi tiết cấu tạo vạch 8.1 thể hiện trên Hình 62.
 
@@ -11023,7 +11023,7 @@ Vạch 9.2 là vạch đơn liền, màu vàng, bề rộng nét vẽ b = 10 cm.
 
 Quy cách vạch như sau:
 
-- Màu sắc của mũi tên chỉ đường là màu trắng. 
+- Màu sắc của mũi tên chỉ đường là màu trắng.
 
 - Tùy theo tốc độ xe chạy mà chọn kích thước các mũi tên phù hợp theo nguyên tắc tốc độ xe chạy càng lớn thì kích thước mũi tên càng lớn. Kích thước mũi tên thể hiện trên Hình G.73 áp dụng cho các đường có tốc độ xe chạy thấp. Kích thước mũi tên ghi ngoài ngoặc đơn thể hiện trên Hình G.74 áp dụng cho các đường có tốc độ xe chạy cao. Kích thước mũi trên ghi trong ngoặc đơn thể hiện trên Hình G.74 áp dụng cho đường ôtô cao tốc và các đường có tốc độ thiết kế ≥ 100 km/h.
 
@@ -11084,7 +11084,7 @@ Quy cách vạch như sau: Vạch mũi tên báo số làn xe phía trước b�
 
 **e. Vạch 9.5: Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường**
 
-Ý nghĩa sử dụng: sử dụng đi kèm với các loại báo hiệu khác nhằm tăng tính rõ ràng về ý nghĩa của các báo hiệu. 
+Ý nghĩa sử dụng: sử dụng đi kèm với các loại báo hiệu khác nhằm tăng tính rõ ràng về ý nghĩa của các báo hiệu.
 
 Quy định chung: Vạch dạng chữ viết hoặc số có màu trắng; chiều cao chữ viết 3,0 m áp dụng cho đường cao tốc; 2,5 m áp dụng cho các loại đường khác; trong đô thị với các đường có tốc độ xe chạy thấp có thể sử dụng chiều cao chữ là 1,6 m; khoảng cách các hàng chữ hoặc số theo phương dọc đường 1,0 m – 1,5 m; bề rộng nét vẽ 12 cm -18 cm.
 
@@ -11117,7 +11117,7 @@ Một số vạch chữ và số:
 - Vạch 9.5c: vạch chữ làn đường dành riêng cho xe máy “XE MÁY”
 
 
-                        
+
 
 <p id="gdcalert531" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image510.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert532">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -11177,7 +11177,7 @@ Quy cách vạch như sau: Vạch có màu trắng minh họa hình vẽ xe đ�
 
 **I.1 Quy định về hình dạng, kích thước và màu sắc đối với cột kilômét dạng cột thấp và cột kilômét dạng cột cao**
 
-a) Cột kilômét dạng cột thấp 
+a) Cột kilômét dạng cột thấp
 
 - Hình dạng là hình chữ nhật, đầu trên cùng lượn tròn theo hình bán nguyệt đường kính 40 cm.
 
@@ -11205,7 +11205,7 @@ Chữ đề trên hai mặt thẳng góc với chiều đi màu đen. Nội dun
 
 **I.3 Quy định về tên địa phương chỉ dẫn trên cột kilômét dạng cột thấp và cột kilômét dạng cột cao**
 
-a) Tên địa phương phải là địa danh mà tuyến đi qua, không được chỉ dẫn tên địa phương trên đường khác đấu nối vào. 
+a) Tên địa phương phải là địa danh mà tuyến đi qua, không được chỉ dẫn tên địa phương trên đường khác đấu nối vào.
 
 b) Những tên địa phương cần chỉ dẫn là những tên địa phương theo quy định tại khoản 44.4 Điều 44 của Quy chuẩn này.
 
@@ -11229,7 +11229,7 @@ g) Tên những địa phương quá dài thì chữ đứng đầu có thể vi
 
 - Hình dạng: có dạng biển hình chữ nhật gắn trên cột biển báo.
 
-- Kích thước: tấm hình chữ nhật làm mặt biển có kích thước chiều rộng 350 mm; chiều cao 700 mm, 1000 m hoặc 1300 m tùy theo việc bố trí 1, 2 hoặc 3 con số lý trình thể hiện trên biển theo chiều đứng. Chi tiết xem Hình I.3. 
+- Kích thước: tấm hình chữ nhật làm mặt biển có kích thước chiều rộng 350 mm; chiều cao 700 mm, 1000 m hoặc 1300 m tùy theo việc bố trí 1, 2 hoặc 3 con số lý trình thể hiện trên biển theo chiều đứng. Chi tiết xem Hình I.3.
 
 - Biển có nền màu xanh lá cây, viền màu trắng với đường cao tốc.
 
@@ -11369,7 +11369,7 @@ Ghi chú:  Kích thước ghi trên hình vẽ là cm
 
 
 ![alt_text](images/image519.jpg "image_tooltip")
-        
+
 
 Ghi chú: Kích thước ghi trên hình vẽ là cm
 
@@ -12854,7 +12854,7 @@ Ghi chú: Chữ viết và chữ số mẫu dùng đề tham khảo khi thiết 
 **K.2.2	Chữ thường, kiểu chữ nén (gt1)**
 
 
-## 
+##
 
 <p id="gdcalert547" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image526.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert548">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -12863,5 +12863,3 @@ Ghi chú: Chữ viết và chữ số mẫu dùng đề tham khảo khi thiết 
 
 
 **Hình K.5 - Chi tiết chữ viết dạng chữ thường, kiểu chữ nén (gt1)**
-
-	
