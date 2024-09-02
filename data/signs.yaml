@@ -4839,13 +4839,12 @@ I.424a:
     E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
     Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
-  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
   docs_mdx: |-
     E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
     Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
-  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
   image: I424a.jpeg
+  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
 
 I.424b:
   docs_name: 'Biển số I.424(a,b): Cầu vượt qua đường cho người đi bộ'
@@ -4854,13 +4853,12 @@ I.424b:
     E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
     Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
-  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
   docs_mdx: |-
     E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
     Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
-  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
   image: I424b.jpeg
+  name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
 
 I.424c:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
@@ -4868,12 +4866,11 @@ I.424c:
   docs: |-
     E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
-  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
   docs_mdx: |-
     E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
-  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
   image: I424c.jpeg
+  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
 
 I.424d:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
@@ -4881,12 +4878,11 @@ I.424d:
   docs: |-
     E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
-  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
   docs_mdx: |-
     E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
     Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
-  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
   image: I424d.jpeg
+  name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
 
 I.425:
   docs_name: 'Biển số I.425: Bệnh viện'
