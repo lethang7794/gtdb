@@ -1,5 +1,6 @@
 export type RoadSign = {
   docs_name?: string
+  docs_source?: string
   docs?: string
   name: string
   image?: string
