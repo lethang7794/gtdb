@@ -1,7 +1,6 @@
 import 'github-markdown-css/github-markdown.css'
-import './style.css'
-
-const GITHUB_MARKDOWN_CSS_CLASS = 'markdown-body'
+import '@/style/style.css'
+import { GITHUB_MARKDOWN_CSS_CLASS } from '@/constant/github-markdown-css'
 
 export default function MdxLayout({ children }: { children: React.ReactNode }) {
   return (
