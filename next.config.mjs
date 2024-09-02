@@ -8,6 +8,7 @@ import remarkGfm from 'remark-gfm'
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   // Optionally, add any other Next.js config below
+  transpilePackages: ['next-mdx-remote'],
 }
 
 const withMDX = createMDX({

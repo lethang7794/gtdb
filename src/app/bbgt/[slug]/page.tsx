@@ -9,6 +9,8 @@ import {
 } from '@/service/road-sign'
 import { getRoadSigns } from '@/service/road-sign'
 import { MDX } from '@/components/mdx/mdx'
+import '@/style/github-markdown-road-sign.css'
+
 
 export async function generateStaticParams() {
   const roadSigns = getRoadSigns()
@@ -58,7 +60,7 @@ export default async function RoadSignPage({ params }: Props) {
   const prevSignKey = prev?.[0]
   const nextSignKey = next?.[0]
 
-  const mdxSource = await serialize(sign.docs || '')
+  const mdxSource = await serialize(sign.docs_mdx || '')
 
   return (
     <div
@@ -84,9 +86,7 @@ export default async function RoadSignPage({ params }: Props) {
               {sign.docs_source}
             </div>
           </div>
-          <div className="whitespace-pre-wrap text-justify first-line:font-bold">
-            {sign.docs}
-          </div>
+          <div className="whitespace-pre-wrap text-justify">{sign.docs}</div>
           <MDX mdxSource={mdxSource} />
         </div>
       </div>
