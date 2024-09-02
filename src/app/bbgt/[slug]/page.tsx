@@ -63,35 +63,47 @@ export default async function RoadSignPage({
       key={slug}
       className="flex items-center justify-start flex-col px-3 py-2 mt-4 rounded-md"
     >
-      <div className="container py-4 px-6  rounded-xl shadow-lg">
+      <div className="container py-4 px-6 mb-4 rounded-xl shadow-lg">
         <img
           alt={slug}
           src={getRoadSignImage(sign)}
           className="h-[250px] w-full order-none object-contain object-bottom mb-1"
         />
         <div className="text-balance text-center leading-5">{sign.name}</div>
+        <br />
         <div className="flex-grow" />
         <div className="flex flex-col">
           {/* <div className="text-balance text-center leading-5">
             {sign.docs_name}
           </div> */}
-          <div className="whitespace-pre-wrap">{sign.docs}</div>
-          <div className="w-full text-right text-gray-500 italic border-t-2">
-            QCVN 41:2019/BGTVT - {sign.docs_source}
+          <div className="w-full mb-2 text-right border-t-2 border-b-2">
+            <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
+            <div className="italic text-gray-500 text-balance">
+              {sign.docs_source}
+            </div>
+          </div>
+          <div className="whitespace-pre-wrap text-justify first-line:font-bold">
+            {sign.docs}
           </div>
         </div>
       </div>
       <div className="flex justify-between w-full">
         {prevSignKey ? (
-          <Link className="min-w-24" href={`/bbgt/${prevSignKey}`}>
+          <Link
+            className="min-w-24 text-blue-600 dark:text-blue-500 hover:underline"
+            href={`/bbgt/${prevSignKey}`}
+          >
             ← {prevSignKey}
           </Link>
         ) : (
           <div className="min-w-24" />
         )}
-        <div className="text-gray-500 italic">{decodedSlug}</div>
+        <div className="text-gray-500 italic font-bold">{decodedSlug}</div>
         {nextSignKey ? (
-          <Link className="min-w-24 text-right" href={`/bbgt/${nextSignKey}`}>
+          <Link
+            className="min-w-24 text-blue-600 dark:text-blue-500 hover:underline text-right"
+            href={`/bbgt/${nextSignKey}`}
+          >
             {nextSignKey} →
           </Link>
         ) : (
