@@ -1,11 +1,14 @@
 import type { Metadata, ResolvingMetadata } from 'next'
+import Link from 'next/link'
+import { serialize } from 'next-mdx-remote/serialize'
+import type { MDXRemoteSerializeResult } from 'next-mdx-remote'
 import {
   getRoadSignById,
   getRoadSignImage,
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
 import { getRoadSigns } from '@/service/road-sign'
-import Link from 'next/link'
+import { MDX } from '@/components/mdx/mdx'
 
 export async function generateStaticParams() {
   const roadSigns = getRoadSigns()
@@ -14,6 +17,7 @@ export async function generateStaticParams() {
 
 type Props = {
   params: { slug: string }
+  mdxSource: MDXRemoteSerializeResult
 }
 
 export async function generateMetadata(
@@ -39,11 +43,7 @@ export async function generateMetadata(
   }
 }
 
-export default async function RoadSignPage({
-  params,
-}: {
-  params: { slug: string }
-}) {
+export default async function RoadSignPage({ params }: Props) {
   const slug = params.slug
   const decodedSlug = slug.replace('%2C', ',')
   const signWithAround = getRoadSignsWithAroundById(decodedSlug)
@@ -58,12 +58,14 @@ export default async function RoadSignPage({
   const prevSignKey = prev?.[0]
   const nextSignKey = next?.[0]
 
+  const mdxSource = await serialize(sign.docs || '')
+
   return (
     <div
       key={slug}
-      className="flex items-center justify-start flex-col px-3 py-2 mt-4 rounded-md"
+      className="flex items-center justify-start flex-col px-3 py-2 mt-4 mb-4 rounded-md"
     >
-      <div className="container py-4 px-6 mb-4 rounded-xl shadow-lg">
+      <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
         <img
           alt={slug}
           src={getRoadSignImage(sign)}
@@ -85,6 +87,7 @@ export default async function RoadSignPage({
           <div className="whitespace-pre-wrap text-justify first-line:font-bold">
             {sign.docs}
           </div>
+          <MDX mdxSource={mdxSource} />
         </div>
       </div>
       <div className="flex justify-between w-full">
