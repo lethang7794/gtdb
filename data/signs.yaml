@@ -4245,7 +4245,7 @@ I.449:
 # IE
 IE.450a:
   docs_name: 'Biển số IE.450a: Chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE450a.svg
@@ -4253,7 +4253,7 @@ IE.450a:
 
 IE.450b:
   docs_name: 'Biển số IE.450b: Chỉ dẫn sơ đồ đến đường dẫn vào đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE450b.svg
@@ -4261,7 +4261,7 @@ IE.450b:
 
 IE.451a:
   docs_name: 'Biển số IE.451a: Chỉ dẫn khoảng cách đến lối vào đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE451a.svg
@@ -4269,7 +4269,7 @@ IE.451a:
 
 IE.451b:
   docs_name: 'Biển số IE.451b: Chỉ dẫn lối vào đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE451b.svg
@@ -4277,7 +4277,7 @@ IE.451b:
 
 IE.452:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE452.svg
@@ -4285,7 +4285,7 @@ IE.452:
 
 IE.452b:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE452b.png
@@ -4293,7 +4293,7 @@ IE.452b:
 
 IE.452c:
   docs_name: 'Biển số IE.452: Chỉ dẫn bắt đầu đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE452c.png
@@ -4301,7 +4301,7 @@ IE.452c:
 
 IE.453a:
   docs_name: 'Biển số IE.453a: Chỉ dẫn khoảng cách đến điểm kết thúc đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE453a.svg
@@ -4309,7 +4309,7 @@ IE.453a:
 
 IE.453b:
   docs_name: 'Biển số IE.453b: Chỉ dẫn điểm kết thúc đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE453b.svg
@@ -4319,7 +4319,7 @@ IE.453b:
 
 IE.453c:
   docs_name: 'Biển số IE.453c: Hết đường cao tốc'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE453c.svg
@@ -4329,7 +4329,7 @@ IE.453c:
 
 IE.454a:
   docs_name: 'Biển số IE.454: Chỉ dẫn khoảng cách đến lối ra phía trước'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE454a.svg
@@ -4337,7 +4337,7 @@ IE.454a:
 
 IE.454b:
   docs_name: 'Biển số IE.454: Chỉ dẫn khoảng cách đến lối ra phía trước'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   name: 'Lối ra phía trước (cách 1km)'
 
   related: [IE.464b]
@@ -4347,7 +4347,7 @@ IE.454b:
 
 IE.455:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE455a.svg
@@ -4355,7 +4355,7 @@ IE.455:
 
 IE.455a:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE455a.svg
@@ -4363,7 +4363,7 @@ IE.455a:
 
 IE.455b:
   docs_name: 'Biển số IE.455: Chỉ dẫn khoảng cách đến các lối ra tiếp theo'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE455b.jpg
@@ -4371,7 +4371,7 @@ IE.455b:
 
 IE.456a:
   docs_name: 'Biển số IE.456a: Chỉ dẫn khoảng cách đến trạm dừng nghỉ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE456a.svg
@@ -4379,7 +4379,7 @@ IE.456a:
 
 IE.456b:
   docs_name: 'Biển số IE.456b: Chỉ dẫn hướng rẽ đến trạm dừng nghỉ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE456b.svg
@@ -4387,7 +4387,7 @@ IE.456b:
 
 IE.456c:
   docs_name: 'Biển số IE.456c: Chỉ dẫn trạm dừng nghỉ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE456c.svg
@@ -4395,7 +4395,7 @@ IE.456c:
 
 IE.457a:
   docs_name: 'Biển số IE.457: Chỉ dẫn nơi đỗ xe trong trạm dừng nghỉ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE457a.svg
@@ -4403,7 +4403,7 @@ IE.457a:
 
 IE.457b:
   docs_name: 'Biển số IE.457: Chỉ dẫn nơi đỗ xe trong trạm dừng nghỉ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE457b.svg
@@ -4411,7 +4411,7 @@ IE.457b:
 
 IE.458:
   docs_name: 'Biển số IE.458: Chỉ dẫn khoảng cách đến trạm dừng nghỉ tiếp theo'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE458.svg
@@ -4421,7 +4421,7 @@ IE.458:
 
 IE.459a:
   docs_name: 'Biển số IE.459a: Chỉ dẫn khoảng cách đến khu tham quan, du lịch'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE459a.svg
@@ -4429,7 +4429,7 @@ IE.459a:
 
 IE.459b:
   docs_name: 'Biển số IE.459b: Chỉ dẫn hướng rẽ vào khu tham quan, du lịch'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE459b.svg
@@ -4437,7 +4437,7 @@ IE.459b:
 
 IE.460a:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE460a.svg
@@ -4445,7 +4445,7 @@ IE.460a:
 
 IE.460b:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE460b.svg
@@ -4453,7 +4453,7 @@ IE.460b:
 
 IE.460c:
   docs_name: 'Biển số IE.460: Chỉ dẫn cột kilômét trên đường cao tốc đặt tại lề đường'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE460c.svg
@@ -4461,7 +4461,7 @@ IE.460c:
 
 IE.461a:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE461a.svg
@@ -4469,7 +4469,7 @@ IE.461a:
 
 IE.461b:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE461b.svg
@@ -4477,7 +4477,7 @@ IE.461b:
 
 IE.461c:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE461c.svg
@@ -4485,7 +4485,7 @@ IE.461c:
 
 IE.461d:
   docs_name: 'Biển số IE.461: Chỉ dẫn khoảng cách và hướng đến khu dịch vụ công cộng, giải trí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE461d.svg
@@ -4493,7 +4493,7 @@ IE.461d:
 
 IE.462:
   docs_name: 'Biển số IE.462: Chỉ dẫn tần số trên sóng radio'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE462.svg
@@ -4501,7 +4501,7 @@ IE.462:
 
 IE.463a:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE463a.svg
@@ -4509,7 +4509,7 @@ IE.463a:
 
 IE.463b:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE463b.svg
@@ -4517,7 +4517,7 @@ IE.463b:
 
 IE.463c:
   docs_name: 'Biển số IE.463: Chỉ dẫn đến trạm kiểm tra tải trọng xe'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE463c.svg
@@ -4525,7 +4525,7 @@ IE.463c:
 
 IE.464a:
   docs_name: 'Biển số IE.464a: Chỉ dẫn lối ra một chiều'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE464a.svg
@@ -4535,7 +4535,7 @@ IE.464a:
 
 IE.464b:
   docs_name: 'Biển số IE.464b: Chỉ dẫn hướng ra (tại lối ra)'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE464b.svg
@@ -4545,7 +4545,7 @@ IE.464b:
 
 IE.465a:
   docs_name: 'Biển số IE.465: Chỉ dẫn địa điểm và khoảng cách'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE465a.svg
@@ -4553,7 +4553,7 @@ IE.465a:
 
 IE.465b:
   docs_name: 'Biển số IE.465: Chỉ dẫn địa điểm và khoảng cách'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE465b.jpg
@@ -4561,7 +4561,7 @@ IE.465b:
 
 IE.466:
   docs_name: 'Biển số IE.466: Chỉ dẫn sơ đồ lối ra một chiều'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE466.svg
@@ -4569,7 +4569,7 @@ IE.466:
 
 IE.467a:
   docs_name: 'Biển số IE.467: Chỉ dẫn vị trí nhập làn'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE467a.svg
@@ -4579,7 +4579,7 @@ IE.467a:
 
 IE.467b:
   docs_name: 'Biển số IE.467: Chỉ dẫn vị trí nhập làn'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE467b.svg
@@ -4589,7 +4589,7 @@ IE.467b:
 
 IE.468a:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE468a.svg
@@ -4597,7 +4597,7 @@ IE.468a:
 
 IE.468b:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE468b.svg
@@ -4605,7 +4605,7 @@ IE.468b:
 
 IE.468c:
   docs_name: 'Biển số IE.468: Chỉ dẫn chướng ngại vật phía trước'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE468c.svg
@@ -4613,7 +4613,7 @@ IE.468c:
 
 IE.469a:
   docs_name: 'Biển số IE.469: Chỉ dẫn hướng rẽ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE469a.svg
@@ -4621,7 +4621,7 @@ IE.469a:
 
 IE.469b:
   docs_name: 'Biển số IE.469: Chỉ dẫn hướng rẽ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE469b.svg
@@ -4629,7 +4629,7 @@ IE.469b:
 
 IE.470:
   docs_name: 'Biển số IE.470: Chỉ dẫn số điện thoại khẩn cấp'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE470.svg
@@ -4637,7 +4637,7 @@ IE.470:
 
 IE.471:
   docs_name: 'Biển số IE.471: Chỉ dẫn giữ khoảng cách lái xe an toàn'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE471.svg
@@ -4645,7 +4645,7 @@ IE.471:
 
 IE.472a:
   docs_name: 'Biển số IE.472: Chỉ dẫn khoảng cách đến trạm thu phí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE472a.svg
@@ -4653,7 +4653,7 @@ IE.472a:
 
 IE.472b:
   docs_name: 'Biển số IE.472: Chỉ dẫn khoảng cách đến trạm thu phí'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE472b.svg
@@ -4661,7 +4661,7 @@ IE.472b:
 
 IE.473:
   docs_name: 'Biển số IE.473: Chỉ dẫn giảm tốc độ'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE473.svg
@@ -4669,7 +4669,7 @@ IE.473:
 
 IE.474:
   docs_name: 'Biển số IE.474: Chỉ dẫn lối ra'
-  docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
+  docs_source: 'Chương 9 - Điều 51 - Các loại biển chỉ dẫn trên đường cao tốc'
   docs: |-
     .
   image: IE474.svg
