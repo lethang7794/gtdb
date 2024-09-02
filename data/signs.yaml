@@ -2718,7 +2718,7 @@ R.421:
   docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
     D.18 Biển số R.421 "Hết khu đông dân cư"
-    Để báo hiệu hết đoạn đường qua phạm vi khu đông dân cư, đặt biển số R.421 "Hết khu đông dân cư". Biển có tác dụng báo cho người tham gia giao thông  biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực. 
+    Để báo hiệu hết đoạn đường qua phạm vi khu đông dân cư, đặt biển số R.421 "Hết khu đông dân cư". Biển có tác dụng báo cho người tham gia giao thông  biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.
   image: R421.svg
   name: 'Hết khu đông dân cư'
 
@@ -2852,6 +2852,13 @@ I.401:
   docs_name: 'Biển số I.401: Bắt đầu đường ưu tiên'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.1 Biển số I.401 "Bắt đầu đường ưu tiên"
+    a) Để biểu thị ưu tiên cho các phương tiện trên đường có đặt biển này được đi trước, đặt biển số I.401 “Bắt đầu đường ưu tiên”. Biển đặt tại vị trí thích hợp trước khi đường nhánh sắp nhập vào trục đường chính, yêu cầu phương tiện từ đường nhánh ra phải dừng lại nhường cho phương tiện trên đường chính đi trước.
+    Trong trường hợp trên đường ưu tiên đã có các biển W.207, tại các đường nhánh đã có biển W.208 thì không nhất thiết đặt biển số I.401.
+    b) Trên đoạn đường này, phương tiện được quyền ưu tiên đi qua nơi giao nhau không có điều khiển giao thông. Phương tiện trên đường khác nhập vào hay cắt ngang qua phải nhường đường (trừ các xe được quyền ưu tiên theo quy định). Nếu ở chỗ giao nhau có điều khiển giao thông thì nguyên tắc chạy xe ưu tiên hết tác dụng (trừ các xe được quyền ưu tiên theo quy định).
+    c) Phía dưới biển số I.401, đặt biển số S.506a "Hướng đường ưu tiên". Nếu ở nơi đường giao nhau đường ưu tiên thay đổi hướng.
+    d) Trên các đường không ưu tiên, ở những điểm giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên" hoặc biển số R.122 "Dừng lại", bên dưới có đặt biển số S.506b "Hướng đường ưu tiên".
+
     .
   image: I401.svg
   name: 'Bắt đầu đường ưu tiên'
@@ -2860,6 +2867,9 @@ I.402:
   docs_name: 'Biển số I.402: Hết đoạn đường ưu tiên'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.2 Biển số I.402 "Hết đoạn đường ưu tiên"
+    Đến hết đoạn đường quy định là ưu tiên, đặt biển số I.402 "Hết đoạn đường ưu tiên".  
+
     .
   image: I402.svg
   name: 'Hết đoạn đường ưu tiên'
@@ -2868,6 +2878,13 @@ I.405a:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.5 Biển số I.405(a,b,c) "Đường cụt"
+    a) Để chỉ dẫn những đường cụt, đặt các biển sau:
+    - Biển số I.405 (a,b) để chỉ lối rẽ vào đường cụt. Tùy theo lối rẽ vào đường cụt mà chọn kiểu biển cho phù hợp. Biển này đặt trên đường chính trước khi đến nơi đường giao nhau để rẽ vào đường cụt.
+    - Biển số I.405c để chỉ dẫn phía trước là đường cụt. Biển này đặt trước đường cụt 300 m đến 500 m và cứ 100 m phải đặt thêm một biển.
+    - Đường cụt là những đường xe không thể tiếp tục đi qua được. Những đường cụt có thể là những ngõ cụt (ở trong khu đông dân cư); đường hoặc cầu bị đứt do thiên tai, địch hoạ hoặc đường tránh dự phòng mà mà tại vị trí vượt sông, suối chưa có phương tiện vượt sông; đường đi vào cầu nhưng cầu hỏng v.v...
+    b) Những đường cụt mà xe cộ không thể đi vào được hoặc không sử dụng thì không đặt biển đường cụt mà phải rào chắn ngay tại nơi đường giao nhau và đặt biển số P.101 "Đường cấm".
+
     .
   image: I405a.svg
   name: 'Đường cụt (ở lối rẽ phải)'
@@ -2876,6 +2893,13 @@ I.405b:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.5 Biển số I.405(a,b,c) "Đường cụt"
+    a) Để chỉ dẫn những đường cụt, đặt các biển sau:
+    - Biển số I.405 (a,b) để chỉ lối rẽ vào đường cụt. Tùy theo lối rẽ vào đường cụt mà chọn kiểu biển cho phù hợp. Biển này đặt trên đường chính trước khi đến nơi đường giao nhau để rẽ vào đường cụt.
+    - Biển số I.405c để chỉ dẫn phía trước là đường cụt. Biển này đặt trước đường cụt 300 m đến 500 m và cứ 100 m phải đặt thêm một biển.
+    - Đường cụt là những đường xe không thể tiếp tục đi qua được. Những đường cụt có thể là những ngõ cụt (ở trong khu đông dân cư); đường hoặc cầu bị đứt do thiên tai, địch hoạ hoặc đường tránh dự phòng mà mà tại vị trí vượt sông, suối chưa có phương tiện vượt sông; đường đi vào cầu nhưng cầu hỏng v.v...
+    b) Những đường cụt mà xe cộ không thể đi vào được hoặc không sử dụng thì không đặt biển đường cụt mà phải rào chắn ngay tại nơi đường giao nhau và đặt biển số P.101 "Đường cấm".
+
     .
   image: I405b.svg
   name: 'Đường cụt (ở lối rẽ trái)'
@@ -2884,6 +2908,13 @@ I.405c:
   docs_name: 'Biển số I.405(a,b,c): Đường cụt'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.5 Biển số I.405(a,b,c) "Đường cụt"
+    a) Để chỉ dẫn những đường cụt, đặt các biển sau:
+    - Biển số I.405 (a,b) để chỉ lối rẽ vào đường cụt. Tùy theo lối rẽ vào đường cụt mà chọn kiểu biển cho phù hợp. Biển này đặt trên đường chính trước khi đến nơi đường giao nhau để rẽ vào đường cụt.
+    - Biển số I.405c để chỉ dẫn phía trước là đường cụt. Biển này đặt trước đường cụt 300 m đến 500 m và cứ 100 m phải đặt thêm một biển.
+    - Đường cụt là những đường xe không thể tiếp tục đi qua được. Những đường cụt có thể là những ngõ cụt (ở trong khu đông dân cư); đường hoặc cầu bị đứt do thiên tai, địch hoạ hoặc đường tránh dự phòng mà mà tại vị trí vượt sông, suối chưa có phương tiện vượt sông; đường đi vào cầu nhưng cầu hỏng v.v...
+    b) Những đường cụt mà xe cộ không thể đi vào được hoặc không sử dụng thì không đặt biển đường cụt mà phải rào chắn ngay tại nơi đường giao nhau và đặt biển số P.101 "Đường cấm".
+
     .
   image: I405c.svg
   name: 'Đường cụt (phía trước)'
@@ -2892,6 +2923,11 @@ I.406:
   docs_name: 'Biển số I.406: Được ưu tiên qua đường hẹp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.6 Biển số I.406 "Được ưu tiên qua đường hẹp"
+    a) Để chỉ dẫn cho người tham gia giao thông cơ giới biết mình được quyền ưu tiên đi trước trên đoạn đường hẹp, đặt biển số I.406 "Được ưu tiên qua đường hẹp".
+    b) Nếu trên hướng đi ngược chiều có xe (cơ giới hoặc thô sơ) đã đi vào phạm vi đường hẹp thì xe đi theo chiều ưu tiên cũng phải nhường đường.
+    c) Khi đã đặt biển số I.406 thì ở chiều ngược lại bắt buộc đặt biển số P.132 "Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp".
+
     .
   image: I406.svg
   name: 'Được ưu tiên qua đường hẹp'
@@ -2902,6 +2938,11 @@ I.407a:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.7 Biển số I.407(a,b,c) "Đường một chiều"
+    a) Để chỉ dẫn những đoạn đường chạy một chiều, đặt biển số I.407(a,b,c) "Đường một chiều". Biển số I.407a đặt sau nơi đường giao nhau, khi đã có biển R.302 tại các đầu dải phân cách thì không nhất thiết đặt  biển số I.407a. Biển số I.407b,c đặt trước nơi đường giao nhau và đặt trên đường chuẩn bị đi vào đường một chiều.
+    b) Biển số I.407 (a,b,c) chỉ cho phép các loại phương tiện giao thông đi theo chiều vào theo mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo quy định).
+    c) Khi hết đoạn đường một chiều đặt biển số W.204 "Đường hai chiều". Biển số W.204 cho biết bắt đầu đi hai chiều.
+
     .
   image: I407a.svg
   name: 'Đường một chiều'
@@ -2913,6 +2954,11 @@ I.407b:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.7 Biển số I.407(a,b,c) "Đường một chiều"
+    a) Để chỉ dẫn những đoạn đường chạy một chiều, đặt biển số I.407(a,b,c) "Đường một chiều". Biển số I.407a đặt sau nơi đường giao nhau, khi đã có biển R.302 tại các đầu dải phân cách thì không nhất thiết đặt  biển số I.407a. Biển số I.407b,c đặt trước nơi đường giao nhau và đặt trên đường chuẩn bị đi vào đường một chiều.
+    b) Biển số I.407 (a,b,c) chỉ cho phép các loại phương tiện giao thông đi theo chiều vào theo mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo quy định).
+    c) Khi hết đoạn đường một chiều đặt biển số W.204 "Đường hai chiều". Biển số W.204 cho biết bắt đầu đi hai chiều.
+
     .
   image: I407b.svg
   name: 'Đường một chiều'
@@ -2924,6 +2970,11 @@ I.407c:
   docs_name: 'Biển số I.407(a,b,c): Đường một chiều'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.7 Biển số I.407(a,b,c) "Đường một chiều"
+    a) Để chỉ dẫn những đoạn đường chạy một chiều, đặt biển số I.407(a,b,c) "Đường một chiều". Biển số I.407a đặt sau nơi đường giao nhau, khi đã có biển R.302 tại các đầu dải phân cách thì không nhất thiết đặt  biển số I.407a. Biển số I.407b,c đặt trước nơi đường giao nhau và đặt trên đường chuẩn bị đi vào đường một chiều.
+    b) Biển số I.407 (a,b,c) chỉ cho phép các loại phương tiện giao thông đi theo chiều vào theo mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo quy định).
+    c) Khi hết đoạn đường một chiều đặt biển số W.204 "Đường hai chiều". Biển số W.204 cho biết bắt đầu đi hai chiều.
+
     .
   image: I407c.svg
   name: 'Đường một chiều'
@@ -2935,6 +2986,10 @@ I.408:
   docs_name: 'Biển số I.408: Nơi đỗ xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.8 Biển số I.408 "Nơi đỗ xe"
+    a) Để chỉ dẫn những nơi được phép đỗ xe, những bãi đỗ xe, bến xe, v.v...,  đặt biển số I.408 "Nơi đỗ xe".
+    b) Chiều dài nơi đỗ xe có thể được xác định giới hạn bằng vạch kẻ trên mặt đường hoặc bãi đỗ có hình dáng rõ ràng. Phạm vi quy định đỗ xe sẽ hết hiệu lực 10 m trước khi đến nơi đường giao nhau tiếp theo.
+
     .
   image: I408.svg
   name: 'Nơi đỗ xe (Hết hiệu lực 10m trước khi đến nơi đường giao nhau tiếp theo)'
@@ -2943,6 +2998,10 @@ I.408a:
   docs_name: 'Biển số I.408a: Nơi đỗ xe một phần trên hè phố'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.8a Biển số 408a "Nơi đỗ xe một phần trên hè phố"
+    a) Để chỉ dẫn những nơi được phép đỗ xe một phần trên hè phố rộng, đặt biển số I.408a "Nơi đỗ xe một phần trên hè phố". Xe phải đỗ sao cho các bánh phía ghế phụ trên hè phố. 
+    b) Mặt biển có thể theo chiều hướng đi hoặc đặt song song và có hiệu lực từ vị trí đặt biển. Chiều dài nơi đỗ xe có thể được xác định giới hạn bằng vạch kẻ trên mặt đường. Khi cần thiết có thể đặt thêm biển phụ chỉ hiệu lực của vùng cho phép đỗ.
+
     .
   image: I408a.svg
   name: 'Nơi đỗ xe một phần trên hè phố'
@@ -2951,36 +3010,49 @@ I.409:
   docs_name: 'Biển số I.409: Chỗ quay xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.9 Biển số I.409 "Chỗ quay xe"
+    a) Để chỉ dẫn vị trí được phép quay đầu xe, đặt biển số I.409 "Chỗ quay xe".
+    b) Bên dưới biển số I.409 có thể đặt biển số S.502 "Khoảng cách đến đối tượng báo hiệu".
+
     .
   image: I409.svg
   name: 'Chỗ quay xe'
-
   related: [S.502]
 
 I.410:
   docs_name: 'Biển số I.410: Khu vực quay xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.10 Biển số I.410 "Khu vực quay xe"
+    a) Để chỉ dẫn khu vực được phép quay đầu xe, đặt biển số I.410 "Khu vực quay xe". Trên biển mô tả cách thức tiến hành quay xe.
+    b) Bên dưới biển số I.410 có thể đặt biển số S.502 "Khoảng cách đến đối tượng báo hiệu".
+
     .
   image: I410.svg
   name: 'Khu vực quay xe'
-
   related: [S.502]
 
 I.413a:
   docs_name: 'Biển số I.413a: Đường phía trước có làn đường dành cho ôtô khách'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.13 Biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách" và biển số I.413 (b,c) "Rẽ ra đường có làn đường dành cho ô tô khách "
+    a) Để chỉ dẫn cho người tham gia giao thông biết đường phía trước có làn đường dành riêng cho ô tô khách theo chiều ngược lại, đặt biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách". Biển được đặt ở nơi đường giao nhau đầu đường một chiều mà hướng ngược chiều có ô tô khách được phép chạy.
+    b) Để chỉ dẫn cho người tham gia giao thông biết ở nơi đường giao nhau rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành riêng cho ô tô khách, đặt biển số I.413b hoặc biển số I.413c báo hiệu "Rẽ ra đường có làn đường dành cho ô tô khách". Tùy theo hướng rẽ mà lựa chọn kiểu biển cho phù hợp.
+
     .
   image: I413a.svg
   name: 'Đường (1 chiều) phía trước có làn đường dành cho ôtô khách (theo chiều ngược lại)'
-
   note: Đặt ở đầu đường 1 chiều
 
 I.413b:
   docs_name: 'Biển số I.413(b,c): Rẽ ra đường có làn đường dành cho ôtô khách'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.13 Biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách" và biển số I.413 (b,c) "Rẽ ra đường có làn đường dành cho ô tô khách "
+    a) Để chỉ dẫn cho người tham gia giao thông biết đường phía trước có làn đường dành riêng cho ô tô khách theo chiều ngược lại, đặt biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách". Biển được đặt ở nơi đường giao nhau đầu đường một chiều mà hướng ngược chiều có ô tô khách được phép chạy.
+    b) Để chỉ dẫn cho người tham gia giao thông biết ở nơi đường giao nhau rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành riêng cho ô tô khách, đặt biển số I.413b hoặc biển số I.413c báo hiệu "Rẽ ra đường có làn đường dành cho ô tô khách". Tùy theo hướng rẽ mà lựa chọn kiểu biển cho phù hợp.
+
     .
   image: I413b.svg
   name: 'Rẽ phải ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
@@ -2989,6 +3061,10 @@ I.413c:
   docs_name: 'Biển số I.413(b,c): Rẽ ra đường có làn đường dành cho ôtô khách'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.13 Biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách" và biển số I.413 (b,c) "Rẽ ra đường có làn đường dành cho ô tô khách "
+    a) Để chỉ dẫn cho người tham gia giao thông biết đường phía trước có làn đường dành riêng cho ô tô khách theo chiều ngược lại, đặt biển số I.413a "Đường phía trước có làn đường dành cho ô tô khách". Biển được đặt ở nơi đường giao nhau đầu đường một chiều mà hướng ngược chiều có ô tô khách được phép chạy.
+    b) Để chỉ dẫn cho người tham gia giao thông biết ở nơi đường giao nhau rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành riêng cho ô tô khách, đặt biển số I.413b hoặc biển số I.413c báo hiệu "Rẽ ra đường có làn đường dành cho ô tô khách". Tùy theo hướng rẽ mà lựa chọn kiểu biển cho phù hợp.
+
     .
   image: I413c.svg
   name: 'Rẽ trái ra đường (1 chiều) có làn đường dành cho ôtô khách (theo chiều ngược lại)'
@@ -2997,6 +3073,12 @@ I.414:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.14 Biển số I.414(a,b,c,d) "Chỉ hướng đường"
+    Ở các nơi đường bộ giao nhau, đặt biển số I.414(a,b,c,d) "Chỉ hướng đường" để chỉ dẫn hướng đường đến các địa danh, khu dân cư. Trên biển cần chỉ dẫn cả số hiệu (tên) đường và cự ly (làm tròn đến kilômét; nếu cự ly < 1,0 km thì làm tròn đến 100 m):
+    - Biển số I.414(a,b) đặt ở nơi đường đường bộ giao nhau và chỉ có một địa danh và khu dân cư trên hướng đường cần phải chỉ dẫn.
+    - Biển số I.414(c,d) đặt ở nơi đường đường bộ  giao nhau có từ hai địa danh, khu dân cư cần phải chỉ dẫn trên biển. Địa danh xa hơn phải viết bên dưới.
+    - Hình vẽ phác họa chỉ hướng đường trên biển phải phù hợp (đồng dạng) với các hướng đường trên thực tế. Chữ và số viết tùy theo kích thước biến và số ký tự để căn chỉnh cho phù hợp, đảm bảo rõ ràng, mỹ quan; khuyến khích sử dụng cỡ chữ lớn.
+
     .
   image: I414a.jpeg
   name: 'Chỉ hướng đường (đến địa danh, khu dân cư)'
@@ -3005,6 +3087,12 @@ I.414a:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.14 Biển số I.414(a,b,c,d) "Chỉ hướng đường"
+    Ở các nơi đường bộ giao nhau, đặt biển số I.414(a,b,c,d) "Chỉ hướng đường" để chỉ dẫn hướng đường đến các địa danh, khu dân cư. Trên biển cần chỉ dẫn cả số hiệu (tên) đường và cự ly (làm tròn đến kilômét; nếu cự ly < 1,0 km thì làm tròn đến 100 m):
+    - Biển số I.414(a,b) đặt ở nơi đường đường bộ giao nhau và chỉ có một địa danh và khu dân cư trên hướng đường cần phải chỉ dẫn.
+    - Biển số I.414(c,d) đặt ở nơi đường đường bộ  giao nhau có từ hai địa danh, khu dân cư cần phải chỉ dẫn trên biển. Địa danh xa hơn phải viết bên dưới.
+    - Hình vẽ phác họa chỉ hướng đường trên biển phải phù hợp (đồng dạng) với các hướng đường trên thực tế. Chữ và số viết tùy theo kích thước biến và số ký tự để căn chỉnh cho phù hợp, đảm bảo rõ ràng, mỹ quan; khuyến khích sử dụng cỡ chữ lớn.
+
     .
   image: I414a.jpeg
   name: 'Chỉ 2 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
@@ -3013,6 +3101,12 @@ I.414b:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.14 Biển số I.414(a,b,c,d) "Chỉ hướng đường"
+    Ở các nơi đường bộ giao nhau, đặt biển số I.414(a,b,c,d) "Chỉ hướng đường" để chỉ dẫn hướng đường đến các địa danh, khu dân cư. Trên biển cần chỉ dẫn cả số hiệu (tên) đường và cự ly (làm tròn đến kilômét; nếu cự ly < 1,0 km thì làm tròn đến 100 m):
+    - Biển số I.414(a,b) đặt ở nơi đường đường bộ giao nhau và chỉ có một địa danh và khu dân cư trên hướng đường cần phải chỉ dẫn.
+    - Biển số I.414(c,d) đặt ở nơi đường đường bộ  giao nhau có từ hai địa danh, khu dân cư cần phải chỉ dẫn trên biển. Địa danh xa hơn phải viết bên dưới.
+    - Hình vẽ phác họa chỉ hướng đường trên biển phải phù hợp (đồng dạng) với các hướng đường trên thực tế. Chữ và số viết tùy theo kích thước biến và số ký tự để căn chỉnh cho phù hợp, đảm bảo rõ ràng, mỹ quan; khuyến khích sử dụng cỡ chữ lớn.
+
     .
   image: I414b.jpeg
   name: 'Chỉ 3 hướng đường (mỗi hướng có 1 địa danh, khu dân cư)'
@@ -3021,6 +3115,12 @@ I.414c:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.14 Biển số I.414(a,b,c,d) "Chỉ hướng đường"
+    Ở các nơi đường bộ giao nhau, đặt biển số I.414(a,b,c,d) "Chỉ hướng đường" để chỉ dẫn hướng đường đến các địa danh, khu dân cư. Trên biển cần chỉ dẫn cả số hiệu (tên) đường và cự ly (làm tròn đến kilômét; nếu cự ly < 1,0 km thì làm tròn đến 100 m):
+    - Biển số I.414(a,b) đặt ở nơi đường đường bộ giao nhau và chỉ có một địa danh và khu dân cư trên hướng đường cần phải chỉ dẫn.
+    - Biển số I.414(c,d) đặt ở nơi đường đường bộ  giao nhau có từ hai địa danh, khu dân cư cần phải chỉ dẫn trên biển. Địa danh xa hơn phải viết bên dưới.
+    - Hình vẽ phác họa chỉ hướng đường trên biển phải phù hợp (đồng dạng) với các hướng đường trên thực tế. Chữ và số viết tùy theo kích thước biến và số ký tự để căn chỉnh cho phù hợp, đảm bảo rõ ràng, mỹ quan; khuyến khích sử dụng cỡ chữ lớn.
+
     .
   image: I414c.jpeg
   name: 'Chỉ 2 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
@@ -3029,6 +3129,12 @@ I.414d:
   docs_name: 'Biển số I.414(a,b,c,d): Chỉ hướng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.14 Biển số I.414(a,b,c,d) "Chỉ hướng đường"
+    Ở các nơi đường bộ giao nhau, đặt biển số I.414(a,b,c,d) "Chỉ hướng đường" để chỉ dẫn hướng đường đến các địa danh, khu dân cư. Trên biển cần chỉ dẫn cả số hiệu (tên) đường và cự ly (làm tròn đến kilômét; nếu cự ly < 1,0 km thì làm tròn đến 100 m):
+    - Biển số I.414(a,b) đặt ở nơi đường đường bộ giao nhau và chỉ có một địa danh và khu dân cư trên hướng đường cần phải chỉ dẫn.
+    - Biển số I.414(c,d) đặt ở nơi đường đường bộ  giao nhau có từ hai địa danh, khu dân cư cần phải chỉ dẫn trên biển. Địa danh xa hơn phải viết bên dưới.
+    - Hình vẽ phác họa chỉ hướng đường trên biển phải phù hợp (đồng dạng) với các hướng đường trên thực tế. Chữ và số viết tùy theo kích thước biến và số ký tự để căn chỉnh cho phù hợp, đảm bảo rõ ràng, mỹ quan; khuyến khích sử dụng cỡ chữ lớn.
+
     .
   image: I414d.jpeg
   name: 'Chỉ 3 hướng đường (mỗi hướng có từ 2 địa danh, khu dân cư)'
@@ -3037,6 +3143,9 @@ I.415:
   docs_name: 'Biển số I.415: Mũi tên chỉ hướng đi'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.15 Biển số I.415 "Mũi tên chỉ hướng đi"
+    Trong khu đông dân cư, hoặc ở các đường giao nhau để chỉ dẫn hướng đi đến một địa danh lân cận tiếp theo và khoảng cách (làm tròn đến km) đến nơi đó, cần phải đặt biển số I.415 "Mũi tên chỉ hướng đi". Trong trường hợp địa danh gần thì không nhất thiết phải ghi khoảng cách.
+
     .
   image: I415.jpeg
   name: 'Mũi tên chỉ hướng đi (đến địa danh tiếp theo)'
@@ -3045,6 +3154,10 @@ I.416:
   docs_name: 'Biển số I.416: Đường tránh'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.16 Biển số I.416 "Đường tránh" 
+    a) Để chỉ dẫn lối đi đường tránh, đường vòng trong trường hợp đường cấm vì lý do đường, cầu bị tắc hoặc thi công và cấm một số loại xe đi qua, đặt biển số I.416 "Đường tránh" trước các đường giao nhau. 
+    b) Hình biển cấm vẽ trên biển này được sử dụng các loại biển từ số P.101 đến biển số P.120 tùy theo trường hợp cần thiết yêu cầu. Trường hợp cần thiết có thể ghi tên các đường trên hình vẽ để dễ nhận biết hướng đi.
+
     .
   image: I416.svg
   name: 'Đường tránh (do phía trước có đường cấm)'
@@ -3053,6 +3166,10 @@ I.417a:
   docs_name: 'Biển số I.417(a,b,c): Chỉ hướng đường phải đi cho từng loại xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.17 Biển số I.417(a,b,c) "Chỉ hướng đường phải đi cho từng loại xe"
+    a) Ở các đường giao nhau trong trường hợp cấm hoặc hạn chế một số loại xe, khi cần thiết có thể đặt biển chỉ hướng đường phải đi cho từng loại xe đến một khu dân cư tiếp theo, đặt biển số I.417(a,b,c) "Chỉ hướng đường phải đi cho từng loại xe".
+    b) Tùy theo loại xe, địa danh khu đông dân cư và hướng đi cần chỉ dẫn để sử dụng kiểu biển và chữ đề trên biển cho thích hợp.
+
     .
   image: I417a.jpeg
   name: 'Chỉ hướng đường phải đi cho từng loại xe'
@@ -3061,6 +3178,10 @@ I.417b:
   docs_name: 'Biển số I.417(a,b,c): Chỉ hướng đường phải đi cho từng loại xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.17 Biển số I.417(a,b,c) "Chỉ hướng đường phải đi cho từng loại xe"
+    a) Ở các đường giao nhau trong trường hợp cấm hoặc hạn chế một số loại xe, khi cần thiết có thể đặt biển chỉ hướng đường phải đi cho từng loại xe đến một khu dân cư tiếp theo, đặt biển số I.417(a,b,c) "Chỉ hướng đường phải đi cho từng loại xe".
+    b) Tùy theo loại xe, địa danh khu đông dân cư và hướng đi cần chỉ dẫn để sử dụng kiểu biển và chữ đề trên biển cho thích hợp.
+
     .
   image: I417b.jpeg
   name: 'Chỉ hướng đường phải đi cho từng loại xe'
@@ -3069,6 +3190,10 @@ I.418:
   docs_name: 'Biển số I.418: Lối đi ở những vị trí cấm rẽ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.18 Biển số I.418 "Lối đi ở những vị trí cấm rẽ"
+    a) Để chỉ lối đi ở các nơi đường giao nhau bị cấm rẽ, đặt biển số I.418 "Lối đi ở những vị trí cấm rẽ". Biển được đặt ở nơi đường giao nhau trước đường cấm rẽ.
+    b) Hình vẽ trên biển tùy theo quy định thực tế mà vẽ cho phù hợp. 
+
     .
   image: I418.svg
   name: 'Lối đi ở những vị trí cấm rẽ'
@@ -3077,6 +3202,13 @@ I.419a:
   docs_name: 'Biển số I.419a: Chỉ dẫn địa giới'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.19 Biển số I.419 "Chỉ dẫn địa giới"
+    a) Để chỉ dẫn địa giới hành chính giữa các thành phố, tỉnh, huyện, đặt biển số I.419(a,b) "Chỉ dẫn địa giới".
+    Biển số I.419b áp dụng cho các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại. Biển I.419a áp dụng cho các trường hợp khác.
+    b) Trên đường quốc lộ biển "Chỉ dẫn địa giới" đặt ở ranh giới hành chính giữa hai thành phố trực thuộc trung ương hoặc hai tỉnh hoặc thành phố trực thuộc trung ương với tỉnh. Trên các đường tỉnh biển "Chỉ dẫn địa giới" đặt ở ranh giới hành chính như quy định cho quốc lộ và ranh giới hành chính thành phố trực thuộc tỉnh với huyện hoặc hai huyện liền kề. Trên các đường huyện, đường xã, đường đô thị và đường chuyên dùng không nhất thiết phải đặt biển "Chỉ dẫn địa giới".
+    c) Lý trình ghi trên biển số I.419(a,b) "Chỉ dẫn địa giới" được làm tròn đến mét.
+    d) Tùy theo địa hình, biển "Chỉ dẫn địa giới" có thể đặt ở phía tay trái hay phải theo hướng đi của người tham gia giao thông.  
+
     .
   image: I419a.svg
   name: 'Chỉ dẫn địa giới'
@@ -3085,6 +3217,13 @@ I.419b:
   docs_name: 'Biển số I.419b: Chỉ dẫn địa giới trên tuyến đường đối ngoại'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.19 Biển số I.419 "Chỉ dẫn địa giới"
+    a) Để chỉ dẫn địa giới hành chính giữa các thành phố, tỉnh, huyện, đặt biển số I.419(a,b) "Chỉ dẫn địa giới".
+    Biển số I.419b áp dụng cho các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại. Biển I.419a áp dụng cho các trường hợp khác.
+    b) Trên đường quốc lộ biển "Chỉ dẫn địa giới" đặt ở ranh giới hành chính giữa hai thành phố trực thuộc trung ương hoặc hai tỉnh hoặc thành phố trực thuộc trung ương với tỉnh. Trên các đường tỉnh biển "Chỉ dẫn địa giới" đặt ở ranh giới hành chính như quy định cho quốc lộ và ranh giới hành chính thành phố trực thuộc tỉnh với huyện hoặc hai huyện liền kề. Trên các đường huyện, đường xã, đường đô thị và đường chuyên dùng không nhất thiết phải đặt biển "Chỉ dẫn địa giới".
+    c) Lý trình ghi trên biển số I.419(a,b) "Chỉ dẫn địa giới" được làm tròn đến mét.
+    d) Tùy theo địa hình, biển "Chỉ dẫn địa giới" có thể đặt ở phía tay trái hay phải theo hướng đi của người tham gia giao thông.  
+
     .
   image: I419b.svg
   name: 'Chỉ dẫn địa giới (trên tuyến đường đối ngoại)'
@@ -3093,6 +3232,10 @@ I.422a:
   docs_name: 'Biển số I.422a: Di tích lịch sử'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.22 Biển số I.422 "Di tích lịch sử" 
+    Để chỉ dẫn những nơi có di tích lịch sử hoặc những nơi có danh lam thắng cảnh, những nơi có thể tham quan v.v... ở hai ven đường, đặt biển số I.422 (a,b) "Di tích lịch sử".
+    Biển số I.422b áp dụng cho các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại. Biển số I.422a áp dụng cho các trường hợp khác.
+
     .
   image: I422a.svg
   name: 'Di tích lịch sử'
@@ -3101,6 +3244,10 @@ I.422b:
   docs_name: 'Biển số I.422b: Di tích lịch sử trên tuyến đường đối ngoại'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.22 Biển số I.422 "Di tích lịch sử" 
+    Để chỉ dẫn những nơi có di tích lịch sử hoặc những nơi có danh lam thắng cảnh, những nơi có thể tham quan v.v... ở hai ven đường, đặt biển số I.422 (a,b) "Di tích lịch sử".
+    Biển số I.422b áp dụng cho các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại. Biển số I.422a áp dụng cho các trường hợp khác.
+
     .
   image: I422b.svg
   name: 'Di tích lịch sử (trên tuyến đường đối ngoại)'
@@ -3109,6 +3256,11 @@ I.423a:
   docs_name: 'Biển số I.423(a,b): Vị trí người đi bộ sang ngang'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.23a Biển số I.423(a,b) "Vị trí người đi bộ sang ngang"
+    a) Để chỉ dẫn người đi bộ và người tham gia giao thông biết vị trí dành cho người đi bộ sang ngang, đặt biển số I.423 (a,b) "Vị trí người đi bộ sang ngang".
+    b) Biển này được sử dụng độc lập ở những vị trí sang ngang, đường không có tổ chức điều khiển giao thông hoặc có thể sử dụng phối hợp với vạch kẻ đường. Gặp biển này người tham gia giao thông phải điều khiển xe chạy chậm, chú ý quan sát, ưu tiên cho người đi bộ sang ngang. Chiều người đi bộ trên biển phải hướng vào đường.
+    Khi đã có vạch sơn kẻ đường cho người đi bộ hoặc trước vị trí người đi bộ sang đường đã đặt biển số W.224 hoặc biển số R.305 thì có thể không đặt biển số I.423(a,b).
+
     .
   image: I423a.svg
   name: 'Vị trí người đi bộ sang ngang'
@@ -3118,6 +3270,11 @@ I.423b:
   docs_name: 'Biển số I.423(a,b): Vị trí người đi bộ sang ngang'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.23a Biển số I.423(a,b) "Vị trí người đi bộ sang ngang"
+    a) Để chỉ dẫn người đi bộ và người tham gia giao thông biết vị trí dành cho người đi bộ sang ngang, đặt biển số I.423 (a,b) "Vị trí người đi bộ sang ngang".
+    b) Biển này được sử dụng độc lập ở những vị trí sang ngang, đường không có tổ chức điều khiển giao thông hoặc có thể sử dụng phối hợp với vạch kẻ đường. Gặp biển này người tham gia giao thông phải điều khiển xe chạy chậm, chú ý quan sát, ưu tiên cho người đi bộ sang ngang. Chiều người đi bộ trên biển phải hướng vào đường.
+    Khi đã có vạch sơn kẻ đường cho người đi bộ hoặc trước vị trí người đi bộ sang đường đã đặt biển số W.224 hoặc biển số R.305 thì có thể không đặt biển số I.423(a,b).
+
     .
   image: I423b.svg
   name: 'Vị trí người đi bộ sang ngang'
@@ -3127,6 +3284,9 @@ I.423c:
   docs_name: 'Biển số I.423c: Điểm bắt đầu đường đi bộ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.23b Biển số I.423c “Điểm bắt đầu đường đi bộ” (biển F,9 theo Hiệp định GMS)
+    Để chỉ dẫn cho người đi bộ và người lái xe biết nơi bắt đầu đoạn đường dành cho người đi bộ, đặt biển số I.423c "Điểm bắt đầu đường đi bộ". Biển này không dùng cho các vị trí đi bộ cắt ngang qua đường.
+
     .
   image: I423c.svg
   name: 'Điểm bắt đầu đường đi bộ'
@@ -3135,6 +3295,10 @@ I.424a:
   docs_name: 'Biển số I.424(a,b): Cầu vượt qua đường cho người đi bộ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
+    Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
+    Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
+
     .
   name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ trái sang phải)'
   image: I424a.jpeg
@@ -3143,6 +3307,10 @@ I.424b:
   docs_name: 'Biển số I.424(a,b): Cầu vượt qua đường cho người đi bộ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.24 Biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ"
+    Để chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường, đặt biển số I.424(a,b) "Cầu vượt qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua đường mà sử dụng biển số I.424a hoặc biển số I.424b cho phù hợp.
+    Khi người đi bộ dễ dàng nhận biết cầu vượt qua đường cho người đi bộ thì có thể không cần sử dụng biển số I.424(a,b).
+
     .
   name: 'Cầu vượt (qua đường) cho người đi bộ (đi từ phải sang trái)'
   image: I424b.jpeg
@@ -3151,6 +3319,9 @@ I.424c:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
+    Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
+
     .
   name: 'Hầm chui (qua đường) cho người đi bộ (đi từ trái sang phải)'
   image: I424c.jpeg
@@ -3159,6 +3330,9 @@ I.424d:
   docs_name: 'Biển số I.424(c,d): Hầm chui qua đường cho người đi bộ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.25 Biển số I.424(c,d) "Hầm chui qua đường cho người đi bộ"
+    Để chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường, đặt biển số I.424 (c,d) "Hầm chui qua đường cho người đi bộ". Tùy hướng thực tế của người đi bộ qua hầm mà sử dụng biển số I.424c hoặc I.424d cho phù hợp.
+
     .
   name: 'Hầm chui (qua đường) cho người đi bộ (đi từ phải sang trái)'
   image: I424d.jpeg
@@ -3167,6 +3341,10 @@ I.425:
   docs_name: 'Biển số I.425: Bệnh viện'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.26 Biển số I.425 "Bệnh viện"
+    a) Để chỉ dẫn sắp đến cơ sở điều trị bệnh ở gần đường như bệnh viện, bệnh xá, trạm xá v.v... đặt biển số I.425 "Bệnh viện".
+    b) Gặp biển này người tham gia giao thông đi chậm, chú ý quan sát và không sử dụng còi.
+
     .
   image: I425.svg
   name: 'Bệnh viện'
@@ -3175,6 +3353,9 @@ I.426:
   docs_name: 'Biển số I.426: Trạm cấp cứu'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.27 Biển số I.426 "Trạm cấp cứu"
+    Để chỉ dẫn nơi có trạm cấp cứu y tế ở gần đường, đặt biển số I.426 "Trạm cấp cứu".
+
     .
   image: I426.svg
   name: 'Trạm cấp cứu'
@@ -3183,6 +3364,9 @@ I.427a:
   docs_name: 'Biển số I.427a: Trạm sửa chữa'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.28 Biển số I.427a "Trạm sửa chữa" 
+    Để chỉ dẫn nơi đặt xưởng, trạm chuyên phục vụ sửa chữa ôtô, xe máy hỏng trên đường, đặt biển số  I.427a "Trạm sửa chữa".
+
     .
   image: I427a.svg
   name: 'Trạm sửa chữa'
@@ -3191,6 +3375,9 @@ I.427b:
   docs_name: 'Biển số I.427b: Trạm kiểm tra tải trọng xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.29 Biển số I.427b “Trạm kiểm tra tải trọng xe”
+    Để chỉ dẫn nơi đặt trạm kiểm tra tải trọng xe, đặt biển số I.427b "Trạm kiểm tra tải trọng xe".
+
     .
   image: I427b.svg
   name: 'Trạm kiểm tra tải trọng (KTTT) xe'
@@ -3199,6 +3386,9 @@ I.428:
   docs_name: 'Biển số I.428: Cửa hàng xăng dầu'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.30 Biển số I.428 "Cửa hàng xăng dầu"
+    Để chỉ dẫn những nơi có đặt cửa hàng xăng, dầu hoặc nạp điện phục vụ cho phương tiện giao thông đi trên đường, đặt biển số I.428 "Cửa hàng xăng dầu".
+
     .
   image: I428.svg
   name: 'Trạm xăng dầu'
@@ -3207,6 +3397,9 @@ I.429:
   docs_name: 'Biển số I.429: Nơi rửa xe'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.31 Biển số I.429 "Nơi rửa xe"
+    Để chỉ dẫn những nơi có bố trí rửa xe, đặt biển số I.429 "Nơi rửa xe".
+
     .
   image: I429.svg
   name: 'Trạm rửa xe'
@@ -3215,6 +3408,9 @@ I.430:
   docs_name: 'Biển số I.430: Điện thoại'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.32 Biển số I.430 "Điện thoại"
+    Để chỉ dẫn những nơi có đặt trạm điện thoại công cộng chuyên phục vụ khách đi đường, đặt biển số I.430 "Điện thoại". 
+
     .
   image: I430.svg
   name: 'Điện thoại'
@@ -3223,6 +3419,9 @@ I.431:
   docs_name: 'Biển số I.431: Trạm dừng nghỉ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.33 Biển số I.431 "Trạm dừng nghỉ"
+    Để chỉ dẫn những nơi có các dịch vụ phục vụ khách đi đường (ăn uống nghỉ ngơi, cung cấp nhiên liệu…), đặt biển số I.431 "Trạm dừng nghỉ". Tùy trạm dừng nghỉ có dịch vụ gì mà bố trí các biểu tượng hình vẽ cho phù hợp.
+
     .
   image: I431.svg
   name: 'Trạm dừng nghỉ'
@@ -3231,6 +3430,9 @@ I.432:
   docs_name: 'Biển số I.432: Khách sạn'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.34 Biển số I.432 "Khách sạn"
+    Để chỉ dẫn nơi có khách sạn phục vụ khách đi đường, đặt biển số I.432 "Khách sạn".
+
     .
   image: I432.svg
   name: 'Khách sạn'
@@ -3239,6 +3441,9 @@ I.433a:
   docs_name: 'Biển số I.433a: Nơi nghỉ mát'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.35a Biển số I.433a "Nơi nghỉ mát"
+    Để chỉ dẫn nơi nghỉ mát, đặt biển số I.433a "Nơi nghỉ mát".
+
     .
   image: I433a.jpeg
   name: 'Nơi nghỉ mát'
@@ -3247,6 +3452,9 @@ I.433b:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.35b Biển số I.433 (b,c,d) - Báo hiệu nơi cắm trại, nhà nghỉ lưu động 
+    Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có vị trí cắm trại, nơi tập kết nhà lưu động, đặt biển số I.433b "Nơi cắm trại", biển số I.433c “Nơi dành cho nhà lưu động” hoặc biển số I.433d “Nơi cắm trại và nhà lưu động”.
+
     .
   image: I433b.jpeg
   name: 'Nơi cắm trại'
@@ -3255,6 +3463,9 @@ I.433c:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.35b Biển số I.433 (b,c,d) - Báo hiệu nơi cắm trại, nhà nghỉ lưu động 
+    Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có vị trí cắm trại, nơi tập kết nhà lưu động, đặt biển số I.433b "Nơi cắm trại", biển số I.433c “Nơi dành cho nhà lưu động” hoặc biển số I.433d “Nơi cắm trại và nhà lưu động”.
+
     .
   image: I433c.jpeg
   name: 'Nhà nghỉ lưu động'
@@ -3263,6 +3474,8 @@ I.433d:
   docs_name: 'Biển số I.433(b,c,d): Báo hiệu nơi cắm trại, nhà nghỉ lưu động'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.35b Biển số I.433 (b,c,d) - Báo hiệu nơi cắm trại, nhà nghỉ lưu động 
+    Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có vị trí cắm trại, nơi tập kết nhà lưu động, đặt biển số I.433b "Nơi cắm trại", biển số I.433c “Nơi dành cho nhà lưu động” hoặc biển số I.433d “Nơi cắm trại và nhà lưu động”.
     .
   image: I433d.jpeg
   name: 'Nơi cắm trại, nhà nghỉ lưu động'
@@ -3271,6 +3484,9 @@ I.433e:
   docs_name: 'Biển số I.433e: Báo hiệu nhà trọ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.35c Biển số I.433e - Báo hiệu nhà trọ (Youth Hostel)
+    Trên các tuyến đường đối ngoại và các tuyến đường có nhiều người nước ngoài đi lại, để chỉ dẫn sắp đến nơi có nhà trọ, đặt biển số I.433e "Nhà trọ".
+
     .
   image: I433e.jpeg
   name: 'Nhà trọ'
@@ -3279,16 +3495,25 @@ I.434a:
   docs_name: 'Biển số I.434a: Bến xe buýt'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.36 Biển số I.434a "Bến xe buýt"
+    Để chỉ dẫn chỗ dừng đỗ xe buýt cho khách lên xuống, đặt biển số I.434a "Bến xe buýt". Biển số I.434a được bố trí kết hợp với biển phụ để chỉ dẫn các thông tin về số hiệu tuyến, tên tuyến, điểm đầu, điểm cuối và lộ trình tuyến xe buýt. Biển phụ có thể bố trí liền kề với biển số I.434a hoặc trong khu vực đón trả khách. 
+    Trong trường hợp chỗ dừng đỗ xe buýt không phải là bến xe theo các quy định hiện hành thì thay chữ “Bến xe buýt” trên biển thành chữ “Điểm dừng xe buýt”.
+    Trong trường hợp chỗ dừng đỗ dùng để đón trả khách tuyến cố định thì thay chữ “Bến xe buýt” thành chữ “Điểm đón trả khách tuyến cố định” và bỏ chữ “BUS STOP” trên biển.
+    Trong trường hợp để báo điểm dừng xe của các loại xe khác thì sử dụng hình vẽ loại xe và dòng chữ tương ứng (chẳng hạn, “Điểm dừng xe taxi”, ...). 
+
     .
   image: I434a.svg
   name: 'Bến xe buýt'
-
   similar: [Hình xe khách]
 
 I.434b:
   docs_name: 'Biển số I.434b: Bến xe tải'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.37 Biển số I.434b "Bến xe tải"
+    Để chỉ dẫn khu vực đỗ xe tải để nhận và trả hàng hoá, đặt biển số I.434b "Bến xe tải".
+    Trong trường hợp khu vực đỗ xe tải không phải là bến xe theo các quy định hiện hành thì thay chữ “Bến xe tải” trên biển thành chữ “Điểm dừng xe tải”.
+
     .
   image: I434b.svg
   name: 'Bến xe tải'
@@ -3297,6 +3522,9 @@ I.435:
   docs_name: 'Biển số I.435: Bến xe điện'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.38 Biển số I.435 "Bến xe điện"
+    Để chỉ dẫn chỗ dừng đỗ xe điện cho khách lên xuống, đặt biển số I.435 "Bến xe điện".
+
     .
   image: I435.svg
   name: 'Bến xe điện'
@@ -3305,6 +3533,9 @@ I.436:
   docs_name: 'Biển số I.436: Trạm cảnh sát giao thông'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.39 Biển số I.436 "Trạm cảnh sát giao thông"
+    Để chỉ dẫn nơi đặt trạm cảnh sát giao thông, đặt biển số I.436 "Trạm cảnh sát giao thông". Các phương tiện phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này.
+
     .
   image: I436.svg
   name: 'Trạm cảnh sát giao thông (CSGT)'
@@ -3313,6 +3544,9 @@ I.437:
   docs_name: 'Biển số I.437: Đường cao tốc'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.40 Biển số I.437 "Đường cao tốc"
+    Để chỉ dẫn bắt đầu đường cao tốc, đặt biển số I.437 “Đường cao tốc”.
+
     .
   image: I437.jpeg
   name: '(Bắt đầu) đường cao tốc'
@@ -3321,6 +3555,12 @@ I.439:
   docs_name: 'Biển số I.439: Tên cầu'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.42      Biển số I.439 "Tên cầu"
+    a) Để chỉ các thông tin về một cầu, đặt biển số I.439 "Tên cầu". Biển số I.439 chỉ đặt khi chiều dài cầu lớn hơn 30 m và các cầu có chiều dài nhỏ hơn hoặc bằng 30 m nhưng có tên gắn với địa danh văn hóa, lịch sử. Không lắp đặt biển tên cầu đối với cầu có biểu tượng riêng và cầu trong khu vực nội thành, nội thị trừ các cầu mang tên danh nhân, địa danh văn hóa lịch sử đã có thì giữ nguyên và không nhất thiết phải ghi lý trình.
+    Để có thông tin phục vụ quản lý cầu, ngoài việc đặt biển số I.439 “Tên cầu”, trong mọi trường hợp cần gắn các thông tin bao gồm: tên cầu, lý trình làm tròn đến mét, tên hoặc số hiệu đường, tải trọng thiết kế, chiều dài cầu, năm xây dựng vào thành dầm biên của cầu (gần đường lên, xuống kiểm tra cầu).
+    b) Biển "Tên cầu" được đặt ở hai đầu cầu cách đuôi mố 10 m phía bên phải theo hướng đến.
+    c) Trên biển "Tên cầu" ghi: Tên cầu, lý trình và tên đường.
+
     .
   image: I439.svg
   name: 'Tên cầu (lý trình và tên đường)'
@@ -3329,6 +3569,11 @@ I.440:
   docs_name: 'Biển số I.440: Đoạn đường thi công'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.43 Biển số I.440 "Đường đang thi công"
+    a) Để chỉ dẫn những đoạn đường đang thi công sửa chữa hoặc nâng cấp cải tạo, đặt biển số I.440 "Đường đang thi công". 
+    Lý trình ghi trên biển được làm tròn đến mét.
+    b) Biển số I.440 được đặt ở hai đầu đoạn đường đang thi công sửa chữa hoặc nâng cấp cải tạo và được đặt sau biển số I.441(a,b,c).
+
     .
   image: I440.svg
   name: 'Đoạn đường (đang) thi công'
@@ -3337,6 +3582,11 @@ I.441a:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.44 Biển số I.441 (a,b,c) "Báo hiệu phía trước có công trường thi công"
+    a) Để báo cho người tham gia giao thông  biết phía trước có công trường thi công, sửa chữa hoặc nâng cấp, đặt biển số I.441(a,b,c) "Báo hiệu phía trước có công trường thi công".
+    b) Biển số I.441(a,b,c) được đặt ở hai đầu đoạn thi công và cách hai đầu đoạn thi công 500 m, 100 m và 50 m, trước biển số I.440. Trong trường hợp đường 1 chiều thì chỉ cần đặt cho chiều đi tới. Tùy theo qui mô giao thông, tốc độ xe chạy mà số lượng biển và cự ly báo có thể điều chỉnh cho phù hợp trong phương án tổ chức giao thông.
+    c) Cùng với biển số I.441(a,b,c), đặt kèm theo biển số W.227. Khi cần thiết có thể đặt thêm biển P.127 "Tốc độ tối đa cho phép" và biển số P.134 "Hết hạn chế tốc độ tối đa" khi kết thúc đoạn đường thi công.
+
     .
   image: I441a.svg
   name: 'Phía trước (500m) có công trường (đang) thi công'
@@ -3345,6 +3595,11 @@ I.441b:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.44 Biển số I.441 (a,b,c) "Báo hiệu phía trước có công trường thi công"
+    a) Để báo cho người tham gia giao thông  biết phía trước có công trường thi công, sửa chữa hoặc nâng cấp, đặt biển số I.441(a,b,c) "Báo hiệu phía trước có công trường thi công".
+    b) Biển số I.441(a,b,c) được đặt ở hai đầu đoạn thi công và cách hai đầu đoạn thi công 500 m, 100 m và 50 m, trước biển số I.440. Trong trường hợp đường 1 chiều thì chỉ cần đặt cho chiều đi tới. Tùy theo qui mô giao thông, tốc độ xe chạy mà số lượng biển và cự ly báo có thể điều chỉnh cho phù hợp trong phương án tổ chức giao thông.
+    c) Cùng với biển số I.441(a,b,c), đặt kèm theo biển số W.227. Khi cần thiết có thể đặt thêm biển P.127 "Tốc độ tối đa cho phép" và biển số P.134 "Hết hạn chế tốc độ tối đa" khi kết thúc đoạn đường thi công.
+
     .
   image: I441b.svg
   name: 'Phía trước (100m) có công trường (đang) thi công'
@@ -3353,6 +3608,11 @@ I.441c:
   docs_name: 'Biển số I.441(a,b,c): Báo hiệu phía trước có công trường thi công'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.44 Biển số I.441 (a,b,c) "Báo hiệu phía trước có công trường thi công"
+    a) Để báo cho người tham gia giao thông  biết phía trước có công trường thi công, sửa chữa hoặc nâng cấp, đặt biển số I.441(a,b,c) "Báo hiệu phía trước có công trường thi công".
+    b) Biển số I.441(a,b,c) được đặt ở hai đầu đoạn thi công và cách hai đầu đoạn thi công 500 m, 100 m và 50 m, trước biển số I.440. Trong trường hợp đường 1 chiều thì chỉ cần đặt cho chiều đi tới. Tùy theo qui mô giao thông, tốc độ xe chạy mà số lượng biển và cự ly báo có thể điều chỉnh cho phù hợp trong phương án tổ chức giao thông.
+    c) Cùng với biển số I.441(a,b,c), đặt kèm theo biển số W.227. Khi cần thiết có thể đặt thêm biển P.127 "Tốc độ tối đa cho phép" và biển số P.134 "Hết hạn chế tốc độ tối đa" khi kết thúc đoạn đường thi công.
+
     .
   image: I441c.svg
   name: 'Phía trước (50m) có công trường (đang) thi công'
@@ -3361,6 +3621,9 @@ I.442:
   docs_name: 'Biển số I.442: Chợ'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.45 Biển số I.442 "Chợ"
+    Để báo sắp đến khu vực có chợ gần đường có thể đặt biển số I.442 "Chợ", xe cơ giới qua lại khu vực này phải chú ý quan sát, giảm tốc độ.
+
     .
   image: I442.svg
   name: 'Chợ'
@@ -3369,6 +3632,11 @@ I.443:
   docs_name: 'Biển số I.443: Xe kéo rơ-moóc'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.46 Biển số I.443 "Xe kéo rơ-moóc"
+    a) Để báo hiệu xe có kéo moóc hoặc xe kéo xe, đặt biển số I.443 "Xe kéo rơ-moóc".
+    b) Biển số I.443 được đặt trên nóc cabin xe kéo.
+    Nền biển màu xanh lam, hình tam giác màu vàng khoảng cách đều các cạnh hình vuông.
+
     .
   image: I443.svg
   name: 'Xe kéo rơ-moóc'
@@ -3377,6 +3645,22 @@ I.444a:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444a.svg
   name: '(Đường vào) ga tàu'
@@ -3385,6 +3669,22 @@ I.444b:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444b.svg
   name: '(Đường vào) sân bay'
@@ -3393,6 +3693,22 @@ I.444c:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444c.svg
   name: '(Đường vào) bãi đổ xe'
@@ -3400,17 +3716,48 @@ I.444c:
 I.444d:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
-  name: '(Đường vào) bến xe khách'
-
-  similar: [Bus station]
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444d.jpeg
+  name: '(Đường vào) bến xe khách'
+  similar: [Bus station]
 
 I.444e:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444e.jpeg
   name: '(Đường vào) trạm cấp cứu'
@@ -3419,6 +3766,22 @@ I.444f:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444f.jpeg
   name: '(Đường vào) bến tàu thủy'
@@ -3427,6 +3790,22 @@ I.444g:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444g.jpeg
   name: '(Đường vào) danh lam thắng cảnh, khu du lịch'
@@ -3435,6 +3814,22 @@ I.444h:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444h.jpeg
   name: '(Đường vào) trạm xăng dầu'
@@ -3443,6 +3838,22 @@ I.444i:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444i.jpeg
   name: '(Đường vào) trạm rửa xe'
@@ -3451,6 +3862,22 @@ I.444j:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444j.jpeg
   name: '(Đường vào) bến phà'
@@ -3459,6 +3886,22 @@ I.444k:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444k.jpeg
   name: '(Đường vào) ga tàu điện ngầm'
@@ -3467,6 +3910,22 @@ I.444l:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444l.jpeg
   name: '(Đường vào) nhà hàng ăn uống'
@@ -3475,6 +3934,22 @@ I.444m:
   docs_name: 'Biển số I.444(a,b,c,d,e,f,g,h,i,j,k,l,m): Biển báo chỉ dẫn địa điểm'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.47 Biển số I.444 "Biển báo chỉ dẫn địa điểm"  
+    Nhằm chỉ dẫn cho người đi đường biết hướng đến những địa điểm quan trọng, các loại biển báo phân biệt địa điểm chủ yếu bao gồm:
+    - Ga tàu (biển số I.444a) đặt biển ở trước nơi đường giao nhau chỉ hướng vào ga xe lửa;
+    - Biển báo sân bay (biển số I.444b) đặt biển ở trước nơi đường giao nhau với đường vào sân bay;
+    - Biển báo bãi đậu xe (biển số I.444c) đặt biển ở trước nơi đường giao nhau với đường vào bãi đậu xe;
+    - Biển báo bến xe khách đường dài (biển số I.444d) đặt biển ở trước nơi đường giao nhau với đường vào bến xe khách đường dài;
+    - Biển chỉ dẫn trạm cấp cứu (biển số I.444e) đặt biển ở nơi đường giao nhau với đường vào bệnh viện và trạm cấp cứu;
+    - Biển báo bến tàu khách (biển số I.444f) đặt biển ở trước nơi đường giao nhau với đường vào bến tàu khách;
+    - Biển chỉ dẫn khu danh thắng và du lịch (biển số I.444g) đặt biển ở trước nơi đường giao nhau với đường vào khu danh thắng và du lịch;
+    - Biển chỉ dẫn trạm xăng (biển số I.444h) đặt biển ở trước nơi đường giao nhau với đường vào trạm bán xăng dầu;
+    - Biển chỉ dẫn trạm rửa xe (biển số I.444i) đặt biển ở trước nơi đường giao nhau với đường vào trạm phục vụ rửa xe;
+    - Biển chỉ dẫn bến phà (biển số I.444j) đặt biển ở trước nơi đường giao nhau với đường ra bến phà;
+    - Biển báo ga tàu điện ngầm (biển số I.444k) đặt biển ở nơi đường giao nhau với đường vào ga tàu điện ngầm;
+    - Biển chỉ dẫn khu vực dịch vụ cho khách đi đường (biển số I.444l) đặt biển ở trước nơi đường giao nhau với đường vào trạm dừng nghỉ;
+    - Biển báo trạm sửa chữa xe (biển số I.444m) đặt biển ở trước nơi đường giao nhau với đường vào trạm sửa chữa xe trong khu dịch vụ.
+
     .
   image: I444m.jpeg
   name: '(Đường vào) trạm sửa chữa ôtô'
@@ -3483,6 +3958,17 @@ I.445a:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445a.svg
   name: 'Đường trơn (chạy chậm)'
@@ -3491,6 +3977,17 @@ I.445b:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445b.svg
   name: 'Đường dốc (chạy chậm)'
@@ -3499,6 +3996,17 @@ I.445c:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445c.svg
   name: 'Đường nhiều sương mù'
@@ -3507,6 +4015,17 @@ I.445d:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445d.svg
   name: 'Nền đường yếu'
@@ -3515,6 +4034,17 @@ I.445e:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445e.svg
   name: 'Xe lớn đi sát về bên phải'
@@ -3523,6 +4053,17 @@ I.445f:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445f.svg
   name: 'Gió giang'
@@ -3531,6 +4072,17 @@ I.445g:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445g.svg
   name: 'Đường hay xảy ra tai nạn'
@@ -3539,6 +4091,17 @@ I.445h:
   docs_name: 'Biển số I.445(a,b,c,d,e,f,g,h): Biển báo kiểu mô tả tình trạng đường'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.48 Biển số I.445 "Biển báo kiểu mô tả tình trạng đường” 
+    Nhằm bảo đảm cho giao thông thông suốt, phòng tránh tai nạn, ở những đoạn đường hay xảy ra điều kiện xấu, gây mất an toàn giao thông thì tại những vị trí trước khi vào những đoạn đường đó, đặt biển báo mô tả tình trạng đường sá để nhắc lái xe tập trung quan sát, giảm tốc độ, biển số I.445 gồm các loại dưới đây: 
+    - Biểu báo đường trơn phải chạy chậm (biểu số I.445a) biển đặt tại vị trí thích hợp trước đoạn đường bị trơn trượt khi trời mưa hoặc láng dầu v.v...;
+    - Biển báo đường dốc phải đi chậm, lái xe phải cẩn thận (biển số I.445b) biển đặt ở vị trí thích hợp trước đoạn đường có độ dốc lớn và tầm nhìn hạn chế;
+    - Biển báo đoạn đường sương mù, tầm nhìn hạn chế phải đi chậm, tập trung quan sát (biển số I.445c) biển đặt trước đoạn đường nhiều sương mù;
+    - Biển báo đoạn đường có nền đường yếu (biển số I.445d) biển đặt ở vị trí thích hợp trước đoạn đường mà nền đường có hiện tượng sụt lún, không bằng phẳng, nhắc nhở lái xe đi chậm và cẩn thận;
+    - Biển báo xe lớn hoặc quá khổ đi sát về bên phải (biển số I.445e) biển đặt ở nơi thích hợp trước khi đi vào đoạn đường có từ hai làn xe trở lên, hướng dẫn cho lái xe lớn hoặc quá khổ phải đi tốc độ thấp không được chiếm làn đường của các loại xe khác;
+    - Biển báo chú ý khu vực có gió ngang mạnh (biển số I.445f) biển đặt biển ở vị trí trước khi đi vào cầu lớn, cầu vượt qua vịnh hoặc cửa núi đoạn đường thường có gió ngang cường độ mạnh;
+    - Biển báo đoạn đường nguy hiểm hay xẩy ra tai nạn (biển số I.445g) đặt biển ở nơi thích hợp trước khi vào đoạn đường hay xẩy ra tai nạn;
+    - Biển báo đường xuống dốc liên tục (biển số I.445h) đặt biển ở nơi thích hợp khi sắp vào đoạn đường xuống dốc liên tục, nhằm nhắc nhở lái xe phải đi chậm, đi sát bên phải;
+
     .
   image: I445h.svg
   name: 'Xuống dốc liên tục'
@@ -3547,52 +4110,74 @@ I.446:
   docs_name: 'Biển số I.446: Nơi đỗ xe dành cho người khuyết tật'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.49 Biển số I.446 "Nơi đỗ xe dành cho người khuyết tật"
+    Để báo hiệu nơi đỗ xe dành cho người khuyết tật, đặt biển số I.446 "Nơi đỗ xe dành cho người khuyết tật". Biển đặt tại vị trí thích hợp có thể sử dụng kết hợp với biển P.131a “Cấm đỗ xe” và biển số I.408 “Nơi đỗ xe”.
+
     .
   image: I446.svg
   name: 'Nơi đỗ xe dành cho người khuyết tật'
-
   related: [P.131a, I.408]
 
 I.447a:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.50 Biển số I.447 “Cầu vượt liên thông”
+    Biển đặt tại vị trí trước khi vào cầu vượt có tổ chức giao thông liên thông giữa các tuyến. Tuỳ theo nút giao mà bố trí biển số I.447a, I.447b, I.445c, I.447d cho phù hợp. Tại các lối rẽ thì sử dụng biển I.414c,d để báo các hướng đi.
+    Nếu sơ đồ, hình thái giao không phù hợp với hình vẽ trên các biển I.447a, I.447b, I.445c, I.447d thì phải điều chỉnh hình vẽ cho phù hợp (đồng dạng) với sơ đồ, hình thái nút giao (các hướng tuyến trong nút giao).
+
     .
+  image: I447a.jpeg
   name: 'Cầu vượt liên thông'
   related: [R.308, I414c, d]
-  image: I447a.jpeg
 
 I.447b:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.50 Biển số I.447 “Cầu vượt liên thông”
+    Biển đặt tại vị trí trước khi vào cầu vượt có tổ chức giao thông liên thông giữa các tuyến. Tuỳ theo nút giao mà bố trí biển số I.447a, I.447b, I.445c, I.447d cho phù hợp. Tại các lối rẽ thì sử dụng biển I.414c,d để báo các hướng đi.
+    Nếu sơ đồ, hình thái giao không phù hợp với hình vẽ trên các biển I.447a, I.447b, I.445c, I.447d thì phải điều chỉnh hình vẽ cho phù hợp (đồng dạng) với sơ đồ, hình thái nút giao (các hướng tuyến trong nút giao).
+
     .
+  image: I447b.jpeg
   name: 'Cầu vượt liên thông'
   related: [R.308, I414c, d]
-  image: I447b.jpeg
 
 I.447c:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.50 Biển số I.447 “Cầu vượt liên thông”
+    Biển đặt tại vị trí trước khi vào cầu vượt có tổ chức giao thông liên thông giữa các tuyến. Tuỳ theo nút giao mà bố trí biển số I.447a, I.447b, I.445c, I.447d cho phù hợp. Tại các lối rẽ thì sử dụng biển I.414c,d để báo các hướng đi.
+    Nếu sơ đồ, hình thái giao không phù hợp với hình vẽ trên các biển I.447a, I.447b, I.445c, I.447d thì phải điều chỉnh hình vẽ cho phù hợp (đồng dạng) với sơ đồ, hình thái nút giao (các hướng tuyến trong nút giao).
+
     .
+  image: I447c.jpeg
   name: 'Cầu vượt liên thông'
   related: [R.308, I414c, d]
-  image: I447c.jpeg
 
 I.447d:
   docs_name: 'Biển số I.447(a,b,c,d): Cầu vượt liên thông'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.50 Biển số I.447 “Cầu vượt liên thông”
+    Biển đặt tại vị trí trước khi vào cầu vượt có tổ chức giao thông liên thông giữa các tuyến. Tuỳ theo nút giao mà bố trí biển số I.447a, I.447b, I.445c, I.447d cho phù hợp. Tại các lối rẽ thì sử dụng biển I.414c,d để báo các hướng đi.
+    Nếu sơ đồ, hình thái giao không phù hợp với hình vẽ trên các biển I.447a, I.447b, I.445c, I.447d thì phải điều chỉnh hình vẽ cho phù hợp (đồng dạng) với sơ đồ, hình thái nút giao (các hướng tuyến trong nút giao).
+
     .
+  image: I447d.jpeg
   name: 'Cầu vượt liên thông'
   related: [R.308, I414c, d]
-  image: I447d.jpeg
 
 I.448:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.51 Biển số I.448 "Làn đường cứu nạn hay làn thoát xe khẩn cấp"
+    Biển chỉ dẫn gồm 4 cặp biển ở các cự ly 2 km, 1 km, 300 m và tại chỗ rẽ nhằm chỉ dẫn cho người tham gia giao thông  biết vị trí và khoảng cách có làn cứu nạn. Vị trí biển đặt ở vị trí thuận lợi, dễ quan sát, cự lý có thể điều chỉnh cho phù hợp
+    Nếu sơ đồ, cự ly hình thái vị trí làn đường cứu nạn không phù hợp với hình vẽ trên các biển I.448  thì phải điều chỉnh hình vẽ cho phù hợp. Để tránh nhầm lẫn giữa đường chính và đường cứu nạn sử dụng cột cần vươn 2 bên đặt tại góc tiếp giáp giữa đường cứu nạn và đường chính để chỉ rõ hướng đường.
+
     .
   image: I448a.png
   name: 'Đường cứu nạn (làn thoát xe khẩn cấp)'
@@ -3601,44 +4186,63 @@ I.448a:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.51 Biển số I.448 "Làn đường cứu nạn hay làn thoát xe khẩn cấp"
+    Biển chỉ dẫn gồm 4 cặp biển ở các cự ly 2 km, 1 km, 300 m và tại chỗ rẽ nhằm chỉ dẫn cho người tham gia giao thông  biết vị trí và khoảng cách có làn cứu nạn. Vị trí biển đặt ở vị trí thuận lợi, dễ quan sát, cự lý có thể điều chỉnh cho phù hợp
+    Nếu sơ đồ, cự ly hình thái vị trí làn đường cứu nạn không phù hợp với hình vẽ trên các biển I.448  thì phải điều chỉnh hình vẽ cho phù hợp. Để tránh nhầm lẫn giữa đường chính và đường cứu nạn sử dụng cột cần vươn 2 bên đặt tại góc tiếp giáp giữa đường cứu nạn và đường chính để chỉ rõ hướng đường.
+
     .
-  name: 'Đường cứu nạn (cách 2km)'
   image: I448a.png
+  name: 'Đường cứu nạn (cách 2km)'
 
 I.448b:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.51 Biển số I.448 "Làn đường cứu nạn hay làn thoát xe khẩn cấp"
+    Biển chỉ dẫn gồm 4 cặp biển ở các cự ly 2 km, 1 km, 300 m và tại chỗ rẽ nhằm chỉ dẫn cho người tham gia giao thông  biết vị trí và khoảng cách có làn cứu nạn. Vị trí biển đặt ở vị trí thuận lợi, dễ quan sát, cự lý có thể điều chỉnh cho phù hợp
+    Nếu sơ đồ, cự ly hình thái vị trí làn đường cứu nạn không phù hợp với hình vẽ trên các biển I.448  thì phải điều chỉnh hình vẽ cho phù hợp. Để tránh nhầm lẫn giữa đường chính và đường cứu nạn sử dụng cột cần vươn 2 bên đặt tại góc tiếp giáp giữa đường cứu nạn và đường chính để chỉ rõ hướng đường.
+
     .
-  name: 'Đường cứu nạn (cách 1km)'
   image: I448b.png
+  name: 'Đường cứu nạn (cách 1km)'
 
 I.448c:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.51 Biển số I.448 "Làn đường cứu nạn hay làn thoát xe khẩn cấp"
+    Biển chỉ dẫn gồm 4 cặp biển ở các cự ly 2 km, 1 km, 300 m và tại chỗ rẽ nhằm chỉ dẫn cho người tham gia giao thông  biết vị trí và khoảng cách có làn cứu nạn. Vị trí biển đặt ở vị trí thuận lợi, dễ quan sát, cự lý có thể điều chỉnh cho phù hợp
+    Nếu sơ đồ, cự ly hình thái vị trí làn đường cứu nạn không phù hợp với hình vẽ trên các biển I.448  thì phải điều chỉnh hình vẽ cho phù hợp. Để tránh nhầm lẫn giữa đường chính và đường cứu nạn sử dụng cột cần vươn 2 bên đặt tại góc tiếp giáp giữa đường cứu nạn và đường chính để chỉ rõ hướng đường.
+
     .
-  name: 'Đường cứu nạn (cách 300m)'
   image: I448c.png
+  name: 'Đường cứu nạn (cách 300m)'
 
 I.448d:
   docs_name: 'Biển số I.448: Làn đường cứu nạn hay làn thoát xe khẩn cấp'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.51 Biển số I.448 "Làn đường cứu nạn hay làn thoát xe khẩn cấp"
+    Biển chỉ dẫn gồm 4 cặp biển ở các cự ly 2 km, 1 km, 300 m và tại chỗ rẽ nhằm chỉ dẫn cho người tham gia giao thông  biết vị trí và khoảng cách có làn cứu nạn. Vị trí biển đặt ở vị trí thuận lợi, dễ quan sát, cự lý có thể điều chỉnh cho phù hợp
+    Nếu sơ đồ, cự ly hình thái vị trí làn đường cứu nạn không phù hợp với hình vẽ trên các biển I.448  thì phải điều chỉnh hình vẽ cho phù hợp. Để tránh nhầm lẫn giữa đường chính và đường cứu nạn sử dụng cột cần vươn 2 bên đặt tại góc tiếp giáp giữa đường cứu nạn và đường chính để chỉ rõ hướng đường.
+
     .
-  name: 'Đường cứu nạn'
   image: I448d.jpeg
+  name: 'Đường cứu nạn'
 
 I.449:
   docs_name: 'Biển số I.449: Biển tên đường.'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
   docs: |-
+    E.52 Biển số I.449  "Biển tên đường"
+    Để báo tên đường cho các tuyến đường đối ngoại, sử dụng biển số I.449 “Biển tên đường”.
+    Biển I.449 có nền màu xanh đậm, chữ màu trắng.
+
     .
   image: I449.svg
   name: 'Biển tên đường (tuyến đường đối ngoại)'
 
 # IE
-
 IE.450a:
   docs_name: 'Biển số IE.450a: Chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
   docs_source: 'Phụ lục E - Ý nghĩa - Sử dụng biển chỉ dẫn'
