@@ -867,7 +867,15 @@ W.201a:
   docs_name: 'Biển số W.201(a,b): Chỗ ngoặt nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.1 Biển số W.201 (a,b) "Chỗ ngoặt nguy hiểm"
+    a) Để báo trước sắp đến một chỗ ngoặt nguy hiểm, đặt biển số W.201 (a,b):
+    - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
+    - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+    b) Chỗ ngoặt nguy hiểm là vị trí đường cong như sau:
+    - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
+    - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+    c) Ở những vùng mà việc quan sát của người tham gia giao thông gặp khó khăn như vùng cây rậm rạp, vùng thường có sương mù thì các vị trí đường cong không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
+    d) Sau đoạn thẳng dài từ 1 km trở lên thì đường cong đầu tiên không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
   image: W201a.svg
   name: 'Chỗ ngoặt nguy hiểm (vòng bên trái)'
 
@@ -875,7 +883,16 @@ W.201b:
   docs_name: 'Biển số W.201(a,b): Chỗ ngoặt nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.1 Biển số W.201 (a,b) "Chỗ ngoặt nguy hiểm"
+    a) Để báo trước sắp đến một chỗ ngoặt nguy hiểm, đặt biển số W.201 (a,b):
+    - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
+    - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+    b) Chỗ ngoặt nguy hiểm là vị trí đường cong như sau:
+    - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
+    - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+    c) Ở những vùng mà việc quan sát của người tham gia giao thông gặp khó khăn như vùng cây rậm rạp, vùng thường có sương mù thì các vị trí đường cong không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
+    d) Sau đoạn thẳng dài từ 1 km trở lên thì đường cong đầu tiên không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
+    .
   image: W201b.svg
   name: 'Chỗ ngoặt nguy hiểm (vòng bên phải)'
 
@@ -883,7 +900,10 @@ W.201c:
   docs_name: 'Biển số W.201(c,d): Chỗ ngoặt nguy hiểm có nguy cơ lật xe'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.1a Biển số W.201(c,d) "Chỗ ngoặt nguy hiểm có nguy cơ lật xe"
+      Để báo trước sắp đến chỗ ngoặt nguy hiểm có khả năng gây lật các xe có trọng tâm cao và trọng tải lớn như xe tải, xe buýt giường nằm, xe chở chất lỏng, v.v... đặt biển số W.201(c,d):
+    - Biển số W.201c chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái ;
+    - Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.
   image: W201c.svg
   name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên phải)'
 
@@ -891,7 +911,10 @@ W.201d:
   docs_name: 'Biển số W.201(c,d): Chỗ ngoặt nguy hiểm có nguy cơ lật xe'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.1a Biển số W.201(c,d) "Chỗ ngoặt nguy hiểm có nguy cơ lật xe"
+      Để báo trước sắp đến chỗ ngoặt nguy hiểm có khả năng gây lật các xe có trọng tâm cao và trọng tải lớn như xe tải, xe buýt giường nằm, xe chở chất lỏng, v.v... đặt biển số W.201(c,d):
+    - Biển số W.201c chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái ;
+    - Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.
   image: W201d.svg
   name: 'Chỗ ngoặt nguy hiểm có nguy cơ lật xe (bên trái)'
 
@@ -899,7 +922,11 @@ W.202a:
   docs_name: 'Biển số W.202(a,b): Nhiều chỗ ngoặt nguy hiểm liên tiếp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.2 Biển số W.202(a,b) "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
+    a) Để báo trước sắp đến hai chỗ ngoặt ngược chiều nhau liên tiếp, đặt biển số W.202 (a,b):
+    - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
+    - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+    b) Hai chỗ ngoặt gọi là gần nhau khi đoạn thẳng từ tiếp cuối của đường cong trước đến tiếp đầu của đường cong tiếp sau nhỏ hơn 160 m.
   image: W202a.svg
   name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)'
 
@@ -907,7 +934,11 @@ W.202b:
   docs_name: 'Biển số W.202(a,b): Nhiều chỗ ngoặt nguy hiểm liên tiếp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.2 Biển số W.202(a,b) "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
+    a) Để báo trước sắp đến hai chỗ ngoặt ngược chiều nhau liên tiếp, đặt biển số W.202 (a,b):
+    - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
+    - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+    b) Hai chỗ ngoặt gọi là gần nhau khi đoạn thẳng từ tiếp cuối của đường cong trước đến tiếp đầu của đường cong tiếp sau nhỏ hơn 160 m.
   image: W202b.svg
   name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)'
 
@@ -915,7 +946,14 @@ W.203a:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
+    a) Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
+    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+    b) Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
+    c) Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
+    d) Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
+    e) Nếu trước vị trí bị thu hẹp có đặt biển số P.132 thì phải nhường cho xe chạy ngược chiều; nếu đặt biển số I.406, thì xe được ưu tiên qua đường hẹp trước và xe ngược chiều có trách nhiệm chờ đợi.
   image: W203a.svg
   name: 'Đường bị thu hẹp (cả 2 bên)'
 
@@ -923,7 +961,14 @@ W.203b:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
+    a) Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
+    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+    b) Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
+    c) Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
+    d) Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
+    e) Nếu trước vị trí bị thu hẹp có đặt biển số P.132 thì phải nhường cho xe chạy ngược chiều; nếu đặt biển số I.406, thì xe được ưu tiên qua đường hẹp trước và xe ngược chiều có trách nhiệm chờ đợi.
   image: W203b.svg
   name: 'Đường bị thu hẹp (bên trái)'
 
@@ -931,7 +976,14 @@ W.203c:
   docs_name: 'Biển số W.203(a,b,c): Đường bị thu hẹp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
+    a) Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
+    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+    b) Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
+    c) Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
+    d) Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
+    e) Nếu trước vị trí bị thu hẹp có đặt biển số P.132 thì phải nhường cho xe chạy ngược chiều; nếu đặt biển số I.406, thì xe được ưu tiên qua đường hẹp trước và xe ngược chiều có trách nhiệm chờ đợi.
   image: W203c.svg
   name: 'Đường bị thu hẹp (bên phải)'
 
@@ -939,7 +991,9 @@ W.204:
   docs_name: 'Biển số W.204: Đường hai chiều'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.4 Biển số W.204 "Đường hai chiều"
+    a) Để báo trước sắp đến đoạn đường do sửa chữa hoặc có trở ngại ở một phía đường mà phải tổ chức đi lại cho phương tiện cả hai chiều trên phía đường còn lại hoặc để báo trước đoạn đường đôi tạm thời hoặc đoạn đường có chiều xe đi và về đi chung thì đặt biển số W.204 "Đường hai chiều".
+    b) Các đoạn đầu và cuối đường có dải phân cách giữa chuyển tiếp sang đường đi chung hai chiều hoặc khi hết đoạn đường một chiều, đặt biển số W.204.
   image: W204.svg
   name: 'Đường hai chiều'
 
@@ -947,7 +1001,8 @@ W.205a:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.5 Biển số W.205(a,b,c,d,e) "Đường giao nhau"
+    Để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng, đặt biển số W.205(a,b,c,d,e) "Đường giao nhau". Biển được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chủ yếu. Trong nội thành, nội thị có thể châm chước không đặt biển này.
   image: W205a.svg
   name: 'Giao nhau với đường cùng cấp'
 
@@ -955,7 +1010,8 @@ W.205b:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.5 Biển số W.205(a,b,c,d,e) "Đường giao nhau"
+    Để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng, đặt biển số W.205(a,b,c,d,e) "Đường giao nhau". Biển được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chủ yếu. Trong nội thành, nội thị có thể châm chước không đặt biển này.
   image: W205b.svg
   name: 'Giao nhau với đường cùng cấp'
 
@@ -963,7 +1019,8 @@ W.205c:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.5 Biển số W.205(a,b,c,d,e) "Đường giao nhau"
+    Để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng, đặt biển số W.205(a,b,c,d,e) "Đường giao nhau". Biển được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chủ yếu. Trong nội thành, nội thị có thể châm chước không đặt biển này.
   image: W205c.svg
   name: 'Giao nhau với đường cùng cấp'
 
@@ -971,7 +1028,8 @@ W.205d:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.5 Biển số W.205(a,b,c,d,e) "Đường giao nhau"
+    Để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng, đặt biển số W.205(a,b,c,d,e) "Đường giao nhau". Biển được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chủ yếu. Trong nội thành, nội thị có thể châm chước không đặt biển này.
   image: W205d.svg
   name: 'Giao nhau với đường cùng cấp'
 
@@ -979,7 +1037,8 @@ W.205e:
   docs_name: 'Biển số W.205(a,b,c,d,e): Đường giao nhau'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.5 Biển số W.205(a,b,c,d,e) "Đường giao nhau"
+    Để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng, đặt biển số W.205(a,b,c,d,e) "Đường giao nhau". Biển được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chủ yếu. Trong nội thành, nội thị có thể châm chước không đặt biển này.
   image: W205e.svg
   name: 'Giao nhau với đường cùng cấp'
 
@@ -987,7 +1046,8 @@ W.206:
   docs_name: 'Biển số W.206: Giao nhau chạy theo vòng xuyến'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.6 Biển số W.206 "Giao nhau chạy theo vòng xuyến"
+    Để báo trước nơi giao nhau có bố trí đảo an toàn ở giữa nút giao, các loại xe qua nút giao phải đi vòng xuyến quanh đảo an toàn theo chiều mũi tên, đặt biển số W.206 "Giao nhau chạy theo vòng xuyến". Trong nội thành, nội thị có thể  không đặt biển này.
   image: W206.svg
   name: 'Giao nhau chạy theo vòng xuyến'
 
@@ -995,7 +1055,11 @@ W.207a:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207a.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1003,7 +1067,11 @@ W.207b:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207b.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1011,7 +1079,11 @@ W.207c:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207c.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1019,7 +1091,11 @@ W.207d:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207d.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1027,7 +1103,11 @@ W.207e:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207e.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1035,7 +1115,11 @@ W.207f:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207f.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1043,7 +1127,11 @@ W.207g:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207g.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1051,7 +1139,11 @@ W.207h:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207h.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1059,7 +1151,11 @@ W.207i:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207i.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1067,7 +1163,11 @@ W.207k:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207k.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1075,7 +1175,11 @@ W.207l:
   docs_name: 'Biển số W.207(a,b,c,d,e,f,g,h,i,k,l): Giao nhau với đường không ưu tiên (đường nhánh)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.7 Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) "Giao nhau với đường không ưu tiên (đường nhánh)"
+    a) Trên đường ưu tiên, để báo trước sắp đến nơi giao nhau với đường không ưu tiên, đặt biển số W.207(a,b,c,d,e,f,g,h,i,k,l). Tùy theo hình dạng nơi giao nhau và hướng đường ưu tiên hay không ưu tiên để chọn kiểu biển hoặc vẽ hình dạng hình vẽ cho phù hợp với thực tế nút giao. Tại chỗ đường giao với các ngõ, ngách, hẻm hoặc tương tự, tùy theo điều kiện giao thông có thể xem xét sử dụng biển số W.207 khi cần thiết.
+    b) Biển số W.207(a,b,c,d,e,f,g,h,i,k,l) được đặt trước nơi đường giao nhau ở ngoài phạm vi nội thành, nội thị là chính (trong nội thành, nội thị tùy theo điều kiện thực tế để sử dụng biển cho phù hợp). Các xe đi trên đường có đặt biển này được quyền ưu tiên qua nơi giao nhau, chỉ phải nhường đường cho các loại xe được quyền ưu tiên theo quy định.
+    d) Trên tất cả các nhánh đường giao với đoạn đường ưu tiên (đoạn đường nằm giữa biển số I.401 và biển số I.402) ở nơi đường giao nhau, đặt biển số W.208 "Giao nhau với đường ưu tiên".
+    e) Khi đường ưu tiên giao với nhiều đường không ưu tiên liên tiếp với mật độ lớn thì sử dụng biển số W.207d hoặc số W.207e kết hợp với sử dụng biển phụ để xác định phạm vi tác dụng của biển (phạm vi đoạn đường giao với nhiều đường không ưu tiên liên tiếp). Trong phạm vi tác dụng của biển số W.207d và W.207e, không cần thiết phải đặt các biển số W.207 khác.
   image: W207l.svg
   name: 'Giao nhau với đường không ưu tiên (đường nhánh)'
 
@@ -1083,7 +1187,11 @@ W.208:
   docs_name: 'Biển số W.208: Giao nhau với đường ưu tiên (đường chính)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.8 Biển số W.208 "Giao nhau với đường ưu tiên (đường chính)"
+    a) Trên đường không ưu tiên, để báo trước sắp đến nơi giao nhau với đường ưu tiên, đặt biển số W.208 "Giao nhau với đường ưu tiên". Trong nội thành, nội thị có thể  không đặt biển này.
+    b) Các xe đi trên đường có đặt biển số W.208 phải nhường đường cho xe đi trên đường ưu tiên khi qua nơi giao nhau (trừ các loại xe được quyền ưu tiên theo quy định).
+    c) Bên dưới biển số W.208, có thể đặt biển số S.506b "Hướng đường ưu tiên" nếu ở nơi đường giao nhau đường ưu tiên thay đổi hướng (rẽ ngoặt).
+    d) Trường hợp đặt biển số W.208 ở trong khu đông dân cư, biển được đặt trực tiếp trước vị trí giao nhau với đường ưu tiên. Ở ngoài khu đông dân cư, tùy theo đặt xa hay gần mà có thêm biển số S.502 "Khoảng cách đến đối tượng báo hiệu".
   image: W208.svg
   name: 'Giao nhau với đường ưu tiên (đường chính)'
 
@@ -1093,7 +1201,9 @@ W.209:
   docs_name: 'Biển số W.209: Giao nhau có tín hiệu đèn'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.9 Biển số W.209 "Giao nhau có tín hiệu đèn"
+    a) Để báo trước nơi giao nhau có điều khiển giao thông bằng tín hiệu đèn trong trường hợp người tham gia giao thông khó quan sát thấy đèn để kịp thời xử lý, đặt biển số W.209 "Giao nhau có tín hiệu đèn". Trường hợp dễ dàng nhận biết đèn tín hiệu thì không nên đặt biển số W.209.
+    b) Biển số W.209 có thể được dùng bổ sung hoặc thay thế cho các biển số W.205, W.206, W.207, W.208.
   image: W209.svg
   name: 'Giao nhau có tín hiệu đèn'
 
@@ -1101,7 +1211,8 @@ W.210:
   docs_name: 'Biển số W.210: Giao nhau với đường sắt có rào chắn'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.10 Biển số W.210 " Giao nhau với đường sắt có rào chắn"
+    Để báo trước sắp đến chỗ giao nhau giữa đường bộ và đường sắt có rào chắn kín hay rào chắn nửa kín và có nhân viên ngành đường sắt điều khiển giao thông, đặt biển số W.210 "Giao nhau với đường sắt có rào chắn".
   image: W210.svg
   name: 'Giao nhau với đường sắt có rào chắn'
 
@@ -1109,7 +1220,11 @@ W.211a:
   docs_name: 'Biển số W.211a: Giao nhau với đường sắt không có rào chắn'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.11 Biển số W.211a "Giao nhau với đường sắt không có rào chắn" và Biển số W.211b "Giao nhau với đường tàu điện" 
+    a) Để báo trước sắp đến chỗ giao nhau giữa đường bộ và đường sắt không có rào chắn, không có người điều khiển giao thông, đặt biển số W.211a "Giao nhau với đường sắt không có rào chắn".
+    b) Trong trường hợp có từng đoạn đường bộ và đường sắt cùng đi chung với nhau, như cầu đi chung, đặt một trong hai biển số W.210 hoặc W.211a cho phù hợp với thực tế có hay không có rào chắn.
+    c) Nơi đặt biển số W.211a, đặt thêm biển số W.242(a,b) "Nơi đường sắt giao nhau vuông góc với đường bộ" đặt cách ray ngoài cùng của đường sắt là 10 m.
+    d) Để chỉ nơi đường bộ giao nhau cùng mức với đường tàu điện, đặt biển số W.211b "Giao nhau với đường tàu điện". Chỉ cần thiết phải đặt biển này khi đường tàu điện không được nhìn thấy rõ ràng và kịp thời.
   image: W211a.svg
   name: 'Giao nhau với đường sắt không có rào chắn'
 
@@ -1119,7 +1234,11 @@ W.211b:
   docs_name: 'Biển số W.211b: Giao nhau với đường tàu điện'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.11 Biển số W.211a "Giao nhau với đường sắt không có rào chắn" và Biển số W.211b "Giao nhau với đường tàu điện" 
+    a) Để báo trước sắp đến chỗ giao nhau giữa đường bộ và đường sắt không có rào chắn, không có người điều khiển giao thông, đặt biển số W.211a "Giao nhau với đường sắt không có rào chắn".
+    b) Trong trường hợp có từng đoạn đường bộ và đường sắt cùng đi chung với nhau, như cầu đi chung, đặt một trong hai biển số W.210 hoặc W.211a cho phù hợp với thực tế có hay không có rào chắn.
+    c) Nơi đặt biển số W.211a, đặt thêm biển số W.242(a,b) "Nơi đường sắt giao nhau vuông góc với đường bộ" đặt cách ray ngoài cùng của đường sắt là 10 m.
+    d) Để chỉ nơi đường bộ giao nhau cùng mức với đường tàu điện, đặt biển số W.211b "Giao nhau với đường tàu điện". Chỉ cần thiết phải đặt biển này khi đường tàu điện không được nhìn thấy rõ ràng và kịp thời.
   image: W211b.svg
   name: 'Giao nhau với đường tàu điện'
 
@@ -1127,7 +1246,8 @@ W.212:
   docs_name: 'Biển số W.212: Cầu hẹp'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.12 Biển số W.212 "Cầu  hẹp"
+    Để báo trước sắp đến cầu hẹp là loại cầu có chiều rộng phần xe chạy nhỏ hơn hoặc bằng 4,50 m, đặt biển số W.212 "Cầu hẹp". Khi qua các cầu này lái xe phải đi chậm, quan sát, nhường nhau và dừng lại chờ ở hai đầu cầu.
   image: W212.svg
   name: 'Cầu hẹp'
 
@@ -1135,7 +1255,9 @@ W.213:
   docs_name: 'Biển số W.213: Cầu tạm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.13 Biển số W.213 "Cầu tạm"
+    a) Để báo trước sắp đến cầu tạm là loại cầu được làm để sử dụng tạm thời cho xe cộ qua lại, đặt biển số W.213 "Cầu tạm".
+    b) Nếu trọng tải của cầu thấp và khổ cầu hẹp thì đặt thêm các biển số P.115 "Hạn chế trọng tải toàn bộ xe" và biển số P.118 "Hạn chế chiều ngang xe" hoặc các biển báo cần thiết khác. Khi gặp báo hiệu cầu tạm, người sử dụng phương tiện tham gia giao thông cần thận trọng, khi nước ngập nhất thiết không được qua cầu.
   image: W213.svg
   name: 'Cầu tạm'
 
@@ -1143,7 +1265,8 @@ W.214:
   docs_name: 'Biển số W.214: Cầu quay - cầu cất'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.14 Biển số W.214 "Cầu quay - cầu cất"
+    Để báo phía trước gặp cầu quay, cầu cất là loại cầu trong từng thời gian có cắt giao thông đường bộ bằng cách quay hoặc nâng nhịp thông thuyền để cho tàu thuyền qua lại, đặt biển số W.214 "Cầu quay - cầu cất". Các phương tiện đi trên đường bộ phải dừng lại chờ đợi.
   image: W214.svg
   name: 'Cầu quay (cầu cất)'
 
@@ -1151,7 +1274,8 @@ W.215a:
   docs_name: 'Biển số W.215a: Kè, vực sâu phía trước'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.15 Biển số W.215a "Kè, vực sâu phía trước", biển số W.215b “Kè, vực sâu bên đường phía bên phải” và biển số W.215c “Kè, vực sâu bên đường phía bên trái”
+    Để báo trước sắp tới những vị trí có kè chắn vực sâu hoặc sông suối ở phía trước hoặc đi sát đường, cần đề phòng tình huống nguy hiểm rơi xuống vực sâu hoặc sông suối (thường có ở những chỗ ngoặt nguy hiểm), đặt biển số W.215a "Kè, vực sâu phía trước" hoặc biển số W.215b “Kè, vực sâu bên đường phía bên phải” hoặc biển số W.215c “Kè, vực sâu bên đường phía bên trái”. Trong trường hợp đường đã có tường bảo vệ, hộ lan thì không nhất thiết đặt biển này.
   image: W215a.svg
   name: '(Kè,) vực sâu phía trước'
 
@@ -1159,7 +1283,8 @@ W.215b:
   docs_name: 'Biển số W.215(b,c): Kè, vực sâu bên đường phía bên phải; Kè, vực sâu bên đường phía bên trái'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.15 Biển số W.215a "Kè, vực sâu phía trước", biển số W.215b “Kè, vực sâu bên đường phía bên phải” và biển số W.215c “Kè, vực sâu bên đường phía bên trái”
+    Để báo trước sắp tới những vị trí có kè chắn vực sâu hoặc sông suối ở phía trước hoặc đi sát đường, cần đề phòng tình huống nguy hiểm rơi xuống vực sâu hoặc sông suối (thường có ở những chỗ ngoặt nguy hiểm), đặt biển số W.215a "Kè, vực sâu phía trước" hoặc biển số W.215b “Kè, vực sâu bên đường phía bên phải” hoặc biển số W.215c “Kè, vực sâu bên đường phía bên trái”. Trong trường hợp đường đã có tường bảo vệ, hộ lan thì không nhất thiết đặt biển này.
   image: W215b.svg
   name: '(Kè,) vực sâu bên đường (phía bên phải)'
 
@@ -1167,7 +1292,8 @@ W.215c:
   docs_name: 'Biển số W.215(b,c): Kè, vực sâu bên đường phía bên phải; Kè, vực sâu bên đường phía bên trái'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.15 Biển số W.215a "Kè, vực sâu phía trước", biển số W.215b “Kè, vực sâu bên đường phía bên phải” và biển số W.215c “Kè, vực sâu bên đường phía bên trái”
+    Để báo trước sắp tới những vị trí có kè chắn vực sâu hoặc sông suối ở phía trước hoặc đi sát đường, cần đề phòng tình huống nguy hiểm rơi xuống vực sâu hoặc sông suối (thường có ở những chỗ ngoặt nguy hiểm), đặt biển số W.215a "Kè, vực sâu phía trước" hoặc biển số W.215b “Kè, vực sâu bên đường phía bên phải” hoặc biển số W.215c “Kè, vực sâu bên đường phía bên trái”. Trong trường hợp đường đã có tường bảo vệ, hộ lan thì không nhất thiết đặt biển này.
   image: W215c.svg
   name: '(Kè,) vực sâu bên đường (phía bên trái)'
 
@@ -1175,7 +1301,10 @@ W.216a:
   docs_name: 'Biển số W.216a: Đường ngầm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.16 Biển số W.216a "Đường ngầm" và biển số W.216b “Đường ngầm có nguy cơ lũ quét” 
+    a) Để báo trước những vị trí có đường ngầm (đường tràn) phải đặt biển số W.216a "Đường ngầm". Trường hợp đường ngầm thường xuyên có lũ quét phải đặt biển số W.216b “Đường ngầm có nguy cơ lũ quét”. Khi cần thiết thì đặt thêm biển phụ có chữ “LŨ” bên dưới biển này.
+    b) Đường ngầm là những đoạn đường vượt qua sông, suối, khe cạn mà nước có thể chảy tràn qua thường xuyên hoặc khi có lũ.
+    c) Ở hai đầu đường ngầm phải đặt cột báo mức nước (cột thủy chí).
   image: W216a.svg
   name: 'Đường ngầm'
 
@@ -1183,7 +1312,10 @@ W.216b:
   docs_name: 'Biển số W.216b: Đường ngầm có nguy cơ lũ quét'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.16 Biển số W.216a "Đường ngầm" và biển số W.216b “Đường ngầm có nguy cơ lũ quét” 
+    a) Để báo trước những vị trí có đường ngầm (đường tràn) phải đặt biển số W.216a "Đường ngầm". Trường hợp đường ngầm thường xuyên có lũ quét phải đặt biển số W.216b “Đường ngầm có nguy cơ lũ quét”. Khi cần thiết thì đặt thêm biển phụ có chữ “LŨ” bên dưới biển này.
+    b) Đường ngầm là những đoạn đường vượt qua sông, suối, khe cạn mà nước có thể chảy tràn qua thường xuyên hoặc khi có lũ.
+    c) Ở hai đầu đường ngầm phải đặt cột báo mức nước (cột thủy chí).
   image: W216b.svg
   name: 'Đường ngầm có nguy cơ lũ quét'
 
@@ -1191,7 +1323,8 @@ W.217:
   docs_name: 'Biển số W.217: Bến phà'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.17 Biển số W.217 "Bến phà"
+    Để báo trước sắp đến bến phà, phải đặt biển số W.217 "Bến phà". Người tham gia giao thông  phải tuân theo nội quy bến phà.
   image: W217.svg
   name: 'Bến phà'
 
@@ -1199,7 +1332,8 @@ W.218:
   docs_name: 'Biển số W.218: Cửa chui'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.18 Biển số W.218 "Cửa chui"
+    Để báo trước sắp đến đường có cổng chắn ngang, kiểu cổng như cổng thành, cầu vượt đường bộ dạng cầu vòm, v.v... mà có ảnh hưởng đến giao thông, đặt biển số W.218 "Cửa chui".
   image: W218.svg
   name: 'Cửa chui'
 
@@ -1207,7 +1341,14 @@ W.219:
   docs_name: 'Biển số W.219: Dốc xuống nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.19 Biển số W.219 "Dốc xuống nguy hiểm" 
+    a) Để báo trước sắp tới đoạn đường xuống dốc nguy hiểm, đặt biển số W.219 "Dốc xuống nguy hiểm".
+    b) Con số ghi trong biển chỉ độ dốc thực tế tính bằng % làm tròn không có số thập phân.
+    Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+    c) Những vị trí xuống dốc nguy hiểm  là:
+    - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
+    - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
+    Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe xuống dốc một cách thuận lợi, an toàn.
   image: W219.svg
   name: 'Dốc xuống nguy hiểm'
 
@@ -1217,7 +1358,14 @@ W.220:
   docs_name: 'Biển số W.220: Dốc lên nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.20 Biển số W.220 "Dốc lên nguy hiểm"
+    a) Để báo trước sắp tới đoạn đường lên dốc nguy hiểm, đặt biển số W.220 "Dốc lên nguy hiểm".
+    b) Con số ghi trong biển chỉ độ dốc thực tế tính bằng %, làm tròn đến %.
+    Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+    c) Những vị trí lên dốc nguy hiểm là:
+    - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
+    - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
+    Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe lên dốc một cách thuận lợi, an toàn.
   image: W220.svg
   name: 'Dốc lên nguy hiểm'
 
@@ -1227,7 +1375,12 @@ W.221a:
   docs_name: 'Biển số W.221a: Đường lồi lõm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.21 Biển số W.221(a,b) "Đường không bằng phẳng"
+    Để báo trước sắp tới đoạn đường có mặt đường không bằng phẳng, lồi lõm, v.v... xe chạy với tốc độ cao sẽ nguy hiểm, đặt biển số W.221 (a,b):
+    - Biển số W.221a "Đường lồi lõm" đặt trong trường hợp đường đang tốt, xe chạy nhanh lại đột ngột chuyển sang những đoạn lồi lõm, gập ghềnh, ổ gà, lượn sóng; 
+    - Những đoạn đường khi xe chỉ chạy được tốc độ dưới 50 km/h hoặc khi bố trí vạch sơn giảm tốc thì không phải đặt biển số W.221a trong trường hợp trên.
+    - Chiều dài của đoạn đường không bằng phẳng được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+    - Biển số W.221b báo hiệu đoạn "Đường có gồ giảm tốc" để cảnh báo xe đi chậm trước khi qua những điểm có gồ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng;
   image: W221a.svg
   name: 'Đường lồi lõm'
 
@@ -1235,7 +1388,12 @@ W.221b:
   docs_name: 'Biển số W.221b: Đường có gồ giảm tốc'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.21 Biển số W.221(a,b) "Đường không bằng phẳng"
+    Để báo trước sắp tới đoạn đường có mặt đường không bằng phẳng, lồi lõm, v.v... xe chạy với tốc độ cao sẽ nguy hiểm, đặt biển số W.221 (a,b):
+    - Biển số W.221a "Đường lồi lõm" đặt trong trường hợp đường đang tốt, xe chạy nhanh lại đột ngột chuyển sang những đoạn lồi lõm, gập ghềnh, ổ gà, lượn sóng; 
+    - Những đoạn đường khi xe chỉ chạy được tốc độ dưới 50 km/h hoặc khi bố trí vạch sơn giảm tốc thì không phải đặt biển số W.221a trong trường hợp trên.
+    - Chiều dài của đoạn đường không bằng phẳng được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+    - Biển số W.221b báo hiệu đoạn "Đường có gồ giảm tốc" để cảnh báo xe đi chậm trước khi qua những điểm có gồ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng;
   image: W221b.svg
   name: 'Đường có gờ giảm tốc'
 
@@ -1243,7 +1401,9 @@ W.222a:
   docs_name: 'Biển số W.222a: Đường trơn'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.22   Biển số W.222a "Đường trơn" và Biển số W.222b "Lề đường nguy hiểm"
+    a) Để báo trước sắp tới đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn, đặt biển số W.222a báo hiệu "Đường trơn". Khi gặp biển này, tốc độ xe chạy phải giảm phù hợp và người tham gia giao thông phải thận trọng.
+    b) Để báo những nơi lề đường không ổn định, khi xe đi vào dễ gây văng đất đá hoặc bánh xe quay tại chỗ, đặt biển số W.222b "Lề đường nguy hiểm".
   image: W222a.svg
   name: 'Đường trơn'
 
@@ -1251,7 +1411,9 @@ W.222b:
   docs_name: 'Biển số W.222b: Lề đường nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.22   Biển số W.222a "Đường trơn" và Biển số W.222b "Lề đường nguy hiểm"
+    a) Để báo trước sắp tới đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn, đặt biển số W.222a báo hiệu "Đường trơn". Khi gặp biển này, tốc độ xe chạy phải giảm phù hợp và người tham gia giao thông phải thận trọng.
+    b) Để báo những nơi lề đường không ổn định, khi xe đi vào dễ gây văng đất đá hoặc bánh xe quay tại chỗ, đặt biển số W.222b "Lề đường nguy hiểm".
   image: W222b.svg
   name: 'Lề đường nguy hiểm'
 
@@ -1259,7 +1421,8 @@ W.223a:
   docs_name: 'Biển số W.223(a,b): Vách núi nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.23 Biển số W.223(a,b) "Vách núi nguy hiểm"
+    Để báo hiệu đường đi sát vách núi, đặt biển báo nguy hiểm số W.223(a,b) "Vách núi nguy hiểm". Biển dùng để báo nguy hiểm cho người tham gia giao thông phải cẩn thận. Biển đặt ở nơi sắp vào đoạn đường đi sát vách núi vừa hẹp vừa hạn chế tầm nhìn. Khi dùng biển cần chú ý vách núi nằm ở bên trái hay bên phải đường để đặt biển W.223a hoặc biển W.223b cho phù hợp.
   image: W223a.svg
   name: 'Vách núi nguy hiểm (bên trái)'
 
@@ -1267,7 +1430,8 @@ W.223b:
   docs_name: 'Biển số W.223(a,b): Vách núi nguy hiểm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.23 Biển số W.223(a,b) "Vách núi nguy hiểm"
+    Để báo hiệu đường đi sát vách núi, đặt biển báo nguy hiểm số W.223(a,b) "Vách núi nguy hiểm". Biển dùng để báo nguy hiểm cho người tham gia giao thông phải cẩn thận. Biển đặt ở nơi sắp vào đoạn đường đi sát vách núi vừa hẹp vừa hạn chế tầm nhìn. Khi dùng biển cần chú ý vách núi nằm ở bên trái hay bên phải đường để đặt biển W.223a hoặc biển W.223b cho phù hợp.
   image: W223b.svg
   name: 'Vách núi nguy hiểm (bên phải)'
 
@@ -1275,7 +1439,10 @@ W.224:
   docs_name: 'Biển số W.224: Đường người đi bộ cắt ngang'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.24 Biển số W.224 "Đường người đi bộ cắt ngang"
+    a) Để báo trước sắp tới phần đường dành cho người đi bộ sang qua đường, đặt biển số W.224 "Đường người đi bộ cắt ngang". Gặp biển này các xe phải giảm tốc độ, nhường ưu tiên cho người đi bộ và chỉ được chạy xe khi không gây nguy hiểm cho người đi bộ.    
+    b) Phần đường dành cho người đi bộ cắt ngang tại nơi đường giao nhau, trong nội thành, nội thị nơi người qua lại nhiều phải được sơn kẻ vạch đường dành cho người đi bộ.
+    c) Không cần phải đặt biển này tại các đoạn đường qua khu đông dân cư nếu người tham gia giao thông dễ thấy được phần đường sang ngang của người đi bộ, khi tốc độ hạn chế tối đa dưới 50 km/h hoặc tại vị trí này có hệ thống đèn điều khiển giao thông.
   image: W224.svg
   name: '(Đường) người đi bộ (cắt ngang)'
 
@@ -1283,17 +1450,20 @@ W.225:
   docs_name: 'Biển số W.225: Trẻ em'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.25 Biển số W.225 "Trẻ em"
+    a) Để báo trước là gần đến đoạn đường thường có trẻ em đi ngang qua hoặc tụ tập trên đường như ở vườn trẻ, trường học, câu lạc bộ, đặt biển số W.225 "Trẻ em".
+    b) Chiều dài của đoạn đường này được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+    c) Gặp biển này, người tham gia giao thông phải đi chậm và thận trọng đề phòng khả năng xuất hiện và di chuyển bất ngờ của trẻ em trên mặt đường.
   image: W225.svg
   name: 'Trẻ em'
-
   related: [S.501]
 
 W.226:
   docs_name: 'Biển số W.226: Đường người đi xe đạp cắt ngang'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.26 Biển số W.226 "Đường người đi xe đạp cắt ngang"
+    Để báo trước là gần tới vị trí thường có người đi xe đạp từ những đường nhỏ cắt ngang qua hoặc từ đường dành cho xe đạp đi nhập vào đường ôtô, đặt biển số W.226 "Đường người đi xe đạp cắt ngang".
   image: W226.svg
   name: '(Đường) người đi xe đạp (cắt ngang)'
 
@@ -1301,7 +1471,8 @@ W.227:
   docs_name: 'Biển số W.227: Công trường'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.27 Biển số W.227 "Công trường"
+    Để báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa, cải tạo, nâng cấp có người và máy móc đang làm việc trên mặt đường, đặt biển số W.227 báo hiệu "Công trường".Khi gặp biển báo này tốc độ xe chạy phải giảm cho thích hợp, không gây nguy hiểm cho người và máy móc trên đoạn đường đó.
   image: W227.svg
   name: 'Công trường'
 
@@ -1309,27 +1480,37 @@ W.228a:
   docs_name: 'Biển số W.228(a,b): Đá lở'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
+    a) Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
+    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+    b) Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
+    c) Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228a.svg
   name: 'Đá lở (bên trái)'
-
   related: [S.501]
 
 W.228b:
   docs_name: 'Biển số W.228(a,b): Đá lở'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
+    a) Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
+    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+    b) Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
+    c) Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228b.svg
   name: 'Đá lở (bên phải)'
-
   related: [S.501]
 
 W.228c:
   docs_name: 'Biển số W.228c: Sỏi đá bắn lên'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
+    a) Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
+    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+    b) Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
+    c) Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228c.svg
   name: 'Sỏi đá bắn lên'
 
@@ -1337,7 +1518,11 @@ W.228d:
   docs_name: 'Biển số W.228d: Nền đường yếu'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
+    a) Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
+    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+    b) Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
+    c) Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228d.svg
   name: 'Nền đường yếu'
 
@@ -1345,7 +1530,8 @@ W.229:
   docs_name: 'Biển số W.229: Dải máy bay lên xuống'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.29 Biển số W.229 "Dải máy bay lên xuống"
+    Để báo trước đoạn đường ở vùng sát đường băng sân bay và cắt ngang qua hướng máy bay lên xuống ở độ cao không lớn, đặt biển số W.229 "Dải máy bay lên xuống". Nếu cần thiết, tại những vị trí này phải điều khiển giao thông bằng tín hiệu cờ và đèn đỏ hoặc hiệu lệnh bằng tay của người chỉ huy giao thông.
   image: W229.svg
   name: '(Dải) máy bay (lên xuống)'
 
@@ -1353,7 +1539,8 @@ W.230:
   docs_name: 'Biển số W.230: Gia súc'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.30 Biển số W.230 "Gia súc"
+    Để báo trước gần tới đoạn đường thường có gia súc thả rông hoặc lùa qua ngang đường, đường ở vùng đồng cỏ của nông trường chăn nuôi, vùng thảo nguyên ..., đặt biển số W.230 "Gia súc". Người tham gia giao thông có trách nhiệm đi chậm, quan sát và dừng lại bảo đảm cho gia súc có thể qua đường không bị nguy hiểm.
   image: W230.svg
   name: 'Gia súc'
 
@@ -1361,7 +1548,8 @@ W.231:
   docs_name: 'Biển số W.231: Thú rừng vượt qua đường'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.31 Biển số W.231 "Thú rừng vượt qua đường"
+    Để báo trước gần tới đoạn đường thường có thú rừng qua đường như đường đi qua rừng hay khu vực bảo tồn thiên nhiên cấm săn bắn, đặt biển số W.231 "Thú rừng vượt qua đường". Chiều dài của đoạn đường này được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính, người tham gia giao thông phải đi chậm, chú ý quan sát hai bên đường và thận trọng đề phòng tai nạn.
   image: W231.svg
   name: 'Thú rừng (vượt qua đường)'
 
@@ -1371,7 +1559,9 @@ W.232:
   docs_name: 'Biển số W.232: Gió ngang'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.32 Biển số W.232 "Gió ngang"
+    a) Để báo trước gần tới đoạn đường thường có gió ngang thổi mạnh gây nguy hiểm, đặt biển số W.232 "Gió ngang". Người tham gia giao thông cần phải điều chỉnh tốc độ xe chạy cho thích hợp, đề phòng gió thổi mạnh gây lật xe.
+    b) Biển này chỉ đặt ngoài phạm vi thành phố, khu đông dân cư. Tại vị trí nguy hiểm nên đặt thiết bị đo gió để những người tham gia giao thông  biết được hướng và cường độ gió.
   image: W232.svg
   name: 'Gió ngang'
 
@@ -1379,7 +1569,8 @@ W.233:
   docs_name: 'Biển số W.233: Nguy hiểm khác'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.33 Biển số W.233 "Nguy hiểm khác"  
+    Nếu trên đường có những nguy hiểm mà không thể vận dụng được các kiểu biển từ biển số W.201a đến biển số W.232 theo quy định từ phần C.1 đến phần C.32 Phụ lục này, đặt biển số W.233 "Nguy hiểm khác".
   image: W233.svg
   name: 'Nguy hiểm khác'
 
@@ -1387,7 +1578,8 @@ W.234:
   docs_name: 'Biển số W.234: Giao nhau với đường hai chiều'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.34 Biển số W.234 "Giao nhau với đường hai chiều"
+    Trên đường một chiều, để báo trước sắp đến vị trí giao nhau với đường hai chiều,  đặt biển số W.234 "Giao nhau với đường hai chiều". Trong nội thành, nội thị có thể không đặt biển này.
   image: W234.svg
   name: 'Giao nhau với đường hai chiều'
 
@@ -1395,7 +1587,8 @@ W.235:
   docs_name: 'Biển số W.235: Đường đôi'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.35 Biển số W.235 "Đường đôi"
+    Để báo trước sắp đến đoạn đường có chiều đi và chiều về phân biệt bằng dải phân cách cứng, đặt biển số W.235 "Đường đôi". Trong nội thành, nội thị có thể  không đặt biển này.
   image: W235.svg
   name: 'Đường đôi (2 chiều phân biêt bằng dải phân cách cứng)'
 
@@ -1405,7 +1598,8 @@ W.236:
   docs_name: 'Biển số W.236: Kết thúc đường đôi'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.36 Biển số W.236 " Kết thúc đường đôi"
+    Để báo trước sắp kết thúc đoạn đường có chiều đi và chiều về phân biệt bằng dải phân cách cứng, đặt biển số W.236 "Kết thúc đường đôi". Đường hai chiều được phân chia bằng vạch sơn không phải đặt biển này. Trong nội thành, nội thị có thể  không đặt biển này.
   image: W236.svg
   name: 'Kết thúc đường đôi'
 
@@ -1413,7 +1607,8 @@ W.237:
   docs_name: 'Biển số W.237: Cầu vồng'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.37 Biển số W.237 "Cầu vồng"
+    Dùng để nhắc nhở lái xe phải thận trọng. Biển đặt ở trên đoạn đường sắp đến công trình có độ vồng lớn ảnh hưởng tới tầm nhìn.
   image: W237.svg
   name: 'Cầu vồng'
 
@@ -1421,7 +1616,8 @@ W.238:
   docs_name: 'Biển số W.238: Đường cao tốc phía trước'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.38 Biển số W.238 "Đường cao tốc phía trước"
+    Biển số W.238 được đặt trên đường nhánh nhập vào đường cao tốc để báo cho các phương tiện đi trên đường này biết có "Đường cao tốc phía trước".
   image: W238.svg
   name: 'Đường cao tốc (phía trước)'
 
@@ -1429,7 +1625,12 @@ W.239a:
   docs_name: 'Biển số W.239a: Đường cáp điện ở phía trên; '
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.39 Biển số W.239a "Đường cáp điện ở phía trên"; Biển số W.239b "Chiều cao tĩnh không thực tế"
+    a) Ở những nơi có đường dây điện cắt ngang phía trên tuyến đường, đặt biển số W.239a "Đường cáp điện ở phía trên" và kèm theo biển số S.509a "Chiều cao an toàn" ở phía dưới. Để báo chiều cao tĩnh không thực tế của các vị trí có khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật bị giới hạn phải đặt biển W.239b “Chiều cao tĩnh không thực tế”.
+    b) Biển được đặt phía bên phải cho cả hai chiều đường xe chạy.
+    c) Khi chiều cao an toàn > 5,5 m không phải đặt biển W.239(a, b), ngoại trừ các trường hợp các đoạn đường có yêu cầu khai thác đặc biệt
+    Chiều cao an toàn: là chiều cao từ điểm võng tĩnh thấp nhấp ở trạng thái võng cực đại đến điểm cao nhất của công trình trừ đi chiều cao phóng điện an toàn theo cấp điện.
+    Chiều cao tĩnh không thực tế: là khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật.
   image: W239a.svg
   name: 'Đường cáp điện (ở phía trên)'
 
@@ -1439,14 +1640,20 @@ W.239b:
   name: 'Chiều cao tĩnh không thực tế'
 
   docs: |-
-
+    C.39 Biển số W.239a "Đường cáp điện ở phía trên"; Biển số W.239b "Chiều cao tĩnh không thực tế"
+    a) Ở những nơi có đường dây điện cắt ngang phía trên tuyến đường, đặt biển số W.239a "Đường cáp điện ở phía trên" và kèm theo biển số S.509a "Chiều cao an toàn" ở phía dưới. Để báo chiều cao tĩnh không thực tế của các vị trí có khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật bị giới hạn phải đặt biển W.239b “Chiều cao tĩnh không thực tế”.
+    b) Biển được đặt phía bên phải cho cả hai chiều đường xe chạy.
+    c) Khi chiều cao an toàn > 5,5 m không phải đặt biển W.239(a, b), ngoại trừ các trường hợp các đoạn đường có yêu cầu khai thác đặc biệt
+    Chiều cao an toàn: là chiều cao từ điểm võng tĩnh thấp nhấp ở trạng thái võng cực đại đến điểm cao nhất của công trình trừ đi chiều cao phóng điện an toàn theo cấp điện.
+    Chiều cao tĩnh không thực tế: là khoảng cách từ điểm cao nhất của mặt đường đến điểm thấp nhất của chướng ngại vật.
   image: W239b.png
 
 W.240:
   docs_name: 'Biển số W.240: Đường hầm'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.40 Biển báo W.240 "Đường hầm"
+    Để nhắc lái xe chú ý chuẩn bị đi vào hầm đường bộ, đặt biển số W.240 "Đường hầm".
   image: W240.svg
   name: 'Đường hầm'
 
@@ -1454,7 +1661,8 @@ W.241:
   docs_name: 'Biển số W.241: Ùn tắc giao thông'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.41 Biển số W.241 "Ùn tắc giao thông"
+    Để báo đoạn đường hay xảy ra ùn tắc giao thông, đặt biển số W.241 "Ùn tắc giao thông".
   image: W241.svg
   name: 'Ùn tắc giao thông'
 
@@ -1462,7 +1670,10 @@ W.242a:
   docs_name: 'Biển số W.242(a,b): Nơi đường sắt giao vuông góc với đường bộ'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.42 Biển số W.242(a,b) "Nơi đường sắt giao vuông góc với đường bộ"
+    Để bổ sung cho biển số W.211 "Giao nhau với đường sắt không có rào chắn", đặt biển số W.242(a,b) để chỉ chỗ đường sắt giao vuông góc đường bộ. Biển đặt trên đường bộ cách ray gần nhất của đường sắt 10 m.
+    Nếu tại chỗ giao nhau, đường sắt chỉ có một cặp đường ray cắt ngang đường bộ thì đặt biển số W.242a.
+    Nếu tại chỗ giao nhau, đường sắt có từ hai cặp đường ray trở lên cắt ngang đường bộ thì đặt biển số W.242b.
   image: W242a.svg
   name: '(Nơi) đường sắt giao vuông góc với đường bộ (1 cặp đường ray)'
 
@@ -1472,17 +1683,20 @@ W.242b:
   docs_name: 'Biển số W.242(a,b): Nơi đường sắt giao vuông góc với đường bộ'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.42 Biển số W.242(a,b) "Nơi đường sắt giao vuông góc với đường bộ"
+    Để bổ sung cho biển số W.211 "Giao nhau với đường sắt không có rào chắn", đặt biển số W.242(a,b) để chỉ chỗ đường sắt giao vuông góc đường bộ. Biển đặt trên đường bộ cách ray gần nhất của đường sắt 10 m.
+    Nếu tại chỗ giao nhau, đường sắt chỉ có một cặp đường ray cắt ngang đường bộ thì đặt biển số W.242a.
+    Nếu tại chỗ giao nhau, đường sắt có từ hai cặp đường ray trở lên cắt ngang đường bộ thì đặt biển số W.242b.
   image: W242b.svg
   name: '(Nơi) đường sắt giao vuông góc với đường bộ (2 cặp đường ray)'
-
   related: [W.211a]
 
 W.243a:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.43 Biển báo số W.243 (a,b,c) "Nơi đường sắt giao không vuông góc với đường bộ"
+    Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn, đặt biển số W.243 "Nơi đường sắt giao không vuông góc với đường bộ". Biển được đặt ở phía dưới biển số W.211 “Giao nhau với đường sắt không có rào chắn”. Báo hiệu đường sắt giao cắt không vuông góc với đường bộ gồm có 3 biển: biển số W.243a đặt ở nơi cách ray gần nhất nơi giao đường sắt 50 m, biển số W.243b và biển số W.243c đặt cách ray gần nhất nơi giao  đường sắt 100 m và 150 m.
   image: W243a.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 50m)'
 
@@ -1492,7 +1706,8 @@ W.243b:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.43 Biển báo số W.243 (a,b,c) "Nơi đường sắt giao không vuông góc với đường bộ"
+    Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn, đặt biển số W.243 "Nơi đường sắt giao không vuông góc với đường bộ". Biển được đặt ở phía dưới biển số W.211 “Giao nhau với đường sắt không có rào chắn”. Báo hiệu đường sắt giao cắt không vuông góc với đường bộ gồm có 3 biển: biển số W.243a đặt ở nơi cách ray gần nhất nơi giao đường sắt 50 m, biển số W.243b và biển số W.243c đặt cách ray gần nhất nơi giao  đường sắt 100 m và 150 m.
   image: W243b.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 100m)'
 
@@ -1502,7 +1717,9 @@ W.243c:
   docs_name: 'Biển số W.243(a,b,c): Nơi đường sắt giao không vuông góc với đường bộ'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.43 Biển báo số W.243 (a,b,c) "Nơi đường sắt giao không vuông góc với đường bộ"
+    Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn, đặt biển số W.243 "Nơi đường sắt giao không vuông góc với đường bộ". Biển được đặt ở phía dưới biển số W.211 “Giao nhau với đường sắt không có rào chắn”. Báo hiệu đường sắt giao cắt không vuông góc với đường bộ gồm có 3 biển: biển số W.243a đặt ở nơi cách ray gần nhất nơi giao đường sắt 50 m, biển số W.243b và biển số W.243c đặt cách ray gần nhất nơi giao  đường sắt 100 m và 150 m.
+    .
   image: W243c.svg
   name: '(Nơi) đường sắt giao không vuông góc với đường bộ (cách 150m)'
 
@@ -1512,7 +1729,8 @@ W.244:
   docs_name: 'Biển số W.244: Đoạn đường hay xảy ra tai nạn'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.44 Biển số W.244 "Đoạn đường hay xảy ra tai nạn" 
+    Dùng để cảnh báo nguy hiểm đoạn đường phía trước thường xảy ra tai nạn để lái xe cần đặc biệt chú ý, đặt biển số W.244 "Đoạn đường hay xảy ra tai nạn". Biển được đặt ở vị trí thích hợp nơi sắp vào đoạn đường thường xảy ra tai nạn.
   image: W244.svg
   name: 'Đoạn đường hay xảy ra tai nạn'
 
@@ -1520,7 +1738,9 @@ W.245a:
   docs_name: 'Biển số W.245(a,b): Đi chậm (a), Đi chậm có chỉ dẫn tiếng Anh (b)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.45 Biển số W.245 (a,b) "Đi chậm" 
+    Dùng để nhắc lái xe giảm tốc độ đi chậm, đặt biển số W.245 (a,b) "Đi chậm". Biển đặt ở vị trí thích hợp trước khi đến đoạn đường yêu cầu đi chậm.
+    Đối với các tuyến đường đối ngoại, bắt buộc dùng biển số W.245b.
   image: W245a.svg
   name: 'Đi chậm'
 
@@ -1528,7 +1748,9 @@ W.245b:
   docs_name: 'Biển số W.245(a,b): Đi chậm (a), Đi chậm có chỉ dẫn tiếng Anh (b)'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.45 Biển số W.245 (a,b) "Đi chậm" 
+    Dùng để nhắc lái xe giảm tốc độ đi chậm, đặt biển số W.245 (a,b) "Đi chậm". Biển đặt ở vị trí thích hợp trước khi đến đoạn đường yêu cầu đi chậm.
+    Đối với các tuyến đường đối ngoại, bắt buộc dùng biển số W.245b.
   image: W245b.svg
   name: 'Đi chậm (có chỉ dẫn tiếng Anh)'
 
@@ -1536,44 +1758,46 @@ W.246a:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.46 Biển số W.246 (a,b,c) "Chú ý chướng ngại vật" 
+    Dùng để báo trước cho lái xe biết phía trước có chướng ngại vật, xe cần giảm tốc độ và đi theo chỉ dẫn trên biển báo, đặt biển số W.246a "Chú ý chướng ngại vật - Vòng tránh ra hai bên", biển số W.246b "Chú ý chướng ngại vật - Vòng tránh sang bên trái” và biển số W.246c "Chú ý chướng ngại vật - Vòng tránh sang bên phải”. Biển này đặt ở vị trí thích hợp trước khi đến đoạn đường có chướng ngại vật.
   image: W246a.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang 2 bên'
-
   similar: [W.235]
 
 W.246b:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.46 Biển số W.246 (a,b,c) "Chú ý chướng ngại vật" 
+    Dùng để báo trước cho lái xe biết phía trước có chướng ngại vật, xe cần giảm tốc độ và đi theo chỉ dẫn trên biển báo, đặt biển số W.246a "Chú ý chướng ngại vật - Vòng tránh ra hai bên", biển số W.246b "Chú ý chướng ngại vật - Vòng tránh sang bên trái” và biển số W.246c "Chú ý chướng ngại vật - Vòng tránh sang bên phải”. Biển này đặt ở vị trí thích hợp trước khi đến đoạn đường có chướng ngại vật.
   image: W246b.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên trái'
-
   similar: [W.235]
 
 W.246c:
   docs_name: 'Biển số W.246(a,b,c): Chú ý chướng ngại vật'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.46 Biển số W.246 (a,b,c) "Chú ý chướng ngại vật" 
+    Dùng để báo trước cho lái xe biết phía trước có chướng ngại vật, xe cần giảm tốc độ và đi theo chỉ dẫn trên biển báo, đặt biển số W.246a "Chú ý chướng ngại vật - Vòng tránh ra hai bên", biển số W.246b "Chú ý chướng ngại vật - Vòng tránh sang bên trái” và biển số W.246c "Chú ý chướng ngại vật - Vòng tránh sang bên phải”. Biển này đặt ở vị trí thích hợp trước khi đến đoạn đường có chướng ngại vật.
   image: W246c.svg
   name: '(Chú ý) chướng ngại vật - Vòng tránh sang bên phải'
-
   similar: [W.235]
 
 W.247:
   docs_name: 'Biển số W.247: Chú ý xe đỗ.'
   docs_source: 'Phụ lục C - Ý nghĩa - Sử dụng biển báo nguy hiểm và cảnh báo'
   docs: |-
-
+    C.47 Biển số W.247 "Chú ý xe đỗ" 
+    a) Để cảnh báo có các loại xe ôtô, máy kéo, rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô hoặc ôtô đầu kéo, xe máy chuyên dùng đang đỗ chiếm một phần đường xe chạy, đặt trên mặt đường biển số W.247 “Chú ý xe đỗ”, biển được đặt cách xe phía trước và phía sau xe (theo chiều đi) 5 m;
+    b) Đối với đường một chiều, chỉ đặt một biển sau xe (hoặc đoàn xe) đỗ.
+    c) Đối với đoàn xe gồm nhiều xe cùng đỗ, chỉ đặt biển này ở phía trước xe đầu và sau xe cuối của đoàn xe trên đường hai làn xe.
+    d) Biển đặt trực tiếp trên mặt đường.
   image: W247.svg
   name: '(Chú ý) xe đỗ'
-
   similar: [W.208]
 
 # R
-
 R.122:
   docs_name: 'Biển số R.122: Dừng lại'
   docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
@@ -1588,14 +1812,14 @@ R.301:
   name: 'Hướng đi phải theo'
 
   docs: |-
-
+    .
   image: R301a.svg
 
 R.301a:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
   docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
-
+    .
   image: R301a.svg
   name: '(Các xe) chỉ được đi thẳng'
 
@@ -1603,7 +1827,7 @@ R.301b:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
   docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
-
+    .
   image: R301b.svg
   name: '(Các xe) chỉ được đi ngang qua phải'
 
