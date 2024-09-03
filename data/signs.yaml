@@ -1331,11 +1331,15 @@ W.201a:
   docs_mdx: |-
     # C.1 Biển số W.201 (a,b) "Chỗ ngoặt nguy hiểm"
     1. Để báo trước sắp đến một chỗ ngoặt nguy hiểm, đặt biển số W.201 (a,b):
-    - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
-    - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+
+       - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
+       - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+       
     1. Chỗ ngoặt nguy hiểm là vị trí đường cong như sau:
-    - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
-    - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+
+       - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
+       - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+       
     1. Ở những vùng mà việc quan sát của người tham gia giao thông gặp khó khăn như vùng cây rậm rạp, vùng thường có sương mù thì các vị trí đường cong không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
     1. Sau đoạn thẳng dài từ 1 km trở lên thì đường cong đầu tiên không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
   image: W201a.svg
@@ -1358,11 +1362,15 @@ W.201b:
   docs_mdx: |-
     # C.1 Biển số W.201 (a,b) "Chỗ ngoặt nguy hiểm"
     1. Để báo trước sắp đến một chỗ ngoặt nguy hiểm, đặt biển số W.201 (a,b):
-    - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
-    - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+
+       - Biển số W.201a chỗ ngoặt nguy hiểm vòng bên trái;
+       - Biển số W.201b chỗ ngoặt nguy hiểm vòng bên phải.
+       
     1. Chỗ ngoặt nguy hiểm là vị trí đường cong như sau:
-    - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
-    - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+
+       - Ở vùng đồng bằng, đường cong có góc chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 100 m.
+       - Ở vùng núi, đường cong có góc ở chuyển hướng lớn hơn hay bằng 45° hoặc có bán kính nhỏ hơn hay bằng 40 m.
+       
     1. Ở những vùng mà việc quan sát của người tham gia giao thông gặp khó khăn như vùng cây rậm rạp, vùng thường có sương mù thì các vị trí đường cong không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
     1. Sau đoạn thẳng dài từ 1 km trở lên thì đường cong đầu tiên không phân biệt độ lớn góc ở tâm hoặc bán kính đều coi là chỗ ngoặt nguy hiểm.
     .
@@ -1413,8 +1421,10 @@ W.202a:
   docs_mdx: |-
     # C.2 Biển số W.202(a,b) "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
     1. Để báo trước sắp đến hai chỗ ngoặt ngược chiều nhau liên tiếp, đặt biển số W.202 (a,b):
-    - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
-    - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+       
+       - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
+       - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+       
     1. Hai chỗ ngoặt gọi là gần nhau khi đoạn thẳng từ tiếp cuối của đường cong trước đến tiếp đầu của đường cong tiếp sau nhỏ hơn 160 m.
   image: W202a.svg
   name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên trái)'
@@ -1431,8 +1441,10 @@ W.202b:
   docs_mdx: |-
     # C.2 Biển số W.202(a,b) "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
     1. Để báo trước sắp đến hai chỗ ngoặt ngược chiều nhau liên tiếp, đặt biển số W.202 (a,b):
-    - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
-    - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+
+       - Biển số W.202a đặt trong trường hợp có từ 2 chỗ ngoặt, ở gần nhau trong đó có ít nhất một chỗ ngoặt nguy hiểm mà chỗ ngoặt đầu tiên hướng vòng bên trái;
+       - Biển số W.202b đặt trong trường hợp như biển số W.202a nhưng hướng vòng bên phải.
+       
     1. Hai chỗ ngoặt gọi là gần nhau khi đoạn thẳng từ tiếp cuối của đường cong trước đến tiếp đầu của đường cong tiếp sau nhỏ hơn 160 m.
   image: W202b.svg
   name: 'Nhiều chỗ ngoặt nguy hiểm liên tiếp (chỗ đầu tiên vòng bên phải)'
@@ -1452,8 +1464,10 @@ W.203a:
   docs_mdx: |-
     # C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
     1. Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
-    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
-    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
+       - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+       - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
     1. Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
     1. Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
     1. Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
@@ -1476,8 +1490,10 @@ W.203b:
   docs_mdx: |-
     # C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
     1. Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
-    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
-    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
+       - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+       - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
     1. Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
     1. Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
     1. Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
@@ -1500,8 +1516,10 @@ W.203c:
   docs_mdx: |-
     # C.3 Biển số W.203(a,b,c) "Đường bị thu hẹp"
     1. Để báo trước sắp đến một đoạn đường bị thu hẹp đột ngột, đặt biển số W.203 (a,b,c):
-    - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
-    - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
+       - Biển số W.203a đặt trong trường hợp đường bị thu hẹp cả hai bên;
+       - Biển số W.203b hoặc biển số W.203c đặt trong trường hợp đường bị thu hẹp về phía trái hoặc phía phải.
+
     1. Đoạn đường bị thu hẹp là đoạn đường mà phần xe chạy bị thu hẹp lại, các làn xe đi ngược chiều nhau gặp khó khăn, nguy hiểm và khả năng thông qua giảm đột ngột so với đoạn đường trước đó.
     1. Sau khi đặt biển số W.203 (a,b,c) nếu đường bị thu hẹp đến mức không có khả năng thông qua cho hai xe đi ngược chiều thì đặt trước vị trí thu hẹp các biển xác định quyền ưu tiên của chiều đi (biển số P.132 và biển số I.406).
     1. Ở tất cả những vị trí đường bị hẹp, người tham gia giao thông phải chú ý quan sát giao thông ngược chiều. Xe đi ở chiều đường bị thu hẹp phải nhường đường cho xe đi ngược chiều.
@@ -2023,11 +2041,15 @@ W.219:
     # C.19 Biển số W.219 "Dốc xuống nguy hiểm" 
     1. Để báo trước sắp tới đoạn đường xuống dốc nguy hiểm, đặt biển số W.219 "Dốc xuống nguy hiểm".
     1. Con số ghi trong biển chỉ độ dốc thực tế tính bằng % làm tròn không có số thập phân.
-    Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+
+       Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+       
     1. Những vị trí xuống dốc nguy hiểm  là:
-    - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
-    - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
-    Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe xuống dốc một cách thuận lợi, an toàn.
+
+       - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
+       - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
+
+       Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe xuống dốc một cách thuận lợi, an toàn.
   image: W219.svg
   name: 'Dốc xuống nguy hiểm'
 
@@ -2049,11 +2071,15 @@ W.220:
     # C.20 Biển số W.220 "Dốc lên nguy hiểm"
     1. Để báo trước sắp tới đoạn đường lên dốc nguy hiểm, đặt biển số W.220 "Dốc lên nguy hiểm".
     1. Con số ghi trong biển chỉ độ dốc thực tế tính bằng %, làm tròn đến %.
-    Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+
+       Chiều dài của đoạn dốc được chỉ dẫn bằng biển số S.501 "Phạm vi tác dụng của biển" đặt bên dưới biển chính.
+
     1. Những vị trí lên dốc nguy hiểm là:
-    - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
-    - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
-    Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe lên dốc một cách thuận lợi, an toàn.
+
+       - Độ dốc từ  6% trở lên và chiều dài dốc trên 600 m;
+       - Độ dốc từ 10%  trở lên và chiều dài dốc trên 140 m;
+       
+       Người lái các phương tiện phải lựa chọn phương thức chạy xe cho phù hợp để xe lên dốc một cách thuận lợi, an toàn.
   image: W220.svg
   name: 'Dốc lên nguy hiểm'
 
@@ -2220,7 +2246,9 @@ W.228a:
   docs_mdx: |-
     # C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
     1. Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
-    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
+       Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
     1. Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
     1. Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228a.svg
@@ -2239,7 +2267,9 @@ W.228b:
   docs_mdx: |-
     # C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
     1. Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
-    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
+       Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
     1. Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
     1. Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228b.svg
@@ -2258,7 +2288,9 @@ W.228c:
   docs_mdx: |-
     # C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
     1. Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
-    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
+       Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
     1. Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
     1. Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228c.svg
@@ -2276,7 +2308,9 @@ W.228d:
   docs_mdx: |-
     # C.28 Biển số W.228(a,b) "Đá lở" và biển số W.228c "Sỏi đá bắn lên" và biển số W.228d  "Nền đường yếu"
     1. Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi, đặt biển số W.228 (a,b) "Đá lở". Chiều dài của đoạn nguy hiểm, sử dụng biển số S.501 "Phạm vi tác dung của biển" đặt dưới biển chính. Khi sử dụng biển này phải căn cứ thực tế mà đặt biển số W.228a hoặc biển số W.228b cho phù hợp.
-    Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
+       Gặp biển này, người tham gia giao thông phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn.
+
     1. Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông, đặt biển số W.228c "Sỏi đá bắn lên".
     1. Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm, đặt biển số W.228d “Nền đường yếu”. Lái xe cần chú ý giảm tốc độ hợp lý.
   image: W228d.svg
@@ -2693,20 +2727,23 @@ R.301:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301a.svg
   name: 'Hướng đi phải theo'
 
@@ -2735,20 +2772,23 @@ R.301a:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301a.svg
   name: '(Các xe) chỉ được đi thẳng'
 
@@ -2777,20 +2817,23 @@ R.301b:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301b.svg
   name: '(Các xe) chỉ được đi ngang qua phải'
   note: Đặt sau nơi đường giao nhau
@@ -2820,20 +2863,23 @@ R.301c:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301c.svg
   name: '(Các xe) chỉ được đi ngang qua trái'
   note: Đặt sau nơi đường giao nhau
@@ -2863,20 +2909,23 @@ R.301d:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301d.png
   name: '(Các xe) chỉ được rẽ phải'
   note: Đặt trước nơi đường giao nhau
@@ -2906,20 +2955,23 @@ R.301e:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301e.png
   name: '(Các xe) chỉ được rẽ trái'
   note: Đặt trước nơi đường giao nhau
@@ -2949,20 +3001,23 @@ R.301f:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301f.png
   name: '(Các xe) chỉ được đi thẳng và rẽ phải'
   note: Đặt trước nơi đường giao nhau
@@ -2992,20 +3047,23 @@ R.301g:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301g.png
   note: Đặt trước nơi đường giao nhau
   name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
@@ -3036,20 +3094,23 @@ R.301h:
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
-      - Biển số R.301a: các xe chỉ được đi thẳng; 
-      - Biển số R.301b: các xe chỉ được rẽ phải;
-      - Biển số R.301c: các xe chỉ được rẽ trái;
-      - Biển số R.301d: các xe chỉ được rẽ phải;
-      - Biển số R.301e: các xe chỉ được rẽ trái;
-      - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-      - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-      - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
+       - Biển số R.301a: các xe chỉ được đi thẳng; 
+       - Biển số R.301b: các xe chỉ được rẽ phải;
+       - Biển số R.301c: các xe chỉ được rẽ trái;
+       - Biển số R.301d: các xe chỉ được rẽ phải;
+       - Biển số R.301e: các xe chỉ được rẽ trái;
+       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
+       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
+       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
+
     1. Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái. Nếu biển này đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-      - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-      - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-      - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-      - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
+
+       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
+       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
+       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
+       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301h.svg
   name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu)'
   note: Đặt sau nơi đường giao nhau
@@ -3572,20 +3633,21 @@ R.411:
     Chú ý: số làn đường và hướng mũi tên tùy theo yêu cầu chỉ dẫn thực tế mà vẽ cho phù hợp. Hình trên biến số R.411 chỉ là một trường hợp.
   docs_mdx: |-
     # D.13 Biển số R.411 "Hướng đi trên mỗi làn đường phải theo"
-    1. Để báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường, đặt biển số R.411 "Hướng đi trên mỗi làn đường theo vạch kẻ đường". Biển sử dụng phối hợp với vạch kẻ đường (loại vạch 9.3: vạch mũi tên chỉ hướng trên mặt đường). Tùy theo tình hình thực tế về số lượng làn đường và hướng đi trên mỗi làn đường mà có ký hiệu phù hợp. Biển có tác dụng bắt buộc người tham gia giao thông phải đi đúng làn đường đã được chỉ dẫn hướng phù hợp với hành trình của xe.
+    Để báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường, đặt biển số R.411 "Hướng đi trên mỗi làn đường theo vạch kẻ đường". Biển sử dụng phối hợp với vạch kẻ đường (loại vạch 9.3: vạch mũi tên chỉ hướng trên mặt đường). Tùy theo tình hình thực tế về số lượng làn đường và hướng đi trên mỗi làn đường mà có ký hiệu phù hợp. Biển có tác dụng bắt buộc người tham gia giao thông phải đi đúng làn đường đã được chỉ dẫn hướng phù hợp với hành trình của xe.
+
     Chú ý: số làn đường và hướng mũi tên tùy theo yêu cầu chỉ dẫn thực tế mà vẽ cho phù hợp. Hình trên biến số R.411 chỉ là một trường hợp.
   image: R411.png
   name: 'Hướng đi trên mỗi làn đường phải theo'
   similar: [R.301g, R.301h]
 
 R.412:
-  TODO
+  # TODO
   docs: |-
     D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3594,16 +3656,18 @@ R.412:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
-    b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
+    1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412.png
   name: 'Làn đường dành riêng cho từng loại xe hoặc nhóm xe (Các loại xe khác không được di vào làn đường có đặt biển này, trừ các xe được quyền ưu tiên theo quy định)'
 
@@ -3615,7 +3679,7 @@ R.412a:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3624,15 +3688,17 @@ R.412a:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412a.png
   name: 'Làn đường dành cho xe ôtô khách'
@@ -3645,7 +3711,7 @@ R.412b:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3654,15 +3720,17 @@ R.412b:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412b.png
   name: 'Làn đường dành cho xe ôtô con'
@@ -3676,7 +3744,7 @@ R.412c:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3685,15 +3753,17 @@ R.412c:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412c.png
   name: 'Làn đường dành cho xe ôtô tải'
@@ -3706,7 +3776,7 @@ R.412d:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3715,15 +3785,17 @@ R.412d:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412d.png
   name: 'Làn đường dành cho xe máy'
@@ -3736,7 +3808,7 @@ R.412e:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3745,15 +3817,17 @@ R.412e:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412e.png
   name: 'Làn đường dành cho xe buýt'
@@ -3766,7 +3840,7 @@ R.412f:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3775,15 +3849,17 @@ R.412f:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412f.png
   name: 'Làn đường dành cho xe ôtô'
@@ -3797,7 +3873,7 @@ R.412g:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3806,15 +3882,17 @@ R.412g:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412g.png
   name: 'Làn đường dành cho xe máy và xe đạp'
@@ -3827,7 +3905,7 @@ R.412h:
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
     - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
     - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
+    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
     - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
     - Biển số R.412e “Làn đường dành cho xe buýt”.
     - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
@@ -3836,15 +3914,17 @@ R.412h:
     b) Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   docs_mdx: |-
     # D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
-    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
-    - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
-    - Biển số R.412b "Làn đường dành cho xe ôtô con".
-    - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “<3,5t”).
-    - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
-    - Biển số R.412e “Làn đường dành cho xe buýt”.
-    - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
-    - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
-    - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+    1. Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe hoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
+
+       - Biển số R.412a "Làn đường dành cho xe ôtô khách": làn đường dành riêng cho ôtô khách (kể cả ôtô buýt). Trong trường hợp cần phân làn các loại xe khách theo số chỗ ngồi thì ghi số chỗ ngồi cho phép của xe khách lên thân xe trong hình vẽ của biển (Ví dụ: “< 16c”. Khi báo hiệu làn đường dành riêng cho xe buýt nhanh, bổ sung thêm cụm từ “BRT” trên biển R.412a.
+       - Biển số R.412b "Làn đường dành cho xe ôtô con".
+       - Biển số R.412c "Làn đường dành cho xe ôtô tải". Trong trường hợp cần phân làn các loại xe tải theo khối lượng chuyên chở cho phép thì ghi trị số khối lượng chuyên chở cho phép của xe tải lên thân xe trong hình vẽ của biển (Ví dụ: “< 3,5t”).
+       - Biển số R.412d "Làn đường dành cho xe máy": làn đường dành riêng cho xe máy và xe gắn máy.
+       - Biển số R.412e “Làn đường dành cho xe buýt”.
+       - Biển số R.412f “Làn đường dành cho xe ôtô”: làn đường dành cho các loại xe ôtô.
+       - Biển số R.412g “Làn đường dành cho xe máy và xe đạp”: làn đường dành riêng cho xe máy (kể cả xe gắn máy) và xe đạp (kể cả các loại xe thô sơ khác).
+       - Biển số R.412h “Làn đường dành cho xe đạp”: làn đường dành riêng cho xe đạp (kể cả các loại xe thô sơ khác).
+
     1. Khi đến gần nơi đường bộ giao nhau,  xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
   image: R412h.png
   name: 'Làn đường dành cho xe đạp'
@@ -4073,10 +4153,9 @@ R.415a:
   docs_mdx: |-
     # D.16 Biển số R.415 “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”
     1. Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông. 
-      Hình D.18 - Biển số R.415a
-    Để chỉ dẫn hểt đoạn đường lưu thông trên từng làn đường theo quy định, đặt biển số R.415b “Kết thúc làn đường theo phương tiện” (Hình D.18b).
-      Hình D.18 - Biển số R.415b
-    Hình D.18 - “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”
+
+       Để chỉ dẫn hểt đoạn đường lưu thông trên từng làn đường theo quy định, đặt biển số R.415b “Kết thúc làn đường theo phương tiện” (Hình D.18b).
+       
     1. Khi đến gần nơi đường bộ giao nhau, xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
     1. Biển R.415 là biển hình chữ nhật nền màu xanh, trên đó  thể hiện hình vẽ các loại phương tiện cho phép sử dụng trên từng làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn, giá long môn. 
     1. Biển này chỉ áp dụng với những đoạn đường có 2 đến 4 làn đường cơ giới cho mỗi hướng lưu thông.
@@ -4096,14 +4175,13 @@ R.415b:
     d) Biển này chỉ áp dụng với những đoạn đường có 2 đến 4 làn đường cơ giới cho mỗi hướng lưu thông.
   docs_mdx: |-
     # D.16 Biển số R.415 “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”
-    a) Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông.
-      Hình D.18 - Biển số R.415a
-    Để chỉ dẫn hểt đoạn đường lưu thông trên từng làn đường theo quy định, đặt biển số R.415b “Kết thúc làn đường theo phương tiện” (Hình D.18b).
-      Hình D.18 - Biển số R.415b
-    Hình D.18 - “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”
-    b) Khi đến gần nơi đường bộ giao nhau, xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
-    c) Biển R.415 là biển hình chữ nhật nền màu xanh, trên đó  thể hiện hình vẽ các loại phương tiện cho phép sử dụng trên từng làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn, giá long môn.
-    d) Biển này chỉ áp dụng với những đoạn đường có 2 đến 4 làn đường cơ giới cho mỗi hướng lưu thông.
+    1. Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông.
+
+       Để chỉ dẫn hểt đoạn đường lưu thông trên từng làn đường theo quy định, đặt biển số R.415b “Kết thúc làn đường theo phương tiện” (Hình D.18b).
+       
+    1. Khi đến gần nơi đường bộ giao nhau, xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng các quy định.
+    1. Biển R.415 là biển hình chữ nhật nền màu xanh, trên đó  thể hiện hình vẽ các loại phương tiện cho phép sử dụng trên từng làn đường. Biển đặt bên đường hoặc treo trên cột cần vươn, giá long môn.
+    1. Biển này chỉ áp dụng với những đoạn đường có 2 đến 4 làn đường cơ giới cho mỗi hướng lưu thông.
   image: R415b.jpeg
   name: 'Kết thúc làn đường theo phương tiện'
 
@@ -4123,8 +4201,11 @@ R.420:
     1. Để báo hiệu bắt đầu đoạn đường vào phạm vi khu đông dân cư, đặt biển số R.420 "Bắt đầu khu đông dân cư".
     1. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.
     1. Đoạn đường qua khu vực đông dân cư được xác định bắt đầu bằng biển số R.420 “Bắt đầu khu đông dân cư” và kết thúc bằng biển số R.421 “Hết khu đông dân cư”. 
-    Đối với đoạn đường nằm trong khu đông dân cư: Căn cứ vào mức độ đô thị hóa và mật độ dân cư sinh sống bên đường để đặt biển báo hiệu "Bắt đầu khu đông dân cư" (Biển số R.420) và biển báo hiệu "Hết khu đông dân cư" (Biển số R.421) trên các tuyến đường ở vị trí vào, ra đô thị cho phù hợp (không đặt biển báo theo địa giới hành chính được quy hoạch, nếu chưa đô thị hóa hoặc dân cư thưa thớt); Biển số R.420 có hiệu lực khu đông dân cư đối với tất cả các tuyến đường nằm trong khu đông dân cư đô thị cho đến vị trí đặt biển số R.421.
-    Đối với đoạn đường nằm ngoài đô thị: Đoạn đường được xác định là qua khu đông dân cư khi có chiều dài từ 500 m trở lên, khoảng cách từ nhà tới mép đường (phần xe chạy) từ 6m trở xuống và mật độ các lối ra vào nhà trung bình dưới 10 m; ngoài ra, trong trường hợp đặc biệt khác như tại các nút giao cần phải hạn chế tốc độ mà xen kẹp ngắn với khu dân cư cũng có thể kéo dài khu dân cư qua các nút giao.
+
+       Đối với đoạn đường nằm trong khu đông dân cư: Căn cứ vào mức độ đô thị hóa và mật độ dân cư sinh sống bên đường để đặt biển báo hiệu "Bắt đầu khu đông dân cư" (Biển số R.420) và biển báo hiệu "Hết khu đông dân cư" (Biển số R.421) trên các tuyến đường ở vị trí vào, ra đô thị cho phù hợp (không đặt biển báo theo địa giới hành chính được quy hoạch, nếu chưa đô thị hóa hoặc dân cư thưa thớt); Biển số R.420 có hiệu lực khu đông dân cư đối với tất cả các tuyến đường nằm trong khu đông dân cư đô thị cho đến vị trí đặt biển số R.421.
+
+       Đối với đoạn đường nằm ngoài đô thị: Đoạn đường được xác định là qua khu đông dân cư khi có chiều dài từ 500 m trở lên, khoảng cách từ nhà tới mép đường (phần xe chạy) từ 6m trở xuống và mật độ các lối ra vào nhà trung bình dưới 10 m; ngoài ra, trong trường hợp đặc biệt khác như tại các nút giao cần phải hạn chế tốc độ mà xen kẹp ngắn với khu dân cư cũng có thể kéo dài khu dân cư qua các nút giao.
+    
     1. Trong phạm vi biển số R.420 có hiệu lực, khi gặp biển báo tốc độ tối đa cho phép (biển số P.127) người tham gia giao thông phải chấp hành quy định của biển số P.127.
   image: R420.svg
   name: 'Bắt đầu khu đông dân cư'
@@ -4153,7 +4234,11 @@ R.E,9a:
     - Để quy định hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,9d “Hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.19 Biển hiệu lệnh có tác dụng trong khu vực
-    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
+    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). 
+    
+    Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
     - Để cấm đỗ xe trong khu vực, đặt biển R.E,9a “Cấm đỗ xe trong khu vực”;
     - Để cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,9b “Cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định khu vực đỗ xe, đặt biển R.E,9c “Khu vực đỗ xe”;
@@ -4173,7 +4258,11 @@ R.E,9b:
     - Để quy định hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,9d “Hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.19 Biển hiệu lệnh có tác dụng trong khu vực
-    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
+    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). 
+    
+    Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
     - Để cấm đỗ xe trong khu vực, đặt biển R.E,9a “Cấm đỗ xe trong khu vực”;
     - Để cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,9b “Cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định khu vực đỗ xe, đặt biển R.E,9c “Khu vực đỗ xe”;
@@ -4193,7 +4282,11 @@ R.E,9c:
     - Để quy định hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,9d “Hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.19 Biển hiệu lệnh có tác dụng trong khu vực
-    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
+    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). 
+    
+    Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
     - Để cấm đỗ xe trong khu vực, đặt biển R.E,9a “Cấm đỗ xe trong khu vực”;
     - Để cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,9b “Cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định khu vực đỗ xe, đặt biển R.E,9c “Khu vực đỗ xe”;
@@ -4213,7 +4306,11 @@ R.E,9d:
     - Để quy định hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,9d “Hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.19 Biển hiệu lệnh có tác dụng trong khu vực
-    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
+    Để báo cấm, hạn chế hay chỉ dẫn có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực), đặt biển “Bắt đầu vào khu vực” (Ví dụ: biển số R.E,9a; R.E,9b; R.E,9c; R.E,9d; ...). 
+    
+    Từ ZONE được biểu thị ở phía trên và chi tiết cấm, hạn chế hay chỉ dẫn được biểu thị ở bên dưới. 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ:
     - Để cấm đỗ xe trong khu vực, đặt biển R.E,9a “Cấm đỗ xe trong khu vực”;
     - Để cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,9b “Cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định khu vực đỗ xe, đặt biển R.E,9c “Khu vực đỗ xe”;
@@ -4233,7 +4330,9 @@ R.E,10a:
     - Để quy định hết hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,10d “Hết hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.20 Biển hết hiệu lực khu vực
-    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
+    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
     - Để báo hiệu hết cấm đỗ xe trong khu vực, đặt biển R.E,10a “Hết cấm đỗ xe trong khu vực”;
     - Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,10b “Hết cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định hết khu vực đỗ xe, đặt biển R.E,10c “Hết khu vực đỗ xe”;
@@ -4253,7 +4352,9 @@ R.E,10b:
     - Để quy định hết hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,10d “Hết hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.20 Biển hết hiệu lực khu vực
-    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
+    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
     - Để báo hiệu hết cấm đỗ xe trong khu vực, đặt biển R.E,10a “Hết cấm đỗ xe trong khu vực”;
     - Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,10b “Hết cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định hết khu vực đỗ xe, đặt biển R.E,10c “Hết khu vực đỗ xe”;
@@ -4273,7 +4374,9 @@ R.E,10c:
     - Để quy định hết hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,10d “Hết hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.20 Biển hết hiệu lực khu vực
-    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
+    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
     - Để báo hiệu hết cấm đỗ xe trong khu vực, đặt biển R.E,10a “Hết cấm đỗ xe trong khu vực”;
     - Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,10b “Hết cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định hết khu vực đỗ xe, đặt biển R.E,10c “Hết khu vực đỗ xe”;
@@ -4293,7 +4396,9 @@ R.E,10d:
     - Để quy định hết hạn chế tốc độ tối đa trong khu vực, đặt biển R.E,10d “Hết hạn chế tốc độ tối đa trong khu vực”.
   docs_mdx: |-
     # D.20 Biển hết hiệu lực khu vực
-    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
+    Để chỉ dẫn ra khỏi khu vực có báo cấm, hạn chế hay chỉ dẫn có hiệu lực trong một khu vực, đặt biển “Ra khỏi khu vực” tương ứng (Ví dụ: biển số R.E,10a; R.E,10b; R.E,10c; R.E,10d; ...). 
+    
+    Tùy theo chi tiết cấm, hạn chế hay chỉ dẫn mà bố trí biển tương ứng, ví dụ: 
     - Để báo hiệu hết cấm đỗ xe trong khu vực, đặt biển R.E,10a “Hết cấm đỗ xe trong khu vực”;
     - Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực, đặt biển R.E,10b “Hết cấm đỗ xe theo giờ trong khu vực”;
     - Để quy định hết khu vực đỗ xe, đặt biển R.E,10c “Hết khu vực đỗ xe”;
