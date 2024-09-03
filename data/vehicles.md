@@ -1,0 +1,31 @@
+# Phương tiện tham gia giao thông đường bộ (PT-Tham-Gia-GTĐB)
+
+- Phương tiện giao thông đường bộ (PTGTĐB)
+  - PTGT-Cơ-Giới-ĐB (Xe cơ giới)
+    - xe ô tô
+      - xe ôtô con (xe con, ôtô con)
+      - xe ôtô khách (xe khách, ôtô khách)
+      - xe ôtô tải (xe tải, ôtô tải)
+        - xe ôtô đầu kéo (ôtô kéo sơ-mi rơ-moóc, ôtô đầu kéo kéo sơ-mi rơ-moóc)
+        - xe ôtô kéo rơ moóc
+        - xe ôtô bán tải (xe pickup), xe tải van*
+    - máy kéo
+    - rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo
+    - xe mô tô (xe máy, môtô)
+      - xe (môtô) hai bánh
+      - xe (môtô) ba bánh
+    - xe gắn máy (kể cả xe máy điện)
+    - và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ
+  - PTGT-Thô-Sơ-ĐB (Xe thô sơ)
+    - xe đạp (kể cả xe đạp máy, xe đạp điện)
+      - xe đạp
+      - xe đạp thồ
+    - xe xích lô
+    - xe lăn dùng cho người khuyết tật
+    - xe súc vật kéo
+    - và các loại xe tương tự
+      - xe người kéo
+- Xe máy chuyên dùng
+  - xe máy thi công
+  - xe máy nông nghiệp, lâm nghiệp
+  - và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
