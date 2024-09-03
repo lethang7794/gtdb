@@ -7280,7 +7280,9 @@ S.501:
     a) Biển số S.501 "Phạm vi tác dụng của biển" để thông báo chiều dài đoạn đường nguy hiểm hoặc cấm hoặc hiệu lệnh hoặc hạn chế bên dưới một số biển báo chính) Chiều dài đoạn nguy hiểm hoặc cấm hoặc hạn chế ghi theo đơn vị mét (m) và lấy chẵn đến hàng chục mét.
   docs_mdx: |-
     # F.1 Biển số S.501. "Phạm vi tác dụng của biển"
-    1. Biển số S.501 "Phạm vi tác dụng của biển" để thông báo chiều dài đoạn đường nguy hiểm hoặc cấm hoặc hiệu lệnh hoặc hạn chế bên dưới một số biển báo chính) Chiều dài đoạn nguy hiểm hoặc cấm hoặc hạn chế ghi theo đơn vị mét (m) và lấy chẵn đến hàng chục mét.
+    Biển thông báo chiều dài đoạn đường nguy hiểm hoặc cấm hoặc hiệu lệnh hoặc hạn chế bên dưới một số biển báo chính.
+
+    Chiều dài đoạn nguy hiểm hoặc cấm hoặc hạn chế ghi theo đơn vị mét (m) và lấy chẵn đến hàng chục mét.
   image: S501.svg
   name: 'Phạm vi tác dụng (của biển)'
 
@@ -7293,7 +7295,11 @@ S.502:
     b) Con số trên biển ghi theo đơn vị mét (m) và lấy chẵn đến hàng chục mét.
   docs_mdx: |-
     # F.2 Biển số S.502 "Khoảng cách đến đối tượng báo hiệu"
-    1. Bên dưới các loại biển báo nguy hiểm, biển báo cấm, biển hiệu lệnh và chỉ dẫn, trong trường hợp vị trí đặt các biển báo đó khác với quy định chung, đặt biển số S.502 "Khoảng cách đến đối tượng báo hiệu" để thông báo khoảng cách thực tế từ vị trí đặt biển đến đối tượng báo hiệu ở phía trước.
+    1. Đặt biển số S.502 "Khoảng cách đến đối tượng báo hiệu" để thông báo khoảng cách thực tế từ vị trí đặt biển đến đối tượng báo hiệu ở phía trước:
+
+       - Bên dưới các loại biển báo nguy hiểm, biển báo cấm, biển hiệu lệnh và chỉ dẫn
+       - Trong trường hợp vị trí đặt các biển báo đó khác với quy định chung
+
     1. Con số trên biển ghi theo đơn vị mét (m) và lấy chẵn đến hàng chục mét.
   image: S502.svg
   name: 'Khoảng cách đến đối tượng báo hiệu'
@@ -7311,7 +7317,14 @@ S.503a:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503a.svg
   name: '[Hướng tác dụng] Phải (Vuông gốc với chiều đi)'
@@ -7329,7 +7342,14 @@ S.503b:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503b.svg
   name: '[Hướng tác dụng] Trái và phải (Vuông gốc với chiều đi)'
@@ -7347,7 +7367,14 @@ S.503c:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503c.svg
   name: '[Hướng tác dụng] Trái (Vuông gốc với chiều đi)'
@@ -7365,7 +7392,14 @@ S.503d:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503d.jpeg
   name: '[Hướng tác dụng] Trước (Song song với chiều đi)'
@@ -7383,7 +7417,14 @@ S.503e:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503e.jpeg
   name: '[Hướng tác dụng] Trước và sau (Song song với chiều đi)'
@@ -7401,7 +7442,14 @@ S.503f:
     # F.3 Biển số S.503 (a,b,c,d,e,f) "Hướng tác dụng của biển"
     1. Các biển số S.503 (a,b,c) đặt bên dưới các biển báo cấm, biển hiệu lệnh để chỉ hướng tác dụng của biển là hướng vuông góc với chiều đi.
     1. Biển số S.503b để chỉ đồng thời hai hướng tác dụng (trái và phải).
-    1. Các biển số S.503 (d,e,f) đặt bên dưới biển số P.124 (a,b,c,d,e,f), biển số P.130 "Cấm dừng xe và đỗ xe", biển số P.131 (a,b,c) "Cấm đỗ xe" để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+    1. Các biển số S.503 (d,e,f) đặt bên dưới:
+
+       - biển số P.124 (a,b,c,d,e,f), 
+       - biển số P.130 "Cấm dừng xe và đỗ xe", 
+       - biển số P.131 (a,b,c) "Cấm đỗ xe" 
+        
+       để chỉ hướng tác dụng của biển là hướng song song với chiều đi.
+       
     1. Biển số S.503e để chỉ đồng thời hai hướng tác dụng (trước và sau) nơi đặt biển báo nhắc lại lệnh cấm dừng và cấm đỗ xe.
   image: S503f.jpeg
   name: '[Hướng tác dụng] Sau (Song song với chiều đi)'
@@ -7416,7 +7464,15 @@ S.504:
     Biển số S.504 được đặt bên trên làn đường và dưới các biển báo cấm và biển hiệu lệnh hay bên dưới đèn tín hiệu để chỉ làn đường chịu hiệu lực của biển báo hay đèn tín hiệu (khi kết hợp trên cùng một mặt biển, chỉ cần vẽ mũi tên chỉ làn đường).
   docs_mdx: |-
     # F.4 Biển số S.504 "Làn đường"
-    Biển số S.504 được đặt bên trên làn đường và dưới các biển báo cấm và biển hiệu lệnh hay bên dưới đèn tín hiệu để chỉ làn đường chịu hiệu lực của biển báo hay đèn tín hiệu (khi kết hợp trên cùng một mặt biển, chỉ cần vẽ mũi tên chỉ làn đường).
+    Được đặt 
+    - bên trên làn đường và
+    - bên dưới 
+      - biển báo cấm, biển hiệu lệnh, 
+      - đèn tín hiệu 
+
+    để chỉ làn đường chịu hiệu lực của biển báo hay đèn tín hiệu 
+
+    (khi kết hợp trên cùng một mặt biển, chỉ cần vẽ mũi tên chỉ làn đường).
   image: S504.svg
   name: 'Làn đường'
 
@@ -7428,7 +7484,11 @@ S.505a:
     Biển số S.505a được đặt bên dưới các biển báo cấm và biển hiệu lệnh hay biển chỉ dẫn để chỉ loại xe chịu hiệu lực của biển báo cấm, biển hiệu lệnh hay biển chỉ dẫn. Tùy theo loại xe chịu hiệu lực mà bố trí hình vẽ cho phù hợp.
   docs_mdx: |-
     # F.5 Biển số S.505a "Loại xe"
-    Biển số S.505a được đặt bên dưới các biển báo cấm và biển hiệu lệnh hay biển chỉ dẫn để chỉ loại xe chịu hiệu lực của biển báo cấm, biển hiệu lệnh hay biển chỉ dẫn. Tùy theo loại xe chịu hiệu lực mà bố trí hình vẽ cho phù hợp.
+    Được đặt bên dưới các biển báo cấm/hiệu lệnh/chỉ dẫn 
+
+    Để chỉ loại xe chịu hiệu lực (của biển báo cấm/hiệu lệnh/chỉ dẫn)
+
+    (Tùy theo loại xe chịu hiệu lực mà bố trí hình vẽ cho phù hợp.)
   image: S505a.svg
   name: 'Loại xe'
 
@@ -7442,8 +7502,17 @@ S.505b:
     Trường hợp cầu hư hỏng đột xuất, cầu có tải trọng khai thác thấp, ngoài việc đặt biển báo hiệu S.505b còn phải đặt bổ sung các bảng thông tin hướng dẫn ở hai đầu đoạn tuyến để thông báo cho người tham gia giao thông về vị trí tải trọng của cầu có tải trọng khai thác thấp nhất nằm trong đoạn tuyến.
   docs_mdx: |-
     # F.6 Biển số S.505b "Loại xe hạn chế qua cầu"
-    Biển số S.505b được đặt bên dưới biển báo số P.106a “Cấm xe ôtô tải” để chỉ các loại xe tải chịu hiệu lực của biển báo và trọng tải toàn bộ xe cho phép (bao gồm trọng tải bản thân xe  và khối lượng chuyên chở cho phép) tương ứng với mỗi loại xe không phụ thuộc vào số lượng trục.
-    Biển S.505b được lắp đặt cho từng cầu. Biển đặt bên phải theo chiều đi cách hai đầu cầu từ 10 m đến 20 m ở vị trí dễ quan sát.
+    Biển số S.505b 
+    - đặt bên dưới biển báo số P.106a “Cấm xe ôtô tải” 
+
+      để chỉ 
+      - các loại xe tải chịu hiệu lực của biển báo và 
+      - trọng tải toàn bộ xe cho phép (bao gồm trọng tải bản thân xe và khối lượng chuyên chở cho phép) tương ứng với mỗi loại xe không phụ thuộc vào số lượng trục.
+
+    - được lắp đặt cho từng cầu. 
+
+      Biển đặt bên phải theo chiều đi cách hai đầu cầu từ 10 m đến 20 m ở vị trí dễ quan sát.
+
     Trường hợp cầu hư hỏng đột xuất, cầu có tải trọng khai thác thấp, ngoài việc đặt biển báo hiệu S.505b còn phải đặt bổ sung các bảng thông tin hướng dẫn ở hai đầu đoạn tuyến để thông báo cho người tham gia giao thông về vị trí tải trọng của cầu có tải trọng khai thác thấp nhất nằm trong đoạn tuyến.
   image: S505b.svg
   name: 'Loại xe hạn chế qua cầu'
@@ -7457,8 +7526,11 @@ S.505c:
     b) Biển S.505c được đặt cùng với biển số S.505b bên dưới biển số P.106 và các xe qua cầu phải thỏa mãn điều kiện của cả hai biển (biển số S.505b và S.505c);
   docs_mdx: |-
     # F.7 Biển số S.505c "Tải trọng trục hạn chế qua cầu"
-    1. Biển số S.505c được đặt bên dưới biển báo số P.106a “Cấm ôtô xe tải” để chỉ các loại xe tải có tải trọng trục lớn nhất cho phép tương ứng với mỗi loại trục (trục đơn, trục kép, trục ba).
-    1. Biển S.505c được đặt cùng với biển số S.505b bên dưới biển số P.106 và các xe qua cầu phải thỏa mãn điều kiện của cả hai biển (biển số S.505b và S.505c);
+    - Được đặt bên dưới biển báo số P.106a “Cấm ôtô xe tải” 
+     
+      để chỉ các loại xe tải có tải trọng trục lớn nhất cho phép tương ứng với mỗi loại trục (trục đơn, trục kép, trục ba).
+
+    - Được đặt cùng với biển số S.505b bên dưới biển số P.106 và các xe qua cầu phải thỏa mãn điều kiện của cả hai biển (biển số S.505b và S.505c);
   image: S505c.svg
   name: 'Tải trọng trục hạn chế qua cầu'
 
@@ -7471,8 +7543,19 @@ S.506a:
     b) Biển số S.506b được đặt bên dưới biển số W.208 và biển số R.122 trên đường không ưu tiên để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
   docs_mdx: |-
     # F.8 Biển số S.506 (a,b) "Hướng đường ưu tiên"
-    1. Biển số S.506a được đặt bên dưới biển chỉ dẫn số I.401 trên đường ưu tiên để chỉ dẫn cho người tham gia giao thông  trên đường này biết hướng đường ưu tiên ở ngã tư.
-    1. Biển số S.506b được đặt bên dưới biển số W.208 và biển số R.122 trên đường không ưu tiên để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
+    1. Biển số S.506a 
+
+       - được đặt 
+         - trên đường ưu tiên 
+         - bên dưới biển chỉ dẫn số I.401 
+       - để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
+       
+    1. Biển số S.506b 
+
+       - được đặt
+         - trên đường không ưu tiên 
+         - bên dưới biển số W.208 và biển số R.122 
+       - để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
   image: S506a.svg
   name: '[Hướng đường ưu tiên]'
   note: Đặt ở đường ưu tiên
@@ -7486,8 +7569,19 @@ S.506b:
     b) Biển số S.506b được đặt bên dưới biển số W.208 và biển số R.122 trên đường không ưu tiên để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
   docs_mdx: |-
     # F.8 Biển số S.506 (a,b) "Hướng đường ưu tiên"
-    1. Biển số S.506a được đặt bên dưới biển chỉ dẫn số I.401 trên đường ưu tiên để chỉ dẫn cho người tham gia giao thông  trên đường này biết hướng đường ưu tiên ở ngã tư.
-    1. Biển số S.506b được đặt bên dưới biển số W.208 và biển số R.122 trên đường không ưu tiên để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
+    1. Biển số S.506a 
+
+       - được đặt 
+         - trên đường ưu tiên 
+         - bên dưới biển chỉ dẫn số I.401 
+       - để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
+       
+    1. Biển số S.506b 
+
+       - được đặt
+         - trên đường không ưu tiên 
+         - bên dưới biển số W.208 và biển số R.122 
+       - để chỉ dẫn cho người tham gia giao thông trên đường này biết hướng đường ưu tiên ở ngã tư.
   image: S506b.jpeg
   name: '[Hướng đường (không) ưu tiên]'
   note: Đặt ở đường không ưu tiên
@@ -7502,8 +7596,16 @@ S.507:
     c) Biển không thay thế cho việc đặt các biển báo nguy hiểm số W.201 (a,b) và W.202 (a,b,c).
   docs_mdx: |-
     # F.9 Biển số S.507 "Hướng rẽ"
-    1. Biển số S.507 được sử dụng độc lập để báo trước cho người tham gia giao thông biết chỗ rẽ nguy hiểm và để chỉ hướng rẽ.
-    1. Biển được đặt trong trường hợp người tham gia giao thông khó nhận biết hướng rẽ của đường. Biển có thể đặt đồng thời hai biển ngược chiều nhau để chỉ hướng rẽ trái và rẽ phải, với độ cao đặt biển từ 1,2 m đến 1,5 m. Trường hợp cần dẫn hướng trong đường cong có thể sử dụng tiêu phản quang.
+    1. Biển được sử dụng độc lập để 
+       - báo trước cho người tham gia giao thông biết chỗ rẽ nguy hiểm và 
+       - chỉ hướng rẽ.
+
+    1. Biển được đặt trong trường hợp người tham gia giao thông khó nhận biết hướng rẽ của đường. 
+
+       Có thể đặt đồng thời hai biển ngược chiều nhau để chỉ hướng rẽ trái và rẽ phải, với độ cao đặt biển từ 1,2 m đến 1,5 m. 
+       
+       Trường hợp cần dẫn hướng trong đường cong có thể sử dụng tiêu phản quang.
+
     1. Biển không thay thế cho việc đặt các biển báo nguy hiểm số W.201 (a,b) và W.202 (a,b,c).
   image: S507.svg
   name: 'Hướng rẽ'
@@ -7517,7 +7619,17 @@ S.508a:
     Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển hiệu lệnh nhằm quy định phạm vi thời gian hiệu lực của các biển báo cấm, biển hiệu lệnh cho phù hợp yêu cầu. Thời gian hiệu lực có thể là khoảng thời gian trong ngày (từ giờ ... đến giờ ...) hoặc ngày chẵn, lẻ hoặc thứ trong tuần hoặc một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) và cần thiết có thể bổ sung thêm tiếng Anh.
   docs_mdx: |-
     # F.10 Biển số S.508. "Biểu thị thời gian"
-    Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển hiệu lệnh nhằm quy định phạm vi thời gian hiệu lực của các biển báo cấm, biển hiệu lệnh cho phù hợp yêu cầu. Thời gian hiệu lực có thể là khoảng thời gian trong ngày (từ giờ ... đến giờ ...) hoặc ngày chẵn, lẻ hoặc thứ trong tuần hoặc một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) và cần thiết có thể bổ sung thêm tiếng Anh.
+    Biển 
+    - được đặt dưới biển báo cấm/hiệu lệnh 
+    - nhằm quy định phạm vi thời gian hiệu lực (của các biển báo cấm/hiệu lệnh) cho phù hợp yêu cầu. 
+     
+    Thời gian hiệu lực có thể là:
+    - khoảng thời gian trong ngày (từ giờ ... đến giờ ...) 
+    - ngày chẵn, lẻ
+    - thứ trong tuần
+    - một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) 
+
+    Cần thiết có thể bổ sung thêm tiếng Anh.
   image: S508a.jpeg
   name: 'Biểu thị thời gian'
 
@@ -7529,7 +7641,17 @@ S.508b:
     Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển hiệu lệnh nhằm quy định phạm vi thời gian hiệu lực của các biển báo cấm, biển hiệu lệnh cho phù hợp yêu cầu. Thời gian hiệu lực có thể là khoảng thời gian trong ngày (từ giờ ... đến giờ ...) hoặc ngày chẵn, lẻ hoặc thứ trong tuần hoặc một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) và cần thiết có thể bổ sung thêm tiếng Anh.
   docs_mdx: |-
     # F.10 Biển số S.508. "Biểu thị thời gian"
-    Biển số S.508 (a,b) được đặt dưới biển báo cấm hoặc biển hiệu lệnh nhằm quy định phạm vi thời gian hiệu lực của các biển báo cấm, biển hiệu lệnh cho phù hợp yêu cầu. Thời gian hiệu lực có thể là khoảng thời gian trong ngày (từ giờ ... đến giờ ...) hoặc ngày chẵn, lẻ hoặc thứ trong tuần hoặc một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) và cần thiết có thể bổ sung thêm tiếng Anh.
+    Biển 
+    - được đặt dưới biển báo cấm/hiệu lệnh 
+    - nhằm quy định phạm vi thời gian hiệu lực (của các biển báo cấm/hiệu lệnh) cho phù hợp yêu cầu. 
+     
+    Thời gian hiệu lực có thể là:
+    - khoảng thời gian trong ngày (từ giờ ... đến giờ ...) 
+    - ngày chẵn, lẻ
+    - thứ trong tuần
+    - một khoảng thời gian nhất định (chẳng hạn, “>5 phút”, ...) 
+
+    Cần thiết có thể bổ sung thêm tiếng Anh.
   image: S508b.svg
   name: 'Biểu thị thời gian'
 
@@ -7575,7 +7697,11 @@ S.510a:
     Để cảnh báo đường trơn, có tuyết trong những ngày trời có tuyết, đặt biển phụ số S.510a “Chú ý đường trơn có băng tuyết”. Để cảnh báo khi rẽ vào đường nhánh sẽ có giao cắt với đường sắt (khoảng cách giữa đường sắt với đoạn đường đặt biển dưới 100 m), đặt biển phụ số S.510b “Chú ý đường sắt”. Biển hình chữ nhật nền đỏ, chữ và viền màu trắng, hình vẽ màu đen.
   docs_mdx: |-
     # F.12. Biển số S.510a “Chú ý đường trơn có băng tuyết” và Biển số S.510b “Chú ý đường sắt”
-    Để cảnh báo đường trơn, có tuyết trong những ngày trời có tuyết, đặt biển phụ số S.510a “Chú ý đường trơn có băng tuyết”. Để cảnh báo khi rẽ vào đường nhánh sẽ có giao cắt với đường sắt (khoảng cách giữa đường sắt với đoạn đường đặt biển dưới 100 m), đặt biển phụ số S.510b “Chú ý đường sắt”. Biển hình chữ nhật nền đỏ, chữ và viền màu trắng, hình vẽ màu đen.
+    Để cảnh báo 
+    - đường trơn, có tuyết trong những ngày trời có tuyết, đặt biển phụ số S.510a “Chú ý đường trơn có băng tuyết”. 
+    - khi rẽ vào đường nhánh sẽ có giao cắt với đường sắt (khoảng cách giữa đường sắt với đoạn đường đặt biển dưới 100 m), đặt biển phụ số S.510b “Chú ý đường sắt”. 
+
+    Biển hình chữ nhật nền đỏ, chữ và viền màu trắng, hình vẽ màu đen.
   image: S510a.jpeg
   name: '(Chú ý) đường trơn có băng tuyết'
 
@@ -7588,8 +7714,11 @@ S.510b:
     .
   docs_mdx: |-
     # F.12. Biển số S.510a “Chú ý đường trơn có băng tuyết” và Biển số S.510b “Chú ý đường sắt”
-    Để cảnh báo đường trơn, có tuyết trong những ngày trời có tuyết, đặt biển phụ số S.510a “Chú ý đường trơn có băng tuyết”. Để cảnh báo khi rẽ vào đường nhánh sẽ có giao cắt với đường sắt (khoảng cách giữa đường sắt với đoạn đường đặt biển dưới 100 m), đặt biển phụ số S.510b “Chú ý đường sắt”. Biển hình chữ nhật nền đỏ, chữ và viền màu trắng, hình vẽ màu đen.
-    .
+    Để cảnh báo 
+    - đường trơn, có tuyết trong những ngày trời có tuyết, đặt biển phụ số S.510a “Chú ý đường trơn có băng tuyết”. 
+    - khi rẽ vào đường nhánh sẽ có giao cắt với đường sắt (khoảng cách giữa đường sắt với đoạn đường đặt biển dưới 100 m), đặt biển phụ số S.510b “Chú ý đường sắt”. 
+
+    Biển hình chữ nhật nền đỏ, chữ và viền màu trắng, hình vẽ màu đen.
   image: S510b.jpeg
   name: '(Chú ý) đường sắt'
 
@@ -7637,7 +7766,15 @@ S.G,11a:
     Để thông báo cho lái xe số làn và hướng đi của từng làn xe, đặt biển số S.G,11a; S.G,11c; các biển này phải có số mũi tên bằng số lượng làn xe đi cùng hướng và phải chỉ dẫn số lượng làn xe của hướng đi sắp tới.
   docs_mdx: |-
     # F.15 Biển chỉ dẫn số lượng làn và hướng đi cho từng làn (biển S.G,11a; G,11c theo hiệp định GMS)
-    Để thông báo cho lái xe số làn và hướng đi của từng làn xe, đặt biển số S.G,11a; S.G,11c; các biển này phải có số mũi tên bằng số lượng làn xe đi cùng hướng và phải chỉ dẫn số lượng làn xe của hướng đi sắp tới.
+    - Để thông báo cho lái xe 
+      - số làn và 
+      - hướng đi của từng làn xe, 
+       
+      đặt biển số S.G,11a; S.G,11c; 
+
+    - Các biển này phải 
+      - có số mũi tên bằng số lượng làn xe đi cùng hướng
+      - chỉ dẫn số lượng làn xe của hướng đi sắp tới.
   image: SG11a.jpeg
   name: 'Số lượng làn và hướng đi cho từng làn'
 
@@ -7649,7 +7786,15 @@ S.G,11c:
     Để thông báo cho lái xe số làn và hướng đi của từng làn xe, đặt biển số S.G,11a; S.G,11c; các biển này phải có số mũi tên bằng số lượng làn xe đi cùng hướng và phải chỉ dẫn số lượng làn xe của hướng đi sắp tới.
   docs_mdx: |-
     # F.15 Biển chỉ dẫn số lượng làn và hướng đi cho từng làn (biển S.G,11a; G,11c theo hiệp định GMS)
-    Để thông báo cho lái xe số làn và hướng đi của từng làn xe, đặt biển số S.G,11a; S.G,11c; các biển này phải có số mũi tên bằng số lượng làn xe đi cùng hướng và phải chỉ dẫn số lượng làn xe của hướng đi sắp tới.
+    - Để thông báo cho lái xe 
+      - số làn và 
+      - hướng đi của từng làn xe, 
+       
+      đặt biển số S.G,11a; S.G,11c; 
+
+    - Các biển này phải 
+      - có số mũi tên bằng số lượng làn xe đi cùng hướng
+      - chỉ dẫn số lượng làn xe của hướng đi sắp tới.
   image: SG11c.jpeg
   name: 'Số lượng làn và hướng đi cho từng làn'
 
@@ -7687,6 +7832,9 @@ S.H,6:
     Để chỉ các trường hợp mà biển cấm hoặc hạn chế được coi là không áp dụng đặc biệt cho một nhóm đối tượng tham gia giao thông nào đó, đặt biển S.H,6 và thể hiện nhóm đối tượng đó cùng với cụm từ “Except - Ngoại lệ”.
   docs_mdx: |-
     # F.17 Biển báo phụ “Ngoại lệ” (biển H,6 theo hiệp định GMS)
-    Để chỉ các trường hợp mà biển cấm hoặc hạn chế được coi là không áp dụng đặc biệt cho một nhóm đối tượng tham gia giao thông nào đó, đặt biển S.H,6 và thể hiện nhóm đối tượng đó cùng với cụm từ “Except - Ngoại lệ”.
+    Để chỉ các trường hợp mà biển cấm hoặc hạn chế được coi là
+    - không áp dụng đặc biệt cho một nhóm đối tượng tham gia giao thông nào đó, 
+    
+    đặt biển S.H,6 và thể hiện nhóm đối tượng đó cùng với cụm từ “Except - Ngoại lệ”.
   image: SH6.jpeg
   name: 'Ngoại lệ'
