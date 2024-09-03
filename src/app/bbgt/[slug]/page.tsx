@@ -11,7 +11,6 @@ import { getRoadSigns } from '@/service/road-sign'
 import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
 
-
 export async function generateStaticParams() {
   const roadSigns = getRoadSigns()
   return Object.keys(roadSigns).map((key) => ({ slug: key }))

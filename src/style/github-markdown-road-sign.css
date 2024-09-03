@@ -1,0 +1,7 @@
+/* 
+ * github-markdown - For road sign detail page
+ */
+
+.markdown-body div > ol:not([type]) {
+  list-style-type: lower-alpha;
+}

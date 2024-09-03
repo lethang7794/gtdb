@@ -1,4 +1,11 @@
 /* 
+ * github-markdown 
+ */
+.markdown-body ul {
+  list-style: disc;
+}
+
+/* 
  * remark-toc 
  */
 .markdown-body #mục-lục + ul,
