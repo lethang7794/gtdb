@@ -1,7 +1,6 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import Link from 'next/link'
 import { serialize } from 'next-mdx-remote/serialize'
-import type { MDXRemoteSerializeResult } from 'next-mdx-remote'
 import {
   getRoadSignById,
   getRoadSignImage,
@@ -18,7 +17,6 @@ export async function generateStaticParams() {
 
 type Props = {
   params: { slug: string }
-  mdxSource: MDXRemoteSerializeResult
 }
 
 export async function generateMetadata(
@@ -48,7 +46,6 @@ export default async function RoadSignPage({ params }: Props) {
   const slug = params.slug
   const decodedSlug = slug.replace('%2C', ',')
   const signWithAround = getRoadSignsWithAroundById(decodedSlug)
-  console.log({ slug, decodedSlug, signWithAround })
   if (!signWithAround) {
     return <>Not Found</>
   }
