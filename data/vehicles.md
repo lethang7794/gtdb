@@ -1,31 +1,39 @@
-# Phương tiện tham gia giao thông đường bộ (PT-Tham-Gia-GTĐB)
+# **Phương tiện tham gia giao thông đường bộ**<br/>(_PT-Tham-Gia-GTĐB_)
 
-- Phương tiện giao thông đường bộ (PTGTĐB)
-  - PTGT-Cơ-Giới-ĐB (Xe cơ giới)
-    - xe ô tô
-      - xe ôtô con (xe con, ôtô con)
-      - xe ôtô khách (xe khách, ôtô khách)
-      - xe ôtô tải (xe tải, ôtô tải)
-        - xe ôtô đầu kéo (ôtô kéo sơ-mi rơ-moóc, ôtô đầu kéo kéo sơ-mi rơ-moóc)
+- **Phương tiện giao thông đường bộ**<br />(_PTGTĐB_)
+  - **PTGT-Cơ-Giới-ĐB**<br />(_Xe cơ giới_)
+    - **xe ô tô**
+      - **xe ôtô con** (_xe con_, _ôtô con_)
+      - **xe ôtô khách** (_xe khách_, _ôtô khách_)
+      - **xe ôtô tải** (_xe tải_, _ôtô tải_)
+        - xe ôtô đầu kéo
+          - (_ôtô kéo sơ-mi rơ-moóc_)
+          - (_ôtô đầu kéo kéo sơ-mi rơ-moóc_)
         - xe ôtô kéo rơ moóc
-        - xe ôtô bán tải (xe pickup), xe tải van*
+        - xe ôtô bán tải (_xe pickup_), xe tải van*
     - máy kéo
-    - rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo
-    - xe mô tô (xe máy, môtô)
+    - rơ moóc hoặc sơ mi rơ moóc
+      - được kéo bởi xe ô tô, máy kéo
+    - **xe mô tô** (_xe máy_, _môtô_)
       - xe (môtô) hai bánh
       - xe (môtô) ba bánh
-    - xe gắn máy (kể cả xe máy điện)
-    - và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ
-  - PTGT-Thô-Sơ-ĐB (Xe thô sơ)
-    - xe đạp (kể cả xe đạp máy, xe đạp điện)
+    - **xe gắn máy**
+      - (kể cả xe máy điện)
+    - và các loại xe tương tự <!-- markmap: fold -->
+      - được thiết kế để chở người và hàng hóa trên đường bộ
+      - VD: tàu điện bánh lốp (không chạy trên đường ray)
+  - **PTGT-Thô-Sơ-ĐB**<br/>(_Xe thô sơ_)
+    - xe đạp
       - xe đạp
       - xe đạp thồ
+      - xe đạp máy, xe đạp điện
     - xe xích lô
     - xe lăn dùng cho người khuyết tật
     - xe súc vật kéo
-    - và các loại xe tương tự
-      - xe người kéo
-- Xe máy chuyên dùng
+    - và các loại xe tương tự,
+      - VD: xe người kéo
+- **Xe máy chuyên dùng**
   - xe máy thi công
   - xe máy nông nghiệp, lâm nghiệp
-  - và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
+  - và các loại xe đặc chủng khác <!-- markmap: fold -->
+    - sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
