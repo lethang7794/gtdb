@@ -93,7 +93,7 @@ export default async function RoadSignPage({ params }: Props) {
               {sign.docs_source}
             </div>
           </div>
-          <div className="whitespace-pre-wrap text-justify">{sign.docs}</div>
+          {/* <div className="whitespace-pre-wrap text-justify">{sign.docs}</div> */}
         </div>
       </div>
       <div className="flex justify-between w-full">
