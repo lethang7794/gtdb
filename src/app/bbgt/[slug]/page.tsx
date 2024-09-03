@@ -66,6 +66,13 @@ export default async function RoadSignPage({ params }: Props) {
       key={slug}
       className="flex items-center justify-start flex-col px-3 py-2 mt-4 mb-4 rounded-md"
     >
+      <Link
+        className="self-start mb-4 min-w-24 text-blue-600 dark:text-blue-500 hover:underline"
+        href={'/bbgt/'}
+        scroll={false}
+      >
+        🔙 Trở lại
+      </Link>
       <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
         <img
           alt={slug}
@@ -79,6 +86,7 @@ export default async function RoadSignPage({ params }: Props) {
           {/* <div className="text-balance text-center leading-5">
             {sign.docs_name}
           </div> */}
+          <MDX mdxSource={mdxSource} />
           <div className="w-full mb-2 text-right border-t-2 border-b-2">
             <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
             <div className="italic text-gray-500 text-balance">
@@ -86,7 +94,6 @@ export default async function RoadSignPage({ params }: Props) {
             </div>
           </div>
           <div className="whitespace-pre-wrap text-justify">{sign.docs}</div>
-          <MDX mdxSource={mdxSource} />
         </div>
       </div>
       <div className="flex justify-between w-full">
