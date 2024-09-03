@@ -64,11 +64,11 @@ export default async function RoadSignPage({ params }: Props) {
       className="flex items-center justify-start flex-col px-3 py-2 mt-4 mb-4 rounded-md"
     >
       <Link
-        className="self-start mb-4 min-w-24 text-blue-600 dark:text-blue-500 hover:underline"
+        className="self-start mb-4 text-blue-600 dark:text-blue-500 hover:underline"
         href={'/bbgt/'}
         scroll={false}
       >
-        🔙 Trở lại
+        <div className="flex items-center min-w-24 min-h-10">🔙 Trở lại</div>
       </Link>
       <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
         <img
@@ -96,24 +96,30 @@ export default async function RoadSignPage({ params }: Props) {
       <div className="flex justify-between w-full">
         {prevSignKey ? (
           <Link
-            className="min-w-24 text-blue-600 dark:text-blue-500 hover:underline"
+            className="min-w-24 min-h-10 text-blue-600 dark:text-blue-500 hover:underline"
             href={`/bbgt/${prevSignKey}`}
           >
-            ← {prevSignKey}
+            <div className="flex items-center min-w-24 min-h-10">
+              ← {prevSignKey}
+            </div>
           </Link>
         ) : (
-          <div className="min-w-24" />
+          <div className="min-w-24 min-h-10" />
         )}
-        <div className="text-gray-500 italic font-bold">{decodedSlug}</div>
+        <div className="flex items-center text-gray-500 italic font-bold">
+          {decodedSlug}
+        </div>
         {nextSignKey ? (
           <Link
-            className="min-w-24 text-blue-600 dark:text-blue-500 hover:underline text-right"
+            className="min-w-24 min-h-10 text-blue-600 dark:text-blue-500 hover:underline text-right"
             href={`/bbgt/${nextSignKey}`}
           >
-            {nextSignKey} →
+            <div className="flex items-center min-w-24 min-h-10">
+              {nextSignKey} →
+            </div>
           </Link>
         ) : (
-          <div className="min-w-24" />
+          <div className="min-w-24 min-h-10" />
         )}
       </div>
     </div>
