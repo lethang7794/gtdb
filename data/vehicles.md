@@ -1,10 +1,19 @@
 # **Phương tiện <ins>tham gia</ins><br/>giao thông đường bộ**<br/>(_PT-Tham-Gia-GTĐB_)
 
+## **Xe máy chuyên dùng**<sup>[†]</sup>  <!-- markmap: fold -->
+
+- xe máy thi công
+- xe máy nông nghiệp, lâm nghiệp
+- và các loại xe đặc chủng khác <!-- markmap: fold -->
+  - sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
+
 ## **Phương tiện<br/>giao thông đường bộ**<br />(_PTGTĐB_)
 
 - **PTGT-Cơ-Giới-ĐB**<br />(_Xe cơ giới_)
+  - máy kéo
+  - rơ moóc hoặc sơ mi rơ moóc <!-- markmap: fold -->
+    - được kéo bởi xe ô tô, máy kéo
   - **xe ô tô**
-    - **xe ôtô con** (_xe con_, _ôtô con_)
     - **xe ôtô khách** (_xe khách_, _ôtô khách_)
     - **xe ôtô tải** (_xe tải_, _ôtô tải_) <!-- markmap: fold -->
       - xe ôtô đầu kéo
@@ -13,13 +22,11 @@
       - xe ôtô kéo rơ moóc
       - xe ôtô bán tải (_xe pickup_), xe tải van<sup>[*]</sup> <!-- markmap: fold -->
         - (khối lượng <ins>hàng chuyên chở</ins> cho phép tham gia giao thông từ 950 kg trở lên)
-  - máy kéo
-  - rơ moóc hoặc sơ mi rơ moóc <!-- markmap: fold -->
-    - được kéo bởi xe ô tô, máy kéo
+    - **xe ôtô con** (_xe con_, _ôtô con_)
   - **xe mô tô** (_xe máy_<sup>[†]</sup>, _môtô_)
-    - xe (môtô) hai bánh
     - xe (môtô) ba bánh<sup>[**]</sup> <!-- markmap: fold -->
       - (khối lượng <ins>bản thân</ins> nhỏ hơn 400 kg)
+    - xe (môtô) hai bánh
   - **xe gắn máy**<sup>[†]</sup>
     - (kể cả xe máy điện<sup>[†]</sup>)
   - và các loại xe <ins>tương tự</ins> <!-- markmap: fold -->
@@ -38,10 +45,3 @@
   - xe súc vật kéo
   - và các loại xe <ins>tương tự</ins>,
     - VD: xe người kéo
-
-## **Xe máy chuyên dùng**<sup>[†]</sup>  <!-- markmap: fold -->
-
-- xe máy thi công
-- xe máy nông nghiệp, lâm nghiệp
-- và các loại xe đặc chủng khác <!-- markmap: fold -->
-  - sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
