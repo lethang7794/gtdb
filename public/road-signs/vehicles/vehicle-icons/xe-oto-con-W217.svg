@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="702mm" height="702mm" viewBox="0 0 701.99998 702.00001" version="1.1" id="svg8" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs2"/>
+  <g id="layer1" transform="translate(-269.56456,638.69999)">
+    <circle cy="-287.69998" cx="620.56458" id="circle817" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:225.58209229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" r="250"/>
+    <g style="fill:#d38d5f;stroke:none" transform="matrix(8.0086929,0,0,-7.9574747,306.61921,-72.169988)" id="g73010"/>
+    <g transform="matrix(1.867221, 0, 0, 1.867221, -1253.943237, 173.331741)">
+      <circle style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.30089951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="path22117" cx="918.309" cy="-206.576" r="20.4"/>
+      <circle r="20.4" cy="-206.576" cx="1073.709" id="circle22119" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.30089951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
+      <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="M 886.309 -231.776 C 886.326 -234.867 889.894 -238.838 893.909 -239.376 L 956.509 -245.976 L 975.509 -274.376 C 979.373 -280.242 982.795 -285.506 987.909 -285.776 L 1052.309 -286.776 C 1059.048 -286.748 1069.224 -281.527 1076.109 -274.776 L 1104.509 -245.976 L 1126.309 -237.376 C 1126.846 -237.158 1127.312 -236.842 1127.309 -236.576 L 1127.309 -207.976 L 1097.909 -205.176 L 897.709 -204.176 C 892.535 -204.182 886.355 -208.269 886.309 -210.776 L 886.309 -231.776 Z" id="rect22121"/>
+      <path style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="M 985.909 -275.376 L 1025.709 -275.376 L 1025.709 -246.976 L 966.909 -246.976 L 985.909 -275.376 Z" id="rect22468"/>
+      <path style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="M 1031.309 -275.376 L 1057.109 -275.376 L 1084.509 -246.976 L 1031.309 -246.976 L 1031.309 -275.376 Z" id="rect22471"/>
+    </g>
+  </g>
+</svg>

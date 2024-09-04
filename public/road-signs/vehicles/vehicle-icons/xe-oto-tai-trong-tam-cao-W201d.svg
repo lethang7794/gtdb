@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="702mm" height="702mm" viewBox="0 0 701.99998 702.00001" version="1.1" id="svg8" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs2"/>
+  <g id="layer1" transform="translate(-410.56454,876.3)">
+    <circle cy="-525.29999" cx="761.56451" id="circle817" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:225.58209229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" r="250"/>
+  </g>
+  <g transform="matrix(1.382751, 0, 0, 1.382751, -216.864807, -91.999748)">
+    <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:113.61211395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" d="M 481.651 348.286 L 384.815 391.401 L 331.126 270.813 L 427.962 227.698 L 481.651 348.286 Z" id="rect15922"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:82.16307068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" d="M 477.593 353.924 C 480.63 352.572 484.163 353.928 485.515 356.965 L 489.705 366.375 C 491.057 369.411 489.705 372.945 486.664 374.297 L 485.02 375.029 C 481.983 376.381 478.45 375.025 477.098 371.988 C 478.45 375.024 477.098 378.557 474.057 379.909 L 472.412 380.642 C 469.376 381.994 465.843 380.637 464.491 377.601 L 460.302 368.191 C 458.95 365.154 460.302 361.621 463.342 360.269 L 464.987 359.537 C 468.023 358.185 471.556 359.542 472.908 362.578 C 471.556 359.542 472.908 356.008 475.949 354.656 L 477.593 353.924 Z" id="rect16157"/>
+    <path id="path17224" d="M 391.72 392.157 C 388.684 393.509 387.327 397.043 388.679 400.079 L 392.869 409.489 C 394.221 412.525 397.754 413.882 400.791 412.53 L 402.435 411.798 C 405.472 410.446 406.828 406.912 405.476 403.876 C 406.828 406.912 410.361 408.269 413.397 406.917 L 415.042 406.185 C 418.079 404.833 419.435 401.3 418.083 398.263 L 413.893 388.853 C 412.541 385.817 409.008 384.46 405.972 385.812 L 404.327 386.544 C 401.29 387.896 399.935 391.43 401.287 394.466 C 399.935 391.43 396.401 390.073 393.365 391.425 L 391.72 392.157 Z" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:82.16307068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/>
+  </g>
+</svg>

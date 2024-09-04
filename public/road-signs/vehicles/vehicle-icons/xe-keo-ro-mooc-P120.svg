@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="702mm" height="702mm" viewBox="0 0 701.99998 702" version="1.1" id="svg8" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs id="defs2">
+    <bx:grid x="0" y="0" width="88.034" height="50.541"/>
+  </defs>
+  <g id="layer1" transform="matrix(1, 0, 0, 1, 627.526367, 571.781921)">
+    <circle cy="-220.782" cx="-276.526" id="circle817" style="opacity: 1; fill: rgb(255, 255, 255); fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 225.582; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; paint-order: stroke;" r="250"/>
+    <g transform="matrix(1, 0, 0, 1, -670.090881, 69.918015)">
+      <ellipse style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06288886;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="path10845" cx="251.36456" cy="-245.69995" rx="19" ry="25"/>
+      <ellipse ry="25" rx="19" cy="-245.69995" cx="372.56454" id="ellipse10847" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06288886;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
+      <ellipse style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06288886;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="ellipse10849" cx="464.7645" cy="-245.69995" rx="19" ry="25"/>
+      <ellipse ry="25" rx="19" cy="-245.69995" cx="566.56451" id="ellipse10851" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06288886;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
+      <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04206875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="m 191.1645,-307.69993 h 25.6 c 7.1914,-21.0142 16.3467,-27.8458 25.8,-33.2 h 38.8 v -19.8 h 139.8 v 95.6 h 15.2 v -81.4 h 167.19999 v 90.79995 H 281.3645 v 11.4 h -97.80001 v -7.6 h 7.6 z" id="rect10853"/>
+    </g>
+  </g>
+</svg>
