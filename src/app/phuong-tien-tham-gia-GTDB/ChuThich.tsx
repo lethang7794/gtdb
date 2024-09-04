@@ -6,13 +6,16 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/components/ui/dialog'
+import './ChuThich.css'
 
 export default function ChuThich() {
   return (
     <div className="absolute bottom-1 left-1">
       <Dialog>
         <DialogTrigger>
-          <b>Chú thích</b>: * ** †
+          <div className="border-2 hover:border-gray-500 rounded-md p-2 shadow-sm">
+            <b>Chú thích</b>: * ** †
+          </div>
         </DialogTrigger>
         <DialogContent>
           <DialogHeader>

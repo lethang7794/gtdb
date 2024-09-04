@@ -79,7 +79,8 @@ function renderToolbar(mm: Markmap, wrapper: HTMLElement) {
     //   content: 'Alert',
     //   onClick: () => alert('You made it!'),
     // })
-    toolbar.setItems([...Toolbar.defaultItems, 'alert'])
+    const items = Toolbar.defaultItems.slice(0, -1)
+    toolbar.setItems(items)
     wrapper.append(toolbar.render())
   }
 }
