@@ -18,7 +18,7 @@ export default async function Home() {
 
           return (
             <Link
-              href={`bbgt/${signKey}`}
+              href={`/bbgt/${signKey}`}
               key={signKey}
               className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
             >
