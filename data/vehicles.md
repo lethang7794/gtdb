@@ -5,7 +5,7 @@
     - **xe ô tô**
       - **xe ôtô con** (_xe con_, _ôtô con_)
       - **xe ôtô khách** (_xe khách_, _ôtô khách_)
-      - **xe ôtô tải** (_xe tải_, _ôtô tải_)
+      - **xe ôtô tải** (_xe tải_, _ôtô tải_) <!-- markmap: fold -->
         - xe ôtô đầu kéo
           - (_ôtô kéo sơ-mi rơ-moóc_)
           - (_ôtô đầu kéo kéo sơ-mi rơ-moóc_)
@@ -13,7 +13,7 @@
         - xe ôtô bán tải (_xe pickup_), xe tải van[*]() <!-- markmap: fold -->
           - (khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên)
     - máy kéo
-    - rơ moóc hoặc sơ mi rơ moóc
+    - rơ moóc hoặc sơ mi rơ moóc <!-- markmap: fold -->
       - được kéo bởi xe ô tô, máy kéo
     - **xe mô tô** (_xe máy_<sup>[†]()</sup>, _môtô_)
       - xe (môtô) hai bánh
@@ -35,7 +35,7 @@
     - xe súc vật kéo
     - và các loại xe tương tự,
       - VD: xe người kéo
-- **Xe máy chuyên dùng**<sup>[†]()</sup>
+- **Xe máy chuyên dùng**<sup>[†]()</sup>  <!-- markmap: fold -->
   - xe máy thi công
   - xe máy nông nghiệp, lâm nghiệp
   - và các loại xe đặc chủng khác <!-- markmap: fold -->
