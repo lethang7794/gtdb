@@ -1,6 +1,6 @@
-# **Phương tiện tham gia giao thông đường bộ**<br/>(_PT-Tham-Gia-GTĐB_)
+# **Phương tiện <ins>tham gia</ins><br/>giao thông đường bộ**<br/>(_PT-Tham-Gia-GTĐB_)
 
-- **Phương tiện giao thông đường bộ**<br />(_PTGTĐB_)
+- **Phương tiện<br/>giao thông đường bộ**<br />(_PTGTĐB_)
   - **PTGT-Cơ-Giới-ĐB**<br />(_Xe cơ giới_)
     - **xe ô tô**
       - **xe ôtô con** (_xe con_, _ôtô con_)
@@ -28,11 +28,12 @@
       - xe đạp thồ
       - xe đạp máy, xe đạp điện
     - xe xích lô
-    - xe lăn dùng cho người khuyết tật
+    - xe lăn <!-- markmap: fold -->
+      - dùng cho người khuyết tật
     - xe súc vật kéo
     - và các loại xe tương tự,
       - VD: xe người kéo
-- **Xe máy chuyên dùng**
+- **<ins>Xe máy</ins> chuyên dùng**
   - xe máy thi công
   - xe máy nông nghiệp, lâm nghiệp
   - và các loại xe đặc chủng khác <!-- markmap: fold -->
