@@ -9,10 +9,10 @@ const GLOSSARY_PUBLIC_PATH = 'glossary'
 export const getGlossaries = cache(() => {
   const file = fs.readFileSync(GLOSSARY_REPO_PATH).toString()
   const data = yaml.parse(file)
-  return data as Record<string, Glossary>
+  return data as Record<string, Partial<Glossary>>
 })
 
-export function getGlossaryById(id: string): Glossary | undefined {
+export function getGlossaryById(id: string): Partial<Glossary> | undefined {
   const items = getGlossaries()
   return items[id]
 }
