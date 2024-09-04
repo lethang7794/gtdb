@@ -1,71 +1,71 @@
-LAW_2024_ABBR_1:
+0010:
   term: '"PT"'
   explain: phương tiện
 
-LAW_2024_ABBR_2:
+0020:
   term: '"GT"'
   explain: giao thông
 
-LAW_2024_ABBR_3:
+0030:
   term: '"ĐB"'
   explain: đường bộ
 
-LAW_2024_ABBR_4:
+0040:
   term: '"PTGT"'
   explain: phương tiện giao thông
 
-LAW_2024_ABBR_5:
+0050:
   term: '"GTĐB"'
   explain: giao thông đường bộ
 
-LAW_2024_ABBR_6:
+0060:
   term: '"PTGTĐB"'
   explain: phương tiện giao thông đường bộ
 
-LAW_2024_ABBR_7:
+0070:
   term: '"Tham-Gia-GTĐB"'
   explain: tham gia giao thông đường bộ
 
-LAW_2024_ABBR_7.1:
+0080:
   term: '"PT-Tham-Gia-GT"'
   explain: phương tiện tham gia giao thông
 
-LAW_2024_ABBR_7.2:
+0090:
   term: '"PT-Tham-Gia-GTĐB"'
   explain: phương tiện tham gia giao thông đường bộ
 
-LAW_2024_ABBR_8:
+0100:
   term: '"PTGT-Cơ-Giới-ĐB"'
   aka: xe cơ giới
   explain: phương tiện giao thông cơ giới đường bộ
 
-LAW_2024_ABBR_9:
+0110:
   term: '"PTGT-Thô-Sơ-ĐB"'
   aka: xe thô sơ
   explain: phương tiện giao thông thô sơ đường bộ
 
-# QCVN_ABBR_01:
+# 0120:
 #   term: '"GTĐB"'
 #   explain: giao thông đường bộ
 
-QCVN_ABBR_02:
+0130:
   term: '"An-Toàn-GTĐB"'
   explain: an toàn giao thông đường bộ
 
-# QCVN_ABBR_03:
+# 0140:
 #   term: '"PTGTCGĐB"'
 #   explain: phương tiện giao thông cơ giới đường bộ
 
-# QCVN_ABBR_04:
+# 0150:
 #   term: '"PTTGGT"'
 #   explain: phương tiện tham gia giao thông
 
-QCVN_ABBR_05:
+0160:
   term: '"GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB"'
   explain: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường PTGT-Cơ-Giới-ĐB
 
 # LAW 2008
-LAW_2008_1:
+0170:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường bộ_ gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.
@@ -75,7 +75,7 @@ LAW_2008_1:
     - đường, 
     - cầu đường bộ, hầm đường bộ, bến phà đường bộ.
 
-LAW_2008_2:
+0180:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Công trình đường bộ_ gồm đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu, rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí và các công trình, thiết bị phụ trợ đường bộ khác.
@@ -88,7 +88,7 @@ LAW_2008_2:
     - tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí 
     - và các công trình, thiết bị phụ trợ đường bộ khác.
 
-LAW_2008_3:
+0190:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Kết cấu hạ tầng giao thông đường bộ_ gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
@@ -99,7 +99,7 @@ LAW_2008_3:
     - bến xe, bãi đỗ xe, trạm dừng nghỉ 
     - và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.
 
-LAW_2008_4:
+0200:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đất của đường bộ_ là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
@@ -109,7 +109,7 @@ LAW_2008_4:
     - phần đất trên đó công trình đường bộ được xây dựng 
     - phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.
 
-LAW_2008_5:
+0210:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Hành lang an toàn đường bộ_ là dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.
@@ -119,7 +119,7 @@ LAW_2008_5:
     - tính từ mép ngoài đất của đường bộ ra hai bên 
     - để bảo đảm an toàn giao thông đường bộ.
 
-LAW_2008_6:
+0220:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Phần đường xe chạy_ là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
@@ -128,7 +128,7 @@ LAW_2008_6:
     phần của đường bộ 
     - được sử dụng cho PTGT qua lại.
 
-LAW_2008_7:
+0230:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Làn đường_ là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.
@@ -138,7 +138,7 @@ LAW_2008_7:
     - được chia theo chiều dọc của đường, 
     - có bề rộng đủ cho xe chạy an toàn.
 
-LAW_2008_8:
+0240:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Khổ giới hạn của đường bộ_ là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
@@ -150,7 +150,7 @@ LAW_2008_8:
 
     để các xe (kể cả hàng hóa xếp trên xe) đi qua được an toàn.
 
-LAW_2008_9:
+0250:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường phố_ là đường đô thị, gồm lòng đường và hè phố.
@@ -160,7 +160,7 @@ LAW_2008_9:
     - lòng đường
     - hè phố.
 
-LAW_2008_10:
+0260:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Dải phân cách_ là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ. Dải phân cách gồm loại cố định và loại di động.
@@ -174,7 +174,7 @@ LAW_2008_10:
     - loại cố định và 
     - loại di động.
 
-LAW_2008_11:
+0270:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Nơi đường giao nhau cùng mức_ (sau đây gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
@@ -185,7 +185,7 @@ LAW_2008_11:
     - hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng,
     - gồm cả mặt bằng hình thành vị trí giao nhau đó.
 
-LAW_2008_12:
+0280:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường cao tốc_ là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
@@ -198,7 +198,7 @@ LAW_2008_12:
     - được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình
     - chỉ cho xe ra, vào ở những điểm nhất định.
 
-LAW_2008_13:
+0290:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường chính_ là đường bảo đảm giao thông chủ yếu trong khu vực.
@@ -207,7 +207,7 @@ LAW_2008_13:
     đường 
     - bảo đảm giao thông chủ yếu trong khu vực.
 
-LAW_2008_14:
+0300:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường nhánh_ là đường nối vào đường chính.
@@ -216,7 +216,7 @@ LAW_2008_14:
     đường 
     - nối vào đường chính.
 
-LAW_2008_15:
+0310:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường ưu tiên_ là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
@@ -228,7 +228,7 @@ LAW_2008_15:
       - khi qua nơi đường giao nhau, 
     - được cắm biển báo hiệu đường ưu tiên.
 
-LAW_2008_16:
+0320:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Đường gom_ là đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.
@@ -241,7 +241,7 @@ LAW_2008_16:
 
     - vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính.
 
-LAW_2008_17:
+0330:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông đường bộ_ gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.
@@ -251,7 +251,7 @@ LAW_2008_17:
     - PTGT-Cơ-Giới-ĐB, 
     - PTGT-Thô-Sơ-ĐB.
 
-LAW_2008_18:
+0340:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông cơ giới đường bộ_ (sau đây gọi là xe cơ giới) gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
@@ -266,7 +266,7 @@ LAW_2008_18:
     - xe gắn máy (kể cả xe máy điện) 
     - và các loại xe tương tự.
 
-LAW_2008_19:
+0350:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông thô sơ đường bộ_ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
@@ -280,7 +280,7 @@ LAW_2008_19:
     - xe súc vật kéo 
     - và các loại xe tương tự.
 
-LAW_2008_20:
+0360:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Xe máy chuyên dùng_ gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.
@@ -291,7 +291,7 @@ LAW_2008_20:
     - xe máy nông nghiệp, lâm nghiệp và 
     - các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh (có Tham-Gia-GTĐB).
 
-LAW_2008_21:
+0370:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện tham gia giao thông đường bộ_ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng.
@@ -302,7 +302,7 @@ LAW_2008_21:
     - PTGTĐB 
     - xe máy chuyên dùng.
 
-LAW_2008_22:
+0380:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Người tham gia giao thông_ gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.
@@ -313,7 +313,7 @@ LAW_2008_22:
     - người điều khiển, dẫn dắt súc vật; 
     - người đi bộ trên đường bộ.
 
-LAW_2008_23:
+0390:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Người điều khiển phương tiện_ gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ.
@@ -326,7 +326,7 @@ LAW_2008_23:
 
     Tham-Gia-GTĐB.
 
-LAW_2008_24:
+0400:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Người lái xe_ là người điều khiển xe cơ giới.
@@ -334,7 +334,7 @@ LAW_2008_24:
   explain: |-
     người điều khiển xe cơ giới.
 
-LAW_2008_25:
+0410:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Người điều khiển giao thông_ là cảnh sát giao thông; người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
@@ -347,7 +347,7 @@ LAW_2008_25:
       - ở bến phà, 
       - tại cầu đường bộ đi chung với đường sắt.
 
-LAW_2008_26:
+0420:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Hành khách_ là người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
@@ -355,7 +355,7 @@ LAW_2008_26:
   explain: |-
     người được chở trên phương tiện vận tải hành khách đường bộ, có trả tiền.
 
-LAW_2008_27:
+0430:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Hành lý_ là vật phẩm mà hành khách mang theo trên cùng phương tiện hoặc gửi theo phương tiện khác.
@@ -365,7 +365,7 @@ LAW_2008_27:
     - mang theo trên cùng phương tiện hoặc 
     - gửi theo phương tiện khác.
 
-LAW_2008_28:
+0440:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Hàng hóa_ là máy móc, thiết bị, nguyên vật liệu, nhiên liệu, hàng tiêu dùng, động vật sống và các động sản khác được vận chuyển bằng phương tiện giao thông đường bộ.
@@ -380,7 +380,7 @@ LAW_2008_28:
      
     được vận chuyển bằng PTGTĐB.
 
-LAW_2008_29:
+0450:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Hàng nguy hiểm_ là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
@@ -393,7 +393,7 @@ LAW_2008_29:
       - môi trường, 
       - an toàn và an ninh quốc gia.
 
-LAW_2008_30:
+0460:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Vận tải đường bộ_ là hoạt động sử dụng phương tiện giao thông đường bộ để vận chuyển người, hàng hóa trên đường bộ.
@@ -402,7 +402,7 @@ LAW_2008_30:
     hoạt động sử dụng PTGTĐB để 
     - vận chuyển người, hàng hóa trên đường bộ.
 
-LAW_2008_31:
+0470:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Người vận tải_ là tổ chức, cá nhân sử dụng phương tiện giao thông đường bộ để thực hiện hoạt động vận tải đường bộ.
@@ -411,7 +411,7 @@ LAW_2008_31:
     tổ chức, cá nhân sử dụng PTGTĐB để 
     - thực hiện hoạt động vận tải đường bộ.
 
-LAW_2008_32:
+0480:
   source: 'Luật Giao thông đường bộ (Luật số: 23/2008/QH12)'
   source_abbr: Luật GTĐB 2008
   docs: _Cơ quan quản lý đường bộ_ là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã).
@@ -424,7 +424,7 @@ LAW_2008_32:
     - Ủy ban nhân dân xã, phường, thị trấn (gọi chung là cấp xã).
 
 # QCVN 2019
-QCVN_1:
+0490:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường đô thị (ĐĐT) là đường nằm trong phạm vi địa giới hành chính nội thành, nội thị xã và thị trấn.
@@ -436,7 +436,7 @@ QCVN_1:
     - nội thị xã
     - nội thị trấn.
 
-QCVN_2:
+0500:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường qua khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến an toàn giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
@@ -448,7 +448,7 @@ QCVN_2:
     - có các hoạt động có thể ảnh hưởng đến ATGTĐB
     - được xác định bằng biển báo là đường qua khu đông dân cư (khi cần thiết có thể xác định riêng cho từng chiều đường).
 
-QCVN_3:
+0510:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường dành riêng cho các loại phương tiện cơ giới là tuyến đường, phần đường hoặc làn đường dành riêng cho phương tiện cơ giới lưu thông, tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
@@ -459,7 +459,7 @@ QCVN_3:
     - tách biệt với phần đường dành riêng cho các phương tiện thô sơ và người đi bộ bằng dải phân cách hoặc vạch sơn dọc liền 
     - được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 
-QCVN_4:
+0520:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường dành riêng cho một số loại phương tiện là tuyến đường, phần đường hoặc làn đường dành riêng cho một hoặc một vài loại phương tiện được lưu thông tách biệt với phần đường cho các phương tiện khác và được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
@@ -470,7 +470,7 @@ QCVN_4:
     - tách biệt với phần đường cho các phương tiện khác 
     - được chỉ dẫn bằng biển báo hiệu hoặc vạch sơn.
 
-QCVN_5:
+0530:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường dành riêng cho các phương tiện thô sơ và người đi bộ là tuyến đường, phần đường hoặc làn đường được phân biệt với phần đường dành riêng cho phương tiện cơ giới bằng các dải phân cách hoặc vạch sơn dọc liền.
@@ -480,7 +480,7 @@ QCVN_5:
     - được phân biệt với phần đường dành riêng cho phương tiện cơ giới 
     - bằng các dải phân cách hoặc vạch sơn dọc liền.
 
-QCVN_6:
+0540:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được đặt biển báo hiệu đường ưu tiên.
@@ -492,7 +492,7 @@ QCVN_6:
         - được các phương tiện giao thông đến từ hướng khác nhường đường 
     - được đặt biển báo hiệu đường ưu tiên.
 
-QCVN_7:
+0550:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Làn đường ưu tiên là làn đường mà trên đó phương tiện tham gia giao thông được quy định là ưu tiên sẽ được các phương tiện khác nhường đường khi cùng tham gia giao thông.
@@ -503,7 +503,7 @@ QCVN_7:
       + sẽ được các phương tiện khác nhường đường 
       + khi cùng tham gia giao thông.
 
-QCVN_8:
+0560:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường không ưu tiên là đường giao cùng mức với đường ưu tiên.
@@ -511,7 +511,7 @@ QCVN_8:
   explain: |-
     Đường giao cùng mức với đường ưu tiên.
 
-QCVN_9:
+0570:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường một chiều là đường chỉ cho đi một chiều.
@@ -519,7 +519,7 @@ QCVN_9:
   explain: |-
     Đường chỉ cho đi một chiều.
 
-QCVN_10:
+0580:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường hai chiều là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách.
@@ -530,7 +530,7 @@ QCVN_10:
       - trên cùng một phần đường xe chạy 
       - mà không có dải phân cách.
 
-QCVN_11:
+0590:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Đường đôi là đường mà chiều đi và về được phân biệt bằng dải phân cách (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
@@ -541,7 +541,7 @@ QCVN_11:
       - bằng dải phân cách 
     (trường hợp phân biệt bằng vạch sơn thì không phải đường đôi).
 
-QCVN_12:
+0600:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
@@ -552,7 +552,7 @@ QCVN_12:
       + phương tiện giao thông 
     - qua lại.
 
-QCVN_13:
+0610:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Phần đường dành cho xe cơ giới là phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng qua lại.
@@ -564,7 +564,7 @@ QCVN_13:
       + xe máy chuyên dùng
     - qua lại.
 
-QCVN_14:
+0620:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Phần đường dành cho xe thô sơ là phần của đường bộ được sử dụng cho các phương tiện giao thông thô sơ đường bộ qua lại.
@@ -575,7 +575,7 @@ QCVN_14:
       + các phương tiện giao thông thô sơ đường bộ
     - qua lại.
 
-QCVN_15:
+0630:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe chạy an toàn. Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
@@ -587,7 +587,7 @@ QCVN_15:
 
     Một phần đường xe chạy có thể có một hoặc nhiều làn đường.
 
-QCVN_16:
+0640:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Dải phân cách là bộ phận của đường mà xe không chạy trên đó được và để phân chia phần đường xe chạy thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
@@ -599,7 +599,7 @@ QCVN_16:
       + phần đường xe chạy thành hai chiều xe chạy riêng biệt 
       + phần đường dành cho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều giao thông.
 
-QCVN_17:
+0650:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Nơi đường giao nhau cùng mức (nơi đường giao nhau hoặc nút giao) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó.
@@ -610,7 +610,7 @@ QCVN_17:
     - hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng
     - gồm cả mặt bằng hình thành vị trí giao nhau đó.
 
-QCVN_18:
+0660:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe cơ giới là chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
@@ -631,7 +631,7 @@ QCVN_18:
 
     Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
 
-QCVN_19:
+0690:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Trọng tải bản thân xe là khối lượng bản thân của xe, đo bằng kilôgam (kg) hoặc tấn (t) ở trạng thái tĩnh được ghi theo thông số quy định trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ không kể đến khối lượng người trong xe và khối lượng hàng hóa trên xe.
@@ -643,7 +643,7 @@ QCVN_19:
     - được ghi theo thông số quy định trong GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
     - đo bằng kilôgam (kg) hoặc tấn (t)
 
-QCVN_20:
+0700:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Trọng tải toàn bộ xe (tổng trọng tải) là bằng khối lượng bản thân xe cộng với khối lượng của người, hành lý và hàng hóa xếp trên xe (nếu có).
@@ -655,7 +655,7 @@ QCVN_20:
       - người
       - hành lý và hàng hóa xếp trên xe (nếu có).
 
-QCVN_21:
+0710:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Trọng tải toàn bộ xe cho phép là bằng trọng tải bản thân xe cộng với khối lượng chuyên chở cho phép xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
@@ -665,7 +665,7 @@ QCVN_21:
     - cộng với khối lượng chuyên chở cho phép 
       - xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB.
 
-QCVN_22:
+0720:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tải trọng trục xe là phần của trọng tải toàn bộ xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
@@ -674,7 +674,7 @@ QCVN_22:
     Phần của trọng tải toàn bộ xe 
     - phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba).
 
-QCVN_23:
+0730:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe ôtô con (hay còn gọi là xe con) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái).
@@ -685,7 +685,7 @@ QCVN_23:
     - để chở người không quá 9 chỗ ngồi (kể cả chỗ người lái)
     - được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
-QCVN_24:
+0740:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe bán tải (xe pickup), xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông dưới 950 kg, xe 3 bánh có khối lượng bản thân lớn hơn 400 kg, trong tổ chức giao thông, được xem là xe con.
@@ -697,7 +697,7 @@ QCVN_24:
     - Xe 3 bánh có khối lượng bản thân lớn hơn 400 kg
     được xem là xe con.
 
-QCVN_25:
+0760:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Ôtô tải (hay còn gọi là xe tải) là xe ôtô có kết cấu và trang bị chủ yếu để chuyên chở hàng hóa (bao gồm cả ô tô đầu kéo, ô tô kéo rơ moóc và các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên).
@@ -710,7 +710,7 @@ QCVN_25:
       + ô tô kéo rơ moóc
       + các loại xe như xe PICK UP, xe tải VAN có khối lượng hàng chuyên chở cho phép tham gia giao thông từ 950 kg trở lên.
 
-QCVN_26:
+0770:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Ôtô khách (hay còn gọi là xe khách) là xe ôtô được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ để chở người với số lượng lớn hơn 9 người.
@@ -721,7 +721,7 @@ QCVN_26:
     - để chở người với số lượng lớn hơn 9 người
     - được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB
 
-QCVN_272:
+0780:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo
@@ -731,7 +731,7 @@ QCVN_272:
     - kết nối với ôtô đầu kéo 
     - truyền một phần trọng lượng đáng kể lên ôtô đầu kéo
 
-QCVN_29:
+0790:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Rơ-moóc là tổng hợp gồm hệ thống trục và lốp xe có kết cấu vững chắc được kết nối với xe ô tô sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
@@ -742,7 +742,7 @@ QCVN_29:
     - được kết nối với xe ô tô
       + sao cho khối lượng toàn bộ của rơ moóc không đặt lên ô tô kéo.
 
-QCVN_273:
+0800:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Ôtô đầu kéo kéo sơ-mi rơ-moóc là xe cơ giới chuyên chở hàng hóa mà thùng xe là sơ-mi rơ-moóc được thiết kế nối với ôtô đầu kéo và truyền một phần trọng lượng đáng kể lên ôtô đầu kéo và ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người (ôtô đầu kéo là ôtô được thiết kế để kéo sơ-mi rơ-moóc).
@@ -753,7 +753,7 @@ QCVN_273:
     - mà thùng xe là sơ-mi rơ-moóc
     - ôtô đầu kéo không có bộ phận chở hàng hóa hoặc chở người
 
-QCVN_28:
+0810:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Ôtô kéo rơ-moóc là xe ôtô được thiết kế để dành riêng kéo rơ-moóc hoặc là xe có kết cấu để kéo thêm rơ-moóc, có khối lượng cho phép kéo theo được xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ.
@@ -765,7 +765,7 @@ QCVN_28:
 
     (khối lượng cho phép kéo theo được xác định theo GCN KĐ ATKT-BVMT PTGT-Cơ-Giới-ĐB)
 
-QCVN_30:
+0820:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Máy kéo là chỉ đầu máy tự di chuyển bằng xích hay bánh lốp để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
@@ -775,7 +775,7 @@ QCVN_30:
     - tự di chuyển bằng xích hay bánh lốp 
     - để thực hiện các công việc đào, xúc, nâng, ủi, gạt, kéo, đẩy.
 
-QCVN_31:
+0830:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe mô tô (hay còn gọi là xe máy) là xe cơ giới hai hoặc ba bánh và các loại xe tương tự, di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên, trọng tải bản thân xe không quá 400 kg.
@@ -787,7 +787,7 @@ QCVN_31:
     - di chuyển bằng động cơ có dung tích xy lanh từ 50 cm3 trở lên
     - trọng tải bản thân xe không quá 400 kg.
 
-QCVN_32:
+0840:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe gắn máy là chỉ phương tiện chạy bằng động cơ, có hai bánh hoặc ba bánh và vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
@@ -798,7 +798,7 @@ QCVN_32:
     - vận tốc thiết kế lớn nhất không lớn hơn 50 km/h. 
     - Nếu dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương dưới 50 cm3.
 
-QCVN_33:
+0850:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe thô sơ gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
@@ -811,7 +811,7 @@ QCVN_33:
     - xe lăn dùng cho người khuyết tật 
     và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
 
-QCVN_34:
+0860:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe đạp là phương tiện có hai bánh xe hoặc ba bánh và di chuyển được bằng sức người đạp hoặc bằng tay quay, kể cả xe chuyên dùng của người khuyết tật có tính năng tương tự.
@@ -822,7 +822,7 @@ QCVN_34:
     - di chuyển được bằng sức người đạp hoặc bằng tay quay, 
     và xe chuyên dùng của người khuyết tật có tính năng tương tự.
 
-QCVN_35:
+0870:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe đạp thồ là xe đạp chở hàng trên giá đèo hàng hoặc chằng buộc hai bên thành xe.
@@ -832,7 +832,7 @@ QCVN_35:
     - trên giá đèo hàng 
     - hoặc chằng buộc hai bên thành xe.
 
-QCVN_36:
+0880:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe người kéo là những loại phương tiện thô sơ có một hoặc nhiều bánh và chuyển động được nhờ sức người kéo hoặc đẩy trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
@@ -843,7 +843,7 @@ QCVN_36:
     - chuyển động được nhờ sức người kéo hoặc đẩy 
     trừ xe nôi trẻ em và phương tiện chuyên dùng đi lại của người tàn tật.
 
-QCVN_37:
+0890:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe súc vật kéo là những phương tiện thô sơ chuyển động được do súc vật kéo.
@@ -852,7 +852,7 @@ QCVN_37:
     Phương tiện thô sơ
     - chuyển động được do súc vật kéo.
 
-QCVN_38:
+0900:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Người tham gia giao thông là người điều khiển; người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường.
@@ -862,7 +862,7 @@ QCVN_38:
     - Người điều khiển, dẫn dắt súc vật
     - Người đi bộ trên đường.
 
-QCVN_39:
+0910:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe ưu tiên là xe được quyền ưu tiên theo quy định của Luật Giao thông đường bộ.
@@ -871,7 +871,7 @@ QCVN_39:
     Xe được quyền ưu tiên
     - theo quy định của Luật GTĐB.
 
-QCVN_40:
+0920:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Mốc lộ giới là cọc mốc được đặt ở mép ngoài cùng xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
@@ -881,7 +881,7 @@ QCVN_40:
     - được đặt ở mép ngoài cùng
     - xác định ranh giới của đất dành cho đường bộ theo chiều ngang đường.
 
-QCVN_41:
+0930:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Giá long môn là một dạng kết cấu ngang qua đường ở phía trên phần đường xe chạy.
@@ -891,7 +891,7 @@ QCVN_41:
     - ngang qua đường
     - ở phía trên phần đường xe chạy.
 
-QCVN_42:
+0940:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Cột cần vươn là một dạng kết cấu có cần vươn ra phía trên phần đường xe chạy.
@@ -901,7 +901,7 @@ QCVN_42:
     - có cần vươn ra
     - ở phía trên phần đường xe chạy.
 
-QCVN_43:
+0950:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Hàng nguy hiểm là hàng nguy hiểm là hàng hóa có chứa các chất nguy hiểm khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khỏe con người, kết cấu hạ tầng công trình giao thông, môi trường, an toàn và an ninh quốc gia.
@@ -914,7 +914,7 @@ QCVN_43:
       + kết cấu hạ tầng công trình giao thông
       + môi trường, an toàn và an ninh quốc gia.
 
-QCVN_44:
+0960:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tốc độ vận hành là tốc độ mà người lái vận hành chiếc xe của mình.
@@ -923,7 +923,7 @@ QCVN_44:
     Tốc độ 
     - mà người lái vận hành chiếc xe của mình.
 
-QCVN_45:
+0970:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tốc độ thiết kế là tốc độ được lựa chọn để thiết kế các yếu tố cơ bản của đường trong các điều kiện khó khăn.
@@ -934,7 +934,7 @@ QCVN_45:
     - để thiết kế các yếu tố cơ bản của đường 
       - trong các điều kiện khó khăn.
 
-QCVN_46:
+0980:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tốc độ suất tích lũy 85% (V85) là tốc độ vận hành mà ở đó 85% các lái xe vận hành xe chạy từ tốc độ này trở xuống.
@@ -945,7 +945,7 @@ QCVN_46:
     - mà ở đó 85% các lái xe 
       - vận hành xe chạy từ tốc độ này trở xuống.
 
-QCVN_47:
+0990:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tốc độ tối đa cho phép là tốc độ lớn nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ cao hơn.
@@ -958,7 +958,7 @@ QCVN_47:
     Người điều khiển phương tiện
     - không được phép vận hành xe ở tốc độ cao hơn.
 
-QCVN_48:
+1000:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tốc độ tối thiểu cho phép là tốc độ nhỏ nhất trên một tuyến đường, đoạn đường hoặc làn đường được cấp có thẩm quyền quy định. Người điều khiển phương tiện không được phép vận hành xe ở tốc độ nhỏ hơn khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
@@ -972,7 +972,7 @@ QCVN_48:
     - không được phép vận hành xe ở tốc độ nhỏ hơn
       - khi có điều kiện giao thông đảm bảo an toàn cho phép xe chạy với tốc độ cao hơn.
 
-QCVN_49:
+1010:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tầm nhìn là khoảng cách đo dọc theo mặt đường tính từ mũi xe của một chiếc xe đang chạy đến một vật thể ở phía trước.
@@ -982,7 +982,7 @@ QCVN_49:
     - tính từ mũi xe của một chiếc xe đang chạy 
       - đến một vật thể ở phía trước.
 
-QCVN_50:
+1020:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tầm nhìn dừng xe an toàn là khoảng cách đo dọc theo đường tính từ mũi xe để một chiếc xe đang chạy có thể dừng lại an toàn trước một vật thể tĩnh bất ngờ xuất hiện trên cùng một làn đường ở phía trước.
@@ -996,7 +996,7 @@ QCVN_50:
       - trước một vật thể tĩnh bất ngờ xuất hiện 
         - trên cùng một làn đường ở phía trước.
 
-QCVN_51:
+1030:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Tầm nhìn vượt xe an toàn là khoảng cách đo dọc theo mặt đường tính từ mũi xe để một chiếc xe đang chạy trên đường 2 làn xe hai chiều có thể vượt qua một chiếc xe khác chạy chậm hơn cùng chiều bằng cách chiếm dụng làn xe chạy phía chiều ngược lại và quay trở về làn cũ của mình một cách an toàn.
@@ -1011,7 +1011,7 @@ QCVN_51:
         - bằng cách chiếm dụng làn xe chạy phía chiều ngược lại 
           - và quay trở về làn cũ của mình một cách an toàn.
 
-QCVN_52:
+1040:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Vượt xe là tình huống giao thông mà xe đi sau vượt xe đi trước; khi vượt, các xe phải vượt về bên trái (trừ các trường hợp được quy định trong Luật Giao thông đường bộ). Xe đi với tốc độ thấp hơn phải đi về bên phải, khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
@@ -1030,7 +1030,7 @@ QCVN_52:
       - đi sát về phần đường bên phải của phần xe chạy cho đến khi xe sau đã vượt qua, 
       - không được gây trở ngại đối với xe xin vượt.
 
-QCVN_53:
+1060:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Xe trên các làn chạy nhanh hơn nhau - Trên đường có từ hai làn xe cơ giới mỗi chiều trở lên (được phân biệt bằng vạch kẻ phân làn đường), người điều khiển phương tiện phải cho xe đi trong một làn đường. Khi lưu thông, phương tiện trên các làn khác nhau có thể chạy nhanh hơn nhau miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường và khi chuyển làn phải tuân thủ theo quy tắc giao thông đường bộ.
@@ -1043,7 +1043,7 @@ QCVN_53:
     - chạy nhanh hơn nhau: miễn là tuân thủ quy định về tốc độ và loại phương tiện sử dụng làn đường 
     - chuyển làn: miễn là tuân thủ theo quy tắc GTĐB.
 
-QCVN_54:
+1070:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Nhường đường cho phương tiện khác là tình huống giao thông mà phương tiện nhường đường không tiếp tục di chuyển như hiện tại để phương tiện được nhường đường không phải chuyên hướng hoặc phải phanh đột ngột.
@@ -1059,7 +1059,7 @@ QCVN_54:
         + chuyên hướng 
         + phanh đột ngột.
 
-QCVN_55:
+1080:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Nút giao khác mức liên thông là nơi giao nhau của đường bộ bằng tổ hợp các công trình vượt hoặc chui và nhánh nối mà ở đó cho phép các phương tiện tham gia giao thông chuyển hướng đến đường ở các cao độ khác nhau.
@@ -1070,7 +1070,7 @@ QCVN_55:
     - mà ở đó cho phép các PT-Tham-Gia-GT chuyển hướng 
       - đến đường ở các cao độ khác nhau.
 
-QCVN_56:
+1090:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Nhánh nối là đường dùng để kết nối các hướng đường trong nút giao.
@@ -1079,7 +1079,7 @@ QCVN_56:
     Đường dùng để kết nối
     - các hướng đường trong nút giao.
 
-QCVN_57:
+1100:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Lối ra là nơi các phương tiện tham gia giao thông tách ra khỏi dòng giao thông trên đường chính.
@@ -1088,7 +1088,7 @@ QCVN_57:
     Nơi các PT-Tham-Gia-GT 
     - tách ra khỏi đường chính.
 
-QCVN_58:
+1110:
   source: QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BÁO HIỆU ĐƯỜNG BỘ (QCVN 41:2019/BGTVT)
   source_abbr: QCVN 41:2019
   docs: Lối vào là nơi các phương tiện tham gia giao thông nhập vào dòng giao thông trên đường chính.
@@ -1098,7 +1098,7 @@ QCVN_58:
     - nhập vào đường chính.
 
 # LAW 2004
-LAW_2024_1:
+1120:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1110,7 +1110,7 @@ LAW_2024_1:
     - được hình thành và điều chỉnh bởi 
       - các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
 
-LAW_2024_2:
+1130:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1123,7 +1123,7 @@ LAW_2024_2:
     - phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), 
     - xe máy chuyên dùng và các loại xe tương tự.
 
-LAW_2024_3:
+1140:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1135,7 +1135,7 @@ LAW_2024_3:
     - tham gia giao thông 
       - trên đường bộ.
 
-LAW_2024_4:
+1150:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1149,7 +1149,7 @@ LAW_2024_4:
       - khi qua nơi đường giao nhau, 
     - được cắm biển báo hiệu đường ưu tiên.
 
-LAW_2024_5:
+1160:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1159,7 +1159,7 @@ LAW_2024_5:
     phần của đường bộ 
     - được sử dụng cho PTGTĐB đi lại.
 
-LAW_2024_6:
+1170:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1170,7 +1170,7 @@ LAW_2024_6:
     - được chia theo chiều dọc của đường, 
     - có đủ chiều rộng cho xe chạy an toàn.
 
-LAW_2024_7:
+1180:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1183,7 +1183,7 @@ LAW_2024_7:
       - xe đã qua sử dụng được nhập khẩu 
     dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.
 
-LAW_2024_8:
+1190:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1195,7 +1195,7 @@ LAW_2024_8:
     - người điều khiển, dẫn dắt vật nuôi trên đường bộ;
     - người đi bộ trên đường bộ.
 
-LAW_2024_9:
+1200:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1207,7 +1207,7 @@ LAW_2024_9:
     - người điều khiển xe thô sơ, 
     - người điều khiển xe máy chuyên dùng.
 
-LAW_2024_9.2:
+1210:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1215,7 +1215,7 @@ LAW_2024_9.2:
   term: người điều khiển xe cơ giới
   aka: người lái xe
 
-LAW_2024_10:
+1220:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1227,7 +1227,7 @@ LAW_2024_10:
     - cảnh sát giao thông 
     - người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.
 
-LAW_2024_11:
+1230:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1239,7 +1239,7 @@ LAW_2024_11:
     - bị dồn ứ,
     - di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
 
-LAW_2024_12:
+1240:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1252,7 +1252,7 @@ LAW_2024_12:
     - xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, 
     - gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.
 
-LAW_2024_13:
+1250:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
@@ -1267,7 +1267,7 @@ LAW_2024_13:
         - xe ô tô giảm tốc độ đột ngột, 
       - bằng cách hạn chế sự di chuyển của cơ thể trẻ em.
 
-LAW_2024_14:
+1260:
   source: LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ (Luật số 36/2024/QH15)
   source_abbr: Luật TTAT-GTĐB 2024
   docs: |-
