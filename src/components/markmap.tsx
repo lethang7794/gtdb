@@ -52,7 +52,10 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     const { root } = transformer.transform(value)
     mm.setData(root)
     mm.fit()
-    mm.setOptions({ maxWidth: 300 })
+    mm.setOptions({
+      maxWidth: 300,
+      // initialExpandLevel: 4,
+    })
   }, [refMm.current, value])
 
   return (
@@ -70,12 +73,12 @@ function renderToolbar(mm: Markmap, wrapper: HTMLElement) {
     const toolbar = new Toolbar()
     toolbar.attach(mm)
     // Register custom buttons
-    toolbar.register({
-      id: 'alert',
-      title: 'Click to show an alert',
-      content: 'Alert',
-      onClick: () => alert('You made it!'),
-    })
+    // toolbar.register({
+    //   id: 'alert',
+    //   title: 'Click to show an alert',
+    //   content: 'Alert',
+    //   onClick: () => alert('You made it!'),
+    // })
     toolbar.setItems([...Toolbar.defaultItems, 'alert'])
     wrapper.append(toolbar.render())
   }
