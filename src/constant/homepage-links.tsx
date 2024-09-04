@@ -4,6 +4,11 @@ export const LINKS: {
   description?: string
 }[] = [
   { name: 'Biển báo giao thông', url: '/bbgt', description: '' },
+  {
+    name: 'Phương tiện tham gia giao thông',
+    url: 'phuong-tien-tham-gia-GTDB',
+    description: '',
+  },
   { name: 'Vạch kẻ đường', url: '/vach-ke-duong', description: '' },
   { name: 'Thuật ngữ', url: '/thuat-ngu', description: '' },
   {

@@ -12,7 +12,6 @@ import { Badge } from '@/components/ui/badge'
 export default async function GlossariesPage() {
   const data = getGlossaries()
   const entries = Object.entries(data) || []
-  // console.log({ data, entries })
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
@@ -32,9 +31,9 @@ export default async function GlossariesPage() {
                         variant="outline"
                         className="text-lg border-transparent text-left"
                       >
-                        {val.term}
+                        {val?.term}
                       </Badge>
-                      <AkaBadges aka={val.aka} />
+                      <AkaBadges aka={val?.aka || ''} />
                     </h4>
                     <Button variant="ghost" size="sm">
                       <CaretSortIcon className="h-4 w-4" />
@@ -42,7 +41,7 @@ export default async function GlossariesPage() {
                     </Button>
                   </div>
                   <div className="flex justify-end">
-                    {val.source_abbr ? (
+                    {val?.source_abbr ? (
                       <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
                         ({val.source_abbr})
                       </div>
@@ -53,7 +52,7 @@ export default async function GlossariesPage() {
               <CollapsibleContent className="space-y-2">
                 <div className="border-t mr-6 ml-3">
                   <div className="pt-4 pr-4 pl-3 pb-4 font-mono text-sm whitespace-pre-wrap">
-                    {val.explain}
+                    {val?.explain}
                   </div>
                 </div>
               </CollapsibleContent>

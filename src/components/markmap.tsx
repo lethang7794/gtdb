@@ -1,7 +1,7 @@
 'use client'
 
 import type React from 'react'
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, type ReactNode } from 'react'
 import { loadCSS, loadJS, Markmap } from 'markmap-view'
 import { Toolbar } from 'markmap-toolbar'
 import { Transformer } from 'markmap-lib'
@@ -16,7 +16,12 @@ const initValue = `# markmap
 - interactive
 `
 
-export default function MarkmapRender({ data }: { data: string }) {
+interface MarkmapRenderProps {
+  data?: string
+  extra: ReactNode
+}
+
+export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
   const [value, setValue] = useState(data || initValue)
   // Ref for SVG element
   const refSvg = useRef<SVGSVGElement>(null)
@@ -50,13 +55,10 @@ export default function MarkmapRender({ data }: { data: string }) {
     mm.setOptions({ maxWidth: 300 })
   }, [refMm.current, value])
 
-  const handleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-    setValue(e.target.value)
-  }
-
   return (
     <>
       <svg className="h-full markmap" ref={refSvg} />
+      {extra}
       <div className="absolute bottom-1 right-1" ref={refToolbar} />
     </>
   )
