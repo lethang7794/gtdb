@@ -71,6 +71,7 @@
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.1",
+    "xmind-embed-viewer": "^1.2.0",
     "yaml": "^2.5.0",
     "zod": "^3.23.8"
   },
