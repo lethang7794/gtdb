@@ -52,10 +52,10 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     const { root } = transformer.transform(value)
     mm.setData(root)
     mm.fit()
-    mm.setOptions({
-      maxWidth: 300,
-      // initialExpandLevel: 4,
-    })
+    // mm.setOptions({
+    //   // maxWidth: 300,
+    //   // initialExpandLevel: 4,
+    // })
   }, [refMm.current, value])
 
   return (
