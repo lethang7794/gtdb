@@ -15,6 +15,10 @@
 | Nghị định                   | Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt                                                                             | 100/2019/NĐ-CP     | 30/12/2019    | 01/01/2020       | Hết hiệu lực một phần             | [6]      | [CSDLQG về VBPL][6]     |
 | Nghị định                   | Sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng | 123/2021/NĐ-CP     | 28/12/2021    | 01/01/2022       | Còn hiệu lực                      | [7]      | [CSDLQG về VBPL][7]     |
 | Văn bản hợp nhất            | Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt                                                                             | 03/VBHN-BGTVT      | 14/1/2022     | 01/01/2022       | Còn hiệu lực                      | [8]      |                         |
+|                             |                                                                                                                                                                 |                    |               |                  |                                   |          |                         |
+| Tiêu chuẩn quốc gia         | Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng                                                                                        | TCVN 7271:2003     |               |                  |                                   | [11]     | [Cục đăng kiểm][11]     |
+| Dự thảo tiêu chuẩn quốc gia | Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng                                                                                        | TCVN 7271:xxxx     |               |                  |                                   | [10]     |                         |
+| Tiêu chuẩn quốc gia         | Phương tiện Giao thông đường bộ - Kiểu, thuật ngữ và định nghĩa                                                                                                 | TCVN 6211:2003     | 08/10/2003    | 08/10/2003       |                                   | [12]     | [Cục đăng kiểm][13]     |
 
 [0]: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=12333
 [4]: https://congan.phuyen.gov.vn/laws/detail/Luat-trat-tu-an-toan-giao-thong-duong-bo-2024-987/
@@ -26,3 +30,7 @@
 [7]: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=153339
 [8]: https://mt.gov.vn/tk/tin-tuc/78193/hop-nhat-nghi-dinh-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-giao-thong-duong-bo-va-duong-sat.aspx
 [9]: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=161092
+[11]: http://www.vr.org.vn/en-us/contents/Rules/Lists/Rules/Attachments/21/TCVN7271.2003.pdf
+[10]: https://mt.gov.vn/vn/pages/chitietduthao.aspx?iDuThao=1780
+[12]: https://www.stic.com.vn/vi/laws/detail/TCVN-6211-2003-Phuong-tien-Giao-thong-duong-bo-Kieu-thuat-ngu-va-dinh-nghia-18/
+[13]: http://www.vr.org.vn/contents/Rules/Lists/Rules/Attachments/20/TCVN6211.2003.pdf
