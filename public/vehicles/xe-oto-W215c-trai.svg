@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="702mm" height="702mm" viewBox="0 0 701.99998 702.00001" version="1.1" id="svg8" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs2"/>
+  <g id="layer1" transform="translate(-410.56454,876.3)">
+    <circle cy="-525.29999" cx="761.56451" id="circle817" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:225.58209229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" r="250"/>
+  </g>
+  <g transform="matrix(1.31165, 0, 0, 1.31165, -804.447144, -102.428703)">
+    <path id="path37811" d="M 859.497 264.264 C 890.735 257.727 906.484 258.444 911.19 258.765 C 914.4 259.242 917.224 259.468 920.799 263.263 L 946.094 292.904 C 955.156 300.713 963.385 312.704 965.35 321.93 L 966.165 325.765 C 968.271 335.954 970.987 358.641 971.319 373.819 L 976.211 396.826 L 951.377 402.103 L 946.485 379.095 L 886.62 391.815 L 826.756 404.534 L 831.649 427.541 L 806.814 432.818 L 801.922 409.811 C 796.049 395.81 789.3 373.98 787.076 363.816 L 786.261 359.981 C 784.299 350.754 786.94 336.453 792.042 325.636 L 803.089 288.272 C 804.81 283.353 807.298 281.998 810.036 280.257 C 814.205 278.051 828.3 270.993 859.497 264.264 L 859.497 264.264 Z" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:72.23025513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/>
+    <path id="path37813" d="M 861.343 272.942 C 842.693 276.933 819.476 283.12 814.585 284.775 C 811.844 286.173 811.116 286.902 809.759 290.863 L 798.939 330.287 L 941.686 299.958 L 915.759 268.341 C 912.908 265.275 911.946 264.904 908.874 264.742 C 903.732 265.218 880.004 269.006 861.343 272.942 L 861.343 272.942 Z" style="opacity: 1; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 72.2303; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; paint-order: normal; fill: rgb(255, 255, 255);"/>
+  </g>
+</svg>
