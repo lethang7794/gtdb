@@ -2725,9 +2725,9 @@ R.301:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
        - Biển số R.301a: các xe chỉ được đi thẳng; 
@@ -2781,19 +2781,12 @@ R.301a:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
        - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
@@ -2805,12 +2798,6 @@ R.301a:
            - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
            - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
              - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301a.svg
   name: '(Các xe) chỉ được đi thẳng'
 
@@ -2837,36 +2824,16 @@ R.301b:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
        - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
        - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301b.svg
   name: '(Các xe) chỉ được đi ngang qua phải'
   note: Đặt sau nơi đường giao nhau
@@ -2894,36 +2861,16 @@ R.301c:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
        - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
        - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301c.svg
   name: '(Các xe) chỉ được đi ngang qua trái'
   note: Đặt sau nơi đường giao nhau
@@ -2951,36 +2898,16 @@ R.301d:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
        - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
        - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301d.png
   name: '(Các xe) chỉ được rẽ phải'
   note: Đặt trước nơi đường giao nhau
@@ -3008,36 +2935,16 @@ R.301e:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
        - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
        - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301e.png
   name: '(Các xe) chỉ được rẽ trái'
   note: Đặt trước nơi đường giao nhau
@@ -3065,36 +2972,16 @@ R.301f:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
        - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
        - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301f.png
   name: '(Các xe) chỉ được đi thẳng và rẽ phải'
   note: Đặt trước nơi đường giao nhau
@@ -3122,37 +3009,16 @@ R.301g:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
        - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
-       - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
        - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
-       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
-  image: R301g.png
   name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
   similar: [R.411]
   note: Đặt trước nơi đường giao nhau
@@ -3180,35 +3046,15 @@ R.301h:
       - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   docs_mdx: |-
     # D.1a Biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo"
-    
+
     1. Để báo cho các loại xe (thô sơ và cơ giới) phải đi theo hướng quy định, đặt một trong những kiểu biển số R.301(a,b,c,d,e,f,g,h) "Hướng đi phải theo". Tùy theo hướng đi mà chọn kiểu biển cho phù hợp.
-    
+
     1. Biển có hiệu lực bắt buộc các loại xe phải đi theo hướng mũi tên chỉ (trừ xe được quyền ưu tiên theo quy định):
 
-       - Biển số R.301a: các xe chỉ được đi thẳng; 
-       - Biển số R.301b: các xe chỉ được rẽ phải;
-       - Biển số R.301c: các xe chỉ được rẽ trái;
-       - Biển số R.301d: các xe chỉ được rẽ phải;
-       - Biển số R.301e: các xe chỉ được rẽ trái;
-       - Biển số R.301f: các xe chỉ được đi thẳng và rẽ phải;
-       - Biển số R.301g: các xe chỉ được đi thẳng và rẽ trái;
        - Biển số R.301h: các xe chỉ được rẽ trái và rẽ phải.
 
     1.  
 
-       - Biển số R.301a 
-         - Khi đặt ở trước nơi đường giao nhau thì 
-           - hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển 
-           - tức là cấm xe rẽ phải hay rẽ trái. 
-         - Khi đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì 
-           - hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. 
-           - trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, 
-             - chỉ cho phép rẽ vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo.
-
-       - Biển số R.301(b,c) được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển.
-       - Biển số R.301(d,e) được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301f được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép đi thẳng hay rẽ phải ở phạm vi nơi đường giao nhau đằng sau mặt biển.
-       - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
        - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301h.svg
   name: '(Các xe) chỉ được rẽ trái và rẽ phải (được quay đầu)'
