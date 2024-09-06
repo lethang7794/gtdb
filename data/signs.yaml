@@ -3065,9 +3065,9 @@ R.301g:
        - Biển số R.301g được đặt ở trước nơi đường giao nhau và người tham gia giao thông  chỉ được phép đi thẳng hay rẽ trái và được phép quay đầu xe để đi theo hướng ngược lại.
        - Biển số R.301h được đặt ở sau nơi đường giao nhau nhằm ngăn ngừa chuyển động ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông  chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở phạm vi nơi đường giao nhau trước mặt biển.
   image: R301g.png
-  note: Đặt trước nơi đường giao nhau
   name: '(Các xe) chỉ được đi thẳng và rẽ trái (được quay đầu)'
   similar: [R.411]
+  note: Đặt trước nơi đường giao nhau
 
 R.301h:
   docs_name: 'Biển số R.301(a,b,c,d,e,f,g,h): Hướng đi phải theo'
@@ -3641,7 +3641,8 @@ R.411:
   similar: [R.301g, R.301h]
 
 R.412:
-  # TODO
+  docs_name: 'Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
     D.14 Biển số R.412 (a,b,c,d,e,f,g,h) "Làn đường dành riêng cho từng loại xe hoặc nhóm xe"
     a) Để báo hiệu cho người tham gia giao thông biết có làn đường dành riêng cho từng loại xe nhoặc nhóm xe riêng biệt, đặt biển số R.412 (a,b,c,d,e,f,g,h). Biển được đặt phía trên làn xe, ở đầu đường theo chiều xe chạy. Tùy loại phương tiện, nhóm phương tiện cần quy định mà bố trí hình vẽ, biểu tượng các phương tiện tương ứng và mũi tên trên biển cho phù hợp và đảm bảo mỹ quan. Các loại xe khác không được đi vào làn đường có đặt biển này (trừ các xe được quyền ưu tiên theo quy định). Riêng biển số R.412e “Làn đường dành cho xe buýt”, nếu vạch sơn phân làn dành cho xe buýt có dạng nét đứt, các xe khác có thể đi vào làn xe này nhưng phải ưu tiên cho xe buýt (phải nhường đường, chuyển sang làn khác để không ảnh hưởng đến việc vận hành của xe buýt); trường hợp vạch sơn phân làn dành cho xe buýt là nét liền, các phương tiện khác không được đi vào làn đường dành cho xe buýt.
@@ -4163,6 +4164,8 @@ R.415a:
   name: 'Gộp làn đường theo phương tiện'
 
 R.415b:
+  docs_name: 'Biển số R.415: Biển gộp làn đường theo phương tiện'
+  docs_source: 'Phụ lục D - Ý nghĩa - Sử dụng biển hiệu lệnh'
   docs: |-
     D.16 Biển số R.415 “Biển gộp làn đường theo phương tiện” và “Kết thúc làn đường theo phương tiện”
     a) Để báo hiệu cho người tham gia giao thông biết số lượng làn đường và loại xe được phép lưu thông trên từng làn đường theo quy định, đặt biển số R.415a “Biển gộp làn đường theo phương tiện” (Hình D.18a). Tùy theo tình hình thực tế về số lượng làn đường và phương án tổ chức giao thông mà sử dụng các ký hiệu phương tiện trên các làn cho phù hợp. Hình trên biển số R.415a chỉ là một trường hợp. Biển không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường. Căn cứ vào vạch sơn thực tế trên đường để thực hiện việc chuyển làn cho phù hợp giữa các làn được phép lưu thông.
