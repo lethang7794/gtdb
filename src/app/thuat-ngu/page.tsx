@@ -15,7 +15,7 @@ export default async function GlossariesPage() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(250px,_1fr))] justify-between gap-4">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(350px,_1fr))] justify-between gap-4">
         {entries.map(([key, val]) => {
           return (
             <Collapsible
@@ -26,7 +26,7 @@ export default async function GlossariesPage() {
               <CollapsibleTrigger asChild>
                 <div>
                   <div className="flex items-center justify-between space-x-4 pl-2 py-2 pr-2">
-                    <h4 className="flex items-center gap-2 text-lg font-semibold">
+                    <div className="flex items-center flex-wrap gap-2 text-lg font-semibold">
                       <Badge
                         variant="outline"
                         className="text-lg border-transparent text-left"
@@ -34,7 +34,7 @@ export default async function GlossariesPage() {
                         {val?.term}
                       </Badge>
                       <AkaBadges aka={val?.aka || ''} />
-                    </h4>
+                    </div>
                     <Button variant="ghost" size="sm">
                       <CaretSortIcon className="h-4 w-4" />
                       <span className="sr-only">Toggle</span>
