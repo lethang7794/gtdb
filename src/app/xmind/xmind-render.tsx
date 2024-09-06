@@ -4,7 +4,7 @@ import { LoadingSpinner } from '@/components/ui/loading-spinner'
 import { useEffect, useRef, useState } from 'react'
 import { XMindEmbedViewer } from 'xmind-embed-viewer'
 
-const EXAMPLE_XMIND_URL = ''
+const EXAMPLE_XMIND_URL = '' // TODO
 
 export default function XmindRender({ fileURL }: { fileURL?: string }) {
   const [loading, setLoading] = useState(true)
