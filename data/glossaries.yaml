@@ -36,12 +36,12 @@
 
 0100:
   term: '"PTGT-Cơ-Giới-ĐB"'
-  aka: xe cơ giới
+  aka: [xe cơ giới, '"xe có động cơ"']
   explain: phương tiện giao thông cơ giới đường bộ
 
 0110:
   term: '"PTGT-Thô-Sơ-ĐB"'
-  aka: xe thô sơ
+  aka: [xe thô sơ, '"xe không có động cơ"']
   explain: phương tiện giao thông thô sơ đường bộ
 
 # 0120:
@@ -256,7 +256,7 @@
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông cơ giới đường bộ_ (sau đây gọi là xe cơ giới) gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
   term: Phương tiện giao thông cơ giới đường bộ
-  aka: [xe cơ giới, '"PTGT-Cơ-Giới-ĐB"']
+  aka: [xe cơ giới, '"xe có động cơ"', '"PTGT-Cơ-Giới-ĐB"']
   explain: |-
     gồm 
     - xe ô tô; 
@@ -271,7 +271,7 @@
   source_abbr: Luật GTĐB 2008
   docs: _Phương tiện giao thông thô sơ đường bộ_ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
   term: Phương tiện giao thông thô sơ đường bộ
-  aka: [xe thô sơ, '"PTGT-Thô-Sơ-ĐB"']
+  aka: [xe thô sơ, '"xe không có động cơ"', '"PTGT-Thô-Sơ-ĐB"']
   explain: |-
     gồm 
     - xe đạp (kể cả xe đạp máy), 
@@ -615,6 +615,7 @@
   source_abbr: QCVN 41:2019
   docs: Xe cơ giới là chỉ các loại xe ôtô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi xe ôtô; xe máy 2 bánh; xe máy 3 bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự được thiết kế để chở người và hàng hóa trên đường bộ. Xe cơ giới bao gồm cả tàu điện bánh lốp (là loại tàu dùng điện nhưng không chạy trên đường ray).
   term: Xe cơ giới
+  aka: ['"xe có động cơ"']
   explain: |-
     Gồm:
     - xe ôtô:
@@ -803,6 +804,7 @@
   source_abbr: QCVN 41:2019
   docs: Xe thô sơ gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe súc vật kéo, xe lăn dùng cho người khuyết tật và các loại xe tương tự không sử dụng động cơ gây ra sức kéo.
   term: Xe thô sơ
+  aka: ['"xe không có động cơ"']
   explain: |-
     Gồm 
     - xe đạp (kể cả xe đạp máy, xe đạp điện)
