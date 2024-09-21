@@ -3,7 +3,12 @@ export const LINKS: {
   url: string
   description?: string
 }[] = [
-  { name: 'Biển báo giao thông', url: '/bbgt', description: '' },
+  { name: 'Biển báo giao thông - Danh sách', url: '/bbgt', description: '' },
+  {
+    name: 'Biển báo giao thông - So sánh',
+    url: '/bbgt-so-sanh',
+    description: '',
+  },
   {
     name: 'Phương tiện tham gia giao thông',
     url: 'phuong-tien-tham-gia-GTDB',
