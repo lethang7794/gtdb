@@ -50,11 +50,13 @@ export default async function MarkingPage({
       className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
     >
       <div className="flex gap-4 h-40">
-        <img
-          alt={slug}
-          src={getMarkingImage(marking)}
-          className="h-full object-contain object-bottom mb-1"
-        />
+        {marking.image ? (
+          <img
+            alt={slug}
+            src={getMarkingImage(marking)}
+            className="h-full object-contain object-bottom mb-1"
+          />
+        ) : null}
         {marking.image_extra ? (
           <img
             alt={slug}
