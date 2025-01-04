@@ -5,9 +5,9 @@ markmap:
   maxWidth: 400
 ---
 
-# Nghị định 168/2024
+# Nghị định 168/2024 <br/>... xử phạt ... giao thông đường bộ ...
 
-## Chương I. ... QUY ĐỊNH CHUNG
+## Chương I. ... QUY ĐỊNH CHUNG <!-- markmap: fold -->
 
 ### Điều 1. Phạm vi _điều chỉnh_
 
@@ -55,7 +55,7 @@ markmap:
 
 #### Điều 19. ... _xe máy chuyên dùng_
 
-### Mục 4. ... _XE Ô TÔ VẬN CHUYỂN HÀNH KHÁCH, HÀNG HÓA_ ...
+### Mục 4. ... _XE Ô TÔ VẬN CHUYỂN<br/>HÀNH KHÁCH, HÀNG HÓA_ ... <!-- markmap: fold -->
 
 #### Điều 20. ... _xe ô tô chở hành khách_ ...
 
@@ -91,7 +91,7 @@ markmap:
 
 #### Điều 35. ... _đua xe trái phép_ ... _cổ vũ_ ...
 
-#### Điều 36. ... _xe mô tô, xe gắn máy, xe thô sơ_ ... _vận chuyển hành khách, hàng hóa_
+#### Điều 36. ... _xe mô tô_ ... _vận chuyển ... khách, hàng hóa_
 
 #### Điều 37. ... _biển số nước ngoài_
 
@@ -103,7 +103,7 @@ markmap:
 
 ## Chương III. THẨM QUYỀN, THỦ TỤC XỬ PHẠT...
 
-### Mục 1. _THẨM QUYỀN_ XỬ PHẠT
+### Mục 1. _THẨM QUYỀN_ XỬ PHẠT <!-- markmap: fold -->
 
 #### Điều 41. _Phân định thẩm quyền xử phạt_ ...
 
@@ -119,7 +119,7 @@ markmap:
 
 ### Mục 2. THỦ TỤC _XỬ PHẠT_
 
-#### Điều 47. ... _chủ phương tiện, người điều khiển phương tiện_ ...
+#### Điều 47. ... _chủ phương tiện, người điều khiển_ ...
 
 #### Điều 48. _Tạm giữ phương tiện, giấy tờ_ ...
 
@@ -131,7 +131,7 @@ markmap:
 
 #### Điều 51. ... _phục hồi điểm_ ...
 
-## Chương IV. ĐIỀU KHOẢN _THI HÀNH_
+## Chương IV. ĐIỀU KHOẢN _THI HÀNH_ <!-- markmap: fold -->
 
 ### Điều 52. _Sửa đổi, bổ sung_ ...
 
