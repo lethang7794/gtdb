@@ -225,7 +225,7 @@
 
 3.1:
   short_name: Vạch 3.1
-  full_name:
+  full_name: Vạch phân cách làn xe cơ giới và làn xe thô sơ
   aka:
   image: Vach-3.1.jpeg
   attribute:
@@ -253,7 +253,7 @@
 
 4.1a:
   short_name: Vạch 4.1
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng gạch chéo
   aka:
   image: Vach-4.1a.png
   attribute:
@@ -273,7 +273,7 @@
 
 4.1b:
   short_name: Vạch 4.1
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng gạch chéo
   aka:
   image: Vach-4.1b.png
   attribute:
@@ -286,7 +286,7 @@
 
 4.2a:
   short_name: Vạch 4.2
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng chữ V
   aka:
   image: Vach-4.2a.png
   attribute:
@@ -308,7 +308,7 @@
 
 4.2b:
   short_name: Vạch 4.2
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng chữ V
   aka:
   image: Vach-4.2b.png
   attribute:
@@ -321,7 +321,7 @@
 
 4.3a:
   short_name: Vạch 4.3a
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng vành khuyên
   aka:
   image: Vach-4.3a.jpeg
   attribute:
@@ -342,7 +342,7 @@
 
 4.3b:
   short_name: Vạch 4.3b
-  full_name:
+  full_name: Vạch kênh hóa dòng xe dạng vành khuyên
   aka:
   image: Vach-4.3b.jpeg
   attribute:
@@ -355,7 +355,7 @@
 
 4.4a:
   short_name: Vạch 4.4
-  full_name:
+  full_name: Vạch kẻ kiểu mắt võng
   aka:
   image: Vach-4.4a2.jpeg
   attribute:
@@ -382,7 +382,7 @@
 
 4.4b:
   short_name: Vạch 4.4
-  full_name:
+  full_name: Vạch kẻ kiểu mắt võng
   aka:
   image: Vach-4.4b2.png
   attribute:
@@ -395,7 +395,7 @@
 
 5.1:
   short_name: Vạch 5.1
-  full_name:
+  full_name: Vạch dẫn hướng rẽ trái qua phạm vi nút giao
   aka:
   image: Vach-5.1.png
   attribute:
@@ -420,7 +420,7 @@
 
 5.2:
   short_name: Vạch 5.2
-  full_name:
+  full_name: Vạch phân làn đường kéo dài qua phạm vi nút giao
   aka:
   image: Vach-5.2.png
   attribute:
@@ -442,7 +442,7 @@
 
 5.3:
   short_name: Vạch 5.3
-  full_name:
+  full_name: Vạch làn chờ rẽ trái trong nút giao
   aka:
   image: Vach-5.3.jpeg
   attribute:
@@ -464,7 +464,7 @@
 
 6.1:
   short_name: Vạch 6.1
-  full_name:
+  full_name: Vạch cấm đỗ xe trên đường
   aka:
   image: Vach-6.1-2.jpeg
   attribute:
@@ -487,7 +487,7 @@
 
 6.2:
   short_name: Vạch 6.2
-  full_name:
+  full_name: Vạch cấm dừng xe, cấm đỗ xe trên đường
   aka:
   image: Vach-6.2-2.jpeg
   attribute:
@@ -510,7 +510,7 @@
 
 7.1a:
   short_name: Vạch 7.1
-  full_name:
+  full_name: Vạch dừng xe
   aka:
   image: Vach-7.1a.jpeg
   attribute:
@@ -541,7 +541,7 @@
 
 7.1b:
   short_name: Vạch 7.1
-  full_name:
+  full_name: Vạch dừng xe
   aka:
   image: Vach-7.1b.png
   attribute:
@@ -554,7 +554,7 @@
 
 7.2a:
   short_name: Vạch 7.2
-  full_name:
+  full_name: Vạch nhường đường
   aka:
   image: Vach-7.2a.png
   attribute:
@@ -584,7 +584,7 @@
 
 7.2b:
   short_name: Vạch 7.2
-  full_name:
+  full_name: Vạch nhường đường
   aka:
   image: Vach-7.2b.png
   attribute:
@@ -614,7 +614,7 @@
 
 7.3a1:
   short_name: Vạch 7.3
-  full_name:
+  full_name: Vạch đi bộ qua đường
   aka: Vạch ngựa vằn (dạng vuông gốc)
   image: Vach-7.3a1.jpeg
   attribute:
@@ -641,7 +641,7 @@
 
 7.3a2:
   short_name: Vạch 7.3
-  full_name:
+  full_name: Vạch đi bộ qua đường (dạng cắt chéo)
   aka: Vạch ngựa vằn (dạng cắt chéo)
   image: Vach-7.3a2.jpeg
   attribute:
@@ -654,7 +654,7 @@
 
 7.3b:
   short_name: Vạch 7.3
-  full_name:
+  full_name: Vạch đi bộ qua đường
   aka:
   image: Vach-7.3b.png
   attribute:
@@ -667,7 +667,7 @@
 
 7.4:
   short_name: Vạch 7.4
-  full_name:
+  full_name: Vạch xe đạp qua đường
   aka:
   image: Vach-7.4.png
   attribute:
@@ -690,7 +690,7 @@
 
 7.5:
   short_name: Vạch 7.5
-  full_name:
+  full_name: Vạch xác định khu vực cấm xe thô sơ trong nút giao
   aka:
   image: Vach-7.5.jpeg
   image_alt: Vạch 7.5
@@ -715,7 +715,7 @@
 
 7.6:
   short_name: Vạch 7.6
-  full_name:
+  full_name: Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường
   aka:
   image: Vach-7.6.jpeg
   attribute:
@@ -736,7 +736,7 @@
 
 7.7:
   short_name: Vạch 7.7
-  full_name:
+  full_name: Vạch báo gần chỗ giao nhau với đường sắt
   aka:
   image: Vach-7.7.jpeg
   attribute:
@@ -760,7 +760,7 @@
 
 7.8:
   short_name: Vạch 7.8
-  full_name:
+  full_name: Vạch xác định khoảng cách xe trên đường.
   aka:
   image: Vach-7.8.jpeg
   image_extra:
@@ -771,7 +771,7 @@
   group: ['vạch ngang đường']
   meaning:
   docs: |+
-    Vạch 7.8: Vạch xác định khoảng cách xe trên đường.  
+    Vạch 7.8: Vạch xác định khoảng cách xe trên đường.
 
     Ý nghĩa sử dụng:
     - Vạch 7.8 là vạch dùng để xác định khoảng cách trên đường, giúp cho lái xe biết cần phải giãn cách cự ly để đảm bảo an toàn với xe chạy phía trước. 
@@ -792,7 +792,7 @@
 
 8.1a:
   short_name: Vạch 8.1
-  full_name:
+  full_name: Vạch đứng trên mốc cố định
   aka:
   image: Vach-8.1a.png
   attribute:
@@ -821,7 +821,7 @@
 
 8.1b:
   short_name: Vạch 8.1
-  full_name:
+  full_name: Vạch đứng trên mốc cố định
   aka:
   image: Vach-8.1b.png
   attribute:
@@ -834,7 +834,7 @@
 
 8.2:
   short_name: Vạch 8.2
-  full_name:
+  full_name: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
   aka:
   image: Vach-8.2.png
   attribute:
@@ -854,7 +854,7 @@
 
 8.3:
   short_name: Vạch 8.3
-  full_name:
+  full_name: Vạch kẻ xung quanh các cột tròn đặt trên các đảo an toàn, trên dải phân cách và các vị trí tương tự
   aka:
   image: Vach-8.3.png
   attribute:
@@ -874,7 +874,7 @@
 
 8.4:
   short_name: Vạch 8.4
-  full_name:
+  full_name: Vạch kẻ trên cột tín hiệu, cột rào chắn, cột tiêu
   aka:
   image: Vach-8.4.png
   attribute:
@@ -893,7 +893,7 @@
 
 8.5:
   short_name: Vạch 8.5
-  full_name:
+  full_name: Vạch kẻ ở thanh ngang trên cùng của hàng rào chắn chỗ đường cong có bán kính nhỏ, đường cao hơn so với khu vực xung quanh, đường dốc xuống và những nơi nguy hiểm khác
   aka:
   image: Vach-8.5.png
   attribute:
@@ -911,7 +911,7 @@
 
 8.6:
   short_name: Vạch 8.6
-  full_name:
+  full_name: Vạch kẻ ở thanh trên cùng của rào chắn ở những nơi đặc biệt nguy hiểm
   aka:
   image: Vach-8.6.png
   attribute:
@@ -928,7 +928,7 @@
 
 8.7:
   short_name: Vạch 8.7
-  full_name:
+  full_name: Vạch kẻ ở hàng vỉa các vỉa hè nơi nguy hiểm hoặc hàng vỉa của đảo an toàn
   aka:
   image: Vach-8.7.png
   attribute:
@@ -953,7 +953,7 @@
 
 9.1:
   short_name: Vạch 9.1
-  full_name:
+  full_name: Vạch cấm xe quay đầu
   aka:
   image: Vach-9.1.jpeg
   attribute:
@@ -973,7 +973,7 @@
 
 9.2:
   short_name: Vạch 9.2
-  full_name:
+  full_name: Vạch quy định vị trí dừng đỗ của phương tiện giao thông công cộng trên đường
   aka:
   image: Vach-9.2.jpeg
   attribute:
@@ -996,7 +996,7 @@
 
 9.3:
   short_name: Vạch 9.3
-  full_name:
+  full_name: Vạch mũi tên chỉ hướng trên mặt đường
   aka:
   image: Vach-9.3a.png
   image_extra: Vach-9.3b.png
@@ -1027,7 +1027,7 @@
 
 9.4:
   short_name: Vạch 9.4
-  full_name:
+  full_name: Vạch mũi tên báo số làn xe phía trước bị giảm
   aka:
   image: Vach-9.4.jpeg
   attribute:
@@ -1218,7 +1218,7 @@
 
 9.6:
   short_name: Vạch 9.6
-  full_name:
+  full_name: Vạch ký hiệu xe đạp trên mặt đường
   aka:
   image: Vach-9.6.png
   attribute:
@@ -1242,9 +1242,9 @@
 
 9.7:
   short_name: Màu sắc mặt đường
-  full_name:
+  full_name: Màu sắc mặt đường
   aka:
-  image: Vach-9.7.png
+  # image: Vach-9.7.png
   group: ['vạch loại khác']
   meaning: Trong một số trường hợp, có thể sử dụng màu sắc mặt đường để cảnh báo giao thông.
   docs: |+
