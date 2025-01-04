@@ -37,7 +37,7 @@ export const LINKS: {
   },
   {
     name: 'Nghị định 168/2024 - Mind map',
-    url: '/markmap/nghi-dinh-168-2024-mind-map',
+    url: '/markmap/nghi-dinh-168-2024',
     description: '',
   },
   {
