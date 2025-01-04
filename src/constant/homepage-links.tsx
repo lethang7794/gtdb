@@ -11,7 +11,7 @@ export const LINKS: {
   },
   {
     name: 'Phương tiện tham gia giao thông',
-    url: 'phuong-tien-tham-gia-GTDB',
+    url: '/markmap/phuong-tien-tham-gia-GTDB',
     description: '',
   },
   { name: 'Vạch kẻ đường', url: '/vach-ke-duong', description: '' },
@@ -33,6 +33,11 @@ export const LINKS: {
   {
     name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
     url: '/vbpl/toc-do-khoang-cach-an-toan',
+    description: '',
+  },
+  {
+    name: 'Nghị định 168/2024 - Mind map',
+    url: '/markmap/nghi-dinh-168-2024-mind-map',
     description: '',
   },
   {

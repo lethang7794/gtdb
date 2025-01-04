@@ -6,9 +6,5 @@ import './style.css'
 export default async function BietTuongListPage() {
   const data = getVehicles()
 
-  return (
-    <div className="h-full flex flex-col">
-      <Markmap data={data} extra={<ChuThich />} />
-    </div>
-  )
+  return <Markmap data={data} extra={<ChuThich />} />
 }

@@ -18,7 +18,7 @@ const initValue = `# markmap
 
 interface MarkmapRenderProps {
   data?: string
-  extra: ReactNode
+  extra?: ReactNode
 }
 
 export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
@@ -37,7 +37,7 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     console.log('create', refSvg.current)
     refMm.current = mm
     renderToolbar(refMm.current, refToolbar.current)
-  }, [refSvg.current])
+  }, [])
 
   useEffect(() => {
     // Update data for markmap once value is changed
@@ -56,7 +56,7 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     //   // maxWidth: 300,
     //   // initialExpandLevel: 4,
     // })
-  }, [refMm.current, value])
+  }, [value])
 
   return (
     <>
