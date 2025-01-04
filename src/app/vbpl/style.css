@@ -1,0 +1,31 @@
+/* 
+ * Remark TOC
+ */
+
+h2#mục-lục + ul > li > a {
+  font-weight: bold;
+}
+
+h2#mục-lục + ul > li > ul {
+  padding-top: 8px;
+}
+
+h2#mục-lục + ul > li > ul:has(ul) > li > a {
+  font-weight: bold;
+}
+
+h2#mục-lục + ul > li > ul:has(ul) > li > ul {
+  padding-top: 4px;
+  padding-bottom: 8px;
+}
+
+/* Make the heading links look normal */
+.markdown-body h1 > a,
+.markdown-body h2 > a,
+.markdown-body h3 > a,
+.markdown-body h4 > a,
+.markdown-body h5 > a,
+.markdown-body h6 > a {
+  font-weight: bold !important;
+  color: inherit !important;
+}

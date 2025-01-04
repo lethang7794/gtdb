@@ -18,7 +18,7 @@ const withMDX = createMDX({
       [remarkTOC, { heading: '(table[ -]of[ -])?contents?|toc|mục lục' }],
       remarkGfm,
     ],
-    rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
+    rehypePlugins: [rehypeSlug, [rehypeAutolinkHeadings, { behavior: 'wrap' }]],
     remarkRehypeOptions: {
       clobberPrefix: 'footnote-',
       footnoteLabel: 'Chú thích',
