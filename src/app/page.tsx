@@ -3,7 +3,8 @@ import { LINKS } from '@/constant/homepage-links'
 
 export default async function Home() {
   return (
-    <div className="flex h-full flex-col justify-between m-6 md:m-8">
+    <div className="flex h-full flex-col justify-start m-6 md:m-8">
+      <h1 className="self-center text-4xl font-bold">An toàn giao thông đường bộ</h1>
       <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
         {LINKS.map((item) => {
           return (
