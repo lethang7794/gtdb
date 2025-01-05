@@ -1,0 +1,31 @@
+.markdown-body h4,
+.markdown-body h5 {
+  font-size: 1rem;
+}
+
+.markdown-body h5 a {
+  font-weight: normal !important;
+}
+
+.markdown-body h5 {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+.markdown-body #mục-lục + ul ~ p {
+  margin-left: 32px;
+}
+
+.markdown-body #mục-lục + ul ~ ul li {
+  margin-left: 16px;
+}
+
+h2#mục-lục + ul > li > ul:has(ul) > li > ul {
+  padding-top: 4px;
+  padding-bottom: 8px;
+}
+
+h2#mục-lục + ul > li > ul > li > ul > li > ul {
+  background-color: deeppink;
+  display: none;
+}
