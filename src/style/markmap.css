@@ -2,9 +2,37 @@
   display: none !important;
 }
 
+.markmap-foreign img {
+  margin-top: -12px;
+  padding-top: 6px;
+}
+
+
 .markmap {
   --markmap-font: 300 16px/20px sans-serif;
   font: var(--markmap-font);
+  background-color: var(--bgColor-default);
+}
+
+@media (prefers-color-scheme: dark) {
+  .markmap,
+  [data-theme='dark'] {
+    color-scheme: dark;
+    --bgColor-default: #0d1117;
+    --bgColor-muted: #161b22;
+    --bgColor-neutral-muted: #6e768166;
+    --bgColor-attention-muted: #bb800926;
+  }
+}
+@media (prefers-color-scheme: light) {
+  .markmap,
+  [data-theme='light'] {
+    color-scheme: light;
+    --bgColor-default: #fff;
+    --bgColor-muted: #f6f8fa;
+    --bgColor-neutral-muted: #afb8c133;
+    --bgColor-attention-muted: #fff8c5;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,7 +47,7 @@
 
     .markmap-foreign {
       a {
-        color: var(--fgColor-accent) !important;
+        /* color: var(--fgColor-accent) !important; */
         font-weight: bold;
         &:hover {
           color: var(--markmap-a-hover-color);
