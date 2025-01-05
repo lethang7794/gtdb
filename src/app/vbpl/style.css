@@ -2,6 +2,11 @@
  * Remark TOC
  */
 
+h2#mục-lục + ul {
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
 h2#mục-lục + ul > li > a {
   font-weight: bold;
 }

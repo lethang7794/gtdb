@@ -1,6 +1,7 @@
 'use client'
 
 import type React from 'react'
+import { useRouter } from 'next/navigation'
 import { useState, useRef, useEffect, type ReactNode } from 'react'
 import { useKeyPress } from 'ahooks'
 import { loadCSS, loadJS, Markmap } from 'markmap-view'
@@ -30,7 +31,9 @@ export default function MarkmapRender({
   extra,
   options = {},
 }: MarkmapRenderProps) {
+  const router = useRouter()
   const [value, setValue] = useState(data || initValue)
+
   // Ref for SVG element
   const refSvg = useRef<SVGSVGElement>(null)
   // Ref for markmap object
@@ -79,8 +82,9 @@ export default function MarkmapRender({
     refMm.current?.ensureView(refMm.current?.state.data!, undefined)
   })
   useKeyPress('h', () => {
-    console.log('h', { refSvg })
     refSvg.current?.scrollIntoView({ behavior: 'smooth' })
+    const cleanedHref = window.location.href.split(/[?#]/)[0]
+    router.replace(`${cleanedHref}#tóm-tắt`)
   })
 
   return (
@@ -105,8 +109,9 @@ function renderToolbar(mm: Markmap, wrapper: HTMLElement) {
     //   onClick: () => alert('You made it!'),
     // })
     const items = Toolbar.defaultItems.slice(0, -1)
+    const swappedItems = [items[1], items[0], items[2]]
     console.log({ items })
-    toolbar.setItems(items)
+    toolbar.setItems(swappedItems)
     wrapper.append(toolbar.render())
   }
 }
