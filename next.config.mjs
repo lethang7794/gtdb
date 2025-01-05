@@ -3,6 +3,7 @@ import remarkTOC from 'remark-toc'
 import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkGfm from 'remark-gfm'
+import rehypeStringify from 'rehype-stringify'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -18,10 +19,15 @@ const withMDX = createMDX({
       [remarkTOC, { heading: '(table[ -]of[ -])?contents?|toc|mục lục' }],
       remarkGfm,
     ],
-    rehypePlugins: [rehypeSlug, [rehypeAutolinkHeadings, { behavior: 'wrap' }]],
+    rehypePlugins: [
+      rehypeSlug,
+      [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+      rehypeStringify,
+    ],
     remarkRehypeOptions: {
       clobberPrefix: 'footnote-',
       footnoteLabel: 'Chú thích',
+      allowDangerousHtml: true,
     },
   },
 })
