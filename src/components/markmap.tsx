@@ -2,9 +2,11 @@
 
 import type React from 'react'
 import { useState, useRef, useEffect, type ReactNode } from 'react'
+import { useKeyPress } from 'ahooks'
 import { loadCSS, loadJS, Markmap } from 'markmap-view'
 import { Toolbar } from 'markmap-toolbar'
 import { Transformer } from 'markmap-lib'
+import type { IMarkmapOptions } from 'markmap-common'
 import * as markmap from 'markmap-view'
 import 'markmap-toolbar/dist/style.css'
 import '@/style/markmap.css'
@@ -20,9 +22,14 @@ const initValue = `# markmap
 interface MarkmapRenderProps {
   data?: string
   extra?: ReactNode
+  options?: Partial<IMarkmapOptions>
 }
 
-export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
+export default function MarkmapRender({
+  data,
+  extra,
+  options = {},
+}: MarkmapRenderProps) {
   const [value, setValue] = useState(data || initValue)
   // Ref for SVG element
   const refSvg = useRef<SVGSVGElement>(null)
@@ -34,11 +41,14 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
   useEffect(() => {
     // Create markmap and save to refMm
     if (refMm.current || !refToolbar.current || !refSvg.current) return
-    const mm = Markmap.create(refSvg.current, { autoFit: true })
-    console.log('create', refSvg.current)
+    const mm = Markmap.create(refSvg.current, {
+      autoFit: true,
+      spacingVertical: 12,
+      ...options,
+    })
     refMm.current = mm
     renderToolbar(refMm.current, refToolbar.current)
-  }, [])
+  }, [options])
 
   useEffect(() => {
     // Update data for markmap once value is changed
@@ -52,11 +62,7 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
 
     const { root } = transformer.transform(value)
     mm.setData(root)
-    mm.fit()
-    // mm.setOptions({
-    //   // maxWidth: 300,
-    //   // initialExpandLevel: 4,
-    // })
+    // mm.fit()
   }, [value])
 
   useKeyPress('f', () => {
@@ -76,6 +82,7 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     console.log('h', { refSvg })
     refSvg.current?.scrollIntoView({ behavior: 'smooth' })
   })
+
   return (
     <div className="relative h-full w-full">
       <svg className="h-full w-full markmap" ref={refSvg} />
