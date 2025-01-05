@@ -7,6 +7,7 @@ import { Toolbar } from 'markmap-toolbar'
 import { Transformer } from 'markmap-lib'
 import * as markmap from 'markmap-view'
 import 'markmap-toolbar/dist/style.css'
+import '@/style/markmap.css'
 
 const initValue = `# markmap
 
@@ -33,7 +34,7 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
   useEffect(() => {
     // Create markmap and save to refMm
     if (refMm.current || !refToolbar.current || !refSvg.current) return
-    const mm = Markmap.create(refSvg.current)
+    const mm = Markmap.create(refSvg.current, { autoFit: true })
     console.log('create', refSvg.current)
     refMm.current = mm
     renderToolbar(refMm.current, refToolbar.current)
@@ -59,11 +60,11 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
   }, [value])
 
   return (
-    <>
-      <svg className="h-full markmap" ref={refSvg} />
+    <div className="relative h-full w-full">
+      <svg className="h-full w-full markmap" ref={refSvg} />
       {extra}
       <div className="absolute bottom-1 right-1" ref={refToolbar} />
-    </>
+    </div>
   )
 }
 
@@ -80,6 +81,7 @@ function renderToolbar(mm: Markmap, wrapper: HTMLElement) {
     //   onClick: () => alert('You made it!'),
     // })
     const items = Toolbar.defaultItems.slice(0, -1)
+    console.log({ items })
     toolbar.setItems(items)
     wrapper.append(toolbar.render())
   }
