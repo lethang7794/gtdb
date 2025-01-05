@@ -5,9 +5,5 @@ import './style.css'
 export default async function BietTuongListPage() {
   const data = getNghiDinh168MindMap()
 
-  return (
-    <div className="h-full flex flex-col">
-      <Markmap data={data} />
-    </div>
-  )
+  return <Markmap data={data} />
 }
