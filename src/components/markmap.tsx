@@ -59,6 +59,23 @@ export default function MarkmapRender({ data, extra }: MarkmapRenderProps) {
     // })
   }, [value])
 
+  useKeyPress('f', () => {
+    refMm.current?.fit()
+  })
+  useKeyPress('a', () => {
+    refMm.current?.rescale(0.8)
+  })
+  useKeyPress('s', () => {
+    refMm.current?.rescale(1.25)
+  })
+  useKeyPress('c', () => {
+    // biome-ignore lint/style/noNonNullAssertion: <explanation>
+    refMm.current?.ensureView(refMm.current?.state.data!, undefined)
+  })
+  useKeyPress('h', () => {
+    console.log('h', { refSvg })
+    refSvg.current?.scrollIntoView({ behavior: 'smooth' })
+  })
   return (
     <div className="relative h-full w-full">
       <svg className="h-full w-full markmap" ref={refSvg} />
