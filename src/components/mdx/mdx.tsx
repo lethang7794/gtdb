@@ -7,7 +7,7 @@ import '@/style/github-markdown-custom.css'
 
 export function MDX({ mdxSource }: { mdxSource: MDXRemoteSerializeResult }) {
   return (
-    <div className={GITHUB_MARKDOWN_CSS_CLASS}>
+    <div className={`${GITHUB_MARKDOWN_CSS_CLASS} font-sans`}>
       <div className="px-6">
         <MDXRemote {...mdxSource} />
       </div>
