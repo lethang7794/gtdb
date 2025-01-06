@@ -12,6 +12,16 @@
   --markmap-font: 300 16px/20px sans-serif;
   font: var(--markmap-font);
   background-color: var(--bgColor-default);
+
+  .markmap-foreign {
+    a {
+      /* color: var(--fgColor-accent) !important; */
+      font-weight: bold;
+      &:hover {
+        color: var(--markmap-a-hover-color);
+      }
+    }
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -44,16 +54,6 @@
     --markmap-circle-open-bg: #444;
     --markmap-text-color: #eee;
     color: #fff !important;
-
-    .markmap-foreign {
-      a {
-        /* color: var(--fgColor-accent) !important; */
-        font-weight: bold;
-        &:hover {
-          color: var(--markmap-a-hover-color);
-        }
-      }
-    }
   }
 }
 

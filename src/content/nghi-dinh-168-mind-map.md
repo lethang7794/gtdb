@@ -55,7 +55,7 @@ markmap:
 
 #### [Điều 19]. ... _xe máy chuyên dùng_
 
-### [Mục 4][2.4]. ... _XE Ô TÔ VẬN CHUYỂN<br/>HÀNH KHÁCH, HÀNG HÓA_ ... <!-- markmap: fold -->
+### [Mục 4][2.4]. ... _XE Ô TÔ VẬN CHUYỂN HÀNH KHÁCH, HÀNG HÓA_ ... <!-- markmap: fold -->
 
 #### [Điều 20]. ... _xe ô tô chở hành khách_ ...
 
