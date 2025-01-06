@@ -22,7 +22,11 @@ export default async function Home() {
                   {item.name}
                 </Link>
                 {item.tags?.map((tag) => {
-                  return <Badge key={tag}>{tag}</Badge>
+                  return (
+                    <Badge key={tag} className="h-fit w-min">
+                      {tag}
+                    </Badge>
+                  )
                 })}
               </div>
               {item.description ? (
@@ -46,7 +50,11 @@ export default async function Home() {
                   {item.name}
                 </Link>
                 {item.tags?.map((tag) => {
-                  return <Badge key={tag}>{tag}</Badge>
+                  return (
+                    <Badge key={tag} className="h-fit w-min">
+                      {tag}
+                    </Badge>
+                  )
                 })}
               </div>
               {item.description ? (
