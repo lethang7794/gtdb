@@ -9,7 +9,7 @@ export default async function Home() {
         An toàn giao thông đường bộ
       </h1>
 
-      <h2 className="text-3xl">Luật và văn bản pháp luật:</h2>
+      <h2 className="mt-8 text-3xl">Luật và văn bản pháp luật:</h2>
       <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
         {LINKS.map((item) => {
           return (
@@ -37,7 +37,7 @@ export default async function Home() {
         })}
       </ol>
 
-      <h2 className="text-3xl mt-4">Thông tin liên quan:</h2>
+      <h2 className="mt-8 text-3xl">Thông tin liên quan:</h2>
       <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
         {USEFUL_LINKS.map((item) => {
           return (
