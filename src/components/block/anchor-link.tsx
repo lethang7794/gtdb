@@ -24,7 +24,7 @@ export default function AnchorLink({ id, children }: Props) {
           description: `${shareLink}`,
         })
       }}
-      className="inline-block min-w-8 text-center border-solid hover:border-dotted border-2 border-sky-500 px-2 rounded-md"
+      className="anchor-link inline-block min-w-6 text-center border-2 border-sky-500 rounded-md"
     >
       {children}
     </span>

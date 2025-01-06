@@ -28,7 +28,7 @@
   .markmap,
   [data-theme='dark'] {
     color-scheme: dark;
-    --bgColor-default: #hsl(212, 19%, 16%);
+    --bgColor-default: hsl(212, 19%, 16%);
     --bgColor-muted: #161b22;
     --bgColor-neutral-muted: #6e768166;
     --bgColor-attention-muted: #bb800926;

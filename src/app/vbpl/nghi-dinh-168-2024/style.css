@@ -38,3 +38,18 @@ h2#mục-lục + ul > li > ul > li > ul > li > ul {
   background-color: deeppink;
   display: none;
 }
+
+a:has(span.anchor-link) span.anchor-link,
+p:has(span.anchor-link) span.anchor-link {
+  border-color: transparent;
+}
+a:has(span.anchor-link):hover span.anchor-link,
+p:has(span.anchor-link):hover span.anchor-link {
+  border-style: dotted;
+  border-color: hsl(198.6, 88.7%, 48.4%);
+}
+a:has(span.anchor-link) span.anchor-link:active,
+p:has(span.anchor-link) span.anchor-link:active {
+  border-style: solid;
+  border-color: hsl(198.6, 88.7%, 48.4%);
+}
