@@ -1,34 +1,14 @@
-export const LINKS: {
+interface HomepageLink {
   name: string
   url: string
   description?: string
-}[] = [
-  { name: 'Biển báo giao thông - Danh sách', url: '/bbgt', description: '' },
-  {
-    name: 'Biển báo giao thông - So sánh',
-    url: '/bbgt-so-sanh',
-    description: '',
-  },
-  {
-    name: 'Phương tiện tham gia giao thông',
-    url: '/markmap/phuong-tien-tham-gia-GTDB',
-    description: '',
-  },
-  { name: 'Vạch kẻ đường', url: '/vach-ke-duong', description: '' },
-  { name: 'Thuật ngữ', url: '/thuat-ngu', description: '' },
-  {
-    name: 'Luật Giao thông đường bộ (2008)',
-    url: '/vbpl/luat-GTDB-2008',
-    description: 'Có hiệu lực đến 31/12/2024',
-  },
+  tags?: string[]
+}
+
+export const LINKS: HomepageLink[] = [
   {
     name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
     url: '/vbpl/luat-TTATGTDB-2024',
-    description: 'Có hiệu lực từ 1/1/2025',
-  },
-  {
-    name: 'Giấy phép lái xe (bằng lái xe)',
-    url: '/vbpl/giay-phep-lai-xe',
   },
   {
     name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
@@ -36,22 +16,57 @@ export const LINKS: {
     description: '',
   },
   {
-    name: 'Nghị định 168/2024 - Mind map',
+    name: 'Nghị định 168/2024',
     url: '/markmap/nghi-dinh-168-2024',
     description: '',
+    tags: ['Tóm tắt'],
   },
   {
-    name: 'Nghị định 168/2024 - Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe',
+    name: 'Nghị định 168/2024 - Xử phạt vi phạm trong giao thông đường bộ',
     url: '/vbpl/nghi-dinh-168-2024',
     description: '',
   },
 ]
 
-export const EXTRA_LINKS: {
-  name: string
-  url: string
-  description?: string
-}[] = [
+export const USEFUL_LINKS: HomepageLink[] = [
+  {
+    name: 'Biển báo giao thông',
+    url: '/bbgt',
+    description: '',
+    tags: ['Danh sách', 'Chi tiết'],
+  },
+  {
+    name: 'Biển báo giao thông',
+    url: '/bbgt-so-sanh',
+    description: '',
+    tags: ['So sánh'],
+  },
+  {
+    name: 'Phương tiện tham gia giao thông',
+    url: '/markmap/phuong-tien-tham-gia-GTDB',
+    description: '',
+    tags: ['Tóm tắt'],
+  },
+  {
+    name: 'Vạch kẻ đường',
+    url: '/vach-ke-duong',
+    description: '',
+    tags: ['Danh sách', 'Chi tiết'],
+  },
+  {
+    name: 'Giấy phép lái xe (bằng lái xe)',
+    url: '/vbpl/giay-phep-lai-xe',
+    tags: ['Tổng hợp'],
+  },
+  { name: 'Thuật ngữ', url: '/thuat-ngu', description: '' },
+  {
+    name: 'Luật Giao thông đường bộ (2008)',
+    url: '/vbpl/luat-GTDB-2008',
+    description: 'Đã hết hiệu lực',
+  },
+]
+
+export const EXTRA_LINKS: HomepageLink[] = [
   {
     name: 'Dashboard | Cục đường bộ Việt Nam',
     url: 'https://ttdh.drvn.gov.vn/#/dashboard',
