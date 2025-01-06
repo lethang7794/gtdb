@@ -147,35 +147,50 @@ markmap:
 
 ### 10. ... 10.000.000 ... 14.000.000 đồng ...
 
-- a. Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông; điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông;
+- a. Gây TNGT
 
-- b. Vi phạm quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông: điểm a, điểm d, điểm đ, điểm g, điểm h, điểm i, điểm k khoản 1; điểm c, điểm đ, điểm g khoản 2; điểm b, điểm e, điểm g, điểm h, điểm k khoản 3; điểm đ khoản 4; điểm c, điểm d khoản 6; điểm c, điểm d, điểm đ khoản 7; điểm a, điểm b, điểm h, điểm k khoản 9 Điều này.
+  - ... không quan sát, giảm tốc độ ...
+  - ... quá tốc độ quy định
+  - đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, vượt xe, chuyển hướng, chuyển làn đường ...
+  - không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn ...
+  - đi vào đường ... cấm ...
+  - đi ngược chiều ...
+
+- b. Gây TNGT:
+
+  - điểm a, điểm d, điểm đ, điểm g, điểm h, điểm i, điểm k khoản 1;
+  - điểm c, điểm đ, điểm g khoản 2;
+  - điểm b, điểm e, điểm g, điểm h, điểm k khoản 3;
+  - điểm đ khoản 4;
+  - điểm c, điểm d khoản 6;
+  - điểm c, điểm d, điểm đ khoản 7;
+  - điểm a, điểm b, điểm h, điểm k khoản 9 Điều này.
 
 ### 11. Tịch thu phương tiện ...
 
-- a. Buông cả hai tay khi đang điều khiển xe; dùng chân điều khiển xe; ngồi về một bên điều khiển xe; nằm trên yên xe điều khiển xe; thay người điều khiển khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe;
+- a. Buông cả hai tay ... _điều khiển xe_; dùng chân ...; ngồi về một bên ...; nằm trên yên xe ...; thay người điều khiển khi xe đang chạy; quay người về phía sau ... bịt mắt ...
 
-- b. Điều khiển xe chạy bằng một bánh đối với xe hai bánh, chạy bằng hai bánh đối với xe ba bánh;
+- b. ... chạy ... một bánh ...
 
-- c. Tái phạm hành vi điều khiển xe lạng lách, đánh võng quy định tại điểm a khoản 9 Điều này.
+- c. Tái phạm ... lạng lách, đánh võng ... điểm a khoản 9 Điều này.
 
 ### 12. ... xử phạt bổ sung ...
 
-- a. Thực hiện hành vi quy định tại điểm đ khoản 2 Điều này còn bị tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt, sử dụng trái quy định;
+- a. ... điểm đ khoản 2 Điều này ... tịch thu thiết bị phát tín hiệu ưu tiên ...
 
-- b. Thực hiện hành vi quy định tại điểm a, điểm b, điểm h, điểm i, điểm k khoản 9 Điều này bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
+- b. ... điểm a, điểm b, điểm h, điểm i, điểm k khoản 9 Điều này ... tước ... GPLX từ 10 ... 12 tháng;
 
-- c. Thực hiện hành vi quy định tại điểm d, điểm đ, điểm e, điểm g khoản 9; khoản 11 Điều này bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
+- c. ... điểm d, điểm đ, điểm e, điểm g khoản 9; khoản 11 Điều này bị tước ... GPLX từ 22 ... 24 tháng.
 
-### 13. ... trừ điểm giấy phép lái xe ...
+### 13. ... trừ điểm GPLX ...
 
-- a. Thực hiện hành vi quy định tại điểm b khoản 3; khoản 5; điểm b, điểm c, điểm d khoản 6; điểm a khoản 7 Điều này bị trừ điểm giấy phép lái xe 02 điểm;
+- a. ... điểm b khoản 3; khoản 5; điểm b, điểm c, điểm d khoản 6; điểm a khoản 7 Điều này ... trừ ... 02 điểm;
 
-- b. Thực hiện hành vi quy định tại điểm đ khoản 4; điểm a khoản 6; điểm c, điểm d, điểm đ khoản 7; điểm a khoản 8 Điều này bị trừ điểm giấy phép lái xe 04 điểm;
+- b. ... điểm đ khoản 4; điểm a khoản 6; điểm c, điểm d, điểm đ khoản 7; điểm a khoản 8 Điều này ... trừ ... 04 điểm;
 
-- c. Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;
+- c. ... điểm b khoản 7, điểm c khoản 9 Điều này ... trừ ... 06 điểm;
 
-- d. Thực hiện hành vi quy định tại điểm b khoản 8, khoản 10 Điều này bị trừ điểm giấy phép lái xe 10 điểm.
+- d. ... điểm b khoản 8, khoản 10 Điều này ... trừ ... 10 điểm.
 
 ## Điều 14. ... điều kiện ... phương tiện ...
 
@@ -229,7 +244,7 @@ markmap:
 
 - thu hồi chứng nhận đăng ký xe ...
 
-### 8. ... trừ điểm giấy phép lái xe ...
+### 8. ... trừ điểm GPLX ...
 
 - a. ... điểm a, điểm b, điểm c khoản 2 Điều này ... trừ ... 02 điểm;
 
