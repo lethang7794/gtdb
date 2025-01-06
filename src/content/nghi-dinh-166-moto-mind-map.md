@@ -9,47 +9,47 @@ markmap:
 
 ### 1. ... 200.000 ... 400.000 đồng ...
 
-a. Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm b, điểm d, điểm e khoản 2; điểm a, điểm c, điểm d, điểm h khoản 3; điểm a, điểm b, điểm c, điểm d khoản 4; điểm b, điểm d khoản 6; điểm a, điểm b, điểm c khoản 7; điểm a khoản 8; điểm b khoản 9; điểm a khoản 10 Điều này;
+a. ... biển báo hiệu, vạch kẻ đường ...
 
-b. Không có tín hiệu trước khi vượt hoặc có tín hiệu vượt xe nhưng không sử dụng trong suốt quá trình vượt xe;
+b. ... tín hiệu vượt xe ...
 
-c. Lùi xe mô tô ba bánh không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe;
+c. Lùi xe ... quan sát ... tín hiệu lùi xe;
 
-d. Chở người ngồi trên xe sử dụng ô (dù);
+d. ... sử dụng ô (dù);
 
-đ. Không tuân thủ các quy định về nhường đường tại nơi đường giao nhau, trừ các hành vi vi phạm quy định tại điểm c, điểm d khoản 6 Điều này;
+đ. ... nhường đường ... nơi đường giao nhau
 
-e. Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định “mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề”;
+e. Chuyển làn đường ...
 
-g. Không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn;
+g. ... đèn chiếu sáng ...
 
-h. Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động hoặc khi gặp xe đi ngược chiều (trừ trường hợp dải phân cách có khả năng chống chói) hoặc khi chuyển hướng xe tại nơi đường giao nhau; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+h. Tránh xe ...; ... đèn chiếu xa ...; ... nhường đường ... xe đi ngược chiều ...
 
-i. Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;
+i. ... còi ...
 
-k. Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép.
+k. ... tốc độ tối thiểu ...
 
 ### 2. ... 400.000 ... 600.000 đồng ...
 
-a. Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường;
+a. Dừng xe, đỗ xe ... phần đường xe chạy ... ngoài đô thị ...
 
-b. Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h;
+b. ... chạy quá tốc độ ... dưới 10 km/h;
 
-c. Điều khiển xe chạy tốc độ thấp mà không đi bên phải phần đường xe chạy gây cản trở giao thông;
+c. ... chạy tốc độ thấp ... gây cản trở giao thông;
 
-d. Dừng xe, đỗ xe ở lòng đường gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ; đỗ, để xe ở lòng đường, vỉa hè trái phép;
+d. Dừng xe, đỗ xe ở lòng đường ...; ... 03 xe trở lên ...
 
-đ. Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên;
+đ. ... thiết bị phát tín hiệu ... ưu tiên;
 
-e. Dừng xe, đỗ xe trên điểm đón, trả khách, nơi đường bộ giao nhau, trên phần đường dành cho người đi bộ qua đường; dừng xe nơi có biển “Cấm dừng xe và đỗ xe”; đỗ xe tại nơi có biển “Cấm đỗ xe” hoặc biển “Cấm dừng xe và đỗ xe”; không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt; dừng xe, đỗ xe trong phạm vi hành lang an toàn giao thông đường sắt;
+e. Dừng xe, đỗ xe ... điểm đón, trả khách, ... giao nhau, ... người đi bộ qua đường; ...
 
-g. Chở theo 02 người trên xe, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật, áp giải người có hành vi vi phạm pháp luật;
+g. Chở ... 02 người ...
 
-h. Không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách khi điều khiển xe tham gia giao thông trên đường bộ;
+h. Không đội “mũ bảo hiểm ...” ... không cài quai ...
 
-i. Chở người ngồi trên xe không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật;
+i. Chở người ... không đội “mũ bảo hiểm ...” ... không cài quai đúng quy cách...
 
-k. Quay đầu xe tại nơi không được quay đầu xe, trừ hành vi vi phạm quy định tại điểm d khoản 4 Điều này.
+k. Quay đầu xe ...
 
 ### 3. ... 600.000 ... 800.000 đồng ...
 
