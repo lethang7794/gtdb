@@ -39,14 +39,57 @@ h2#mục-lục + ul > li > ul > li > ul > li > ul {
   display: none;
 }
 
+h2#mục-lục + ul a:hover span.anchor-link {
+  pointer-events: none;
+  text-decoration: underline;
+}
+
+span.anchor-link svg {
+}
+
+span.anchor-link svg {
+  color: hsl(198.6, 88.7%, 48.4%);
+}
+span.anchor-link:hover svg {
+  color: hsl(198.6, 88.7%, 30%);
+}
+
 a:has(span.anchor-link) span.anchor-link,
 p:has(span.anchor-link) span.anchor-link {
   border-color: transparent;
+
+  svg {
+    position: absolute;
+    left: -1.1em;
+    top: 0.25em;
+    vertical-align: baseline;
+    display: none;
+    width: 1.25em;
+    height: 1em;
+    padding-right: 0.25em;
+
+    :hover {
+      color: hsl(198.6, 88.7%, 30%);
+    }
+  }
 }
+
+h2 a:has(span.anchor-link):hover span.anchor-link {
+  text-decoration: underline;
+
+}
+
 a:has(span.anchor-link):hover span.anchor-link,
 p:has(span.anchor-link):hover span.anchor-link {
   border-style: dotted;
   border-color: hsl(198.6, 88.7%, 48.4%);
+  svg {
+    display: initial;
+
+    :hover {
+      color: hsl(198.6, 88.7%, 30%);
+    }
+  }
 }
 a:has(span.anchor-link) span.anchor-link:active,
 p:has(span.anchor-link) span.anchor-link:active {

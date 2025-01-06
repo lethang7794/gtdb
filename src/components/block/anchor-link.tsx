@@ -2,6 +2,7 @@
 
 import { useToast } from '@/hooks/use-toast'
 import type { ReactNode } from 'react'
+import { Link2 } from 'lucide-react'
 
 type Props = {
   id: string
@@ -24,8 +25,9 @@ export default function AnchorLink({ id, children }: Props) {
           description: `${shareLink}`,
         })
       }}
-      className="anchor-link inline-block min-w-6 text-center border-2 border-sky-500 rounded-md"
+      className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
     >
+      <Link2 />
       {children}
     </span>
   )
