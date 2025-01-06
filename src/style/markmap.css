@@ -28,7 +28,7 @@
   .markmap,
   [data-theme='dark'] {
     color-scheme: dark;
-    --bgColor-default: #0d1117;
+    --bgColor-default: #hsl(212, 19%, 16%);
     --bgColor-muted: #161b22;
     --bgColor-neutral-muted: #6e768166;
     --bgColor-attention-muted: #bb800926;
@@ -53,7 +53,7 @@
     --markmap-code-color: #ddd;
     --markmap-circle-open-bg: #444;
     --markmap-text-color: #eee;
-    color: #fff !important;
+    color: hsl(216, 19.5%, 84.9%) !important;
   }
 }
 
