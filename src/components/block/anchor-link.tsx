@@ -54,11 +54,11 @@ function explainShareLink(id: string): string {
   }
   if (id.match(/^\d+.\d+$/)) {
     const [dieu, khoan] = id.split('.')
-    return `khoản ${khoan}, điều ${dieu}`
+    return `Khoản ${khoan}, điều ${dieu}`
   }
   if (id.match(/^\d+.\d+.\w$/)) {
     const [dieu, khoan, diem] = id.split('.')
-    return `điểm ${diem}, khoản ${khoan}, điều ${dieu}`
+    return `Điểm ${diem}, khoản ${khoan}, điều ${dieu}`
   }
   return ''
 }
