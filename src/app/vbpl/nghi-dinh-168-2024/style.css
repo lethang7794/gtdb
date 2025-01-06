@@ -4,13 +4,21 @@
   line-height: 24px;
 }
 
-.markdown-body h5 a {
-  font-weight: normal !important;
+.markdown-body h4 a:hover,
+.markdown-body h5 a:hover {
+  text-decoration: none;
 }
 
 .markdown-body h5 {
   margin-top: 16px;
   margin-left: 16px;
+}
+
+.markdown-body h5 a {
+  font-weight: normal !important;
+}
+.markdown-body h5:has(+ p) a {
+  font-weight: bold !important;
 }
 
 .markdown-body #mục-lục + ul ~ p {
