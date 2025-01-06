@@ -7,15 +7,6 @@ interface HomepageLink {
 
 export const LINKS: HomepageLink[] = [
   {
-    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
-    url: '/vbpl/luat-TTATGTDB-2024',
-  },
-  {
-    name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
-    url: '/vbpl/toc-do-khoang-cach-an-toan',
-    description: '',
-  },
-  {
     name: 'Nghị định 168/2024',
     url: '/markmap/nghi-dinh-168-2024',
     description: '',
@@ -24,6 +15,15 @@ export const LINKS: HomepageLink[] = [
   {
     name: 'Nghị định 168/2024 - Xử phạt vi phạm trong giao thông đường bộ',
     url: '/vbpl/nghi-dinh-168-2024',
+    description: '',
+  },
+  {
+    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
+    url: '/vbpl/luat-TTATGTDB-2024',
+  },
+  {
+    name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
+    url: '/vbpl/toc-do-khoang-cach-an-toan',
     description: '',
   },
 ]
