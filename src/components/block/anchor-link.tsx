@@ -25,7 +25,7 @@ export default function AnchorLink({ id, children }: Props) {
         handleCopyLink(e, id)
         alert(`${id} copied`)
       }}
-      className="inline-block border-solid border-2 border-sky-500 px-2 rounded-md"
+      className="inline-block border-solid hover:border-dotted border-2 border-sky-500 px-2 rounded-md"
     >
       {children}
     </span>
