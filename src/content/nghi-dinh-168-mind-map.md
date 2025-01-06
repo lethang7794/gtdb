@@ -142,70 +142,70 @@ markmap:
 ### [Điều 55]. _Trách nhiệm_ thi hành
 
 [Nghị định 168/2024]: /vbpl/nghi-dinh-168-2024
-[Chương I]: /vbpl/nghi-dinh-168-2024#chương-i-những-quy-định-chung
-[Điều 1]: /vbpl/nghi-dinh-168-2024#điều-1-phạm-vi-điều-chỉnh
-[Điều 2]: /vbpl/nghi-dinh-168-2024#điều-2-đối-tượng-áp-dụng
-[Điều 3]: /vbpl/nghi-dinh-168-2024#điều-3-hình-thức-xử-phạt-vi-phạm-hành-chính-biện-pháp-khắc-phục-hậu-quả-thu-hồi-giấy-phép-chứng-chỉ-hành-nghề
-[Điều 4]: /vbpl/nghi-dinh-168-2024#điều-4-thời-hiệu-xử-phạt-vi-phạm-hành-chính-hành-vi-vi-phạm-hành-chính-đã-kết-thúc-hành-vi-vi-phạm-hành-chính-đang-thực-hiện
-[Điều 5]: /vbpl/nghi-dinh-168-2024#điều-5-tước-quyền-sử-dụng-giấy-phép-chứng-chỉ-hành-nghề-có-thời-hạn
-[Chương II]: /vbpl/nghi-dinh-168-2024#chương-ii-hành-vi-vi-phạm-hình-thức-mức-xử-phạt-mức-trừ-điểm-giấy-phép-lái-xe-và-biện-pháp-khắc-phục-hậu-quả-vi-phạm-hành-chính-về-trật-tự-an-toàn-giao-thông-trong-lĩnh-vực-giao-thông-đường-bộ
-[2.1]: /vbpl/nghi-dinh-168-2024#mục-1-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 6]: /vbpl/nghi-dinh-168-2024#điều-6-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-xe-chở-người-bốn-bánh-có-gắn-động-cơ-xe-chở-hàng-bốn-bánh-có-gắn-động-cơ-và-các-loại-xe-tương-tự-xe-ô-tô-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 7]: /vbpl/nghi-dinh-168-2024#điều-7-xử-phạt-trừ-điểm-giấy-phép-lái-của-người-điều-khiển-xe-mô-tô-xe-gắn-máy-các-loại-xe-tương-tự-xe-mô-tô-và-các-loại-xe-tương-tự-xe-gắn-máy-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 8]: /vbpl/nghi-dinh-168-2024#điều-8-xử-phạt-người-điều-khiển-xe-máy-chuyên-dùng-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 9]: /vbpl/nghi-dinh-168-2024#điều-9-xử-phạt-người-điều-khiển-xe-đạp-xe-đạp-máy-người-điều-khiển-xe-thô-sơ-khác-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 10]: /vbpl/nghi-dinh-168-2024#điều-10-xử-phạt-người-đi-bộ-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 11]: /vbpl/nghi-dinh-168-2024#điều-11-xử-phạt-người-điều-khiển-dẫn-dắt-vật-nuôi-điều-khiển-xe-vật-nuôi-kéo-vi-phạm-quy-tắc-giao-thông-đường-bộ
-[Điều 12]: /vbpl/nghi-dinh-168-2024#điều-12-xử-phạt-trừ-điểm-giấy-phép-lái-xe-các-hành-vi-vi-phạm-khác-về-quy-tắc-giao-thông-đường-bộ-sử-dụng-lòng-đường-vỉa-hè-vào-mục-đích-khác
-[2.2]: /vbpl/nghi-dinh-168-2024#mục-2-vi-phạm-quy-định-về-phương-tiện-tham-gia-giao-thông-đường-bộ
-[Điều 13]: /vbpl/nghi-dinh-168-2024#điều-13-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-bao-gồm-cả-rơ-moóc-hoặc-sơ-mi-rơ-moóc-được-kéo-theo-xe-chở-người-bốn-bánh-có-gắn-động-cơ-xe-chở-hàng-bốn-bánh-có-gắn-động-cơ-và-các-loại-xe-tương-tư-xe-ô-tô-vi-phạm-quy-định-về-điều-kiện-của-phương-tiện-khi-tham-gia-giao-thông
-[Điều 14]: /vbpl/nghi-dinh-168-2024#điều-14-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-mô-tô-xe-gắn-máy-các-loại-xe-tương-tự-xe-mô-tô-và-các-loại-xe-tương-tự-xe-gắn-máy-vi-phạm-quy-định-về-điều-kiện-của-phương-tiện-khi-tham-gia-giao-thông
-[Điều 15]: /vbpl/nghi-dinh-168-2024#điều-15-xử-phạt-người-điều-khiển-xe-thô-sơ-vi-phạm-quy-định-về-điều-kiện-của-phương-tiện-khi-tham-gia-giao-thông
-[Điều 16]: /vbpl/nghi-dinh-168-2024#điều-16-xử-phạt-người-điều-khiển-xe-máy-chuyên-dùng-kể-cả-rơ-moóc-được-kéo-theo-vi-phạm-quy-định-về-điều-kiện-của-phương-tiện-khi-tham-gia-giao-thông
-[Điều 17]: /vbpl/nghi-dinh-168-2024#điều-17-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-máy-kéo-và-các-loại-xe-tương-tự-xe-ô-tô-vi-phạm-quy-định-về-bảo-vệ-môi-trường-khi-tham-gia-giao-thông
-[2.3]: /vbpl/nghi-dinh-168-2024#mục-3-vi-phạm-quy-định-về-người-điều-khiển-phương-tiện-tham-gia-giao-thông-đường-bộ
-[Điều 18]: /vbpl/nghi-dinh-168-2024#điều-18-xử-phạt-trừ-điểm-giấy-phép-lái-xe-các-hành-vi-vi-phạm-quy-định-về-điều-kiện-của-người-điều-khiển-xe-cơ-giới
-[Điều 19]: /vbpl/nghi-dinh-168-2024#điều-19-xử-phạt-các-hành-vi-vi-phạm-quy-định-về-điều-kiện-của-người-điều-khiển-xe-máy-chuyên-dùng
-[2.4]: /vbpl/nghi-dinh-168-2024#mục-4-vi-phạm-quy-định-về-bảo-đảm-trật-tự-an-toàn-giao-thông-đường-bộ-đối-với-xe-ô-tô-vận-chuyển-hành-khách-hàng-hóa-hàng-siêu-trường-siêu-trọng-hàng-hóa-nguy-hiểm-chở-trẻ-em-mầm-non-học-sinh-xe-chở-người-bốn-bánh-có-gắn-động-cơ-xe-chở-hàng-bốn-bánh-có-gắn-động-cơ-xe-cứu-hộ-giao-thông-đường-bộ-xe-vận-chuyển-động-vật-sống-thực-phẩm-tươi-sống-xe-cứu-thương
-[Điều 20]: /vbpl/nghi-dinh-168-2024#điều-20-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-chở-hành-khách-ô-tô-chở-người-và-các-loại-xe-tương-tự-xe-ô-tô-chở-hành-khách-vi-phạm-quy-định-về-bảo-đảm-trật-trị-an-toàn-giao-thông
-[Điều 21]: /vbpl/nghi-dinh-168-2024#điều-21-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-tải-máy-kéo-bao-gồm-cả-rơ-moóc-hoặc-sơ-mi-rơ-moóc-được-kéo-theo-và-các-loại-xe-tương-tự-xe-ô-tô-vận-chuyển-hàng-hóa-vi-phạm-quy-định-về-bảo-đảm-trật-tự-an-toàn-giao-thông-đường-bộ-với-xe-ô-tô-vận-chuyển-hàng-hóa
-[Điều 22]: /vbpl/nghi-dinh-168-2024#điều-22-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-thực-hiện-hành-vi-vi-phạm-quy-định-về-vận-chuyển-hàng-siêu-trường-siêu-trọng
-[Điều 23]: /vbpl/nghi-dinh-168-2024#điều-23-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-thực-hiện-hành-vi-vi-phạm-quy-định-về-vận-chuyển-hàng-hóa-nguy-hiểm
-[Điều 24]: /vbpl/nghi-dinh-168-2024#điều-24-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-thực-hiện-hành-vi-vi-phạm-quy-định-về-vận-chuyển-động-vật-sống-thực-phẩm-tươi-sống
-[Điều 25]: /vbpl/nghi-dinh-168-2024#điều-25-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-vệ-sinh-môi-trường-xe-ô-tô-chở-phế-thải-thực-hiện-hành-vi-vi-phạm-quy-định-về-hoạt-động-vận-tải-trong-đô-thị
-[Điều 26]: /vbpl/nghi-dinh-168-2024#điều-26-xử-phạt-các-hành-vi-vi-phạm-quy-định-về-trật-tự-an-toàn-giao-thông-đường-bộ-trong-vận-tải-đường-bộ-dịch-vụ-hỗ-trợ-vận-tải-đường-bộ
-[Điều 27]: /vbpl/nghi-dinh-168-2024#điều-27-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-ô-tô-kinh-doanh-vận-tải-chở-trẻ-em-mầm-non-học-sinh-xe-ô-tô-kinh-doanh-vận-tải-kết-hợp-với-hoạt-động-đưa-đón-trẻ-em-mầm-non-học-sinh
-[Điều 28]: /vbpl/nghi-dinh-168-2024#điều-28-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-chở-người-bốn-bánh-có-gắn-động-cơ-xe-chở-hàng-bốn-bánh-có-gắn-động-cơ
-[Điều 29]: /vbpl/nghi-dinh-168-2024#điều-29-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-cứu-hộ-giao-thông-đường-bộ
-[Điều 30]: /vbpl/nghi-dinh-168-2024#điều-30-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-xe-cứu-thương
-[2.5]: /vbpl/nghi-dinh-168-2024#mục-5-các-vi-phạm-khác-liên-quan-đến-trật-tự-an-toàn-giao-thông-trong-lĩnh-vực-giao-thông-đường-bộ
-[Điều 31]: /vbpl/nghi-dinh-168-2024#điều-31-xử-phạt-hành-vi-sản-xuất-lắp-ráp-trái-phép-phương-tiện-giao-thông-cơ-giới-đường-bộ-sản-xuất-mua-bán-biển-số-xe-trái-phép
-[Điều 32]: /vbpl/nghi-dinh-168-2024#điều-32-xử-phạt-trừ-điểm-giấy-phép-lái-xe-đối-với-chủ-phương-tiện-vi-phạm-quy-định-liên-quan-đến-giao-thông-đường-bộ
-[Điều 33]: /vbpl/nghi-dinh-168-2024#điều-33-xử-phạt-hành-khách-đi-xe-vi-phạm-quy-định-về-trật-tự-an-toàn-giao-thông
-[Điều 34]: /vbpl/nghi-dinh-168-2024#điều-34-xử-phạt-trừ-điểm-giấy-phép-lái-xe-của-người-điều-khiển-quá-khổ-giới-hạn-xe-quá-tải-trọng-xe-bánh-xích-lưu-hành-đường-bộ-kể-cả-xe-ô-tô-chở-hành-khách
-[Điều 35]: /vbpl/nghi-dinh-168-2024#điều-35-xử-phạt-trừ-điểm-giấy-phép-lái-xe-đối-với-người-đua-xe-trái-phép-tổ-chức-đua-xe-xúi-giục-cổ-vũ-đua-xe-trái-phép
-[Điều 36]: /vbpl/nghi-dinh-168-2024#điều-36-xử-phạt-người-điều-khiển-xe-mô-tô-xe-gắn-máy-xe-thô-sơ-thực-hiện-hành-vi-vi-phạm-vận-chuyển-hành-khách-hàng-hóa
-[Điều 37]: /vbpl/nghi-dinh-168-2024#điều-37-xử-phạt-người-điều-khiển-phương-tiện-giao-thông-cơ-giới-đường-bộ-gắn-biển-số-nước-ngoài
-[Điều 38]: /vbpl/nghi-dinh-168-2024#điều-38-xử-phạt-người-điều-khiển-phương-tiện-đăng-ký-hoạt-động-trong-khu-kinh-tế-thương-mại-đặc-biệt-khu-kinh-tế-cửa-khẩu-quốc-tế
-[Điều 39]: /vbpl/nghi-dinh-168-2024#điều-39-xử-phạt-các-hành-vi-vi-phạm-quy-định-về-đào-tạo-sát-hạch-lái-xe
-[Điều 40]: /vbpl/nghi-dinh-168-2024#điều-40-xử-phạt-các-hành-vi-vi-phạm-quy-định-về-hoạt-động-đăng-kiểm-xe-cơ-giới-xe-máy-chuyên-dùng-phụ-tùng-xe-cơ-giới
-[Chương III]: /vbpl/nghi-dinh-168-2024#chương-iii-thẩm-quyền-thủ-tục-xử-phạt-trừ-điểm-phục-hồi-điểm-giấy-phép-lái-xe
-[3.1]: /vbpl/nghi-dinh-168-2024#mục-1-thẩm-quyền-xử-phạt
-[Điều 41]: /vbpl/nghi-dinh-168-2024#điều-41-phân-định-thẩm-quyền-xử-phạt-vi-phạm-hành-chính-về-trật-tự-an-toàn-giao-thông-trong-lĩnh-vực-giao-thông-đường-bộ
-[Điều 42]: /vbpl/nghi-dinh-168-2024#điều-42-thẩm-quyền-xử-phạt-của-chủ-tịch-ủy-ban-nhân-dân-các-cấp
-[Điều 43]: /vbpl/nghi-dinh-168-2024#điều-43-thẩm-quyền-xử-phạt-của-công-an-nhân-dân
-[Điều 44]: /vbpl/nghi-dinh-168-2024#điều-44-thẩm-quyền-xử-phạt-của-thanh-tra-chuyên-ngành
-[Điều 45]: /vbpl/nghi-dinh-168-2024#điều-45-nguyên-tắc-xác-định-thẩm-quyền-xử-phạt-vi-phạm-hành-chính-và-áp-dụng-biện-pháp-khắc-phục-hậu-quả
-[Điều 46]: /vbpl/nghi-dinh-168-2024#điều-46-thẩm-quyền-lập-biên-bản-vi-phạm-hành-chính-về-trật-tự-an-toàn-giao-thông-trong-lĩnh-vực-giao-thông-đường-bộ
-[3.2]: /vbpl/nghi-dinh-168-2024#mục-2-thủ-tục-xử-phạt
-[Điều 47]: /vbpl/nghi-dinh-168-2024#điều-47-thủ-tục-xử-phạt-nguyên-tắc-xử-phạt-đối-với-chủ-phương-tiện-người-điều-khiển-phương-tiện-vi-phạm-quy-định-liên-quan-đến-trật-tự-an-toàn-giao-thông-trong-lĩnh-vực-giao-thông-đường-bộ
-[Điều 48]: /vbpl/nghi-dinh-168-2024#điều-48-tạm-giữ-phương-tiện-giấy-tờ-có-liên-quan-đến-người-điều-khiển-và-phương-tiện-vi-phạm
-[3.3]: /vbpl/nghi-dinh-168-2024#mục-3-trình-tự-thủ-tục-thẩm-quyền-trừ-điểm-phục-hồi-điểm-giấy-phép-lái-xe
-[Điều 49]: /vbpl/nghi-dinh-168-2024#điều-49-dữ-liệu-về-điểm-trừ-điểm-phục-hồi-điểm-giấy-phép-lái-xe
-[Điều 50]: /vbpl/nghi-dinh-168-2024#điều-50-nguyên-tắc-thẩm-quyền-trình-tự-thủ-tục-trừ-điểm-giấy-phép-lái-xe
-[Điều 51]: /vbpl/nghi-dinh-168-2024#điều-51-thẩm-quyền-trình-tự-thủ-tục-phục-hồi-điểm-giấy-phép-lái-xe
-[Chương IV]: /vbpl/nghi-dinh-168-2024#chương-iv-điều-khoản-thi-hành
-[Điều 52]: /vbpl/nghi-dinh-168-2024#điều-52-sửa-đổi-bổ-sung-một-số-điều-của-nghị-định-số-1002019nđ-cp-ngày-30-tháng-12-năm-2019-của-chính-phủ-quy-định-xử-phạt-vi-phạm-hành-chính-trong-lĩnh-vực-giao-thông-đường-bộ-và-đường-sắt-đã-được-sửa-đổi-bổ-sung-một-số-điều-theo-nghị-định-số-1232021nđ-cp-ngày-28-tháng-12-năm-2021-của-chính-phủ-sửa-đổi-bổ-sung-một-số-điều-của-các-nghị-định-quy-định-xử-phạt-vi-phạm-hành-chính-trong-lĩnh-vực-hàng-hải-giao-thông-đường-bộ-đường-sắt-hàng-không-dân-dụng
-[Điều 53]: /vbpl/nghi-dinh-168-2024#điều-53-hiệu-lực-thi-hành
-[Điều 54]: /vbpl/nghi-dinh-168-2024#điều-54-điều-khoản-chuyển-tiếp
-[Điều 55]: /vbpl/nghi-dinh-168-2024#điều-55-trách-nhiệm-thi-hành
+[Chương I]: /vbpl/nghi-dinh-168-2024#I
+[Điều 1]: /vbpl/nghi-dinh-168-2024#1
+[Điều 2]: /vbpl/nghi-dinh-168-2024#2
+[Điều 3]: /vbpl/nghi-dinh-168-2024#3
+[Điều 4]: /vbpl/nghi-dinh-168-2024#4
+[Điều 5]: /vbpl/nghi-dinh-168-2024#5
+[Chương II]: /vbpl/nghi-dinh-168-2024#II
+[2.1]: /vbpl/nghi-dinh-168-2024#II.1
+[Điều 6]: /vbpl/nghi-dinh-168-2024#6
+[Điều 7]: /vbpl/nghi-dinh-168-2024#7
+[Điều 8]: /vbpl/nghi-dinh-168-2024#8
+[Điều 9]: /vbpl/nghi-dinh-168-2024#9
+[Điều 10]: /vbpl/nghi-dinh-168-2024#10
+[Điều 11]: /vbpl/nghi-dinh-168-2024#11
+[Điều 12]: /vbpl/nghi-dinh-168-2024#12
+[2.2]: /vbpl/nghi-dinh-168-2024#II.2
+[Điều 13]: /vbpl/nghi-dinh-168-2024#13
+[Điều 14]: /vbpl/nghi-dinh-168-2024#14
+[Điều 15]: /vbpl/nghi-dinh-168-2024#15
+[Điều 16]: /vbpl/nghi-dinh-168-2024#16
+[Điều 17]: /vbpl/nghi-dinh-168-2024#17
+[2.3]: /vbpl/nghi-dinh-168-2024#II.3
+[Điều 18]: /vbpl/nghi-dinh-168-2024#18
+[Điều 19]: /vbpl/nghi-dinh-168-2024#19
+[2.4]: /vbpl/nghi-dinh-168-2024#II.4
+[Điều 20]: /vbpl/nghi-dinh-168-2024#20
+[Điều 21]: /vbpl/nghi-dinh-168-2024#21
+[Điều 22]: /vbpl/nghi-dinh-168-2024#22
+[Điều 23]: /vbpl/nghi-dinh-168-2024#23
+[Điều 24]: /vbpl/nghi-dinh-168-2024#24
+[Điều 25]: /vbpl/nghi-dinh-168-2024#25
+[Điều 26]: /vbpl/nghi-dinh-168-2024#26
+[Điều 27]: /vbpl/nghi-dinh-168-2024#27
+[Điều 28]: /vbpl/nghi-dinh-168-2024#28
+[Điều 29]: /vbpl/nghi-dinh-168-2024#29
+[Điều 30]: /vbpl/nghi-dinh-168-2024#30
+[2.5]: /vbpl/nghi-dinh-168-2024#II.5
+[Điều 31]: /vbpl/nghi-dinh-168-2024#31
+[Điều 32]: /vbpl/nghi-dinh-168-2024#32
+[Điều 33]: /vbpl/nghi-dinh-168-2024#33
+[Điều 34]: /vbpl/nghi-dinh-168-2024#34
+[Điều 35]: /vbpl/nghi-dinh-168-2024#35
+[Điều 36]: /vbpl/nghi-dinh-168-2024#36
+[Điều 37]: /vbpl/nghi-dinh-168-2024#37
+[Điều 38]: /vbpl/nghi-dinh-168-2024#38
+[Điều 39]: /vbpl/nghi-dinh-168-2024#39
+[Điều 40]: /vbpl/nghi-dinh-168-2024#40
+[Chương III]: /vbpl/nghi-dinh-168-2024#III
+[3.1]: /vbpl/nghi-dinh-168-2024#III.1
+[Điều 41]: /vbpl/nghi-dinh-168-2024#41
+[Điều 42]: /vbpl/nghi-dinh-168-2024#42
+[Điều 43]: /vbpl/nghi-dinh-168-2024#43
+[Điều 44]: /vbpl/nghi-dinh-168-2024#44
+[Điều 45]: /vbpl/nghi-dinh-168-2024#45
+[Điều 46]: /vbpl/nghi-dinh-168-2024#46
+[3.2]: /vbpl/nghi-dinh-168-2024#III.2
+[Điều 47]: /vbpl/nghi-dinh-168-2024#47
+[Điều 48]: /vbpl/nghi-dinh-168-2024#48
+[3.3]: /vbpl/nghi-dinh-168-2024#III.3
+[Điều 49]: /vbpl/nghi-dinh-168-2024#49
+[Điều 50]: /vbpl/nghi-dinh-168-2024#50
+[Điều 51]: /vbpl/nghi-dinh-168-2024#51
+[Chương IV]: /vbpl/nghi-dinh-168-2024#IV
+[Điều 52]: /vbpl/nghi-dinh-168-2024#52
+[Điều 53]: /vbpl/nghi-dinh-168-2024#53
+[Điều 54]: /vbpl/nghi-dinh-168-2024#54
+[Điều 55]: /vbpl/nghi-dinh-168-2024#55
