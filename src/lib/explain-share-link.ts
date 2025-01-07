@@ -1,3 +1,6 @@
+import type { ND168 } from '@/model/ND168'
+import { getND168ById } from '@/service/nghi-dinh-168'
+
 export function explain168Section(id?: string):
   | {
       type: 'chuong'
@@ -63,22 +66,22 @@ export function explain168Section(id?: string):
   return { path: '' }
 }
 
-function isChuong(id: string) {
+export function isChuong(id: string) {
   return id.match(/^(I|II|III|IV)$/)
 }
 
-function isMuc(id: string) {
+export function isMuc(id: string) {
   return id.match(/^(I|II|III|IV)\.(\d+)$/)
 }
 
-function isDieu(id: string) {
+export function isDieu(id: string) {
   return id.match(/^\d+$/)
 }
 
-function isKhoan(id: string) {
+export function isKhoan(id: string) {
   return id.match(/^\d+.\d+$/)
 }
 
-function isDiem(id: string) {
+export function isDiem(id: string) {
   return id.match(/^\d+.\d+.(\w|đ)$/)
 }

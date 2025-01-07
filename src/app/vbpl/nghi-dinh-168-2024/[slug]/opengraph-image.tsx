@@ -1,7 +1,78 @@
-import { explain168Section } from '@/lib/explain-share-link'
+import {
+  explain168Section,
+  isChuong,
+  isDiem,
+  isDieu,
+  isKhoan,
+  isMuc,
+} from '@/lib/explain-share-link'
 import { ImageResponse } from 'next/og'
 
 // export const runtime = 'edge'
+
+import type { ND168 } from '@/model/ND168'
+import { getND168ById } from '@/service/nghi-dinh-168'
+
+export function explainDetail168Section(id?: string): {
+  type?: 'chuong' | 'muc' | 'dieu' | 'khoan' | 'diem'
+  path?: string
+  chuong?: ND168
+  muc?: ND168
+  dieu?: ND168
+  khoan?: ND168
+  diem?: ND168
+} {
+  if (!id) {
+    return { path: '' }
+  }
+
+  const curDetail = getND168ById(id)
+
+  if (isChuong(id)) {
+    return {
+      type: 'chuong',
+      path: `Chương ${id}`,
+      chuong: curDetail,
+    }
+  }
+  if (isMuc(id)) {
+    const [chuong, muc] = id.split('.')
+    return {
+      type: 'muc',
+      path: `Chương ${chuong}, mục ${muc}`,
+      chuong: getND168ById(chuong),
+      muc: curDetail,
+    }
+  }
+  if (isDieu(id)) {
+    return {
+      type: 'dieu',
+      path: `Điều ${id}`,
+      dieu: curDetail,
+    }
+  }
+  if (isKhoan(id)) {
+    const [dieu, khoan] = id.split('.')
+    return {
+      type: 'khoan',
+      path: `Khoản ${khoan}, Điều ${dieu}`,
+      dieu: getND168ById(dieu),
+      khoan: curDetail,
+    }
+  }
+  if (isDiem(id)) {
+    const [dieu, khoan, diem] = id.split('.')
+    return {
+      type: 'diem',
+      path: `Điểm ${diem}, khoản ${khoan}, Điều ${dieu}`,
+      dieu: getND168ById(dieu),
+      khoan: getND168ById(`${dieu}.${khoan}`),
+      diem: curDetail,
+    }
+  }
+
+  return { path: '' }
+}
 
 // Image metadata
 export const alt = 'About Acme' // TODO
@@ -15,6 +86,31 @@ export const contentType = 'image/png'
 // Image generation
 export default function Image({ params }: { params: { slug: string } }) {
   const explain = explain168Section(params.slug || '').path
+  const explainDetail = explainDetail168Section(params.slug || '')
+  console.log({ explainDetail })
+
+  let detail1 = ''
+  let detail2 = ''
+  let detail3 = ''
+  if (explainDetail.type === 'chuong') {
+    detail1 = explainDetail.chuong?.full_name || ''
+  }
+  if (explainDetail.type === 'muc') {
+    detail1 = explainDetail.chuong?.full_name || ''
+    detail2 = explainDetail.muc?.full_name || ''
+  }
+  if (explainDetail.type === 'dieu') {
+    detail1 = explainDetail.dieu?.full_name || ''
+  }
+  if (explainDetail.type === 'khoan') {
+    detail1 = explainDetail.dieu?.full_name || ''
+    detail2 = explainDetail.khoan?.full_name || ''
+  }
+  if (explainDetail.type === 'diem') {
+    detail1 = explainDetail.dieu?.full_name || ''
+    detail2 = explainDetail.khoan?.full_name || ''
+    detail3 = explainDetail.diem?.full_name || ''
+  }
 
   return new ImageResponse(
     <div
@@ -31,7 +127,7 @@ export default function Image({ params }: { params: { slug: string } }) {
         flexWrap: 'nowrap',
       }}
     >
-      <div
+      {/* <div
         style={{
           display: 'flex',
           alignItems: 'center',
@@ -46,20 +142,62 @@ export default function Image({ params }: { params: { slug: string } }) {
           style={{ margin: '0 30px' }}
           width={232}
         />
-      </div>
+      </div> */}
       <div
         style={{
-          fontSize: 60,
+          fontSize: 24,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
           marginTop: 30,
           padding: '0 120px',
           lineHeight: 1.4,
-          whiteSpace: 'pre-wrap',
+          // whiteSpace: 'pre-wrap',
         }}
       >
-        {explain}
+        {`${explain} | Nghị định 168/2024`}
+      </div>
+      <div
+        style={{
+          fontSize: 24,
+          fontStyle: 'normal',
+          letterSpacing: '-0.025em',
+          color: 'white',
+          marginTop: 30,
+          padding: '0 120px',
+          lineHeight: 1.4,
+          // whiteSpace: 'pre-wrap',
+        }}
+      >
+        {detail1}
+      </div>
+      <div
+        style={{
+          fontSize: 24,
+          fontStyle: 'normal',
+          letterSpacing: '-0.025em',
+          color: 'white',
+          marginTop: 30,
+          padding: '0 120px',
+          lineHeight: 1.4,
+          // whiteSpace: 'pre-wrap',
+        }}
+      >
+        {detail2}
+      </div>
+      <div
+        style={{
+          fontSize: 24,
+          fontStyle: 'normal',
+          letterSpacing: '-0.025em',
+          color: 'white',
+          marginTop: 30,
+          padding: '0 120px',
+          lineHeight: 1.4,
+          // whiteSpace: 'pre-wrap',
+        }}
+      >
+        {detail3}
       </div>
     </div>,
     {
