@@ -21,7 +21,7 @@ const withMDX = createMDX({
     ],
     rehypePlugins: [
       rehypeSlug,
-      [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+      [rehypeAutolinkHeadings, { behavior: 'prepend' }],
       rehypeStringify,
     ],
     remarkRehypeOptions: {
