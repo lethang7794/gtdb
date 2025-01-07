@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og'
 
-export const runtime = 'edge'
+// export const runtime = 'edge'
 
 // Image metadata
 export const alt = 'About Acme'
@@ -67,7 +67,7 @@ export default function Image(props: { params: { slug: string } }) {
           whiteSpace: 'pre-wrap',
         }}
       >
-        {'Hello'}
+        Nghị định 168
       </div>
     </div>,
     {
