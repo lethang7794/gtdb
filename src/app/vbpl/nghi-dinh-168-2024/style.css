@@ -79,6 +79,7 @@ h6:has(.anchor-link):hover .anchor-link > svg,
 p:has(.anchor-link):hover .anchor-link > svg {
   display: inline-block;
 }
+
 h2:has(.anchor-link):hover .anchor-link:hover > svg,
 h3:has(.anchor-link):hover .anchor-link:hover > svg,
 h4:has(.anchor-link):hover .anchor-link:hover > svg,
@@ -86,4 +87,15 @@ h5:has(.anchor-link):hover .anchor-link:hover > svg,
 h6:has(.anchor-link):hover .anchor-link:hover > svg,
 p:has(.anchor-link):hover .anchor-link:hover > svg {
   color: hsl(198.6, 88.7%, 30%);
+}
+
+h2:has(.anchor-link):hover .anchor-link:hover > .tooltip,
+h3:has(.anchor-link):hover .anchor-link:hover > .tooltip,
+h4:has(.anchor-link):hover .anchor-link:hover > .tooltip,
+h5:has(.anchor-link):hover .anchor-link:hover > .tooltip,
+h6:has(.anchor-link):hover .anchor-link:hover > .tooltip,
+p:has(.anchor-link):hover .anchor-link:hover > .tooltip {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 1rem;
 }

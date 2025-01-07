@@ -14,12 +14,19 @@ export default function AnchorLink({ id, children }: Props) {
   const { toast } = useToast()
 
   const [hasCopied, setHasCopied] = React.useState(false)
+  const [hasCopiedRecently, setHasCopiedRecently] = React.useState(false)
 
   React.useEffect(() => {
     if (hasCopied) {
       setTimeout(() => {
         setHasCopied(false)
       }, 2000)
+    }
+
+    if (hasCopied) {
+      setTimeout(() => {
+        setHasCopiedRecently(false)
+      }, 5500)
     }
   }, [hasCopied])
 
@@ -33,6 +40,7 @@ export default function AnchorLink({ id, children }: Props) {
         const shareLink = getShareLinkFromId(id)
         copyLinkToClipboard(shareLink)
         setHasCopied(true)
+        setHasCopiedRecently(true)
         toast({
           title: `✅ Đã sao chép: ${explainShareLink(id)}`,
           description: `${shareLink}`,
@@ -41,9 +49,23 @@ export default function AnchorLink({ id, children }: Props) {
       className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
     >
       {hasCopied ? (
-        <CircleCheckBig color="hsl(142, 100%, 25.1%)" className="check-icon" />
+        <CircleCheckBig
+          color="hsl(142, 100%, 25.1%)"
+          className="check-icon absolute"
+        />
       ) : (
-        <Link2 />
+        <Link2 className="absolute" />
+      )}
+      {hasCopiedRecently && !hasCopied ? null : (
+        <span className="tooltip absolute hidden h-min w-max -top-[2.25em] -left-[1em] py-1 px-2 bg-black text-white rounded-lg shadow-lg">
+          {hasCopied ? (
+            <span>Đã sao chép</span>
+          ) : (
+            <span>
+              Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
+            </span>
+          )}
+        </span>
       )}
       {children}
     </span>
