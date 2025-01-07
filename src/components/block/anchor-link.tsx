@@ -2,7 +2,6 @@
 
 import React from 'react'
 import type { ReactNode } from 'react'
-import { Tooltip } from '@/components/block/tooltip'
 import { useToast } from '@/hooks/use-toast'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 
@@ -25,43 +24,29 @@ export default function AnchorLink({ id, children }: Props) {
   }, [hasCopied])
 
   return (
-    <Tooltip
-      content={
-        hasCopied ? (
-          'Đã sao chép'
-        ) : (
-          <span>
-            Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
-          </span>
-        )
-      }
+    // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
+    <span
+      id={`${id}`}
+      onClick={(e) => {
+        e.preventDefault()
+        e.stopPropagation()
+        const shareLink = getShareLinkFromId(id)
+        copyLinkToClipboard(shareLink)
+        setHasCopied(true)
+        toast({
+          title: `✅ Đã sao chép: ${explainShareLink(id)}`,
+          description: `${shareLink}`,
+        })
+      }}
+      className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
     >
-      {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
-      <span
-        id={`${id}`}
-        onClick={(e) => {
-          e.preventDefault()
-          const shareLink = getShareLinkFromId(id)
-          copyLinkToClipboard(shareLink)
-          setHasCopied(true)
-          toast({
-            title: `📋 Đã sao chép: ${explainShareLink(id)}`,
-            description: `${shareLink}`,
-          })
-        }}
-        className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
-      >
-        {hasCopied ? (
-          <CircleCheckBig
-            color="hsl(142, 100%, 25.1%)"
-            className="check-icon"
-          />
-        ) : (
-          <Link2 />
-        )}
-        {children}
-      </span>
-    </Tooltip>
+      {hasCopied ? (
+        <CircleCheckBig color="hsl(142, 100%, 25.1%)" className="check-icon" />
+      ) : (
+        <Link2 />
+      )}
+      {children}
+    </span>
   )
 }
 
