@@ -14,11 +14,11 @@ export function explain168Section(id?: string): { path: string } {
   }
   if (id.match(/^\d+.\d+$/)) {
     const [dieu, khoan] = id.split('.')
-    return { path: `Khoản ${khoan}, điều ${dieu}` }
+    return { path: `Khoản ${khoan}, Điều ${dieu}` }
   }
   if (id.match(/^\d+.\d+.(\w|đ)$/)) {
     const [dieu, khoan, diem] = id.split('.')
-    return { path: `Điểm ${diem}, khoản ${khoan}, điều ${dieu}` }
+    return { path: `Điểm ${diem}, khoản ${khoan}, Điều ${dieu}` }
   }
   return { path: '' }
 }
