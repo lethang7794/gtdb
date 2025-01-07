@@ -1,6 +1,7 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/168.2024.NĐ.CP.mdx'
 import { explainShareLink } from '@/lib/explain-share-link'
+import { NGHI_DINH_168_PATH } from '@/constant/path'
 import './style.css'
 
 type Props = {
@@ -30,7 +31,10 @@ export async function generateMetadata(
     description:
       'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
     openGraph: {
-      images: [`/api/og?section=${section}`, ...previousImages],
+      images: [
+        `/api/og?path=${NGHI_DINH_168_PATH}&section=${section}`,
+        ...previousImages,
+      ],
     },
   }
 }
