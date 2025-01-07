@@ -3,7 +3,7 @@
 import React from 'react'
 import type { ReactNode } from 'react'
 import { Tooltip } from '@/components/block/tooltip'
-import { useToast } from '@/hooks/use-toast'
+// import { useToast } from '@/hooks/use-toast'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 
 type Props = {
@@ -12,7 +12,7 @@ type Props = {
 }
 
 export default function AnchorLink({ id, children }: Props) {
-  const { toast } = useToast()
+  // const { toast } = useToast()
 
   const [hasCopied, setHasCopied] = React.useState(false)
 

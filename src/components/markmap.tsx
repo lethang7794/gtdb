@@ -110,7 +110,6 @@ function renderToolbar(mm: Markmap, wrapper: HTMLElement) {
     // })
     const items = Toolbar.defaultItems.slice(0, -1)
     const swappedItems = [items[1], items[0], items[2]]
-    console.log({ items })
     toolbar.setItems(swappedItems)
     wrapper.append(toolbar.render())
   }

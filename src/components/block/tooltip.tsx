@@ -4,6 +4,7 @@ import {
   TooltipContent,
   TooltipProvider,
   TooltipTrigger,
+  TooltipArrow,
 } from '@/components/ui/tooltip'
 
 export function Tooltip({
@@ -12,9 +13,12 @@ export function Tooltip({
 }: { content: ReactNode; children: ReactNode }) {
   return (
     <TooltipProvider>
-      <TooltipRoot>
+      <TooltipRoot delayDuration={0}>
         <TooltipTrigger asChild>{children}</TooltipTrigger>
-        <TooltipContent>{content}</TooltipContent>
+        <TooltipContent>
+          {content}
+          <TooltipArrow />
+        </TooltipContent>
       </TooltipRoot>
     </TooltipProvider>
   )
