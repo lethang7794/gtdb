@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 }
 
 export default async function NghiDinh168Mindmap() {
-  const data = await getNghiDinh168MindMap()
+  const data = getNghiDinh168MindMap()
 
   return <Markmap data={data} />
 }
