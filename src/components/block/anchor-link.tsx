@@ -2,8 +2,11 @@
 
 import React from 'react'
 import type { ReactNode } from 'react'
-import { useToast } from '@/hooks/use-toast'
 import { CircleCheckBig, Link2 } from 'lucide-react'
+import { useToast } from '@/hooks/use-toast'
+import { explainShareLink } from '@/lib/explain-share-link'
+import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
+import { copyToClipboard } from '@/lib/copy-to-clipboard'
 
 type Props = {
   id: string
@@ -38,7 +41,7 @@ export default function AnchorLink({ id, children }: Props) {
         e.preventDefault()
         e.stopPropagation()
         const shareLink = getShareLinkFromId(id)
-        copyLinkToClipboard(shareLink)
+        copyToClipboard(shareLink)
         setHasCopied(true)
         setHasCopiedRecently(true)
         toast({
@@ -70,36 +73,4 @@ export default function AnchorLink({ id, children }: Props) {
       {children}
     </span>
   )
-}
-
-function getShareLinkFromId(id: string) {
-  const cleanedHref = window?.location.href.split(/[?#]/)[0]
-  const cleanedHrefWithFragment = `${cleanedHref}?section=${id}#${id}`
-  return cleanedHrefWithFragment
-}
-
-function copyLinkToClipboard(link: string) {
-  navigator.clipboard.writeText(link)
-}
-
-export function explainShareLink(id: string): string {
-  if (id.match(/^(I|II|III|IV)$/)) {
-    return `Chương ${id}`
-  }
-  if (id.match(/^(I|II|III|IV)\.(\d+)$/)) {
-    const [chuong, muc] = id.split('.')
-    return `Chương ${chuong}, mục ${muc}`
-  }
-  if (id.match(/^\d+$/)) {
-    return `Điều ${id}`
-  }
-  if (id.match(/^\d+.\d+$/)) {
-    const [dieu, khoan] = id.split('.')
-    return `Khoản ${khoan}, điều ${dieu}`
-  }
-  if (id.match(/^\d+.\d+.(\w|đ)$/)) {
-    const [dieu, khoan, diem] = id.split('.')
-    return `Điểm ${diem}, khoản ${khoan}, điều ${dieu}`
-  }
-  return ''
 }
