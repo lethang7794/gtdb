@@ -1,5 +1,6 @@
 'use client'
 
+import { Tooltip } from '@/components/block/tooltip'
 import { useToast } from '@/hooks/use-toast'
 import type { ReactNode } from 'react'
 import { Link2 } from 'lucide-react'
@@ -13,23 +14,31 @@ export default function AnchorLink({ id, children }: Props) {
   const { toast } = useToast()
 
   return (
-    // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
-    <span
-      id={`${id}`}
-      onClick={(e) => {
-        e.preventDefault()
-        const shareLink = getShareLinkFromId(id)
-        copyLinkToClipboard(shareLink)
-        toast({
-          title: `📋 Đã sao chép: ${explainShareLink(id)}`,
-          description: `${shareLink}`,
-        })
-      }}
-      className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
+    <Tooltip
+      content={
+        <div>
+          Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
+        </div>
+      }
     >
-      <Link2 />
-      {children}
-    </span>
+      {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
+      <span
+        id={`${id}`}
+        onClick={(e) => {
+          e.preventDefault()
+          const shareLink = getShareLinkFromId(id)
+          copyLinkToClipboard(shareLink)
+          toast({
+            title: `📋 Đã sao chép: ${explainShareLink(id)}`,
+            description: `${shareLink}`,
+          })
+        }}
+        className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
+      >
+        <Link2 />
+        {children}
+      </span>
+    </Tooltip>
   )
 }
 

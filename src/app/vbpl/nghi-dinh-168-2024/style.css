@@ -71,19 +71,19 @@ h4:hover a + .anchor-link > svg {
   left: -1.25em;
 }
 
-h2:hover a + .anchor-link > svg,
-h3:hover a + .anchor-link > svg,
-h4:hover a + .anchor-link > svg,
-h5:hover a + .anchor-link > svg,
-h6:hover a + .anchor-link > svg,
+h2:has(.anchor-link):hover .anchor-link > svg,
+h3:has(.anchor-link):hover .anchor-link > svg,
+h4:has(.anchor-link):hover .anchor-link > svg,
+h5:has(.anchor-link):hover .anchor-link > svg,
+h6:has(.anchor-link):hover .anchor-link > svg,
 p:has(.anchor-link):hover .anchor-link > svg {
   display: inline-block;
 }
-h2:hover a + .anchor-link:hover > svg,
-h3:hover a + .anchor-link:hover > svg,
-h4:hover a + .anchor-link:hover > svg,
-h5:hover a + .anchor-link:hover > svg,
-h6:hover a + .anchor-link:hover > svg,
+h2:has(.anchor-link):hover .anchor-link:hover > svg,
+h3:has(.anchor-link):hover .anchor-link:hover > svg,
+h4:has(.anchor-link):hover .anchor-link:hover > svg,
+h5:has(.anchor-link):hover .anchor-link:hover > svg,
+h6:has(.anchor-link):hover .anchor-link:hover > svg,
 p:has(.anchor-link):hover .anchor-link:hover > svg {
   color: hsl(198.6, 88.7%, 30%);
 }
