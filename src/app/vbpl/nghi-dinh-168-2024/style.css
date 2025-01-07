@@ -101,7 +101,7 @@ p:has(.anchor-link):hover .anchor-link:hover > .tooltip {
 }
 
 /* Prevent flicking on mobile */
-@media (max-width: 768px) {
+@media (hover: none) {
   h2:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
   h3:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
   h4:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
@@ -109,5 +109,15 @@ p:has(.anchor-link):hover .anchor-link:hover > .tooltip {
   h6:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
   p:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy) {
     display: none;
+  }
+}
+@media (hover: none) {
+  h2:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
+  h3:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
+  h4:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
+  h5:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
+  h6:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
+  p:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy) {
+    display: inline-block;
   }
 }
