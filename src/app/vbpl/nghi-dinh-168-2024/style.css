@@ -99,3 +99,15 @@ p:has(.anchor-link):hover .anchor-link:hover > .tooltip {
   font-weight: normal;
   font-size: 1rem;
 }
+
+/* Prevent flicking on mobile */
+@media (max-width: 768px) {
+  h2:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
+  h3:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
+  h4:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
+  h5:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
+  h6:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy),
+  p:has(.anchor-link):hover .anchor-link:hover > .tooltip:has(.copy) {
+    display: none;
+  }
+}

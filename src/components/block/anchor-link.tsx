@@ -59,9 +59,9 @@ export default function AnchorLink({ id, children }: Props) {
       {hasCopiedRecently && !hasCopied ? null : (
         <span className="tooltip absolute hidden h-min w-max -top-[2.25em] -left-[1em] py-1 px-2 bg-black text-white rounded-lg shadow-lg">
           {hasCopied ? (
-            <span>Đã sao chép</span>
+            <span className="copied">Đã sao chép</span>
           ) : (
-            <span>
+            <span className="copy">
               Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
             </span>
           )}
