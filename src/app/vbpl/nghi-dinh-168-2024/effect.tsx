@@ -1,8 +1,11 @@
 'use client'
 
 import { useLayoutEffect } from 'react'
+import { useRouter } from 'next/navigation'
 
-export default function Cleanup168() {
+export default function NghiDinh168Effect() {
+  const router = useRouter()
+
   useLayoutEffect(() => {
     // Cleanup TOC
     const tocItems = document.querySelectorAll('#mục-lục + ul li > a > span')
@@ -37,6 +40,9 @@ export default function Cleanup168() {
         }
       }
     }
-  }, [])
+
+    // Go to fragment
+    router.replace(window.location.href)
+  }, [router.replace])
   return null
 }
