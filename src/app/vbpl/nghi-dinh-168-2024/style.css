@@ -111,13 +111,3 @@ p:has(.anchor-link):hover .anchor-link:hover > .tooltip {
     display: none;
   }
 }
-@media (hover: none) {
-  h2:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
-  h3:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
-  h4:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
-  h5:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
-  h6:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy),
-  p:has(.anchor-link):hover .anchor-link:active > .tooltip:has(.copy) {
-    display: inline-block;
-  }
-}
