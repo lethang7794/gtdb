@@ -74,7 +74,7 @@ export default function AnchorLink({ id, children }: Props) {
 
 function getShareLinkFromId(id: string) {
   const cleanedHref = window?.location.href.split(/[?#]/)[0]
-  const cleanedHrefWithFragment = `${cleanedHref}#${id}`
+  const cleanedHrefWithFragment = `${cleanedHref}?section=${id}#${id}`
   return cleanedHrefWithFragment
 }
 
@@ -82,7 +82,7 @@ function copyLinkToClipboard(link: string) {
   navigator.clipboard.writeText(link)
 }
 
-function explainShareLink(id: string): string {
+export function explainShareLink(id: string): string {
   if (id.match(/^(I|II|III|IV)$/)) {
     return `Chương ${id}`
   }
