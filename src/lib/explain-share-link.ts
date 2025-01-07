@@ -1,4 +1,4 @@
-export function explainShareLink(id?: string): string {
+export function explain168Section(id?: string): string {
   if (!id) {
     return ''
   }

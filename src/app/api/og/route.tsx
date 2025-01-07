@@ -1,5 +1,5 @@
 import { NGHI_DINH_168_PATH } from '@/constant/path'
-import { explainShareLink } from '@/lib/explain-share-link'
+import { explain168Section } from '@/lib/explain-share-link'
 import { ImageResponse } from 'next/og'
 // App router includes @vercel/og.
 // No need to install it.
@@ -84,7 +84,7 @@ export async function GET(request: Request) {
             whiteSpace: 'pre-wrap',
           }}
         >
-          {explainShareLink(section)}
+          {explain168Section(section)}
         </div>
       </div>,
       {

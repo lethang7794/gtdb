@@ -1,6 +1,6 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
-import { explainShareLink } from '@/lib/explain-share-link'
+import { explain168Section } from '@/lib/explain-share-link'
 import { NGHI_DINH_168_PATH } from '@/constant/path'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import './style.css'
@@ -35,7 +35,7 @@ export async function generateMetadata(
     }
   }
 
-  const sectionExplain = explainShareLink(firstSection)
+  const sectionExplain = explain168Section(firstSection)
   return {
     title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
     description: sectionItem.full_name,

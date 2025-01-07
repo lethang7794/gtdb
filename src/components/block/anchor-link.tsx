@@ -4,7 +4,7 @@ import React from 'react'
 import type { ReactNode } from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { explainShareLink } from '@/lib/explain-share-link'
+import { explain168Section } from '@/lib/explain-share-link'
 import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 
@@ -45,7 +45,7 @@ export default function AnchorLink({ id, children }: Props) {
         setHasCopied(true)
         setHasCopiedRecently(true)
         toast({
-          title: `✅ Đã sao chép: ${explainShareLink(id)}`,
+          title: `✅ Đã sao chép: ${explain168Section(id)}`,
           description: `${shareLink}`,
         })
       }}
@@ -65,7 +65,7 @@ export default function AnchorLink({ id, children }: Props) {
             <span className="copied">Đã sao chép</span>
           ) : (
             <span className="copy">
-              Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
+              Sao chép đường dẫn: <em>{explain168Section(id)}</em>
             </span>
           )}
         </span>

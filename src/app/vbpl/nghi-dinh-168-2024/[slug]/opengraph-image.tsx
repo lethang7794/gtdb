@@ -1,4 +1,4 @@
-import { explainShareLink } from '@/lib/explain-share-link'
+import { explain168Section } from '@/lib/explain-share-link'
 import { ImageResponse } from 'next/og'
 
 // export const runtime = 'edge'
@@ -14,7 +14,7 @@ export const contentType = 'image/png'
 
 // Image generation
 export default function Image({ params }: { params: { slug: string } }) {
-  const explain = explainShareLink(params.slug || '')
+  const explain = explain168Section(params.slug || '')
 
   return new ImageResponse(
     <div
