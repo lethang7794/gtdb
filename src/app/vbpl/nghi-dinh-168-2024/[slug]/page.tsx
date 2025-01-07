@@ -39,7 +39,7 @@ export async function generateMetadata(
     }
   }
 
-  const sectionExplain = explain168Section(section)
+  const sectionExplain = explain168Section(section).path
   return {
     title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
     description: sectionItem.full_name,

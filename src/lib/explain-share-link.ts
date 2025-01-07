@@ -1,24 +1,24 @@
-export function explain168Section(id?: string): string {
+export function explain168Section(id?: string): { path: string } {
   if (!id) {
-    return ''
+    return { path: '' }
   }
   if (id.match(/^(I|II|III|IV)$/)) {
-    return `Chương ${id}`
+    return { path: `Chương ${id}` }
   }
   if (id.match(/^(I|II|III|IV)\.(\d+)$/)) {
     const [chuong, muc] = id.split('.')
-    return `Chương ${chuong}, mục ${muc}`
+    return { path: `Chương ${chuong}, mục ${muc}` }
   }
   if (id.match(/^\d+$/)) {
-    return `Điều ${id}`
+    return { path: `Điều ${id}` }
   }
   if (id.match(/^\d+.\d+$/)) {
     const [dieu, khoan] = id.split('.')
-    return `Khoản ${khoan}, điều ${dieu}`
+    return { path: `Khoản ${khoan}, điều ${dieu}` }
   }
   if (id.match(/^\d+.\d+.(\w|đ)$/)) {
     const [dieu, khoan, diem] = id.split('.')
-    return `Điểm ${diem}, khoản ${khoan}, điều ${dieu}`
+    return { path: `Điểm ${diem}, khoản ${khoan}, điều ${dieu}` }
   }
-  return ''
+  return { path: '' }
 }

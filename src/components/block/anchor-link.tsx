@@ -45,7 +45,7 @@ export default function AnchorLink({ id, children }: Props) {
         setHasCopied(true)
         setHasCopiedRecently(true)
         toast({
-          title: `✅ Đã sao chép: ${explain168Section(id)}`,
+          title: `✅ Đã sao chép: ${explain168Section(id).path}`,
           description: `${shareLink}`,
         })
       }}
@@ -65,7 +65,7 @@ export default function AnchorLink({ id, children }: Props) {
             <span className="copied">Đã sao chép</span>
           ) : (
             <span className="copy">
-              Sao chép đường dẫn: <em>{explain168Section(id)}</em>
+              Sao chép đường dẫn: <em>{explain168Section(id).path}</em>
             </span>
           )}
         </span>

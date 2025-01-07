@@ -35,7 +35,7 @@ export async function generateMetadata(
     }
   }
 
-  const sectionExplain = explain168Section(firstSection)
+  const sectionExplain = explain168Section(firstSection).path
   return {
     title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
     description: sectionItem.full_name,

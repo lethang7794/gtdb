@@ -84,7 +84,7 @@ export async function GET(request: Request) {
             whiteSpace: 'pre-wrap',
           }}
         >
-          {explain168Section(section)}
+          {explain168Section(section).path}
         </div>
       </div>,
       {

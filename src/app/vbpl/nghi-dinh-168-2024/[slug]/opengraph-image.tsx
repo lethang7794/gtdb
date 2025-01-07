@@ -14,7 +14,7 @@ export const contentType = 'image/png'
 
 // Image generation
 export default function Image({ params }: { params: { slug: string } }) {
-  const explain = explain168Section(params.slug || '')
+  const explain = explain168Section(params.slug || '').path
 
   return new ImageResponse(
     <div
