@@ -24,12 +24,14 @@ export async function generateMetadata(
     title: [
       explainShareLink(Array.isArray(section) ? section[0] : section),
       'Nghị định 168/2024',
-    ].join(' | '),
+    ]
+      .filter(Boolean)
+      .join(' | '),
     description:
       'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
-    // openGraph: {
-    //   images: ['/some-specific-page-image.jpg', ...previousImages],
-    // },
+    openGraph: {
+      images: [`/api/og?section=${section}`, ...previousImages],
+    },
   }
 }
 
