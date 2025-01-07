@@ -1,9 +1,10 @@
 'use client'
 
+import React from 'react'
+import type { ReactNode } from 'react'
 import { Tooltip } from '@/components/block/tooltip'
 import { useToast } from '@/hooks/use-toast'
-import type { ReactNode } from 'react'
-import { Link2 } from 'lucide-react'
+import { CircleCheckBig, Link2 } from 'lucide-react'
 
 type Props = {
   id: string
@@ -13,12 +14,26 @@ type Props = {
 export default function AnchorLink({ id, children }: Props) {
   const { toast } = useToast()
 
+  const [hasCopied, setHasCopied] = React.useState(false)
+
+  React.useEffect(() => {
+    if (hasCopied) {
+      setTimeout(() => {
+        setHasCopied(false)
+      }, 2000)
+    }
+  }, [hasCopied])
+
   return (
     <Tooltip
       content={
-        <div>
-          Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
-        </div>
+        hasCopied ? (
+          'Đã sao chép'
+        ) : (
+          <span>
+            Sao chép đường dẫn: <em>{explainShareLink(id)}</em>
+          </span>
+        )
       }
     >
       {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
@@ -28,14 +43,22 @@ export default function AnchorLink({ id, children }: Props) {
           e.preventDefault()
           const shareLink = getShareLinkFromId(id)
           copyLinkToClipboard(shareLink)
-          toast({
-            title: `📋 Đã sao chép: ${explainShareLink(id)}`,
-            description: `${shareLink}`,
-          })
+          setHasCopied(true)
+          // toast({
+          //   title: `📋 Đã sao chép: ${explainShareLink(id)}`,
+          //   description: `${shareLink}`,
+          // })
         }}
         className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
       >
-        <Link2 />
+        {hasCopied ? (
+          <CircleCheckBig
+            color="hsl(142, 100%, 25.1%)"
+            className="check-icon"
+          />
+        ) : (
+          <Link2 />
+        )}
         {children}
       </span>
     </Tooltip>
