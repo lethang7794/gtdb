@@ -154,7 +154,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
             backgroundImage:
               'linear-gradient(90deg, rgb(255, 0, 0), rgb(254, 98, 48))',
             backgroundClip: 'text',
-            '-webkit-background-clip': 'text',
+            'WebkitBackgroundClip': 'text',
             color: 'transparent',
           }}
         >
@@ -165,7 +165,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
             backgroundImage:
               'linear-gradient(270deg, rgb(255, 255, 0), rgb(254, 98, 48))',
             backgroundClip: 'text',
-            '-webkit-background-clip': 'text',
+            'WebkitBackgroundClip': 'text',
             color: 'transparent',
           }}
         >
@@ -176,7 +176,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
             backgroundImage:
               'linear-gradient(90deg, rgb(0, 187, 0), rgb(0, 128, 0))',
             backgroundClip: 'text',
-            '-webkit-background-clip': 'text',
+            'WebkitBackgroundClip': 'text',
             color: 'transparent',
           }}
         >
@@ -187,7 +187,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
             backgroundImage:
               'linear-gradient(90deg, rgb(57, 78, 163), rgb(81, 92, 138))',
             backgroundClip: 'text',
-            '-webkit-background-clip': 'text',
+            'WebkitBackgroundClip': 'text',
             color: 'transparent',
           }}
         >
@@ -207,7 +207,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
           backgroundImage:
             'linear-gradient(180deg, rgb(255, 0, 0), rgb(254, 98, 48))',
           backgroundClip: 'text',
-          '-webkit-background-clip': 'text',
+          'WebkitBackgroundClip': 'text',
           color: 'transparent',
         }}
       >
@@ -226,7 +226,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
           backgroundImage:
             'linear-gradient(0deg, rgb(255, 255, 0), rgb(254, 98, 48))',
           backgroundClip: 'text',
-          '-webkit-background-clip': 'text',
+          'WebkitBackgroundClip': 'text',
           color: 'transparent',
         }}
       >
@@ -245,7 +245,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
           backgroundImage:
             'linear-gradient(180deg, rgb(0, 187, 0), rgb(0, 128, 0))',
           backgroundClip: 'text',
-          '-webkit-background-clip': 'text',
+          'WebkitBackgroundClip': 'text',
           color: 'transparent',
           border: '1px',
         }}
