@@ -10,9 +10,9 @@ export default function Page() {
   //   'Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;'
 
   const explain = 'Điểm a khoản 4 Điều 3'
-  const short1 = 'Điểm a'
+  const short1 = 'Điều 3'
   const short2 = 'khoản 4'
-  const short3 = 'Điều 3'
+  const short3 = 'điểm a'
   const detail1 =
     'Điều 3. Hình thức xử phạt vi phạm hành chính, biện pháp khắc phục hậu quả; thu hồi giấy phép, chứng chỉ hành nghề'
   const detail2 =
@@ -52,7 +52,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
           <div
             style={{
               backgroundImage:
-                'linear-gradient(270deg, rgb(0, 187, 0), rgb(0, 128, 0))',
+                'linear-gradient(90deg, rgb(255, 0, 0), rgb(254, 98, 48))',
               backgroundClip: 'text',
               '-webkit-background-clip': 'text',
               color: 'transparent',
@@ -63,7 +63,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
           <div
             style={{
               backgroundImage:
-                'linear-gradient(90deg, rgb(255, 255, 0), rgb(254, 98, 48))',
+                'linear-gradient(270deg, rgb(255, 255, 0), rgb(254, 98, 48))',
               backgroundClip: 'text',
               '-webkit-background-clip': 'text',
               color: 'transparent',
@@ -74,7 +74,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
           <div
             style={{
               backgroundImage:
-                'linear-gradient(270deg, rgb(255, 0, 0), rgb(254, 98, 48))',
+                'linear-gradient(90deg, rgb(0, 187, 0), rgb(0, 128, 0))',
               backgroundClip: 'text',
               '-webkit-background-clip': 'text',
               color: 'transparent',
@@ -84,7 +84,11 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
           </div>
           <div
             style={{
-              color: 'white',
+              backgroundImage:
+                'linear-gradient(180deg, rgb(57, 78, 163), rgb(81, 92, 138))',
+              backgroundClip: 'text',
+              '-webkit-background-clip': 'text',
+              color: 'transparent',
             }}
           >
             Nghị định 168/2024
@@ -101,7 +105,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
             display: 'block',
             lineClamp: '2',
             backgroundImage:
-              'linear-gradient(180deg, rgb(255, 0, 0), rgb(181, 22, 148))',
+              'linear-gradient(180deg, rgb(255, 0, 0), rgb(254, 98, 48))',
             backgroundClip: 'text',
             '-webkit-background-clip': 'text',
             color: 'transparent',

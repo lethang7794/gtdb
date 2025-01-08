@@ -105,23 +105,23 @@ export default async function Image({ params }: { params: { slug: string } }) {
     detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
   }
   if (explainDetail.type === 'khoan') {
-    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
+    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
     short2 = `${explainDetail.khoan?.code_name || ''}`
     detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
     short2 = `Khoản ${short2}`
   }
   if (explainDetail.type === 'diem') {
-    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
+    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
 
     short2 = `${explainDetail.khoan?.code_name || ''}`
     detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
     short2 = `khoản ${short2}`
 
-    short1 = `${explainDetail.diem?.code_name || ''}`
-    detail3 = `${short1}. ${explainDetail.diem?.full_name || ''}`
-    short1 = `Điểm ${short1}`
+    short3 = `${explainDetail.diem?.code_name || ''}`
+    detail3 = `${short3}. ${explainDetail.diem?.full_name || ''}`
+    short3 = `điểm ${short3}`
   }
 
   return new ImageResponse(
@@ -152,7 +152,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
         <div
           style={{
             backgroundImage:
-              'linear-gradient(270deg, rgb(0, 187, 0), rgb(0, 128, 0))',
+              'linear-gradient(90deg, rgb(255, 0, 0), rgb(254, 98, 48))',
             backgroundClip: 'text',
             '-webkit-background-clip': 'text',
             color: 'transparent',
@@ -163,7 +163,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
         <div
           style={{
             backgroundImage:
-              'linear-gradient(90deg, rgb(255, 255, 0), rgb(254, 98, 48))',
+              'linear-gradient(270deg, rgb(255, 255, 0), rgb(254, 98, 48))',
             backgroundClip: 'text',
             '-webkit-background-clip': 'text',
             color: 'transparent',
@@ -174,17 +174,21 @@ export default async function Image({ params }: { params: { slug: string } }) {
         <div
           style={{
             backgroundImage:
-              'linear-gradient(270deg, rgb(255, 0, 0), rgb(254, 98, 48))',
+              'linear-gradient(90deg, rgb(0, 187, 0), rgb(0, 128, 0))',
             backgroundClip: 'text',
             '-webkit-background-clip': 'text',
             color: 'transparent',
           }}
-        >
+          >
           {short3}
         </div>
         <div
           style={{
-            color: 'white',
+            backgroundImage:
+              'linear-gradient(90deg, rgb(57, 78, 163), rgb(81, 92, 138))',
+            backgroundClip: 'text',
+            '-webkit-background-clip': 'text',
+            color: 'transparent',
           }}
         >
           Nghị định 168/2024
@@ -201,7 +205,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
           display: 'block',
           lineClamp: '2',
           backgroundImage:
-            'linear-gradient(180deg, rgb(255, 0, 0), rgb(181, 22, 148))',
+            'linear-gradient(180deg, rgb(255, 0, 0), rgb(254, 98, 48))',
           backgroundClip: 'text',
           '-webkit-background-clip': 'text',
           color: 'transparent',
