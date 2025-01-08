@@ -81,7 +81,6 @@ export const contentType = 'image/png'
 
 export default async function Image({ params }: { params: { slug: string } }) {
   const explain = explain168Section(params.slug || '').path
-  console.log('🚀 ~ Image ~ explain:', explain)
   const explainDetail = await explainDetail168Section(params.slug || '')
 
   let detail1 = ''
@@ -151,44 +150,40 @@ export default async function Image({ params }: { params: { slug: string } }) {
       >
         <div
           style={{
-            backgroundImage:
-              'linear-gradient(90deg, rgb(255, 0, 0), rgb(254, 98, 48))',
-            backgroundClip: 'text',
-            'WebkitBackgroundClip': 'text',
-            color: 'transparent',
+            color: 'white',
+            border: '2px dashed red',
+            borderRadius: '16px',
+            padding: '0 8px',
           }}
         >
           {short1}
         </div>
         <div
           style={{
-            backgroundImage:
-              'linear-gradient(270deg, rgb(255, 255, 0), rgb(254, 98, 48))',
-            backgroundClip: 'text',
-            'WebkitBackgroundClip': 'text',
-            color: 'transparent',
+            color: 'white',
+            border: '2px dashed yellow',
+            borderRadius: '16px',
+            padding: '0 8px',
           }}
         >
           {short2}
         </div>
         <div
           style={{
-            backgroundImage:
-              'linear-gradient(90deg, rgb(0, 187, 0), rgb(0, 128, 0))',
-            backgroundClip: 'text',
-            'WebkitBackgroundClip': 'text',
-            color: 'transparent',
+            color: 'white',
+            border: '2px solid green',
+            borderRadius: '16px',
+            padding: '0 8px',
           }}
         >
           {short3}
         </div>
         <div
           style={{
-            backgroundImage:
-              'linear-gradient(90deg, rgb(57, 78, 163), rgb(81, 92, 138))',
-            backgroundClip: 'text',
-            'WebkitBackgroundClip': 'text',
-            color: 'transparent',
+            color: 'white',
+            border: '2px dashed transparent',
+            borderRadius: '16px',
+            padding: '0 8px',
           }}
         >
           Nghị định 168/2024
@@ -196,61 +191,76 @@ export default async function Image({ params }: { params: { slug: string } }) {
       </div>
       <div
         style={{
-          fontSize: 36,
-          fontStyle: 'normal',
-          letterSpacing: '-0.025em',
-          marginTop: 24,
+          display: 'flex',
           padding: '0 60px 0 60px',
-          lineHeight: 1.4,
-          display: 'block',
-          lineClamp: '2',
-          backgroundImage:
-            'linear-gradient(180deg, rgb(255, 0, 0), rgb(254, 98, 48))',
-          backgroundClip: 'text',
-          'WebkitBackgroundClip': 'text',
-          color: 'transparent',
         }}
       >
-        {detail1}
+        <div
+          style={{
+            fontSize: 36,
+            fontStyle: 'normal',
+            letterSpacing: '-0.025em',
+            marginTop: 24,
+            lineHeight: 1.4,
+            padding: '4px 8px 4px 8px',
+            display: 'block',
+            lineClamp: '2',
+            color: 'white',
+            border: '2px dashed red',
+            borderRadius: '16px',
+          }}
+        >
+          {detail1}
+        </div>
       </div>
       <div
         style={{
-          fontSize: 36,
-          fontStyle: 'normal',
-          letterSpacing: '-0.025em',
-          marginTop: 24,
-          padding: '0 60px 0 84px',
-          lineHeight: 1.4,
-          display: 'block',
-          lineClamp: '1',
-          backgroundImage:
-            'linear-gradient(0deg, rgb(255, 255, 0), rgb(254, 98, 48))',
-          backgroundClip: 'text',
-          'WebkitBackgroundClip': 'text',
-          color: 'transparent',
+          display: 'flex',
+          padding: '0 60px 0 60px',
         }}
       >
-        {detail2}
+        <div
+          style={{
+            fontSize: 36,
+            fontStyle: 'normal',
+            letterSpacing: '-0.025em',
+            marginTop: 24,
+            // padding: '0 60px 0 84px',
+            padding: '4px 8px 4px 32px',
+            lineHeight: 1.4,
+            display: 'block',
+            lineClamp: '1',
+            color: 'white',
+            border: '2px dashed yellow',
+            borderRadius: '16px',
+          }}
+        >
+          {detail2}
+        </div>
       </div>
       <div
         style={{
-          fontSize: 36,
-          fontStyle: 'normal',
-          letterSpacing: '-0.025em',
-          marginTop: 24,
-          padding: '0 60px 0 108px',
-          lineHeight: 1.4,
-          display: 'block',
-          lineClamp: '3',
-          backgroundImage:
-            'linear-gradient(180deg, rgb(0, 187, 0), rgb(0, 128, 0))',
-          backgroundClip: 'text',
-          'WebkitBackgroundClip': 'text',
-          color: 'transparent',
-          border: '1px',
+          display: 'flex',
+          padding: '0 60px 0 60px',
         }}
       >
-        {detail3}
+        <div
+          style={{
+            fontSize: 36,
+            fontStyle: 'normal',
+            letterSpacing: '-0.025em',
+            marginTop: 24,
+            padding: '4px 8px 4px 56px',
+            lineHeight: 1.4,
+            display: 'block',
+            lineClamp: '3',
+            color: 'white',
+            border: '2px solid green',
+            borderRadius: '16px',
+          }}
+        >
+          {detail3}
+        </div>
       </div>
     </div>,
     {
