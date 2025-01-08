@@ -13,7 +13,7 @@ export const contentType = 'image/png'
 
 // Image generation
 export default function Image(props: { params: { slug: string } }) {
-  console.log('Image:', { props })
+  console.log('168 Image:', { props })
   // const url = new URL(request.url)
   // const { searchParams } = url
   // console.log({ url })
