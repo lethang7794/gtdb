@@ -85,10 +85,10 @@ export const contentType = 'image/png'
 
 // Image generation
 export default async function Image({ params }: { params: { slug: string } }) {
-  // console.log('168 slug Image')
+  console.log('168 slug Image', { params })
   const explain = explain168Section(params.slug || '').path
   const explainDetail = await explainDetail168Section(params.slug || '')
-  // console.log({ explainDetail })
+  console.log({ explainDetail })
 
   let detail1 = ''
   let detail2 = ''
