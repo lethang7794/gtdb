@@ -70,7 +70,7 @@ export default function Image(props: { params: { slug: string } }) {
           justifyItems: 'center',
         }}
       >
-        🚔🚨🛑👮🎫 📸🤑 😭💸 🫂
+        🚔🚨🛑👮🎫 - 🤑📸💸😭🫂
       </div>
       <div
         style={{
