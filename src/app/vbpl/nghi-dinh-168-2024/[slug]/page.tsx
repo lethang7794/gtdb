@@ -7,7 +7,9 @@ import './style.css'
 
 export async function generateStaticParams() {
   const roadSigns = getND168s()
-  return Object.keys(roadSigns).map((key) => ({ slug: key }))
+  return Object.keys(roadSigns)
+    .map((key) => ({ slug: key }))
+    .slice(0, 10) // TODO: remove for all slugs
 }
 
 type Props = {
