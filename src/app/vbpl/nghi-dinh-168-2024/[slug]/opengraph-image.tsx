@@ -121,8 +121,8 @@ export default async function Image({ params }: { params: { slug: string } }) {
         height: '100%',
         width: '100%',
         display: 'flex',
-        textAlign: 'center',
-        alignItems: 'center',
+        // textAlign: 'center',
+        // alignItems: 'center',
         justifyContent: 'center',
         flexDirection: 'column',
         flexWrap: 'nowrap',
@@ -146,12 +146,12 @@ export default async function Image({ params }: { params: { slug: string } }) {
       </div> */}
       <div
         style={{
-          fontSize: 24,
+          fontSize: 40,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          marginTop: 30,
-          padding: '0 120px',
+          // marginTop: 24,
+          padding: '0 60px 0 60px',
           lineHeight: 1.4,
           // whiteSpace: 'pre-wrap',
         }}
