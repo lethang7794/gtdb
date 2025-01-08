@@ -91,25 +91,25 @@ export default async function Image({ params }: { params: { slug: string } }) {
   let short2 = ''
   let short3 = ''
   if (explainDetail.type === 'chuong') {
-    short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
-    detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
+    short2 = `Chương ${explainDetail.chuong?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.chuong?.full_name || ''}`
   }
   if (explainDetail.type === 'muc') {
     short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
     detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
-    short2 = `Mục ${explainDetail.muc?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.muc?.full_name || ''}`
+    short1 = `Mục ${explainDetail.muc?.code_name || ''}`
+    detail3 = `${short1}. ${explainDetail.muc?.full_name || ''}`
   }
   if (explainDetail.type === 'dieu') {
-    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
+    short2 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.dieu?.full_name || ''}`
   }
   if (explainDetail.type === 'khoan') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
     detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
-    short2 = `${explainDetail.khoan?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
-    short2 = `Khoản ${short2}`
+    short3 = `${explainDetail.khoan?.code_name || ''}`
+    detail3 = `${short3}. ${explainDetail.khoan?.full_name || ''}`
+    short3 = `Khoản ${short3}`
   }
   if (explainDetail.type === 'diem') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
@@ -179,7 +179,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
             '-webkit-background-clip': 'text',
             color: 'transparent',
           }}
-          >
+        >
           {short3}
         </div>
         <div
