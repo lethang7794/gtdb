@@ -319,7 +319,7 @@ II:
   full_name: HÀNH VI VI PHẠM, HÌNH THỨC, MỨC XỬ PHẠT, MỨC TRỪ ĐIỂM GIẤY PHÉP LÁI XE VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ VI PHẠM HÀNH CHÍNH VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ
 
 II.1:
-  code_name: c
+  code_name: 1
   full_name: "VI PHẠM QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
 
 6:
@@ -1655,7 +1655,7 @@ II.1:
   full_name: "Ngoài việc bị áp dụng hình thức xử phạt, cá nhân thực hiện hành vi quy định tại điểm a, điểm b khoản 11 Điều này nếu là người điều khiển phương tiện bị trừ điểm giấy phép lái xe 02 điểm."
 
 II.2:
-  code_name: c
+  code_name: 2
   full_name: "VI PHẠM QUY ĐỊNH VỀ PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ"
 
 13:
@@ -2079,7 +2079,7 @@ II.2:
   full_name: "Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện (khi điều khiển xe ô tô) thực hiện hành vi vi phạm quy định tại khoản 3, khoản 4 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm."
 
 II.3:
-  code_name: Mục 3
+  code_name: 3
   full_name: "VI PHẠM QUY ĐỊNH VỀ NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ"
 
 18:
@@ -2235,7 +2235,7 @@ II.3:
   full_name: "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe máy chuyên dùng không có bằng (hoặc chứng chỉ) điều khiển xe máy chuyên dùng, không có giấy phép lái xe (hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm, giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực) hoặc không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ."
 
 II.4:
-  code_name: c
+  code_name: 4
   full_name: "VI PHẠM QUY ĐỊNH VỀ BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ ĐỐI VỚI XE Ô TÔ VẬN CHUYỂN HÀNH KHÁCH, HÀNG HÓA, HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG, HÀNG HÓA NGUY HIỂM, CHỞ TRẺ EM MẦM NON, HỌC SINH; XE CHỞ NGƯỜI BỐN BÁNH CÓ GẮN ĐỘNG CƠ, XE CHỞ HÀNG BỐN BÁNH CÓ GẮN ĐỘNG CƠ; XE CỨU HỘ GIAO THÔNG ĐƯỜNG BỘ; XE VẬN CHUYỂN ĐỘNG VẬT SỐNG, THỰC PHẨM TƯƠI SỐNG; XE CỨU THƯƠNG"
 
 20:
@@ -3063,7 +3063,7 @@ II.4:
   full_name: "Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi quy định tại khoản 2 Điều này bị trừ điểm giấy phép lái xe 02 điểm."
 
 II.5:
-  code_name: c
+  code_name: 5
   full_name: "CÁC VI PHẠM KHÁC LIÊN QUAN ĐẾN TRẬT TỰ, AN TOÀN GIAO THÔNG TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ"
 
 31:
@@ -4179,7 +4179,7 @@ III:
   full_name: THẨM QUYỀN, THỦ TỤC XỬ PHẠT, TRỪ ĐIỂM, PHỤC HỒI ĐIỂM GIẤY PHÉP LÁI XE
 
 III.1:
-  code_name: c
+  code_name: 1
   full_name: "THẨM QUYỀN XỬ PHẠT"
 
 41:
@@ -4647,7 +4647,7 @@ III.1:
   full_name: "Công chức thuộc Thanh tra Sở Giao thông vận tải đang thi hành công vụ, nhiệm vụ có thẩm quyền lập biên bản đối với các hành vi vi phạm xảy ra trong phạm vi địa bàn quản lý của Thanh tra Sở Giao thông vận tải."
 
 III.2:
-  code_name: c
+  code_name: 2
   full_name: "THỦ TỤC XỬ PHẠT"
 
 47:
@@ -4963,7 +4963,7 @@ III.2:
     Trường hợp khi tạm giữ phương tiện vi phạm hành chính nhưng người điều khiển phương tiện, chủ phương tiện không có mặt tại nơi xảy ra vi phạm hoặc có mặt nhưng không chấp hành yêu cầu của người có thẩm quyền tạm giữ hoặc không đáp ứng yêu cầu, điều kiện theo quy định để điều khiển phương tiện hoặc phương tiện không bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định thì người có thẩm quyền tạm giữ thực hiện việc di chuyển phương tiện vi phạm về nơi tạm giữ theo quy định; nếu không đủ điều kiện thực hiện thì người có thẩm quyền tạm giữ được thuê tổ chức, cá nhân thực hiện việc di chuyển phương tiện đó. Người điều khiển phương tiện hoặc chủ phương tiện vi phạm phải trả chi phí cho việc thuê di chuyển phương tiện đó về nơi tạm giữ.
 
 III.3:
-  code_name: c
+  code_name: 3
   full_name: "TRÌNH TỰ, THỦ TỤC, THẨM QUYỀN TRỪ ĐIỂM, PHỤC HỒI ĐIỂM GIẤY PHÉP LÁI XE"
 
 49:
