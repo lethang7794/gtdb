@@ -67,7 +67,7 @@ export default function Image(props: { params: { slug: string } }) {
           whiteSpace: 'pre-wrap',
         }}
       >
-        Nghị định 168
+        Nghị định 168/2024
       </div>
     </div>,
     {

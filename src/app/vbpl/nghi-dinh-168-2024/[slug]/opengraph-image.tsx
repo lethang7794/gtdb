@@ -1,7 +1,5 @@
 import { ImageResponse } from 'next/og'
 
-// export const runtime = 'edge'
-
 import {
   explain168Section,
   isChuong,
@@ -74,8 +72,6 @@ export async function explainDetail168Section(id?: string): Promise<{
   return { path: '' }
 }
 
-// Image metadata
-export const alt = 'About Acme' // TODO
 export const size = {
   width: 1200,
   height: 630,
@@ -83,7 +79,6 @@ export const size = {
 
 export const contentType = 'image/png'
 
-// Image generation
 export default async function Image({ params }: { params: { slug: string } }) {
   const explain = explain168Section(params.slug || '').path
   const explainDetail = await explainDetail168Section(params.slug || '')
@@ -92,23 +87,23 @@ export default async function Image({ params }: { params: { slug: string } }) {
   let detail2 = ''
   let detail3 = ''
   if (explainDetail.type === 'chuong') {
-    detail1 = explainDetail.chuong?.full_name || ''
+    detail1 = `Chương ${explainDetail.chuong?.code_name || ''}. ${explainDetail.chuong?.full_name || ''}`
   }
   if (explainDetail.type === 'muc') {
-    detail1 = explainDetail.chuong?.full_name || ''
-    detail2 = explainDetail.muc?.full_name || ''
+    detail1 = `Chương ${explainDetail.chuong?.code_name || ''}. ${explainDetail.chuong?.full_name || ''}`
+    detail2 = `Mục ${explainDetail.muc?.code_name || ''}. ${explainDetail.muc?.full_name || ''}`
   }
   if (explainDetail.type === 'dieu') {
-    detail1 = explainDetail.dieu?.full_name || ''
+    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
   }
   if (explainDetail.type === 'khoan') {
-    detail1 = explainDetail.dieu?.full_name || ''
-    detail2 = explainDetail.khoan?.full_name || ''
+    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
+    detail2 = `${explainDetail.khoan?.code_name || ''}. ${explainDetail.khoan?.full_name || ''}`
   }
   if (explainDetail.type === 'diem') {
-    detail1 = explainDetail.dieu?.full_name || ''
-    detail2 = explainDetail.khoan?.full_name || ''
-    detail3 = explainDetail.diem?.full_name || ''
+    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
+    detail2 = `${explainDetail.khoan?.code_name || ''}. ${explainDetail.khoan?.full_name || ''}`
+    detail3 = `${explainDetail.diem?.code_name || ''}. ${explainDetail.diem?.full_name || ''}`
   }
 
   return new ImageResponse(
@@ -116,84 +111,67 @@ export default async function Image({ params }: { params: { slug: string } }) {
       style={{
         backgroundColor: 'black',
         backgroundSize: '150px 150px',
-        height: '100%',
+        height: 630,
         width: '100%',
         display: 'flex',
-        // textAlign: 'center',
-        // alignItems: 'center',
-        justifyContent: 'center',
         flexDirection: 'column',
         flexWrap: 'nowrap',
+        overflow: 'hidden',
       }}
     >
-      {/* <div
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          justifyItems: 'center',
-        }}
-      >
-        <img
-          alt="Vercel"
-          height={200}
-          src="data:image/svg+xml,%3Csvg width='116' height='100' fill='white' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M57.5 0L115 100H0L57.5 0z' /%3E%3C/svg%3E"
-          style={{ margin: '0 30px' }}
-          width={232}
-        />
-      </div> */}
       <div
         style={{
-          fontSize: 40,
+          fontSize: 48,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          // marginTop: 24,
-          padding: '0 60px 0 60px',
+          padding: '48px 60px 0 60px',
           lineHeight: 1.4,
-          // whiteSpace: 'pre-wrap',
         }}
       >
         {`${explain} | Nghị định 168/2024`}
       </div>
       <div
         style={{
-          fontSize: 24,
+          fontSize: 28,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
           marginTop: 30,
-          padding: '0 120px',
+          padding: '0 60px 0 60px',
           lineHeight: 1.4,
-          // whiteSpace: 'pre-wrap',
+          display: 'block',
+          lineClamp: '2',
         }}
       >
         {detail1}
       </div>
       <div
         style={{
-          fontSize: 24,
+          fontSize: 28,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
           marginTop: 30,
-          padding: '0 120px',
+          padding: '0 60px 0 84px',
           lineHeight: 1.4,
-          // whiteSpace: 'pre-wrap',
+          display: 'block',
+          lineClamp: '1',
         }}
       >
         {detail2}
       </div>
       <div
         style={{
-          fontSize: 24,
+          fontSize: 28,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
           marginTop: 30,
-          padding: '0 120px',
+          padding: '0 60px 0 108px',
           lineHeight: 1.4,
-          // whiteSpace: 'pre-wrap',
+          display: 'block',
+          lineClamp: '3',
         }}
       >
         {detail3}
