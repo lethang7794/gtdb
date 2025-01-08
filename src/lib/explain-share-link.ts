@@ -39,7 +39,7 @@ export function explain168Section(id?: string):
     const [chuong, muc] = id.split('.')
     return {
       type: 'muc',
-      path: `Chương ${chuong}, mục ${muc}`,
+      path: `Mục ${chuong} Chương ${muc}`,
     }
   }
   if (isDieu(id)) {
@@ -52,14 +52,14 @@ export function explain168Section(id?: string):
     const [dieu, khoan] = id.split('.')
     return {
       type: 'khoan',
-      path: `Khoản ${khoan}, Điều ${dieu}`,
+      path: `Khoản ${khoan} Điều ${dieu}`,
     }
   }
   if (isDiem(id)) {
     const [dieu, khoan, diem] = id.split('.')
     return {
       type: 'diem',
-      path: `Điểm ${diem}, khoản ${khoan}, Điều ${dieu}`,
+      path: `Điểm ${diem} khoản ${khoan} Điều ${dieu}`,
     }
   }
 
