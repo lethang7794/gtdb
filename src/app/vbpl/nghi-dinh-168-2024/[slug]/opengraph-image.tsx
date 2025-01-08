@@ -81,36 +81,54 @@ export const contentType = 'image/png'
 
 export default async function Image({ params }: { params: { slug: string } }) {
   const explain = explain168Section(params.slug || '').path
+  console.log('🚀 ~ Image ~ explain:', explain)
   const explainDetail = await explainDetail168Section(params.slug || '')
 
   let detail1 = ''
   let detail2 = ''
   let detail3 = ''
+  let short1 = ''
+  let short2 = ''
+  let short3 = ''
   if (explainDetail.type === 'chuong') {
-    detail1 = `Chương ${explainDetail.chuong?.code_name || ''}. ${explainDetail.chuong?.full_name || ''}`
+    short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
+    detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
   }
   if (explainDetail.type === 'muc') {
-    detail1 = `Chương ${explainDetail.chuong?.code_name || ''}. ${explainDetail.chuong?.full_name || ''}`
-    detail2 = `Mục ${explainDetail.muc?.code_name || ''}. ${explainDetail.muc?.full_name || ''}`
+    short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
+    detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
+    short2 = `Mục ${explainDetail.muc?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.muc?.full_name || ''}`
   }
   if (explainDetail.type === 'dieu') {
-    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
+    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
   }
   if (explainDetail.type === 'khoan') {
-    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
-    detail2 = `${explainDetail.khoan?.code_name || ''}. ${explainDetail.khoan?.full_name || ''}`
+    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
+    short2 = `${explainDetail.khoan?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
+    short2 = `Khoản ${short2}`
   }
   if (explainDetail.type === 'diem') {
-    detail1 = `Điều ${explainDetail.dieu?.code_name || ''}. ${explainDetail.dieu?.full_name || ''}`
-    detail2 = `${explainDetail.khoan?.code_name || ''}. ${explainDetail.khoan?.full_name || ''}`
-    detail3 = `${explainDetail.diem?.code_name || ''}. ${explainDetail.diem?.full_name || ''}`
+    short3 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short3}. ${explainDetail.dieu?.full_name || ''}`
+
+    short2 = `${explainDetail.khoan?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
+    short2 = `khoản ${short2}`
+
+    short1 = `${explainDetail.diem?.code_name || ''}`
+    detail3 = `${short1}. ${explainDetail.diem?.full_name || ''}`
+    short1 = `Điểm ${short1}`
   }
 
   return new ImageResponse(
     <div
       style={{
-        backgroundColor: '#212831',
-        backgroundSize: '150px 150px',
+        // backgroundImage: 'linear-gradient(to bottom, #dbf4ff, #fff1f1)',
+        backgroundColor: 'rgb(33, 40, 49)',
         height: 630,
         width: '100%',
         display: 'flex',
@@ -121,6 +139,8 @@ export default async function Image({ params }: { params: { slug: string } }) {
     >
       <div
         style={{
+          display: 'flex',
+          gap: 12,
           fontSize: 48,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
@@ -129,19 +149,62 @@ export default async function Image({ params }: { params: { slug: string } }) {
           lineHeight: 1.4,
         }}
       >
-        {`${explain} | Nghị định 168/2024`}
+        <div
+          style={{
+            backgroundImage:
+              'linear-gradient(180deg, rgb(255, 77, 77), rgb(249, 203, 40))',
+            backgroundClip: 'text',
+            '-webkit-background-clip': 'text',
+            color: 'transparent',
+          }}
+        >
+          {short1}
+        </div>
+        <div
+          style={{
+            backgroundImage:
+              'linear-gradient(0deg, #5CB338, #5CB338)',
+            backgroundClip: 'text',
+            '-webkit-background-clip': 'text',
+            color: 'transparent',
+          }}
+        >
+          {short2}
+        </div>
+        <div
+          style={{
+            backgroundImage:
+              'linear-gradient(180deg, rgb(0, 124, 240), rgb(0, 223, 216))',
+            backgroundClip: 'text',
+            '-webkit-background-clip': 'text',
+            color: 'transparent',
+          }}
+        >
+          {short3}
+        </div>
+        <div
+          style={{
+            color: 'white',
+          }}
+        >
+          Nghị định 168/2024
+        </div>
       </div>
       <div
         style={{
           fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
-          color: 'white',
           marginTop: 24,
           padding: '0 60px 0 60px',
           lineHeight: 1.4,
           display: 'block',
           lineClamp: '2',
+          backgroundImage:
+            'linear-gradient(180deg, rgb(0, 124, 240), rgb(0, 223, 216))',
+          backgroundClip: 'text',
+          '-webkit-background-clip': 'text',
+          color: 'transparent',
         }}
       >
         {detail1}
@@ -151,12 +214,16 @@ export default async function Image({ params }: { params: { slug: string } }) {
           fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
-          color: 'white',
           marginTop: 24,
           padding: '0 60px 0 84px',
           lineHeight: 1.4,
           display: 'block',
           lineClamp: '1',
+          backgroundImage:
+            'linear-gradient(0deg, #5CB338, #5CB338)',
+          backgroundClip: 'text',
+          '-webkit-background-clip': 'text',
+          color: 'transparent',
         }}
       >
         {detail2}
@@ -166,12 +233,17 @@ export default async function Image({ params }: { params: { slug: string } }) {
           fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
-          color: 'white',
           marginTop: 24,
           padding: '0 60px 0 108px',
           lineHeight: 1.4,
           display: 'block',
           lineClamp: '3',
+          backgroundImage:
+            'linear-gradient(180deg, rgb(255, 77, 77), rgb(249, 203, 40))',
+          backgroundClip: 'text',
+          '-webkit-background-clip': 'text',
+          color: 'transparent',
+          border: '1px',
         }}
       >
         {detail3}
