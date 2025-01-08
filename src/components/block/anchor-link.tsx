@@ -33,6 +33,7 @@ export default function AnchorLink({ id, children }: Props) {
     }
   }, [hasCopied])
 
+  const explain = explain168Section(id).path
   return (
     // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
     <span
@@ -45,7 +46,7 @@ export default function AnchorLink({ id, children }: Props) {
         setHasCopied(true)
         setHasCopiedRecently(true)
         toast({
-          title: `✅ Đã sao chép: ${explain168Section(id).path}`,
+          title: `✅ Đã sao chép: ${explain}`,
           description: `${shareLink}`,
         })
       }}
