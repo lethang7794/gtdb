@@ -3,13 +3,15 @@ export async function loadFileFromRepo(
   repo = process.env.NEXT_PUBLIC_GITHUB_REPO,
   branch = 'main'
 ) {
-  console.log({ path, repo, branch })
+  if (!repo) {
+    throw new Error('missing environment: NEXT_PUBLIC_GITHUB_REPO')
+  }
+
   try {
     const url = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${path}`
     const data = await fetch(url, { cache: 'force-cache' })
-    console.log('🚀 ~ url:', url)
     return data
   } catch (error) {
-    throw new Error(`fail loading file from repo: ${error}`)
+    throw new Error(`failed loading file from repo: ${error}`)
   }
 }
