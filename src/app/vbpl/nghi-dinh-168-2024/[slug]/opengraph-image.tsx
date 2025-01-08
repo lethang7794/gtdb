@@ -109,7 +109,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
   return new ImageResponse(
     <div
       style={{
-        backgroundColor: 'black',
+        backgroundColor: '#212831',
         backgroundSize: '150px 150px',
         height: 630,
         width: '100%',
@@ -133,11 +133,11 @@ export default async function Image({ params }: { params: { slug: string } }) {
       </div>
       <div
         style={{
-          fontSize: 28,
+          fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          marginTop: 30,
+          marginTop: 24,
           padding: '0 60px 0 60px',
           lineHeight: 1.4,
           display: 'block',
@@ -148,11 +148,11 @@ export default async function Image({ params }: { params: { slug: string } }) {
       </div>
       <div
         style={{
-          fontSize: 28,
+          fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          marginTop: 30,
+          marginTop: 24,
           padding: '0 60px 0 84px',
           lineHeight: 1.4,
           display: 'block',
@@ -163,11 +163,11 @@ export default async function Image({ params }: { params: { slug: string } }) {
       </div>
       <div
         style={{
-          fontSize: 28,
+          fontSize: 36,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          marginTop: 30,
+          marginTop: 24,
           padding: '0 60px 0 108px',
           lineHeight: 1.4,
           display: 'block',
