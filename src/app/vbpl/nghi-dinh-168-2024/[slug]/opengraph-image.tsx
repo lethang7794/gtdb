@@ -5,13 +5,14 @@ import {
   nd168SectionExplainDetail,
   nd168SectionExplainComponents,
 } from '@/lib/nd-168-section-explain-detail'
+import { env } from '@/env.mjs'
 import { Nd168SectionPreview } from './nd-168-section-preview'
 
 export const size = {
   width: 1200,
   height: 630,
 }
-export const alt = 'Nghị định 168/2024'
+export const alt = `Nghị định 168/2024 | ${env.NEXT_PUBLIC_BRAND}`
 export const contentType = 'image/png'
 
 export default async function Image({ params }: { params: { slug: string } }) {

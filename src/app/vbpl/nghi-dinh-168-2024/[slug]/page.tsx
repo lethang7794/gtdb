@@ -3,6 +3,7 @@ import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import './style.css'
+import { env } from '@/env.mjs'
 
 export async function generateStaticParams() {
   const roadSigns = await getND168s()
@@ -30,7 +31,9 @@ export async function generateMetadata(
 
   const sectionExplain = nd168SectionExplain(section).path
   return {
-    title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
+    title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND]
+      .filter(Boolean)
+      .join(' | '),
     description: sectionItem?.full_name,
   }
 }
