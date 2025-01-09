@@ -1,13 +1,17 @@
-
 export function Nd168SectionPreview({
-  short1, short2, short3, detail1, detail2, detail3,
+  short1,
+  short2,
+  short3,
+  detail1,
+  detail2,
+  detail3,
 }: {
-  short1: string;
-  short2: string;
-  short3: string;
-  detail1: string;
-  detail2: string;
-  detail3: string;
+  short1: string
+  short2: string
+  short3: string
+  detail1: string
+  detail2: string
+  detail3: string
 }) {
   return (
     <div
@@ -149,5 +153,5 @@ export function Nd168SectionPreview({
         </div>
       </div>
     </div>
-  );
+  )
 }

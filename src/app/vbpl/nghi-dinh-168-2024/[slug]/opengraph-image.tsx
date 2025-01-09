@@ -1,8 +1,8 @@
 import { ImageResponse } from 'next/og'
 
 import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
+import { nd168SectionExplainDetail } from '@/lib/nd-168-section-explain-detail'
 import { Nd168SectionPreview } from './nd-168-section-preview'
-import { nd168SectionExplainDetail } from './nd-168-section-explain-detail'
 
 export const size = {
   width: 1200,
