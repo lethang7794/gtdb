@@ -70,11 +70,11 @@
 
 ### Điều 33. Người lái xe, người được chở, hàng hóa xếp trên **xe mô tô, xe gắn máy**
 
-## Chương III. **PHƯƠNG TIỆN** THAM GIA GTĐB
+## Chương III. **PHƯƠNG TIỆN** _THAM GIA_ GTĐB (PTTGGTĐB)
 
 ### Điều 34. **Phân loại** phương tiện GTĐB
 
-### Điều 35. **Điều kiện** phương tiện tham gia GTĐB
+### Điều 35. **Điều kiện** PTTGGTĐB
 
 ### Điều 36. **Biển số** xe
 
@@ -90,7 +90,7 @@
 
 ### Điều 42. Bảo đảm ATKT&BVMT của xe cơ giới, xe máy chuyên dùng tham gia GTĐB
 
-### Điều 43. Trách nhiệm của cơ sở đăng kiểm, **chủ xe** cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng
+### Điều 43. Trách nhiệm của cơ sở đăng kiểm, **chủ xe** cơ giới, xe máy chuyên dùng và NĐK xe cơ giới, xe máy chuyên dùng
 
 ### Điều 44. Bảo đảm TTATGTĐB đối với phương tiện **vận tải** đường bộ trong _đô thị_
 
@@ -118,13 +118,13 @@
 
 ## Chương IV. **NGƯỜI ĐIỀU KHIỂN**<br/>PHƯƠNG TIỆN THAM GIA GTĐB
 
-### Điều 56. **Điều kiện** của người điều khiển phương tiện tham gia GTĐB
+### Điều 56. **Điều kiện** của NĐK PTTG GTĐB
 
 ### Điều 57. Giấy phép lái xe
 
 ### Điều 58. Điểm của giấy phép lái xe
 
-### Điều 59. **Tuổi, sức khỏe** của người điều khiển phương tiện tham gia GTĐB
+### Điều 59. **Tuổi, sức khỏe** của NĐK PTTG GTĐB
 
 ### Điều 60. Đào tạo lái xe
 
@@ -132,7 +132,7 @@
 
 ### Điều 62. **Cấp, đổi**, cấp lại và thu hồi giấy phép lái xe
 
-### Điều 63. Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về GTĐB cho người điều khiển xe máy chuyên dùng
+### Điều 63. Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về GTĐB cho NĐK xe máy chuyên dùng
 
 ### Điều 64. Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ
 
@@ -140,7 +140,7 @@
 
 ### Điều 65. Hoạt động tuần tra, kiểm soát về TTATGTĐB
 
-### Điều 66. Căn cứ dừng phương tiện tham gia GTĐB để kiểm tra, kiểm soát
+### Điều 66. Căn cứ dừng PTTG GTĐB để kiểm tra, kiểm soát
 
 ### Điều 67. Biện pháp phát hiện vi phạm pháp luật về TTATGTĐB
 
@@ -152,7 +152,7 @@
 
 ### Điều 71. Hệ thống giám sát bảo đảm an ninh, TTATGTĐB; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới
 
-### Điều 72. **Quyền và trách nhiệm** của người điều khiển phương tiện tham gia GTĐB
+### Điều 72. **Quyền và trách nhiệm** của NĐK PTTG GTĐB
 
 ### Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ
 
@@ -172,7 +172,7 @@
 
 ## Chương VII. GIẢI QUYẾT TAI NẠN GTĐB
 
-### Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia GTĐB gây ra tai nạn GTĐB, người liên quan và người có mặt tại hiện trường vụ tai nạn GTĐB
+### Điều 80. Trách nhiệm của NĐK PTTG GTĐB gây ra tai nạn GTĐB, người liên quan và người có mặt tại hiện trường vụ tai nạn GTĐB
 
 ### Điều 81. Phát hiện, tiếp nhận, xử lý tin báo tai nạn GTĐB
 
@@ -184,13 +184,13 @@
 
 ### Điều 85. Quỹ giảm thiểu thiệt hại tai nạn GTĐB
 
-## Chương VIII. QUẢN LÝ NHÀ NƯỚC VỀ TTATGTĐB
+## Chương VIII. QUẢN LÝ NHÀ NƯỚC VỀ TTATGTĐB <!-- markmap: fold -->
 
 ### Điều 86. Nội dung quản lý nhà nước về TTATGTĐB
 
 ### Điều 87. Trách nhiệm quản lý nhà nước về TTATGTĐB
 
-## Chương IX. ĐIỀU KHOẢN THI HÀNH
+## Chương IX. ĐIỀU KHOẢN THI HÀNH <!-- markmap: fold -->
 
 ### Điều 88. Hiệu lực thi hành
 
@@ -199,5 +199,6 @@
 <!--
 GTĐB: giao thông đường bộ
 TTATGTĐB: Trật tự, an toàn giao thông đường bộ
+NĐK: người điều khiển
 ANKT&BVMT: an toàn kỹ thuật và bảo vệ môi trường
 -->
