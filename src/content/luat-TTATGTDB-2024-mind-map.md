@@ -22,31 +22,31 @@
 
 ## Chương II. QUY TẮC GTĐB
 
-### Điều 10. **Quy tắc chung**
+### **Điều 10**. **Quy tắc chung**
 
-### Điều 11. Chấp hành **báo hiệu** đường bộ
+### **Điều 11**. Chấp hành **báo hiệu** đường bộ
 
-### Điều 12. Chấp hành quy định về **tốc độ** và **khoảng cách** giữa các xe
+### **Điều 12**. Chấp hành quy định về **tốc độ** và **khoảng cách** giữa các xe
 
-### Điều 13. Sử dụng **làn đường**
+### **Điều 13**. Sử dụng **làn đường**
 
-### Điều 14. **Vượt xe** và nhường đường cho _xe xin vượt_
+### **Điều 14**. **Vượt xe** và nhường đường cho _xe xin vượt_
 
-### Điều 15. **Chuyển hướng** xe
+### **Điều 15**. **Chuyển hướng** xe
 
-### Điều 16. **Lùi** xe
+### **Điều 16**. **Lùi** xe
 
-### Điều 17. **Tránh xe** đi ngược chiều
+### **Điều 17**. **Tránh xe** đi ngược chiều
 
-### Điều 18. **Dừng xe, đỗ xe**
+### **Điều 18**. **Dừng xe, đỗ xe**
 
-### Điều 19. **Mở cửa** xe
+### **Điều 19**. **Mở cửa** xe
 
-### Điều 20. Sử dụng **đèn**
+### **Điều 20**. Sử dụng **đèn**
 
-### Điều 21. Sử dụng tín hiệu **còi**
+### **Điều 21**. Sử dụng tín hiệu **còi**
 
-### Điều 22. **Nhường đường** tại nơi đường _giao nhau_
+### **Điều 22**. **Nhường đường** tại nơi đường _giao nhau_
 
 ### Điều 23. Qua **phà**, qua cầu phao
 
@@ -58,11 +58,11 @@
 
 ### Điều 27. **Xe ưu tiên**
 
-### Điều 28. Trường hợp chở người trên xe ô tô chở hàng
+### Điều 28. Trường hợp **chở người** trên _xe ô tô chở hàng_
 
-### Điều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
+### Điều 29. **Xe kéo** xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
 
-### Điều 30. **Người đi bộ**; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ
+### **Điều 30**. **Người đi bộ**; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ
 
 ### Điều 31. Người điều khiển, người được chở, hàng hóa xếp trên **xe thô sơ**
 
