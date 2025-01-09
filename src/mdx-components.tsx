@@ -8,6 +8,7 @@ import A from '@/components/block/anchor-link'
 import NghiDinh168MindMap from '@/app/markmap/nghi-dinh-168-2024/page'
 import RemarkTOCEffect from '@/components/effect/remark-toc'
 import NghiDinh168HDSD from '@/app/vbpl/nghi-dinh-168-2024/hdsd'
+import LuatGT2024Mindmap from '@/app/markmap/luat-TTATGTDB-2024/page'
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
@@ -18,6 +19,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     RemarkTOCEffect,
     NghiDinh168MindMap,
     NghiDinh168HDSD,
+    LuatGT2024Mindmap,
     ...components,
   }
 }

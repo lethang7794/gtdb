@@ -5,6 +5,8 @@ export function getShareLinkFromId(id: string) {
     return ''
   }
   const { origin } = window.location
-  const cleanedHrefWithFragment = `${origin}/${NGHI_DINH_168_FULL_PATH}/${id}#${id}`
+  console.log('window.location:', window.location)
+  const [first, second] = window.location.pathname.slice(1).split('/')
+  const cleanedHrefWithFragment = `${origin}/${[first, second].join('/')}/${id}#${id}`
   return cleanedHrefWithFragment
 }

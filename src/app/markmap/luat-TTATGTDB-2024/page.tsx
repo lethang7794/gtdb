@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Markmap from '@/components/markmap'
-import { getLuatGT2024MindMap } from '@/service/luat-giao-thong-2024'
+import { getLuatGT2024MindMap } from '@/service/luat-giao-thong-2024-mind-map'
 
 export const metadata: Metadata = {
   title:
