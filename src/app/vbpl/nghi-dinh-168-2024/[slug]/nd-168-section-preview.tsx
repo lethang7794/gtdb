@@ -117,11 +117,12 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
       borderRadius: '16px',
     },
     border: {
-      color: 'white',
       border: '4px solid red',
+      color: 'white',
     },
     background: {
       backgroundColor: 'red',
+      color: 'white',
     },
   },
   yellow: {
@@ -130,12 +131,12 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
       borderRadius: '16px',
     },
     border: {
-      color: 'white',
       border: '4px solid yellow',
+      color: 'white',
     },
     background: {
-      color: 'black',
       backgroundColor: 'yellow',
+      color: 'black',
     },
   },
   green: {
@@ -144,12 +145,12 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
       borderRadius: '16px',
     },
     border: {
-      color: 'white',
       border: '4px solid green',
+      color: 'white',
     },
     background: {
-      color: 'white',
       backgroundColor: 'green',
+      color: 'white',
     },
   },
 }

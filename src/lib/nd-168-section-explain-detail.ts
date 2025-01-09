@@ -81,29 +81,29 @@ export async function nd168SectionExplainComponents(slug: string) {
   let short3 = ''
   let highlight: TrafficLight = 'green'
   if (explainDetail.type === 'chuong') {
-    short2 = `Chương ${explainDetail.chuong?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.chuong?.full_name || ''}`
-    highlight = 'yellow'
+    short1 = `Chương ${explainDetail.chuong?.code_name || ''}`
+    detail1 = `${short1}. ${explainDetail.chuong?.full_name || ''}`
+    highlight = 'red'
   }
   if (explainDetail.type === 'muc') {
-    short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
-    detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
-    short1 = `Mục ${explainDetail.muc?.code_name || ''}`
-    detail3 = `${short1}. ${explainDetail.muc?.full_name || ''}`
-    highlight = 'green'
+    short1 = `Chương ${explainDetail.chuong?.code_name || ''}`
+    detail1 = `${short1}. ${explainDetail.chuong?.full_name || ''}`
+    short2 = `Mục ${explainDetail.muc?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.muc?.full_name || ''}`
+    highlight = 'yellow'
   }
   if (explainDetail.type === 'dieu') {
-    short2 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.dieu?.full_name || ''}`
-    highlight = 'yellow'
+    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
+    highlight = 'red'
   }
   if (explainDetail.type === 'khoan') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
     detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
-    short3 = `${explainDetail.khoan?.code_name || ''}`
-    detail3 = `${short3}. ${explainDetail.khoan?.full_name || ''}`
-    short3 = `Khoản ${short3}`
-    highlight = 'green'
+    short2 = `${explainDetail.khoan?.code_name || ''}`
+    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
+    short2 = `Khoản ${short2}`
+    highlight = 'yellow'
   }
   if (explainDetail.type === 'diem') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`

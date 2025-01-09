@@ -39,7 +39,7 @@ export function nd168SectionExplain(id?: string):
     const [chuong, muc] = id.split('.')
     return {
       type: 'muc',
-      path: `Mục ${chuong} Chương ${muc}`,
+      path: `Mục ${muc} Chương ${chuong}`,
     }
   }
   if (isDieu(id)) {
