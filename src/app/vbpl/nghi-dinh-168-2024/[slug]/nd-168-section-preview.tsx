@@ -51,33 +51,17 @@ export function Nd168SectionPreview({
         {short3 ? (
           <div style={getStyleForColor('green', highlight)}>{short3}</div>
         ) : null}
-        <div
-          style={{
-            color: 'white',
-            border: '4px solid transparent',
-            borderRadius: '16px',
-            padding: '0 8px',
-          }}
-        >
-          Nghị định 168/2024
-        </div>
+        <div style={styleNghiDinhHeading}>Nghị định 168/2024</div>
       </div>
       {detail1 ? (
-        <div
-          style={{
-            display: 'flex',
-            padding: '0 60px 0 60px',
-          }}
-        >
+        <div style={styleDetailWrapper}>
           <div
             style={{
               ...getStyleForColor('red', highlight),
-              fontSize: 36,
-              fontStyle: 'normal',
-              letterSpacing: '-0.025em',
-              marginTop: 24,
-              lineHeight: 1.4,
-              padding: '4px 8px 4px 8px',
+              ...styleDetail,
+
+              paddingLeft: '8px',
+
               display: 'block',
               lineClamp: '2',
             }}
@@ -87,24 +71,16 @@ export function Nd168SectionPreview({
         </div>
       ) : null}
       {detail2 ? (
-        <div
-          style={{
-            display: 'flex',
-            padding: '0 60px 0 60px',
-          }}
-        >
+        <div style={styleDetailWrapper}>
           <div
             style={{
               ...getStyleForColor('yellow', highlight),
-              fontSize: 36,
-              fontStyle: 'normal',
-              letterSpacing: '-0.025em',
-              marginTop: 24,
-              // padding: '0 60px 0 84px',
-              padding: '4px 8px 4px 32px',
-              lineHeight: 1.4,
+              ...styleDetail,
+
               display: 'block',
               lineClamp: '1',
+
+              paddingLeft: '32px',
             }}
           >
             {detail2}
@@ -112,23 +88,16 @@ export function Nd168SectionPreview({
         </div>
       ) : null}
       {detail3 ? (
-        <div
-          style={{
-            display: 'flex',
-            padding: '0 60px 0 60px',
-          }}
-        >
+        <div style={styleDetailWrapper}>
           <div
             style={{
               ...getStyleForColor('green', highlight),
-              fontSize: 36,
-              fontStyle: 'normal',
-              letterSpacing: '-0.025em',
-              marginTop: 24,
-              padding: '4px 8px 4px 56px',
-              lineHeight: 1.4,
+              ...styleDetail,
+
               display: 'block',
               lineClamp: '3',
+
+              paddingLeft: '56px',
             }}
           >
             {detail3}
@@ -185,6 +154,13 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
   },
 }
 
+const styleNghiDinhHeading: CSSProperties = {
+  color: 'white',
+  border: '4px solid transparent',
+  borderRadius: '16px',
+  padding: '0 8px',
+}
+
 function getStyleForColor(color: TrafficLight, highlight: TrafficLight) {
   return {
     ...stylesByColor[color].base,
@@ -192,4 +168,18 @@ function getStyleForColor(color: TrafficLight, highlight: TrafficLight) {
       ? stylesByColor[color].background
       : stylesByColor[color].border),
   }
+}
+
+const styleDetailWrapper: CSSProperties = {
+  display: 'flex',
+  padding: '0 60px 0 60px',
+}
+
+const styleDetail: CSSProperties = {
+  fontSize: 36,
+  fontStyle: 'normal',
+  letterSpacing: '-0.025em',
+  marginTop: 24,
+  lineHeight: 1.4,
+  padding: '4px 8px 4px 0',
 }
