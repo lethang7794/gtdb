@@ -19,6 +19,11 @@ export const LINKS: HomepageLink[] = [
   },
   {
     name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
+    tags: ['Tóm tắt'],
+    url: '/markmap/luat-TTATGTDB-2024',
+  },
+  {
+    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
     url: '/vbpl/luat-TTATGTDB-2024',
   },
   {
