@@ -9,6 +9,7 @@ export const env = createEnv({
    */
   server: {
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
+    NODE_ENV: z.enum(['development', 'test', 'production']),
   },
   /*
    * Environment variables available on the client (and server).
@@ -25,6 +26,7 @@ export const env = createEnv({
    * 💡 You'll get type errors if not all variables from `server` & `client` are included here.
    */
   runtimeEnv: {
+    NODE_ENV: process.env.NODE_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,
     NEXT_PUBLIC_BRAND: process.env.NEXT_PUBLIC_BRAND,
   },

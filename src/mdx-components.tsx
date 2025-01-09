@@ -6,7 +6,7 @@ import { CollapsibleSection } from '@/components/block/collapsible'
 
 import A from '@/components/block/anchor-link'
 import NghiDinh168MindMap from '@/app/markmap/nghi-dinh-168-2024/page'
-import NghiDinh168Effect from '@/app/vbpl/nghi-dinh-168-2024/effect'
+import RemarkTOCEffect from '@/components/effect/remark-toc'
 import NghiDinh168HDSD from '@/app/vbpl/nghi-dinh-168-2024/hdsd'
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
@@ -15,8 +15,8 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     DocumentEnding,
     CollapsibleSection,
     A,
+    RemarkTOCEffect,
     NghiDinh168MindMap,
-    NghiDinh168Effect,
     NghiDinh168HDSD,
     ...components,
   }

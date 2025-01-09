@@ -3,8 +3,10 @@
 import { useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
-export default function NghiDinh168Effect() {
+export default function RemarkTOCEffect() {
   const router = useRouter()
+
+  console.log("hello")
 
   useLayoutEffect(() => {
     // Cleanup TOC
