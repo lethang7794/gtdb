@@ -4,7 +4,7 @@ import React from 'react'
 import type { ReactNode } from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { explain168Section } from '@/lib/explain-share-link'
+import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
 import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 
@@ -33,7 +33,7 @@ export default function AnchorLink({ id, children }: Props) {
     }
   }, [hasCopied])
 
-  const explain = explain168Section(id).path
+  const explain = nd168SectionExplain(id).path
   return (
     // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
     <span
@@ -66,7 +66,7 @@ export default function AnchorLink({ id, children }: Props) {
             <span className="copied">Đã sao chép</span>
           ) : (
             <span className="copy">
-              Sao chép đường dẫn: <em>{explain168Section(id).path}</em>
+              Sao chép đường dẫn: <em>{nd168SectionExplain(id).path}</em>
             </span>
           )}
         </span>

@@ -1,6 +1,6 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
-import { explain168Section } from '@/lib/explain-share-link'
+import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import './style.css'
 
@@ -27,7 +27,7 @@ export async function generateMetadata(
   // optionally access and extend (rather than replace) parent metadata
   const previousImages = (await parent).openGraph?.images || []
 
-  const sectionExplain = explain168Section(section).path
+  const sectionExplain = nd168SectionExplain(section).path
   return {
     title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
     description: sectionItem?.full_name,
