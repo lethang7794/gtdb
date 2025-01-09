@@ -1,3 +1,4 @@
+import type { TrafficLight } from '@/app/vbpl/nghi-dinh-168-2024/[slug]/nd-168-section-preview'
 import {
   isChuong,
   isMuc,
@@ -78,19 +79,23 @@ export async function nd168SectionExplainComponents(slug: string) {
   let short1 = ''
   let short2 = ''
   let short3 = ''
+  let highlight: TrafficLight = 'green'
   if (explainDetail.type === 'chuong') {
     short2 = `Chương ${explainDetail.chuong?.code_name || ''}`
     detail2 = `${short2}. ${explainDetail.chuong?.full_name || ''}`
+    highlight = 'yellow'
   }
   if (explainDetail.type === 'muc') {
     short3 = `Chương ${explainDetail.chuong?.code_name || ''}`
     detail1 = `${short3}. ${explainDetail.chuong?.full_name || ''}`
     short1 = `Mục ${explainDetail.muc?.code_name || ''}`
     detail3 = `${short1}. ${explainDetail.muc?.full_name || ''}`
+    highlight = 'green'
   }
   if (explainDetail.type === 'dieu') {
     short2 = `Điều ${explainDetail.dieu?.code_name || ''}`
     detail2 = `${short2}. ${explainDetail.dieu?.full_name || ''}`
+    highlight = 'yellow'
   }
   if (explainDetail.type === 'khoan') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
@@ -98,6 +103,7 @@ export async function nd168SectionExplainComponents(slug: string) {
     short3 = `${explainDetail.khoan?.code_name || ''}`
     detail3 = `${short3}. ${explainDetail.khoan?.full_name || ''}`
     short3 = `Khoản ${short3}`
+    highlight = 'green'
   }
   if (explainDetail.type === 'diem') {
     short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
@@ -110,6 +116,8 @@ export async function nd168SectionExplainComponents(slug: string) {
     short3 = `${explainDetail.diem?.code_name || ''}`
     detail3 = `${short3}. ${explainDetail.diem?.full_name || ''}`
     short3 = `điểm ${short3}`
+
+    highlight = 'green'
   }
-  return { short1, short2, short3, detail1, detail2, detail3 }
+  return { short1, short2, short3, detail1, detail2, detail3, highlight }
 }

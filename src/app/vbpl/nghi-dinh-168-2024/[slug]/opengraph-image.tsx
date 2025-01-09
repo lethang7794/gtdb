@@ -17,7 +17,7 @@ export const contentType = 'image/png'
 export default async function Image({ params }: { params: { slug: string } }) {
   const slug = decodeURI(params.slug)
   const explain = nd168SectionExplain(slug || '').path
-  const { short1, short2, short3, detail1, detail2, detail3 } =
+  const { short1, short2, short3, detail1, detail2, detail3, highlight } =
     await nd168SectionExplainComponents(slug)
 
   return new ImageResponse(
@@ -28,6 +28,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
       detail1={detail1}
       detail2={detail2}
       detail3={detail3}
+      highlight={highlight}
     />,
     {
       width: 1200,

@@ -1,3 +1,5 @@
+import type { CSSProperties } from 'react'
+
 export function Nd168SectionPreview({
   short1,
   short2,
@@ -5,6 +7,7 @@ export function Nd168SectionPreview({
   detail1,
   detail2,
   detail3,
+  highlight,
 }: {
   short1: string
   short2: string
@@ -12,6 +15,7 @@ export function Nd168SectionPreview({
   detail1: string
   detail2: string
   detail3: string
+  highlight: TrafficLight
 }) {
   return (
     <div
@@ -39,45 +43,18 @@ export function Nd168SectionPreview({
         }}
       >
         {short1 ? (
-          <div
-            style={{
-              color: 'white',
-              border: '2px solid red',
-              borderRadius: '16px',
-              padding: '0 8px',
-            }}
-          >
-            {short1}
-          </div>
+          <div style={getStyleForColor('red', highlight)}>{short1}</div>
         ) : null}
         {short2 ? (
-          <div
-            style={{
-              color: 'white',
-              border: '2px solid yellow',
-              borderRadius: '16px',
-              padding: '0 8px',
-            }}
-          >
-            {short2}
-          </div>
+          <div style={getStyleForColor('yellow', highlight)}>{short2}</div>
         ) : null}
         {short3 ? (
-          <div
-            style={{
-              color: 'white',
-              border: '2px solid green',
-              borderRadius: '16px',
-              padding: '0 8px',
-            }}
-          >
-            {short3}
-          </div>
+          <div style={getStyleForColor('green', highlight)}>{short3}</div>
         ) : null}
         <div
           style={{
             color: 'white',
-            border: '2px solid transparent',
+            border: '4px solid transparent',
             borderRadius: '16px',
             padding: '0 8px',
           }}
@@ -94,6 +71,7 @@ export function Nd168SectionPreview({
         >
           <div
             style={{
+              ...getStyleForColor('red', highlight),
               fontSize: 36,
               fontStyle: 'normal',
               letterSpacing: '-0.025em',
@@ -102,16 +80,13 @@ export function Nd168SectionPreview({
               padding: '4px 8px 4px 8px',
               display: 'block',
               lineClamp: '2',
-              color: 'white',
-              border: '2px solid red',
-              borderRadius: '16px',
             }}
           >
             {detail1}
           </div>
         </div>
       ) : null}
-      {detail1 ? (
+      {detail2 ? (
         <div
           style={{
             display: 'flex',
@@ -120,6 +95,7 @@ export function Nd168SectionPreview({
         >
           <div
             style={{
+              ...getStyleForColor('yellow', highlight),
               fontSize: 36,
               fontStyle: 'normal',
               letterSpacing: '-0.025em',
@@ -129,9 +105,6 @@ export function Nd168SectionPreview({
               lineHeight: 1.4,
               display: 'block',
               lineClamp: '1',
-              color: 'white',
-              border: '2px solid yellow',
-              borderRadius: '16px',
             }}
           >
             {detail2}
@@ -147,6 +120,7 @@ export function Nd168SectionPreview({
         >
           <div
             style={{
+              ...getStyleForColor('green', highlight),
               fontSize: 36,
               fontStyle: 'normal',
               letterSpacing: '-0.025em',
@@ -155,9 +129,6 @@ export function Nd168SectionPreview({
               lineHeight: 1.4,
               display: 'block',
               lineClamp: '3',
-              color: 'white',
-              border: '2px solid green',
-              borderRadius: '16px',
             }}
           >
             {detail3}
@@ -166,4 +137,59 @@ export function Nd168SectionPreview({
       ) : null}
     </div>
   )
+}
+
+export type TrafficLight = 'red' | 'yellow' | 'green'
+
+const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
+  red: {
+    base: {
+      padding: '0 8px',
+      borderRadius: '16px',
+    },
+    border: {
+      color: 'white',
+      border: '4px solid red',
+    },
+    background: {
+      backgroundColor: 'red',
+    },
+  },
+  yellow: {
+    base: {
+      padding: '0 8px',
+      borderRadius: '16px',
+    },
+    border: {
+      color: 'white',
+      border: '4px solid yellow',
+    },
+    background: {
+      color: 'black',
+      backgroundColor: 'yellow',
+    },
+  },
+  green: {
+    base: {
+      padding: '0 8px',
+      borderRadius: '16px',
+    },
+    border: {
+      color: 'white',
+      border: '4px solid green',
+    },
+    background: {
+      color: 'white',
+      backgroundColor: 'green',
+    },
+  },
+}
+
+function getStyleForColor(color: TrafficLight, highlight: TrafficLight) {
+  return {
+    ...stylesByColor[color].base,
+    ...(highlight === color
+      ? stylesByColor[color].background
+      : stylesByColor[color].border),
+  }
 }
