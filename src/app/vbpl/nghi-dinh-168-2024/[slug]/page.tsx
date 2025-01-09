@@ -21,7 +21,8 @@ export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const section = (await params).slug
+  const slug = (await params).slug
+  const section = decodeURI(slug)
   const sectionItem = await getND168ById(section || '')
 
   // optionally access and extend (rather than replace) parent metadata
