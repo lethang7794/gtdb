@@ -38,40 +38,46 @@ export function Nd168SectionPreview({
           lineHeight: 1.4,
         }}
       >
+        {short1 ? (
+          <div
+            style={{
+              color: 'white',
+              border: '2px solid red',
+              borderRadius: '16px',
+              padding: '0 8px',
+            }}
+          >
+            {short1}
+          </div>
+        ) : null}
+        {short2 ? (
+          <div
+            style={{
+              color: 'white',
+              border: '2px solid yellow',
+              borderRadius: '16px',
+              padding: '0 8px',
+            }}
+          >
+            {short2}
+          </div>
+        ) : null}
+        {short3 ? (
+          <div
+            style={{
+              color: 'white',
+              border: '2px solid green',
+              borderRadius: '16px',
+              padding: '0 8px',
+            }}
+          >
+            {short3}
+          </div>
+        ) : null}
         <div
           style={{
             color: 'white',
-            border: '2px dashed red',
-            borderRadius: '16px',
-            padding: '0 8px',
-          }}
-        >
-          {short1}
-        </div>
-        <div
-          style={{
-            color: 'white',
-            border: '2px dashed yellow',
-            borderRadius: '16px',
-            padding: '0 8px',
-          }}
-        >
-          {short2}
-        </div>
-        <div
-          style={{
-            color: 'white',
-            border: '2px solid green',
-            borderRadius: '16px',
-            padding: '0 8px',
-          }}
-        >
-          {short3}
-        </div>
-        <div
-          style={{
-            color: 'white',
-            border: '2px dashed transparent',
+            border: '2px solid transparent',
             borderRadius: '16px',
             padding: '0 8px',
           }}
@@ -79,79 +85,85 @@ export function Nd168SectionPreview({
           Nghị định 168/2024
         </div>
       </div>
-      <div
-        style={{
-          display: 'flex',
-          padding: '0 60px 0 60px',
-        }}
-      >
+      {detail1 ? (
         <div
           style={{
-            fontSize: 36,
-            fontStyle: 'normal',
-            letterSpacing: '-0.025em',
-            marginTop: 24,
-            lineHeight: 1.4,
-            padding: '4px 8px 4px 8px',
-            display: 'block',
-            lineClamp: '2',
-            color: 'white',
-            border: '2px dashed red',
-            borderRadius: '16px',
+            display: 'flex',
+            padding: '0 60px 0 60px',
           }}
         >
-          {detail1}
+          <div
+            style={{
+              fontSize: 36,
+              fontStyle: 'normal',
+              letterSpacing: '-0.025em',
+              marginTop: 24,
+              lineHeight: 1.4,
+              padding: '4px 8px 4px 8px',
+              display: 'block',
+              lineClamp: '2',
+              color: 'white',
+              border: '2px solid red',
+              borderRadius: '16px',
+            }}
+          >
+            {detail1}
+          </div>
         </div>
-      </div>
-      <div
-        style={{
-          display: 'flex',
-          padding: '0 60px 0 60px',
-        }}
-      >
+      ) : null}
+      {detail1 ? (
         <div
           style={{
-            fontSize: 36,
-            fontStyle: 'normal',
-            letterSpacing: '-0.025em',
-            marginTop: 24,
-            // padding: '0 60px 0 84px',
-            padding: '4px 8px 4px 32px',
-            lineHeight: 1.4,
-            display: 'block',
-            lineClamp: '1',
-            color: 'white',
-            border: '2px dashed yellow',
-            borderRadius: '16px',
+            display: 'flex',
+            padding: '0 60px 0 60px',
           }}
         >
-          {detail2}
+          <div
+            style={{
+              fontSize: 36,
+              fontStyle: 'normal',
+              letterSpacing: '-0.025em',
+              marginTop: 24,
+              // padding: '0 60px 0 84px',
+              padding: '4px 8px 4px 32px',
+              lineHeight: 1.4,
+              display: 'block',
+              lineClamp: '1',
+              color: 'white',
+              border: '2px solid yellow',
+              borderRadius: '16px',
+            }}
+          >
+            {detail2}
+          </div>
         </div>
-      </div>
-      <div
-        style={{
-          display: 'flex',
-          padding: '0 60px 0 60px',
-        }}
-      >
+      ) : null}
+      {detail3 ? (
         <div
           style={{
-            fontSize: 36,
-            fontStyle: 'normal',
-            letterSpacing: '-0.025em',
-            marginTop: 24,
-            padding: '4px 8px 4px 56px',
-            lineHeight: 1.4,
-            display: 'block',
-            lineClamp: '3',
-            color: 'white',
-            border: '2px solid green',
-            borderRadius: '16px',
+            display: 'flex',
+            padding: '0 60px 0 60px',
           }}
         >
-          {detail3}
+          <div
+            style={{
+              fontSize: 36,
+              fontStyle: 'normal',
+              letterSpacing: '-0.025em',
+              marginTop: 24,
+              padding: '4px 8px 4px 56px',
+              lineHeight: 1.4,
+              display: 'block',
+              lineClamp: '3',
+              color: 'white',
+              border: '2px solid green',
+              borderRadius: '16px',
+            }}
+          >
+            {detail3}
+          </div>
         </div>
-      </div>
+      ) : null}
     </div>
   )
 }
