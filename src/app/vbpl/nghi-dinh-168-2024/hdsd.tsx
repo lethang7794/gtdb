@@ -82,8 +82,8 @@ export default function NghiDinh168HDSD() {
                     />
                   </div>
                   <div className="ml-4">
-                    - Bước 3: Gửi link cho bạn bè (Trước khi bấm Send nhớ chờ
-                    một chút để hình ảnh xem trước được tải về)
+                    - Bước 3: Gửi link cho bạn bè (Trước khi bấm Gửi nhớ chờ một
+                    chút để hình ảnh xem trước được tải về)
                   </div>
                   <div className="ml-7 mr-4">
                     <img
