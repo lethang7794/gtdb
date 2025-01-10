@@ -6,17 +6,19 @@
 
 ### [**Điều 2**]. Giải thích **từ ngữ**
 
-### [Điều 3]. Nguyên tắc bảo đảm TTATGTĐB
+### Điều 3 - Điều 8 <!-- markmap: fold -->
 
-### [Điều 4]. Chính sách của Nhà nước về TTATGTĐB
+#### [Điều 3]. Nguyên tắc bảo đảm TTATGTĐB
 
-### [Điều 5]. Tuyên truyền, phổ biến pháp luật về TTATGTĐB
+#### [Điều 4]. Chính sách của Nhà nước về TTATGTĐB
 
-### [Điều 6]. Giáo dục kiến thức pháp luật về TTATGTĐB
+#### [Điều 5]. Tuyên truyền, phổ biến pháp luật về TTATGTĐB
 
-### [Điều 7]. Cơ sở dữ liệu về TTATGTĐB
+#### [Điều 6]. Giáo dục kiến thức pháp luật về TTATGTĐB
 
-### [Điều 8]. Hợp tác quốc tế về TTATGTĐB
+#### [Điều 7]. Cơ sở dữ liệu về TTATGTĐB
+
+#### [Điều 8]. Hợp tác quốc tế về TTATGTĐB
 
 ### [**Điều 9**]. Các hành vi bị **nghiêm cấm**
 
@@ -28,9 +30,11 @@
 
 ### [**Điều 12**]. Chấp hành quy định về **tốc độ** và **khoảng cách** giữa các xe
 
-### [**Điều 13**]. Sử dụng **làn đường**
+###
 
-### [**Điều 14**]. **Vượt xe** và nhường đường cho _xe xin vượt_
+#### [**Điều 13**]. Sử dụng **làn đường**
+
+#### [**Điều 14**]. **Vượt xe** và nhường đường cho _xe xin vượt_
 
 ### [**Điều 15**]. **Chuyển hướng** xe
 
@@ -38,23 +42,29 @@
 
 ### [**Điều 17**]. **Tránh xe** đi ngược chiều
 
-### [**Điều 18**]. **Dừng xe, đỗ xe**
+###
 
-### [**Điều 19**]. **Mở cửa** xe
+#### [**Điều 18**]. **Dừng xe, đỗ xe**
 
-### [**Điều 20**]. Sử dụng **đèn**
+#### [**Điều 19**]. **Mở cửa** xe
 
-### [**Điều 21**]. Sử dụng tín hiệu **còi**
+###
+
+#### [**Điều 20**]. Sử dụng **đèn**
+
+#### [**Điều 21**]. Sử dụng tín hiệu **còi**
 
 ### [**Điều 22**]. **Nhường đường** tại nơi đường _giao nhau_
 
-### [Điều 23]. Qua **phà**, qua cầu phao
+###
 
-### [Điều 24]. Giao thông tại đường ngang, cầu chung **đường sắt**
+#### [Điều 23]. Qua **phà**, qua cầu phao
 
-### [Điều 25]. Giao thông trên **đường cao tốc**
+#### [Điều 24]. Giao thông tại đường ngang, cầu chung **đường sắt**
 
-### [Điều 26]. Giao thông trong **hầm đường bộ**
+#### [Điều 25]. Giao thông trên **đường cao tốc**
+
+#### [Điều 26]. Giao thông trong **hầm đường bộ**
 
 ### [Điều 27]. **Xe ưu tiên**
 
@@ -76,21 +86,25 @@
 
 ### [Điều 35]. **Điều kiện** PTTGGTĐB
 
-### [Điều 36]. **Biển số** xe
+### Điều 36 - Điều 39: **Biển số** xe ... <!-- markmap: fold -->
 
-### [Điều 37]. **Đấu giá** biển số xe
+#### [Điều 36]. **Biển số** xe
 
-### [Điều 38]. Quyền và nghĩa vụ của người trúng đấu giá biển số xe
+#### [Điều 37]. **Đấu giá** biển số xe
 
-### [Điều 39]. Cấp, thu hồi chứng nhận đăng ký xe và biển số ...
+#### [Điều 38]. Quyền và nghĩa vụ của người trúng đấu giá biển số xe
+
+#### [Điều 39]. Cấp, thu hồi chứng nhận đăng ký xe và biển số ...
 
 ### [Điều 40]. **Niên hạn sử dụng** của xe cơ giới
 
-### [Điều 41]. Bảo đảm chất lượng **ATKT&BVMT** ... trong _nhập khẩu, sản xuất, lắp ráp_
+###
 
-### [Điều 42]. Bảo đảm **ATKT&BVMT** của _xe cơ giới_ ...
+#### [Điều 41]. Bảo đảm chất lượng **ATKT&BVMT** ... trong _nhập khẩu, sản xuất, lắp ráp_
 
-### [Điều 43]. Trách nhiệm của cơ sở đăng kiểm, **chủ xe** ... và **NĐK** ...
+#### [Điều 42]. Bảo đảm **ATKT&BVMT** của _xe cơ giới_ ...
+
+#### [Điều 43]. Trách nhiệm của cơ sở đăng kiểm, **chủ xe** ... và **NĐK** ...
 
 ### [Điều 44]. ... phương tiện **vận tải** đường bộ trong _đô thị_
 
@@ -102,15 +116,17 @@
 
 ### [Điều 48]. ... **xe bốn bánh** có gắn động cơ vận chuyển hành khách, hàng hóa
 
-### [Điều 49]. ... _xe ô tô_ **vận chuyển hàng hóa**
+### Điều 49 - Điều 53: ... _xe ô tô_ **vận chuyển hàng hóa** ... <!-- markmap: fold -->
 
-### [Điều 50]. ... phương tiện GTĐB vận chuyển **động vật sống**, thực phẩm tươi sống
+#### [Điều 49]. ... _xe ô tô_ **vận chuyển hàng hóa**
 
-### [Điều 51]. ... phương tiện GTĐB vận chuyển **hàng hoá nguy hiểm**
+#### [Điều 50]. ... phương tiện GTĐB vận chuyển **động vật sống**, thực phẩm tươi sống
 
-### [Điều 52]. ... xe **quá khổ giới hạn**, xe **quá tải trọng** ...
+#### [Điều 51]. ... phương tiện GTĐB vận chuyển **hàng hoá nguy hiểm**
 
-### [Điều 53]. ... xe vận chuyển hàng **siêu trường, siêu trọng**
+#### [Điều 52]. ... xe **quá khổ giới hạn**, xe **quá tải trọng** ...
+
+#### [Điều 53]. ... xe vận chuyển hàng **siêu trường, siêu trọng**
 
 ### [Điều 54]. ... **xe cứu hộ** GTĐB
 
@@ -120,15 +136,19 @@
 
 ### [**Điều 56**] **Điều kiện** của NĐK PTTG GTĐB
 
-### [Điều 57]. GPLX
+###
 
-### [Điều 58]. Điểm của GPLX
+#### [Điều 57]. GPLX
+
+#### [Điều 58]. Điểm của GPLX
 
 ### [**Điều 59**]. **Tuổi, sức khỏe** của NĐK PTTG GTĐB
 
-### [Điều 60]. Đào tạo lái xe
+###
 
-### [Điều 61]. Sát hạch lái xe
+#### [Điều 60]. Đào tạo lái xe
+
+#### [Điều 61]. Sát hạch lái xe
 
 ### [Điều 62]. **Cấp, đổi**, cấp lại và thu hồi GPLX
 
