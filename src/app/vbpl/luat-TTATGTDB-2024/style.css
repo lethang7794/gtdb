@@ -45,30 +45,39 @@ h2#mục-lục + ul a:hover .anchor-link {
 }
 
 .anchor-link {
+  padding-right: 1em;
+
   svg {
     position: absolute;
     left: -1.1em;
     top: 0.25em;
     vertical-align: baseline;
-    display: none;
+    display: none; /* TODO: change back to none */
     width: 1.25em;
     height: 1em;
-    padding-right: 0.25em;
     color: hsl(198.6, 88.7%, 48.4%);
   }
 }
 
-h2:hover a + .anchor-link > svg {
+h2 .anchor-link > svg {
   top: 0.15em;
-  left: -1.2em;
+  left: -1.25em;
 }
-h3:hover a + .anchor-link > svg {
+h3 .anchor-link > svg {
   top: 0.15em;
-  left: -1.2em;
+  left: -1.25em;
 }
-h4:hover a + .anchor-link > svg {
+h4 .anchor-link > svg {
   top: 0.25em;
   left: -1.25em;
+}
+p .anchor-link > svg {
+  top: 0.15em;
+  left: -3em;
+  padding-right: 1.5em;
+  padding-bottom: 1.5em;
+  width: 2.75em;
+  height: 2.75em;
 }
 
 h2:has(.anchor-link):hover .anchor-link > svg,

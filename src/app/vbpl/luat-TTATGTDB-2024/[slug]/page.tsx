@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
-import './style.css'
+import '../style.css'
 
 export const metadata: Metadata = {
   title: 'Luật Trật tự, an toàn giao thông đường bộ (Luật số: 36/2024/QH15)',
