@@ -52,7 +52,8 @@ export function Nd168SectionPreview({
         {short3 ? (
           <div style={getStyleForColor('green', highlight)}>{short3}</div>
         ) : null}
-        <div style={styleNghiDinhHeading}>Nghị định 168/2024</div>
+        <div style={styleNghiDinhHeading}>Luật TTATGTĐB 2024</div>
+        {/* TODO: remove hardcord law name */}
       </div>
       {detail1 ? (
         <div style={styleDetailWrapper}>

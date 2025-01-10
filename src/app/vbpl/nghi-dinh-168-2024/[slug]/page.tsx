@@ -25,10 +25,6 @@ export async function generateMetadata(
   const slug = (await params).slug
   const section = decodeURI(slug)
   const sectionItem = await getND168ById(section || '')
-
-  // optionally access and extend (rather than replace) parent metadata
-  const previousImages = (await parent).openGraph?.images || []
-
   const sectionExplain = vbplSectionExplain(section).path
   return {
     title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND]
