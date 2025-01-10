@@ -65,14 +65,17 @@ export default async function Image(props: { params: { slug: string } }) {
       <div
         style={{
           display: 'flex',
-          fontSize: 60,
+          justifyContent: 'center',
+          fontSize: 80,
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
-          color: 'white',
-          marginTop: 0,
+          backgroundColor: 'white',
+          color: 'black',
+          marginTop: 24,
           padding: '0 120px',
           lineHeight: 1.4,
           whiteSpace: 'pre-wrap',
+          width: '100%'
         }}
       >
         Nghị định 168/2024
@@ -82,19 +85,17 @@ export default async function Image(props: { params: { slug: string } }) {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          justifyItems: 'center',
           gap: 8,
-          fontSize: 40,
           fontStyle: 'normal',
           color: 'white',
-          marginTop: 0,
+          marginTop: 16,
           padding: '0 120px',
           lineHeight: 1.4,
           whiteSpace: 'pre-wrap',
         }}
       >
-        <div>Xem chi tiết tại:</div>
-        <div>{env.NEXT_PUBLIC_BRAND}</div>
+        <div style={{ fontSize: 32 }}>Xem chi tiết tại:</div>
+        <div style={{ fontSize: 40 }}>{env.NEXT_PUBLIC_BRAND}</div>
       </div>
     </div>,
     {
