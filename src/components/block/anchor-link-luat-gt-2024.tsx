@@ -35,7 +35,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
 
   const explain = nd168SectionExplain(id).path
   return (
-    <span className="relative">
+    <span className="anchor-link-wrapper relative">
       {/* <span></span> */}
       {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
       <span
