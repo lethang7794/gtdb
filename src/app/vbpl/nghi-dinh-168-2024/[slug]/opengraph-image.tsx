@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og'
 
-import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
+import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
   nd168SectionExplainDetail,
   nd168SectionExplainComponents,
@@ -17,7 +17,7 @@ export const contentType = 'image/png'
 
 export default async function Image({ params }: { params: { slug: string } }) {
   const slug = decodeURI(params.slug)
-  const explain = nd168SectionExplain(slug || '').path
+  const explain = vbplSectionExplain(slug || '').path
   const { short1, short2, short3, detail1, detail2, detail3, highlight } =
     await nd168SectionExplainComponents(slug)
 

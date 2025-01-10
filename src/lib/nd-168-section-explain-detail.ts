@@ -5,7 +5,7 @@ import {
   isDieu,
   isKhoan,
   isDiem,
-} from '@/lib/nd-168-explain-section'
+} from '@/lib/vbpl-explain-section'
 import type { ND168 } from '@/model/ND168'
 import { getND168ById } from '@/service/nghi-dinh-168'
 

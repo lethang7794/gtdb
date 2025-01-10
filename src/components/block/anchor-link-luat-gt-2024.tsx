@@ -4,7 +4,7 @@ import React from 'react'
 import type { ReactNode } from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { nd168SectionExplain } from '@/lib/nd-168-explain-section'
+import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 
@@ -33,7 +33,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
     }
   }, [hasCopied])
 
-  const explain = nd168SectionExplain(id).path
+  const explain = vbplSectionExplain(id).path
   return (
     <span className="anchor-link-wrapper relative">
       {/* <span></span> */}
@@ -68,7 +68,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
               <span className="copied">Đã sao chép</span>
             ) : (
               <span className="copy">
-                Sao chép đường dẫn: <em>{nd168SectionExplain(id).path}</em>
+                Sao chép đường dẫn: <em>{vbplSectionExplain(id).path}</em>
               </span>
             )}
           </span>
