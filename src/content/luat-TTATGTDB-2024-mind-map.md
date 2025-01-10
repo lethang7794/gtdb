@@ -4,7 +4,7 @@
 
 ### [Điều 1]. Phạm vi điều chỉnh
 
-### [**Điều 2**]. Giải thích **từ ngữ**
+### [**Điều 2**]. Giải thích **từ ngữ** 📖
 
 ### Điều 3 - Điều 8 <!-- markmap: fold -->
 
@@ -20,73 +20,73 @@
 
 #### [Điều 8]. Hợp tác quốc tế về TTATGTĐB
 
-### [**Điều 9**]. Các hành vi bị **nghiêm cấm**
+### [**Điều 9**]. Các hành vi bị **nghiêm cấm** 🚫
 
 ## [Chương II]. **QUY TẮC** GTĐB
 
 ### [**Điều 10**]. **Quy tắc chung**
 
-### [**Điều 11**]. Chấp hành **báo hiệu** đường bộ
+### [**Điều 11**]. Chấp hành **báo hiệu** đường bộ 👮🚦🚏
 
-### [**Điều 12**]. Chấp hành quy định về **tốc độ** và **khoảng cách** giữa các xe
-
-###
-
-#### [**Điều 13**]. Sử dụng **làn đường**
-
-#### [**Điều 14**]. **Vượt xe** và nhường đường cho _xe xin vượt_
-
-### [**Điều 15**]. **Chuyển hướng** xe
-
-### [**Điều 16**]. **Lùi** xe
-
-### [**Điều 17**]. **Tránh xe** đi ngược chiều
+### [**Điều 12**]. Chấp hành quy định về **tốc độ** và **khoảng cách** giữa các xe ⚡📏
 
 ###
 
-#### [**Điều 18**]. **Dừng xe, đỗ xe**
+#### [**Điều 13**]. Sử dụng **làn đường** ⛙
 
-#### [**Điều 19**]. **Mở cửa** xe
+#### [**Điều 14**]. **Vượt xe** và nhường đường cho _xe xin vượt_ 🏎️💨
 
-###
+### [**Điều 15**]. **Chuyển hướng** xe ⬅️➡️↪️
 
-#### [**Điều 20**]. Sử dụng **đèn**
+### [**Điều 16**]. **Lùi** xe 🔙
 
-#### [**Điều 21**]. Sử dụng tín hiệu **còi**
-
-### [**Điều 22**]. **Nhường đường** tại nơi đường _giao nhau_
+### [**Điều 17**]. **Tránh xe** đi ngược chiều 🤝
 
 ###
 
-#### [Điều 23]. Qua **phà**, qua cầu phao
+#### [**Điều 18**]. **Dừng xe, đỗ xe** 🛑🅿️
 
-#### [Điều 24]. Giao thông tại đường ngang, cầu chung **đường sắt**
+#### [**Điều 19**]. **Mở cửa** xe 🚪
 
-#### [Điều 25]. Giao thông trên **đường cao tốc**
+###
 
-#### [Điều 26]. Giao thông trong **hầm đường bộ**
+#### [**Điều 20**]. Sử dụng **đèn** 💡
 
-### [Điều 27]. **Xe ưu tiên**
+#### [**Điều 21**]. Sử dụng tín hiệu **còi** 📢
 
-### [Điều 28]. Trường hợp **chở người** trên _xe ô tô chở hàng_
+### [**Điều 22**]. **Nhường đường** tại nơi đường _giao nhau_ 🛑🔄
 
-### [Điều 29]. **Xe kéo** xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
+###
 
-### [**Điều 30**]. **Người đi bộ**; trẻ em, phụ nữ mang thai, người già yếu ...
+#### [Điều 23]. Qua **phà**, qua cầu phao ⛴️🌉
 
-### [Điều 31]. Người điều khiển, người được chở, hàng hóa xếp trên **xe thô sơ**
+#### [Điều 24]. Giao thông tại đường ngang, cầu chung **đường sắt** 🛤️🚆
 
-### [Điều 32]. Người điều khiển, dẫn **dắt vật nuôi**, điều khiển **xe vật nuôi** kéo đi trên đường bộ
+#### [Điều 25]. Giao thông trên **đường cao tốc** 🛣️
 
-### [Điều 33]. Người lái xe, người được chở, hàng hóa xếp trên **xe mô tô, xe gắn máy**
+#### [Điều 26]. Giao thông trong **hầm đường bộ** 🕳️
+
+### [Điều 27]. **Xe ưu tiên** 🚨
+
+### [Điều 28]. Trường hợp **chở người** trên _xe ô tô chở hàng_ 🧑‍🤝‍🧑🛻
+
+### [Điều 29]. **Xe kéo** xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc 🚜🚛
+
+### [**Điều 30**]. **Người đi bộ**; trẻ em, phụ nữ mang thai, người già yếu ... 🚶🧒🤰👵🦽
+
+### [Điều 31]. Người điều khiển, người được chở, hàng hóa xếp trên **xe thô sơ** 🛞
+
+### [Điều 32]. Người điều khiển, dẫn **dắt vật nuôi**, điều khiển **xe vật nuôi** kéo đi trên đường bộ 🦮🐎
+
+### [Điều 33]. Người lái xe, người được chở, hàng hóa xếp trên **xe mô tô, xe gắn máy** ☸️📦🛵
 
 ## [Chương III]. **PHƯƠNG TIỆN** _THAM GIA_ GTĐB
 
-### [Điều 34]. **Phân loại** phương tiện GTĐB
+### [Điều 34]. **Phân loại** phương tiện GTĐB 🌲🌴
 
-### [Điều 35]. **Điều kiện** PTTGGTĐB
+### [Điều 35]. **Điều kiện** PTTGGTĐB ✅
 
-### Điều 36 - Điều 39: **Biển số** xe ... <!-- markmap: fold -->
+### Điều 36 - Điều 39: **Biển số** xe 🔢 ... <!-- markmap: fold -->
 
 #### [Điều 36]. **Biển số** xe
 
@@ -96,33 +96,33 @@
 
 #### [Điều 39]. Cấp, thu hồi chứng nhận đăng ký xe và biển số ...
 
-### [Điều 40]. **Niên hạn sử dụng** của xe cơ giới
+### [Điều 40]. **Niên hạn sử dụng** của xe cơ giới 🚮♻️
 
 ###
 
-#### [Điều 41]. Bảo đảm chất lượng **ATKT&BVMT** ... trong _nhập khẩu, sản xuất, lắp ráp_
+#### [Điều 41]. Bảo đảm chất lượng **ATKT&BVMT** ... trong _nhập khẩu, sản xuất, lắp ráp_ 🏭
 
 #### [Điều 42]. Bảo đảm **ATKT&BVMT** của _xe cơ giới_ ...
 
 #### [Điều 43]. Trách nhiệm của cơ sở đăng kiểm, **chủ xe** ... và **NĐK** ...
 
-### [Điều 44]. ... phương tiện **vận tải** đường bộ trong _đô thị_
+### [Điều 44]. ... phương tiện **vận tải** đường bộ trong _đô thị_ 🏙️
 
-### [Điều 45]. ... _xe ô tô_ **vận chuyển hành khách**
+### [Điều 45]. ... _xe ô tô_ **vận chuyển hành khách** 🚌🧑‍🤝‍🧑
 
-### [Điều 46]. ... xe ô tô **chở trẻ em** mầm non, **học sinh**
+### [Điều 46]. ... xe ô tô **chở trẻ em** mầm non, **học sinh** 🚌🧒
 
 ### [Điều 47]. ... **vận chuyển hành khách, hàng hóa** bằng _xe mô tô, xe gắn máy, xe thô sơ_
 
-### [Điều 48]. ... **xe bốn bánh** có gắn động cơ vận chuyển hành khách, hàng hóa
+### [Điều 48]. ... **xe bốn bánh** có gắn động cơ vận chuyển hành khách, hàng hóa 🛞🛞🛞🛞
 
-### Điều 49 - Điều 53: ... _xe ô tô_ **vận chuyển hàng hóa** ... <!-- markmap: fold -->
+### Điều 49 - Điều 53: ... _xe ô tô_ **vận chuyển hàng hóa** 🚚 ... <!-- markmap: fold -->
 
-#### [Điều 49]. ... _xe ô tô_ **vận chuyển hàng hóa**
+#### [Điều 49]. ... _xe ô tô_ **vận chuyển hàng hóa** 🚚
 
-#### [Điều 50]. ... phương tiện GTĐB vận chuyển **động vật sống**, thực phẩm tươi sống
+#### [Điều 50]. ... phương tiện GTĐB vận chuyển **động vật sống**, thực phẩm tươi sống 🐖🐔🦆
 
-#### [Điều 51]. ... phương tiện GTĐB vận chuyển **hàng hoá nguy hiểm**
+#### [Điều 51]. ... phương tiện GTĐB vận chuyển **hàng hoá nguy hiểm** ☣️
 
 #### [Điều 52]. ... xe **quá khổ giới hạn**, xe **quá tải trọng** ...
 
@@ -130,7 +130,7 @@
 
 ### [Điều 54]. ... **xe cứu hộ** GTĐB
 
-### [Điều 55]. ... **xe cơ giới nước ngoài** ... du lịch
+### [Điều 55]. ... **xe cơ giới nước ngoài** ... du lịch 🌏
 
 ## [Chương IV]. **NGƯỜI ĐIỀU KHIỂN**<br/>PHƯƠNG TIỆN THAM GIA GTĐB
 
@@ -138,7 +138,7 @@
 
 ###
 
-#### [Điều 57]. GPLX
+#### [Điều 57]. GPLX 🪪
 
 #### [Điều 58]. Điểm của GPLX
 
@@ -146,7 +146,7 @@
 
 ###
 
-#### [Điều 60]. Đào tạo lái xe
+#### [Điều 60]. Đào tạo lái xe 🏫
 
 #### [Điều 61]. Sát hạch lái xe
 
