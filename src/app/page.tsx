@@ -6,7 +6,7 @@ export default async function Home() {
   return (
     <div className="flex h-full flex-col justify-start m-6 md:m-8">
       <h1 className="self-center text-4xl font-bold">
-        An toàn giao thông đường bộ
+        GTDB - Thượng lộ bình an 🏠
       </h1>
 
       <h2 className="mt-8 text-3xl">Luật và văn bản pháp luật:</h2>
