@@ -8,13 +8,13 @@ I:
   id: 1
   cur_level: 1
   content: |+
-    Điều 1. Phạm vi điều chỉnh
+    Phạm vi điều chỉnh
 
 2:
   id: 2
   cur_level: 2
   content: |+
-    Điều 2. Giải thích từ ngữ
+    Giải thích từ ngữ
 
 2.1:
   id: 2.1
@@ -104,7 +104,7 @@ I:
   id: 3
   cur_level: 3
   content: |+
-    Điều 3. Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ
+    Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ
 
 3.1:
   id: 3.1
@@ -152,7 +152,7 @@ I:
   id: 4
   cur_level: 4
   content: |+
-    Điều 4. Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ
+    Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ
 
 4.1:
   id: 4.1
@@ -194,7 +194,7 @@ I:
   id: 5
   cur_level: 5
   content: |+
-    Điều 5. Tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ
+    Tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ
 
 5.1:
   id: 5.1
@@ -242,7 +242,7 @@ I:
   id: 6
   cur_level: 6
   content: |+
-    Điều 6. Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
+    Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
 
 6.1:
   id: 6.1
@@ -266,7 +266,7 @@ I:
   id: 7
   cur_level: 7
   content: |+
-    Điều 7. Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ
+    Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ
 
 7.1:
   id: 7.1
@@ -350,7 +350,7 @@ I:
   id: 8
   cur_level: 8
   content: |+
-    Điều 8. Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ
+    Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ
 
 8.1:
   id: 8.1
@@ -410,25 +410,25 @@ I:
   id: 9
   cur_level: 9
   content: |+
-    Điều 9. Các hành vi bị nghiêm cấm
+    Các hành vi bị nghiêm cấm
 
 9.1:
   id: 9.1
   cur_level: 1
   content: |+
-    Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng.
+    cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng.
 
 9.2:
   id: 9.2
   cur_level: 2
   content: |+
-    Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.
+    tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.
 
 9.3:
   id: 9.3
   cur_level: 3
   content: |+
-    Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng.
+    tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng.
 
 9.4:
   id: 9.4
@@ -572,7 +572,7 @@ I:
   id: 9.27
   cur_level: 27
   content: |+
-    Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay.
+    thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay.
 
 9.28:
   id: 9.28
@@ -590,7 +590,7 @@ II:
   id: 10
   cur_level: 10
   content: |+
-    Điều 10. Quy tắc chung
+    Quy tắc chung
 
 10.1:
   id: 10.1
@@ -614,7 +614,7 @@ II:
   id: 11
   cur_level: 11
   content: |+
-    Điều 11. Chấp hành báo hiệu đường bộ
+    Chấp hành báo hiệu đường bộ
 
 11.1:
   id: 11.1
@@ -806,7 +806,7 @@ II:
   id: 12
   cur_level: 12
   content: |+
-    Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe
+    Chấp hành quy định về tốc độ và khoảng cách giữa các xe
 
 12.1:
   id: 12.1
@@ -896,7 +896,7 @@ II:
   id: 12.3.m
   cur_level: m
   content: |+
-    Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ;
+    mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ;
 
 12.3.n:
   id: 12.3.n
@@ -914,7 +914,7 @@ II:
   id: 13
   cur_level: 13
   content: |+
-    Điều 13. Sử dụng làn đường
+    Sử dụng làn đường
 
 13.1:
   id: 13.1
@@ -944,7 +944,7 @@ II:
   id: 14
   cur_level: 14
   content: |+
-    Điều 14. Vượt xe và nhường đường cho xe xin vượt
+    Vượt xe và nhường đường cho xe xin vượt
 
 14.1:
   id: 14.1
@@ -1046,7 +1046,7 @@ II:
   id: 15
   cur_level: 15
   content: |+
-    Điều 15. Chuyển hướng xe
+    Chuyển hướng xe
 
 15.1:
   id: 15.1
@@ -1076,7 +1076,7 @@ II:
   id: 16
   cur_level: 16
   content: |+
-    Điều 16. Lùi xe
+    Lùi xe
 
 16.1:
   id: 16.1
@@ -1094,7 +1094,7 @@ II:
   id: 17
   cur_level: 17
   content: |+
-    Điều 17. Tránh xe đi ngược chiều
+    Tránh xe đi ngược chiều
 
 17.1:
   id: 17.1
@@ -1130,7 +1130,7 @@ II:
   id: 18
   cur_level: 18
   content: |+
-    Điều 18. Dừng xe, đỗ xe
+    Dừng xe, đỗ xe
 
 18.1:
   id: 18.1
@@ -1274,7 +1274,7 @@ II:
   id: 19
   cur_level: 19
   content: |+
-    Điều 19. Mở cửa xe
+    Mở cửa xe
 
 19.1:
   id: 19.1
@@ -1292,7 +1292,7 @@ II:
   id: 20
   cur_level: 20
   content: |+
-    Điều 20. Sử dụng đèn
+    Sử dụng đèn
 
 20.1:
   id: 20.1
@@ -1340,7 +1340,7 @@ II:
   id: 21
   cur_level: 21
   content: |+
-    Điều 21. Sử dụng tín hiệu còi
+    Sử dụng tín hiệu còi
 
 21.1:
   id: 21.1
@@ -1370,7 +1370,7 @@ II:
   id: 22
   cur_level: 22
   content: |+
-    Điều 22. Nhường đường tại nơi đường giao nhau
+    Nhường đường tại nơi đường giao nhau
 
 22.1:
   id: 22.1
@@ -1394,7 +1394,7 @@ II:
   id: 23
   cur_level: 23
   content: |+
-    Điều 23. Qua phà, qua cầu phao
+    Qua phà, qua cầu phao
 
 23.1:
   id: 23.1
@@ -1478,7 +1478,7 @@ II:
   id: 24
   cur_level: 24
   content: |+
-    Điều 24. Giao thông tại đường ngang, cầu chung đường sắt
+    Giao thông tại đường ngang, cầu chung đường sắt
 
 24.1:
   id: 24.1
@@ -1502,7 +1502,7 @@ II:
   id: 25
   cur_level: 25
   content: |+
-    Điều 25. Giao thông trên đường cao tốc
+    Giao thông trên đường cao tốc
 
 25.1:
   id: 25.1
@@ -1550,7 +1550,7 @@ II:
   id: 26
   cur_level: 26
   content: |+
-    Điều 26. Giao thông trong hầm đường bộ
+    Giao thông trong hầm đường bộ
 
 26.1:
   id: 26.1
@@ -1574,7 +1574,7 @@ II:
   id: 27
   cur_level: 27
   content: |+
-    Điều 27. Xe ưu tiên
+    Xe ưu tiên
 
 27.1:
   id: 27.1
@@ -1670,7 +1670,7 @@ II:
   id: 28
   cur_level: 28
   content: |+
-    Điều 28. Trường hợp chở người trên xe ô tô chở hàng
+    Trường hợp chở người trên xe ô tô chở hàng
 
 28.1:
   id: 28.1
@@ -1712,7 +1712,7 @@ II:
   id: 29
   cur_level: 29
   content: |+
-    Điều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
+    Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc
 
 29.1:
   id: 29.1
@@ -1754,7 +1754,7 @@ II:
   id: 30
   cur_level: 30
   content: |+
-    Điều 30. Người đi bộ; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ
+    Người đi bộ; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ
 
 30.1:
   id: 30.1
@@ -1820,7 +1820,7 @@ II:
   id: 31
   cur_level: 31
   content: |+
-    Điều 31. Người điều khiển, người được chở, hàng hóa xếp trên xe thô sơ
+    Người điều khiển, người được chở, hàng hóa xếp trên xe thô sơ
 
 31.1:
   id: 31.1
@@ -1856,7 +1856,7 @@ II:
   id: 32
   cur_level: 32
   content: |+
-    Điều 32. Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ
+    Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ
 
 32.1:
   id: 32.1
@@ -1880,7 +1880,7 @@ II:
   id: 33
   cur_level: 33
   content: |+
-    Điều 33. Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy
+    Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy
 
 33.1:
   id: 33.1
@@ -2018,7 +2018,7 @@ III:
   id: 34
   cur_level: 34
   content: |+
-    Điều 34. Phân loại phương tiện giao thông đường bộ
+    Phân loại phương tiện giao thông đường bộ
 
 34.1:
   id: 34.1
@@ -2180,7 +2180,7 @@ III:
   id: 35
   cur_level: 35
   content: |+
-    Điều 35. Điều kiện phương tiện tham gia giao thông đường bộ
+    Điều kiện phương tiện tham gia giao thông đường bộ
 
 35.1:
   id: 35.1
@@ -2234,7 +2234,7 @@ III:
   id: 36
   cur_level: 36
   content: |+
-    Điều 36. Biển số xe
+    Biển số xe
 
 36.1:
   id: 36.1
@@ -2336,7 +2336,7 @@ III:
   id: 37
   cur_level: 37
   content: |+
-    Điều 37. Đấu giá biển số xe
+    Đấu giá biển số xe
 
 37.1:
   id: 37.1
@@ -2384,7 +2384,7 @@ III:
   id: 38
   cur_level: 38
   content: |+
-    Điều 38. Quyền và nghĩa vụ của người trúng đấu giá biển số xe
+    Quyền và nghĩa vụ của người trúng đấu giá biển số xe
 
 38.1:
   id: 38.1
@@ -2456,7 +2456,7 @@ III:
   id: 39
   cur_level: 39
   content: |+
-    Điều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
+    Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
 
 39.1:
   id: 39.1
@@ -2624,7 +2624,7 @@ III:
   id: 40
   cur_level: 40
   content: |+
-    Điều 40. Niên hạn sử dụng của xe cơ giới
+    Niên hạn sử dụng của xe cơ giới
 
 40.1:
   id: 40.1
@@ -2684,7 +2684,7 @@ III:
   id: 41
   cur_level: 41
   content: |+
-    Điều 41. Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp
+    Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới trong nhập khẩu, sản xuất, lắp ráp
 
 41.1:
   id: 41.1
@@ -2768,7 +2768,7 @@ III:
   id: 42
   cur_level: 42
   content: |+
-    Điều 42. Bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
+    Bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ
 
 42.1:
   id: 42.1
@@ -2858,7 +2858,7 @@ III:
   id: 43
   cur_level: 43
   content: |+
-    Điều 43. Trách nhiệm của cơ sở đăng kiểm, chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng
+    Trách nhiệm của cơ sở đăng kiểm, chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng
 
 43.1:
   id: 43.1
@@ -2906,7 +2906,7 @@ III:
   id: 44
   cur_level: 44
   content: |+
-    Điều 44. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện vận tải đường bộ trong đô thị
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện vận tải đường bộ trong đô thị
 
 44.1:
   id: 44.1
@@ -2942,7 +2942,7 @@ III:
   id: 45
   cur_level: 45
   content: |+
-    Điều 45. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hành khách
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hành khách
 
 45.1:
   id: 45.1
@@ -3038,7 +3038,7 @@ III:
   id: 46
   cur_level: 46
   content: |+
-    Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh
 
 46.1:
   id: 46.1
@@ -3092,7 +3092,7 @@ III:
   id: 47
   cur_level: 47
   content: |+
-    Điều 47. Bảo đảm trật tự, an toàn giao thông đường bộ trong vận chuyển hành khách, hàng hóa bằng xe mô tô, xe gắn máy, xe thô sơ
+    Bảo đảm trật tự, an toàn giao thông đường bộ trong vận chuyển hành khách, hàng hóa bằng xe mô tô, xe gắn máy, xe thô sơ
 
 47.1:
   id: 47.1
@@ -3146,7 +3146,7 @@ III:
   id: 48
   cur_level: 48
   content: |+
-    Điều 48. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe bốn bánh có gắn động cơ vận chuyển hành khách, hàng hóa
 
 48.1:
   id: 48.1
@@ -3182,7 +3182,7 @@ III:
   id: 49
   cur_level: 49
   content: |+
-    Điều 49. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa
 
 49.1:
   id: 49.1
@@ -3236,7 +3236,7 @@ III:
   id: 50
   cur_level: 50
   content: |+
-    Điều 50. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển động vật sống, thực phẩm tươi sống
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển động vật sống, thực phẩm tươi sống
 
 50.1:
   id: 50.1
@@ -3284,7 +3284,7 @@ III:
   id: 51
   cur_level: 51
   content: |+
-    Điều 51. Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển hàng hoá nguy hiểm
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với phương tiện giao thông đường bộ vận chuyển hàng hoá nguy hiểm
 
 51.1:
   id: 51.1
@@ -3326,7 +3326,7 @@ III:
   id: 52
   cur_level: 52
   content: |+
-    Điều 52. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ
 
 52.1:
   id: 52.1
@@ -3470,7 +3470,7 @@ III:
   id: 53
   cur_level: 53
   content: |+
-    Điều 53. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe vận chuyển hàng siêu trường, siêu trọng
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe vận chuyển hàng siêu trường, siêu trọng
 
 53.1:
   id: 53.1
@@ -3518,7 +3518,7 @@ III:
   id: 54
   cur_level: 54
   content: |+
-    Điều 54. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe cứu hộ giao thông đường bộ
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe cứu hộ giao thông đường bộ
 
 54.1:
   id: 54.1
@@ -3542,7 +3542,7 @@ III:
   id: 55
   cur_level: 55
   content: |+
-    Điều 55. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam; xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam; xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch
 
 55.1:
   id: 55.1
@@ -3602,7 +3602,7 @@ IV:
   id: 56
   cur_level: 56
   content: |+
-    Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ
+    Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ
 
 56.1:
   id: 56.1
@@ -3692,7 +3692,7 @@ IV:
   id: 57
   cur_level: 57
   content: |+
-    Điều 57. Giấy phép lái xe
+    Giấy phép lái xe
 
 58.1:
   id: 58.1
@@ -3920,7 +3920,7 @@ IV:
   id: 58
   cur_level: 58
   content: |+
-    Điều 58. Điểm của giấy phép lái xe
+    Điểm của giấy phép lái xe
 
 "58.1":
   id: 58.1
@@ -3962,7 +3962,7 @@ IV:
   id: 59
   cur_level: 59
   content: |+
-    Điều 59. Tuổi, sức khỏe của người điều khiển phương tiện tham gia giao thông đường bộ
+    Tuổi, sức khỏe của người điều khiển phương tiện tham gia giao thông đường bộ
 
 59.1:
   id: 59.1
@@ -4022,7 +4022,7 @@ IV:
   id: 60
   cur_level: 60
   content: |+
-    Điều 60. Đào tạo lái xe
+    Đào tạo lái xe
 
 60.1:
   id: 60.1
@@ -4112,7 +4112,7 @@ IV:
   id: 61
   cur_level: 61
   content: |+
-    Điều 61. Sát hạch lái xe
+    Sát hạch lái xe
 
 61.1:
   id: 61.1
@@ -4160,7 +4160,7 @@ IV:
   id: 62
   cur_level: 62
   content: |+
-    Điều 62. Cấp, đổi, cấp lại và thu hồi giấy phép lái xe
+    Cấp, đổi, cấp lại và thu hồi giấy phép lái xe
 
 62.1:
   id: 62.1
@@ -4262,7 +4262,7 @@ IV:
   id: 63
   cur_level: 63
   content: |+
-    Điều 63. Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng
+    Đào tạo, kiểm tra cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng
 
 63.1:
   id: 63.1
@@ -4298,7 +4298,7 @@ IV:
   id: 64
   cur_level: 64
   content: |+
-    Điều 64. Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ
+    Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ
 
 64.1:
   id: 64.1
@@ -4322,7 +4322,7 @@ V:
   id: 65
   cur_level: 65
   content: |+
-    Điều 65. Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ
+    Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ
 
 65.1:
   id: 65.1
@@ -4424,7 +4424,7 @@ V:
   id: 65.4.e
   cur_level: e
   content: |+
-    Điều tra, giải quyết tai nạn giao thông đường bộ theo quy định của pháp luật;
+    giải quyết tai nạn giao thông đường bộ theo quy định của pháp luật;
 
 65.4.g:
   id: 65.4.g
@@ -4532,7 +4532,7 @@ V:
   id: 66
   cur_level: 66
   content: |+
-    Điều 66. Căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát
+    Căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát
 
 66.1:
   id: 66.1
@@ -4562,7 +4562,7 @@ V:
   id: 67
   cur_level: 67
   content: |+
-    Điều 67. Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ
+    Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ
 
 67.1:
   id: 67.1
@@ -4610,7 +4610,7 @@ V:
   id: 68
   cur_level: 68
   content: |+
-    Điều 68. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách
+    Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách
 
 68.1:
   id: 68.1
@@ -4634,7 +4634,7 @@ V:
   id: 69
   cur_level: 69
   content: |+
-    Điều 69. Di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ
+    Di chuyển phương tiện vi phạm dừng, đỗ trên đường bộ gây cản trở, ùn tắc giao thông hoặc nguy cơ dẫn đến tai nạn giao thông đường bộ
 
 69.1:
   id: 69.1
@@ -4664,7 +4664,7 @@ V:
   id: 70
   cur_level: 70
   content: |+
-    Điều 70. Trang bị, sử dụng phương tiện, thiết bị, vũ khí, công cụ hỗ trợ khi tuần tra, kiểm soát
+    Trang bị, sử dụng phương tiện, thiết bị, vũ khí, công cụ hỗ trợ khi tuần tra, kiểm soát
 
 70.1:
   id: 70.1
@@ -4688,7 +4688,7 @@ V:
   id: 71
   cur_level: 71
   content: |+
-    Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới
+    Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới
 
 71.1:
   id: 71.1
@@ -4736,7 +4736,7 @@ c:
   id: 72
   cur_level: 72
   content: |+
-    Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ
+    Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ
 
 72.1:
   id: 72.1
@@ -4802,7 +4802,7 @@ c:
   id: 73
   cur_level: 73
   content: |+
-    Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ
+    Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ
 
 73.1:
   id: 73.1
@@ -4844,7 +4844,7 @@ VI:
   id: 74
   cur_level: 74
   content: |+
-    Điều 74. Chỉ huy, điều khiển giao thông đường bộ
+    Chỉ huy, điều khiển giao thông đường bộ
 
 74.1:
   id: 74.1
@@ -4856,7 +4856,7 @@ VI:
   id: 74.2
   cur_level: 2
   content: |+
-    Điều khiển giao thông đường bộ là hoạt động trực tiếp hướng dẫn giao thông đường bộ bảo đảm trật tự, an toàn, thông suốt, được thực hiện thông qua người điều khiển giao thông; thông báo, thực hiện phương án phân luồng giao thông tạm thời; quản lý vận hành, khai thác hệ thống đèn tín hiệu giao thông, các báo hiệu đường bộ khác, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ.
+    thông đường bộ là hoạt động trực tiếp hướng dẫn giao thông đường bộ bảo đảm trật tự, an toàn, thông suốt, được thực hiện thông qua người điều khiển giao thông; thông báo, thực hiện phương án phân luồng giao thông tạm thời; quản lý vận hành, khai thác hệ thống đèn tín hiệu giao thông, các báo hiệu đường bộ khác, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ.
 
 74.3:
   id: 74.3
@@ -4868,7 +4868,7 @@ VI:
   id: 75
   cur_level: 75
   content: |+
-    Điều 75. Trung tâm chỉ huy giao thông
+    Trung tâm chỉ huy giao thông
 
 75.1:
   id: 75.1
@@ -4952,7 +4952,7 @@ VI:
   id: 76
   cur_level: 76
   content: |+
-    Điều 76. Giải quyết tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ
+    Giải quyết tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ
 
 76.1:
   id: 76.1
@@ -5006,7 +5006,7 @@ VI:
   id: 77
   cur_level: 77
   content: |+
-    Điều 77. Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
+    Bảo đảm trật tự, an toàn giao thông đường bộ đối với trường hợp sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
 
 77.1:
   id: 77.1
@@ -5054,7 +5054,7 @@ VI:
   id: 78
   cur_level: 78
   content: |+
-    Điều 78. Giải quyết, khắc phục ùn tắc giao thông
+    Giải quyết, khắc phục ùn tắc giao thông
 
 78.1:
   id: 78.1
@@ -5090,7 +5090,7 @@ VI:
   id: 79
   cur_level: 79
   content: |+
-    Điều 79. Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ
+    Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ
 
 79.1:
   id: 79.1
@@ -5138,7 +5138,7 @@ VII:
   id: 80
   cur_level: 80
   content: |+
-    Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ
+    Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ
 
 80.1:
   id: 80.1
@@ -5216,7 +5216,7 @@ VII:
   id: 81
   cur_level: 81
   content: |+
-    Điều 81. Phát hiện, tiếp nhận, xử lý tin báo tai nạn giao thông đường bộ
+    Phát hiện, tiếp nhận, xử lý tin báo tai nạn giao thông đường bộ
 
 81.1:
   id: 81.1
@@ -5258,7 +5258,7 @@ VII:
   id: 82
   cur_level: 82
   content: |+
-    Điều 82. Cứu nạn, cứu hộ khi xảy ra vụ tai nạn giao thông đường bộ
+    Cứu nạn, cứu hộ khi xảy ra vụ tai nạn giao thông đường bộ
 
 82.1:
   id: 82.1
@@ -5294,7 +5294,7 @@ VII:
   id: 83
   cur_level: 83
   content: |+
-    Điều 83. Điều tra, giải quyết tai nạn giao thông đường bộ
+    Điều tra, giải quyết tai nạn giao thông đường bộ
 
 83.1:
   id: 83.1
@@ -5402,7 +5402,7 @@ VII:
   id: 84
   cur_level: 84
   content: |+
-    Điều 84. Thống kê tai nạn giao thông đường bộ
+    Thống kê tai nạn giao thông đường bộ
 
 84.1:
   id: 84.1
@@ -5438,7 +5438,7 @@ VII:
   id: 85
   cur_level: 85
   content: |+
-    Điều 85. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ
+    Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ
 
 85.1:
   id: 85.1
@@ -5522,7 +5522,7 @@ VIII:
   id: 86
   cur_level: 86
   content: |+
-    Điều 86. Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ
+    Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ
 
 86.1:
   id: 86.1
@@ -5570,7 +5570,7 @@ VIII:
   id: 86.8
   cur_level: 8
   content: |+
-    Điều tra, giải quyết tai nạn giao thông đường bộ.
+    giải quyết tai nạn giao thông đường bộ.
 
 86.9:
   id: 86.9
@@ -5606,7 +5606,7 @@ VIII:
   id: 87
   cur_level: 87
   content: |+
-    Điều 87. Trách nhiệm quản lý nhà nước về trật tự, an toàn giao thông đường bộ
+    Trách nhiệm quản lý nhà nước về trật tự, an toàn giao thông đường bộ
 
 87.1:
   id: 87.1
@@ -5666,7 +5666,7 @@ IX:
   id: 88
   cur_level: 88
   content: |+
-    Điều 88. Hiệu lực thi hành
+    Hiệu lực thi hành
 
 88.1:
   id: 88.1
@@ -5696,7 +5696,7 @@ IX:
   id: 89
   cur_level: 89
   content: |+
-    Điều 89. Quy định chuyển tiếp
+    Quy định chuyển tiếp
 
 89.1:
   id: 89.1
