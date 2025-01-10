@@ -1,4 +1,3 @@
-import type { TrafficLight } from '@/app/vbpl/nghi-dinh-168-2024/[slug]/nd-168-section-preview'
 import {
   isChuong,
   isMuc,
@@ -7,6 +6,7 @@ import {
   isDiem,
 } from '@/lib/vbpl-explain-section'
 import type { ND168 } from '@/model/ND168'
+import type { TrafficLight } from '@/model/TrafficLight'
 import { getND168ById } from '@/service/nghi-dinh-168'
 
 export async function nd168SectionExplainDetail(id?: string): Promise<{

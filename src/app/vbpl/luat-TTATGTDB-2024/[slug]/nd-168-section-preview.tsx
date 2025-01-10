@@ -1,3 +1,4 @@
+import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
 
 export function Nd168SectionPreview({
@@ -107,8 +108,6 @@ export function Nd168SectionPreview({
     </div>
   )
 }
-
-export type TrafficLight = 'red' | 'yellow' | 'green'
 
 const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
   red: {
