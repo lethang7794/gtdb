@@ -1,14 +1,13 @@
+import { cache } from 'react'
 import yaml from 'yaml'
 import type { ND168 } from '@/model/ND168'
-import { loadFileFromRepo } from '@/lib/load-file-from-repo'
-import { cache } from 'react'
+import { loadFile } from '@/helpers/file-helper'
 
 export const MARKINGS_REPO_PATH = 'data/nghi-dinh-168.yaml'
 
 export const getND168s = cache(async () => {
-  const resp = await loadFileFromRepo(MARKINGS_REPO_PATH)
-  const body = await resp.text()
-  const data = yaml.parse(body)
+  const file = await loadFile(MARKINGS_REPO_PATH)
+  const data = yaml.parse(file)
   return data as Record<string, ND168>
 })
 

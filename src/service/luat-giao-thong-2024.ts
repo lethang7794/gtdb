@@ -1,14 +1,13 @@
 import { cache } from 'react'
 import yaml from 'yaml'
-import { loadFileFromRepo } from '@/lib/load-file-from-repo'
+import { loadFile } from '@/helpers/file-helper'
 import type { LuatGT2024 } from '@/model/LuatGT2024'
 
 export const LUAT_GT_2024_PATH = 'data/luat-TTATGTDT-2024.yaml'
 
 export const getLuatGT2024s = cache(async () => {
-  const resp = await loadFileFromRepo(LUAT_GT_2024_PATH)
-  const body = await resp.text()
-  const data = yaml.parse(body)
+  const file = await loadFile(LUAT_GT_2024_PATH)
+  const data = yaml.parse(file)
   return data as Record<string, LuatGT2024>
 })
 

@@ -31,3 +31,5 @@ export const env = createEnv({
     NEXT_PUBLIC_BRAND: process.env.NEXT_PUBLIC_BRAND,
   },
 })
+
+export const isDev = env.NODE_ENV === 'development'
