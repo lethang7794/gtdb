@@ -1,3 +1,9 @@
+---
+title: 'Phương tiện giao thông đương bộ - Luật 2024'
+abstract:
+publishedOn: '2023-07-11T12:00:00-0400'
+---
+
 # <span id="34" /> Điều 34. Phân loại phương tiện giao thông đường bộ
 
 ## 1. <span id="34.1" /> _Xe cơ giới_
