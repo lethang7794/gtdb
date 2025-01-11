@@ -1,3 +1,9 @@
+---
+title: 'Luật Trật tự, an toàn giao thông đường bộ 2024'
+abstract:
+publishedOn: '2023-07-11T12:00:00-0400'
+---
+
 # **[Luật Trật tự, an toàn giao thông đường bộ]** 2024
 
 ## [Chương I]. NHỮNG **QUY ĐỊNH CHUNG**
