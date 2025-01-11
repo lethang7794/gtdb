@@ -10,9 +10,6 @@ const nextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   // Optionally, add any other Next.js config below
   transpilePackages: ['next-mdx-remote'],
-  outputFileTracingIncludes: {
-    '/vbpl/nghi-dinh-168-2024': ['./src/content/**/*'],
-  },
 }
 
 const withMDX = createMDX({
