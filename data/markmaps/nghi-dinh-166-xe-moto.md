@@ -56,97 +56,135 @@ markmap:
 
 ### 3. ... 600.000 ... 800.000 đồng ...
 
-- a. Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau hoặc không giảm tốc độ hoặc không có tín hiệu báo hướng rẽ hoặc có tín hiệu báo hướng rẽ nhưng không sử dụng liên tục trong quá trình chuyển hướng (trừ trường hợp điều khiển xe đi theo hướng cong của đoạn đường bộ ở nơi đường không giao nhau cùng mức); điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển; điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển;
+- a. **Chuyển hướng**
 
-- b. Chở theo từ 03 người trở lên trên xe;
+  - không quan sát
+  - không bảo đảm khoảng cách an toàn với xe phía sau
+  - không giảm tốc độ hoặc
+  - không có tín hiệu báo hướng rẽ ... không sử dụng liên tục;
+  - ... rẽ trái tại nơi ... cấm rẽ trái ...
+  - ... rẽ phải tại nơi ... cấm rẽ phải ...
 
-- c. Dừng xe, đỗ xe trên cầu;
+- b. Chở ...từ 03 người ...
 
-- d. Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;
+- c. Dừng xe, đỗ xe trên **cầu**;
 
-- đ. Vượt bên phải trong trường hợp không được phép;
+- d.
 
-- e. Người đang điều khiển xe hoặc chở người ngồi trên xe bám, kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang vác vật cồng kềnh; chở người đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái của xe;
+  - ... không đi bên phải theo chiều đi của mình;
+  - đi không đúng phần đường, làn đường ...
+  - ... đi qua dải phân cách cố định ...
 
-- g. Điều khiển xe kéo theo xe khác, vật khác;
+- đ. Vượt bên phải ...;
 
-- h. Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần;
+- e. ... bám, kéo, đẩy xe khác, ... dẫn dắt vật nuôi ... vật cồng kềnh; ... đứng trên yên ... ngồi trên tay lái ...
 
-- i. Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”;
+- g. ...kéo theo xe khác, vật khác;
 
-- k. Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên;
+- h. Chạy trong hầm ... không sử dụng đèn chiếu ... gần;
 
-- l. Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định.
+- i. Không giữ **khoảng cách an toàn**
+
+  - ... va chạm ... xe chạy liền trước hoặc
+  - không ... theo ... biển báo hiệu “Cự ly tối thiểu giữa hai xe”;
+
+- k. ... chạy dàn hàng ngang từ 03 xe ...
+
+- l.
+  - ... lắp đặt ... **phát tín hiệu ưu tiên** không đúng quy định hoặc
+  - sử dụng ... không có giấy phép ...
 
 ### 4. ... 800.000 ... 1.000.000 đồng ...
 
-- a. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;
+- a. ... quá tốc độ ... 20 km/h;
 
-- b. Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;
+- b. Dừng xe, đỗ xe trong hầm ...
 
-- c. Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm đ khoản 3 Điều này;
+- c. Vượt xe ... không được vượt ...
 
-- d. Quay đầu xe trong hầm đường bộ;
+- d. Quay đầu xe trong hầm ...
 
-- đ. Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.
+- đ. Người đang điều khiển xe sử dụng
+  - ô (dù),
+  - thiết bị âm thanh (trừ thiết bị trợ thính),
+  - dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.
 
 ### 5. ... 1.000.000 ... 2.000.000 đồng ...
 
-- a. Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, trừ hành vi vi phạm quy định tại điểm c khoản 9 Điều này;
+- a. ... xe ... liên quan trực tiếp ... tai nạn giao thông ...
 
-- b. Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+  - không giữ nguyên hiện trường,
+  - không trợ giúp người bị nạn
 
-- c. Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ.
+- b. **Chuyển hướng** không nhường quyền đi trước cho:
+
+  - người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
+  - xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+
+- c. **Chuyển hướng** không nhường đường cho:
+  - các xe đi ngược chiều;
+  - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ.
 
 ### 6. ... 2.000.000 ... 3.000.000 đồng ...
 
-- a. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở;
+- a. ... nồng độ cồn ... 0,25 miligam/1 lít khí thở;
 
-- b. Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm a, điểm b khoản 7 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+- b. ... khu vực cấm, đường ... cấm đi vào ...
 
-- c. Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính;
+- c. Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi
 
-- d. Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến; không giảm tốc độ và nhường đường cho xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến.
+  - từ **đường không ưu tiên** ra đường ưu tiên,
+  - từ **đường nhánh** ra đường chính;
+
+- d. Không giảm tốc độ và nhường đường cho
+  - xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến;
+  - xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến.
 
 ### 7. ... 4.000.000 ... 6.000.000 đồng ...
 
-- a. Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định; điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan;
+- a. **Đi ngược chiều** ... **đi trên vỉa hè** ...
 
-- b. Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;
+- b. Điều khiển **xe đi vào đường cao tốc**, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;
 
-- c. Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+- c. Không chấp hành hiệu lệnh của **đèn tín hiệu giao thông**;
 
-- d. Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+- d. Không chấp hành hiệu lệnh, hướng dẫn của **người điều khiển giao thông** hoặc người kiểm soát giao thông;
 
-- đ. Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.
+- đ. Không nhường đường ... xe ... ưu tiên ...
 
 ### 8. ... 6.000.000 ... 8.000.000 đồng ...
 
-- a. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h;
+- a. ... quá tốc độ ... trên 20 km/h;
 
-- b. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+- b. ... nồng độ cồn ... 0,4 miligam/1 lít khí thở.
 
 ### 9. ... 8.000.000 ... 10.000.000 đồng ...
 
-- a. Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
+- a. ... lạng lách, đánh võng ...; sử dụng chân chống ... quệt xuống đường ...
 
-- b. Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định;
+- b. ... từ 02 xe ... quá tốc độ ...
 
-- c. Gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất;
+- c. **Gây tai nạn** giao thông không dừng ngay phương tiện,
 
-- d. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+  - không giữ nguyên hiện trường,
+  - không trợ giúp người bị nạn,
+  - không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất;
 
-- đ. Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+- d. ... nồng độ cồn ... vượt quá 0,4 miligam/1 lít khí thở;
 
-- e. Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng;
+- đ. Không chấp hành ... kiểm tra về nồng độ cồn ...
 
-- g. Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
+- e. ... ma túy ...
 
-- h. Ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe, trừ trường hợp chở trẻ em dưới 06 tuổi ngồi phía trước;
+- g. Không chấp hành ... kiểm tra về ... ma túy ...
 
-- i. Điều khiển xe thành đoàn gây cản trở giao thông, trừ trường hợp được cơ quan có thẩm quyền cấp phép;
+- h. ... vòng tay qua người ngồi trước để điều khiển xe ...
 
-- k. Sử dụng còi, rú ga (nẹt pô) liên tục trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định.
+- i. Điều khiển xe thành đoàn gây cản trở giao thông ...
+
+- k. Sử dụng còi, rú ga (nẹt pô) liên tục trong
+  - khu đông dân cư,
+  - khu vực cơ sở khám bệnh, chữa bệnh
 
 ### 10. ... 10.000.000 ... 14.000.000 đồng ...
 
