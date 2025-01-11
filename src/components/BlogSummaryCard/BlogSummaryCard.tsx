@@ -7,7 +7,14 @@ import { getHumanizedDate } from '@/helpers/date-helpers'
 
 import styles from './BlogSummaryCard.module.css'
 
-function BlogSummaryCard({ slug, title, publishedOn, abstract }) {
+type BlogSummaryCardProps = {
+  slug?: string
+  title?: string
+  publishedOn?: string
+  abstract?: string
+}
+
+function BlogSummaryCard({ slug, title, publishedOn, abstract }: BlogSummaryCardProps) {
   const href = `/${MARKMAPS_PATH}/${slug}`
   const humanizedDate = getHumanizedDate(publishedOn)
 
