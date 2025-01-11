@@ -8,30 +8,40 @@ publishedOn: '2023-07-11T12:00:00-0400'
 
 ## 1. <span id="34.1" /> _Xe cơ giới_
 
-- a. <span id="34.1.a" /> _Xe ô tô_
+- <span id="34.1.b" /> _Rơ moóc_
+
+- <span id="34.1.c" /> _Sơ mi rơ moóc_
+
+- <span id="34.1.a" /> _Xe ô tô_
 
   - xe có từ bốn bánh trở lên chạy bằng động cơ, <!-- markmap: fold -->
     - được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray,
     - dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc
-    - hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện;
+    - hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện
     - (không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;)
-  - xe ba bánh có khối lượng bản thân lớn hơn 400 kg;
+  - xe ba bánh có khối lượng bản thân lớn hơn 400 kg
 
-- b. <span id="34.1.b" /> _Rơ moóc_
+- <span id="34.1.d" /> _Xe chở người bốn bánh có gắn động cơ_ <!-- markmap: fold -->
 
-- c. <span id="34.1.c" /> _Sơ mi rơ moóc_
+  - có kết cấu để chở người
+  - vận tốc thiết kế không lớn hơn 30 km/h,
+  - số người cho phép chở tối đa 15 người
 
-- d. <span id="34.1.d" /> _Xe chở người bốn bánh có gắn động cơ_
+- <span id="34.1.đ" /> _Xe chở hàng bốn bánh có gắn động cơ_ <!-- markmap: fold -->
 
-- đ. <span id="34.1.đ" /> _Xe chở hàng bốn bánh có gắn động cơ_
+  - có kết cấu để chở hàng,
+  - có phần động cơ và thùng hàng lắp trên cùng một khung xe,
+  - có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe),
+  - vận tốc thiết kế không lớn hơn 60 km/h
+  - khối lượng bản thân không lớn hơn 550 kg
 
-- e. <span id="34.1.e" /> _Xe mô tô_ <!-- markmap: fold -->
+- <span id="34.1.e" /> _Xe mô tô_ <!-- markmap: fold -->
 
-  - xe có hai hoặc ba bánh chạy bằng động cơ
+  - xe có hai hoặc ba bánh chạy bằng động cơ <!-- markmap: fold -->
     - được thiết kế, sản xuất để hoạt động trên đường bộ (trừ xe gắn máy)
     - đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg
 
-- g. <span id="34.1.g" /> _Xe gắn máy_ <!-- markmap: fold -->
+- <span id="34.1.g" /> _Xe gắn máy_ <!-- markmap: fold -->
 
   - xe có hai hoặc ba bánh chạy bằng động cơ
     - được thiết kế, sản xuất để hoạt động trên đường bộ
@@ -41,7 +51,8 @@ publishedOn: '2023-07-11T12:00:00-0400'
       - động cơ điện: công suất không lớn hơn 04 kW
   - (không bao gồm xe đạp máy)
 
-- h. <span id="34.1.h" /> (Xe tương tự) <!-- markmap: fold -->
+- <span id="34.1.h" /> (Xe tương tự) <!-- markmap: fold -->
+
   - các loại xe quy định tại khoản này.
 
 ## 2. <span id="34.2" /> _Xe thô sơ_
@@ -61,7 +72,7 @@ publishedOn: '2023-07-11T12:00:00-0400'
 - e. <span id="34.2.e" /> (Xe tương tự)
   - các loại xe quy định tại khoản này.
 
-## <span id="34.3" /> _Xe máy chuyên dùng_ <!-- markmap: fold -->
+## 3. <span id="34.3" /> _Xe máy chuyên dùng_ <!-- markmap: fold -->
 
 - a. <span id="34.3.a" /> Xe máy thi công
 
