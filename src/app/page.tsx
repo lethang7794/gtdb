@@ -1,13 +1,10 @@
 import Link from 'next/link'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import { Badge } from '@/components/ui/badge'
-import Header from '@/components/block/header'
 
 export default async function Home() {
   return (
     <div className="flex h-full flex-col justify-start ">
-      <Header />
-
       <div className="container pb-8">
         {/* <h1 className="self-center text-4xl font-bold">
           

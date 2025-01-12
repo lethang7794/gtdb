@@ -8,7 +8,7 @@ interface HomepageLink {
 export const LINKS: HomepageLink[] = [
   {
     name: 'Nghị định 168 (2024) - Tóm tắt',
-    url: '/markmap/nghi-dinh-168-2024',
+    url: '/markmaps/nghi-dinh-168-2024',
     description: 'Xử phạt vi phạm trong giao thông đường bộ',
     tags: ['Tóm tắt'],
   },
@@ -20,7 +20,7 @@ export const LINKS: HomepageLink[] = [
   {
     name: 'Luật Trật tự, an toàn giao thông đường bộ (2024) - Tóm tắt',
     tags: ['Tóm tắt'],
-    url: '/markmap/luat-TTATGTDB-2024',
+    url: '/markmaps/luat-TTATGTDB-2024',
   },
   {
     name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
