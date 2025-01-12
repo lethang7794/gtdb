@@ -73,10 +73,6 @@ const extra = EXTRA_LINKS.map((item) => ({
   ...item,
   href: item.url,
 }))
-const callsToAction = [
-  // { name: 'Watch demo', href: '#', icon: PlayCircleIcon },
-  // { name: 'Contact sales', href: '#', icon: PhoneIcon },
-]
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -150,21 +146,6 @@ export default function Header() {
                   </div>
                 ))}
               </div>
-              {/* <div className="grid grid-cols-2 divide-x divide-gray-900/5 bg-gray-50">
-                {callsToAction.map((item) => (
-                  <a
-                    key={item.name}
-                    href={item.href}
-                    className="flex items-center justify-center gap-x-2.5 p-3 text-sm/6 font-semibold text-gray-900 hover:bg-gray-100"
-                  >
-                    <item.icon
-                      aria-hidden="true"
-                      className="size-5 flex-none text-gray-400"
-                    />
-                    {item.name}
-                  </a>
-                ))}
-              </div> */}
             </PopoverPanel>
           </Popover>
 
@@ -240,13 +221,7 @@ export default function Header() {
 
           {/* <a href="#" className="text-sm/6 font-semibold text-gray-900">
             Features
-          </a>
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Marketplace
-          </a>
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Company
-          </a> */}
+          </a>*/}
         </PopoverGroup>
 
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
@@ -360,18 +335,7 @@ export default function Header() {
                 >
                   Features
                 </a>
-                <a
-                  href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                >
-                  Marketplace
-                </a>
-                <a
-                  href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                >
-                  Company
-                </a> */}
+                */}
               </div>
               {/* <div className="py-6">
                 <a
