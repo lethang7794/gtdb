@@ -55,7 +55,6 @@ export function LawSectionPreview({
           <div style={getStyleForColor('green', highlight)}>{short3}</div>
         ) : null}
         <div style={styleNghiDinhHeading}>{law}</div>
-        {/* TODO: remove hardcord law name */}
       </div>
       {detail1 ? (
         <div style={styleDetailWrapper}>
@@ -67,7 +66,7 @@ export function LawSectionPreview({
               paddingLeft: '8px',
 
               display: 'block',
-              lineClamp: '2',
+              lineClamp: detail2 && detail3 ? '2' : '3',
             }}
           >
             {detail1}
@@ -82,7 +81,7 @@ export function LawSectionPreview({
               ...styleDetail,
 
               display: 'block',
-              lineClamp: '1',
+              lineClamp: detail3 ? '1' : '3',
 
               paddingLeft: '32px',
             }}
@@ -112,15 +111,23 @@ export function LawSectionPreview({
   )
 }
 
-const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
+const stylesByColor: Record<
+  TrafficLight | 'share',
+  Record<string, CSSProperties>
+> = {
+  share: {
+    borderTransparent: {
+      border: '4px solid transparent',
+    },
+  },
   red: {
     base: {
       padding: '0 8px',
       borderRadius: '16px',
+      color: 'white',
     },
     border: {
       border: '4px solid red',
-      color: 'white',
     },
     background: {
       backgroundColor: 'red',
@@ -131,10 +138,10 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
     base: {
       padding: '0 8px',
       borderRadius: '16px',
+      color: 'white',
     },
     border: {
       border: '4px solid yellow',
-      color: 'white',
     },
     background: {
       backgroundColor: 'yellow',
@@ -145,10 +152,10 @@ const stylesByColor: Record<TrafficLight, Record<string, CSSProperties>> = {
     base: {
       padding: '0 8px',
       borderRadius: '16px',
+      color: 'white',
     },
     border: {
       border: '4px solid green',
-      color: 'white',
     },
     background: {
       backgroundColor: 'green',
@@ -169,7 +176,7 @@ function getStyleForColor(color: TrafficLight, highlight: TrafficLight) {
     ...stylesByColor[color].base,
     ...(highlight === color
       ? stylesByColor[color].background
-      : stylesByColor[color].border),
+      : stylesByColor[color].borderTransparent),
   }
 }
 
