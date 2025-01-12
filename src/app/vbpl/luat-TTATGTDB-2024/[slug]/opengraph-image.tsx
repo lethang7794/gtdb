@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og'
 
 import { luatGT2024SectionExplainComponents } from '@/lib/luat-gt-2024-section-explain-detail'
 import { env } from '@/env.mjs'
-import { Nd168SectionPreview } from './nd-168-section-preview'
+import { LawSectionPreview } from '@/components/block/law-section-preview'
 
 export const size = {
   width: 1200,
@@ -17,7 +17,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
     await luatGT2024SectionExplainComponents(slug)
 
   return new ImageResponse(
-    <Nd168SectionPreview
+    <LawSectionPreview
       short1={short1}
       short2={short2}
       short3={short3}
@@ -25,6 +25,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
       detail2={detail2}
       detail3={detail3}
       highlight={highlight}
+      law="Luật TTATGTĐB 2024"
     />,
     {
       width: 1200,

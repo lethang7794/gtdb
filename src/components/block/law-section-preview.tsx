@@ -1,7 +1,7 @@
 import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
 
-export function Nd168SectionPreview({
+export function LawSectionPreview({
   short1,
   short2,
   short3,
@@ -9,6 +9,7 @@ export function Nd168SectionPreview({
   detail2,
   detail3,
   highlight,
+  law,
 }: {
   short1: string
   short2: string
@@ -17,6 +18,7 @@ export function Nd168SectionPreview({
   detail2: string
   detail3: string
   highlight: TrafficLight
+  law: string
 }) {
   return (
     <div
@@ -52,7 +54,7 @@ export function Nd168SectionPreview({
         {short3 ? (
           <div style={getStyleForColor('green', highlight)}>{short3}</div>
         ) : null}
-        <div style={styleNghiDinhHeading}>Luật TTATGTĐB 2024</div>
+        <div style={styleNghiDinhHeading}>{law}</div>
         {/* TODO: remove hardcord law name */}
       </div>
       {detail1 ? (
