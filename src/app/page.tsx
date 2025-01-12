@@ -9,11 +9,11 @@ export default async function Home() {
       <Header />
 
       <div className="container pb-8">
-        <h1 className="self-center text-4xl font-bold">
-          GTDB - Thượng lộ bình an 🏠
-        </h1>
+        {/* <h1 className="self-center text-4xl font-bold">
+          
+        </h1> */}
 
-        <h2 className="mt-8 text-3xl">Luật và văn bản pháp luật:</h2>
+        <h2 className="mt-8 text-3xl">Văn bản pháp luật:</h2>
         <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
           {LINKS.map((item) => {
             return (
@@ -43,7 +43,7 @@ export default async function Home() {
           })}
         </ol>
 
-        <h2 className="mt-8 text-3xl">Thông tin liên quan:</h2>
+        <h2 className="mt-8 text-3xl">Tổng hợp:</h2>
         <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
           {USEFUL_LINKS.map((item) => {
             return (

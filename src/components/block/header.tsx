@@ -88,13 +88,17 @@ export default function Header() {
         className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
       >
         <div className="flex lg:flex-1">
-          <a href={env.NEXT_PUBLIC_DOMAIN} className="-m-1.5 p-1.5">
+          <a
+            href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
+            className="-m-1.5 p-1.5"
+          >
             <span className="sr-only">GTDB</span>
-            <img
+            {/* <img
               alt=""
               src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600" // TODO: change logo
               className="h-8 w-auto"
-            />
+            /> */}
+            GTDB - Thượng lộ bình an 🏠
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -166,7 +170,7 @@ export default function Header() {
 
           <Popover className="relative">
             <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
-              Khác
+              Tổng hợp
               <ChevronDownIcon
                 aria-hidden="true"
                 className="size-5 flex-none text-gray-400"
@@ -245,11 +249,12 @@ export default function Header() {
           </a> */}
         </PopoverGroup>
 
-        {/* <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
+        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+          {/* <a href="#" className="text-sm/6 font-semibold text-gray-900">
             Log in <span aria-hidden="true">&rarr;</span>
-          </a>
-        </div> */}
+          </a> */}
+          {/* TODO: add source code */}
+        </div>
       </nav>
       <Dialog
         open={mobileMenuOpen}
@@ -259,13 +264,18 @@ export default function Header() {
         <div className="fixed inset-0 z-10" />
         <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
-            <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
-              <img
+            <a
+              href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
+              className="-m-1.5 p-1.5"
+            >
+              <span className="sr-only">{env.NEXT_PUBLIC_BRAND}</span>
+              {/* <img
                 alt=""
                 src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
                 className="h-8 w-auto"
-              />
+              /> */}
+              GTDB
+              {/* TODO: change logo */}
             </a>
             <button
               type="button"
@@ -289,6 +299,50 @@ export default function Header() {
                   </DisclosureButton>
                   <DisclosurePanel className="mt-2 space-y-2">
                     {[...products, ...callsToAction].map((item) => (
+                      <DisclosureButton
+                        key={item.name}
+                        as="a"
+                        href={item.href}
+                        className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                      >
+                        {item.name}
+                      </DisclosureButton>
+                    ))}
+                  </DisclosurePanel>
+                </Disclosure>
+
+                <Disclosure defaultOpen as="div" className="-mx-3">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
+                    Tổng hợp
+                    <ChevronDownIcon
+                      aria-hidden="true"
+                      className="size-5 flex-none group-data-[open]:rotate-180"
+                    />
+                  </DisclosureButton>
+                  <DisclosurePanel className="mt-2 space-y-2">
+                    {[...others].map((item) => (
+                      <DisclosureButton
+                        key={item.name}
+                        as="a"
+                        href={item.href}
+                        className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                      >
+                        {item.name}
+                      </DisclosureButton>
+                    ))}
+                  </DisclosurePanel>
+                </Disclosure>
+
+                <Disclosure as="div" className="-mx-3">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
+                    Links
+                    <ChevronDownIcon
+                      aria-hidden="true"
+                      className="size-5 flex-none group-data-[open]:rotate-180"
+                    />
+                  </DisclosureButton>
+                  <DisclosurePanel className="mt-2 space-y-2">
+                    {[...extra].map((item) => (
                       <DisclosureButton
                         key={item.name}
                         as="a"
