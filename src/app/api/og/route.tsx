@@ -7,6 +7,7 @@ import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { ImageResponse } from 'next/og'
 import { toHex, key } from '@/lib/crypto'
+import { LAW_ABBR } from '@/constant/laws'
 
 export async function GET(request: Request) {
   try {
@@ -35,7 +36,7 @@ export async function GET(request: Request) {
       })
     }
 
-    if (law === 'luat') {
+    if (law === LAW_ABBR.luatGT2024) {
       if (!section) {
         return new ImageResponse(<LuatGT2024PreviewRoot />, {
           width: 1200,
@@ -70,7 +71,7 @@ export async function GET(request: Request) {
       )
     }
 
-    if (law === 'nd') {
+    if (law === LAW_ABBR.nghiDinh168) {
       if (!section) {
         return new ImageResponse(<NghiDinh168PreviewRoot />, {
           width: 1200,
