@@ -25,9 +25,11 @@ export default function RemarkTOCEffect() {
     }
 
     // Go to fragment
-    setTimeout(() => {
-      router.replace(window.location.href)
-    }, 1000)
+    router.replace(window.location.href)
+
+    // Remove spinner
+    const spinner = document.getElementById('spinner')
+    spinner?.remove()
   }, [router.replace])
   return null
 }

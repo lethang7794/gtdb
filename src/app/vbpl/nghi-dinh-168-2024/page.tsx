@@ -6,6 +6,7 @@ import './style.css'
 import { LAW_ABBR } from '@/constant/laws'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
+import { Spinner } from '@/components/block/spinner'
 
 type Props = {
   params: Promise<{ id: string }>

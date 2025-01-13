@@ -40,10 +40,11 @@ export default function RemarkTOCEffect() {
         }
       }
     }
-
+    
     // Go to fragment
-    const href = window.location.href
+    router.replace(window.location.href)
 
+    // const href = window.location.href
     // const hash = window.location.hash
     // const parts = hash?.split('.') || []
     // if (parts.length > 1) {
@@ -52,17 +53,18 @@ export default function RemarkTOCEffect() {
     // const href =
     //   window.location.origin + window.location.pathname + parts.join('.')
     // console.log({ hash, parts, href, 'window.location': window.location })
+    // const hash = window.location.hash
+    // const id = hash.replace('#', '')
+    // if (!id) {
+    //   return
+    // }
+    // const el = document.getElementById(id)
+    // el?.scrollIntoView({ behavior: 'instant' })
 
-    setTimeout(() => {
-      const hash = window.location.hash
-      const id = hash.replace('#', '')
-      if (!id) {
-        return
-      }
-      const el = document.getElementById(id)
-      el?.scrollIntoView({ behavior: 'smooth' })
-      // router.replace(href)
-    }, 1000)
+
+    // Remove spinner
+    const spinner = document.getElementById('spinner')
+    spinner?.remove()
   }, [router.replace])
   return null
 }
