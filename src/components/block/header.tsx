@@ -83,7 +83,12 @@ export default function Header() {
     <header className="bg-white">
       <nav
         aria-label="Global"
-        className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
+        className="mx-auto !flex max-w-7xl items-center justify-between p-6 lg:px-8"
+        style={{
+          height: 'var(--header-height)',
+          minHeight: 'var(--header-height)',
+          display: 'none',
+        }}
       >
         <div className="flex lg:flex-1">
           <a
@@ -111,7 +116,12 @@ export default function Header() {
             <Bars3Icon aria-hidden="true" className="size-6" />
           </button>
         </div>
-        <PopoverGroup className="hidden lg:flex lg:gap-x-12">
+        <PopoverGroup
+          className="hidden lg:!flex lg:gap-x-12"
+          style={{
+            display: 'none',
+          }}
+        >
           <Popover className="relative">
             <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
               VBPL
