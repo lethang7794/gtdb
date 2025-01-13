@@ -88,7 +88,7 @@ export default function MarkmapRender({
   })
 
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full markmap-wrapper">
       <svg className="h-full w-full markmap" ref={refSvg} />
       {extra}
       <div className="absolute bottom-1 right-1" ref={refToolbar} />

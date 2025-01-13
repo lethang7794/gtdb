@@ -25,7 +25,7 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
-          'h-full bg-background font-sans antialiased',
+          'flex flex-col h-full bg-background font-sans antialiased',
           fontSans.variable
         )}
       >

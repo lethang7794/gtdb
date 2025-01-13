@@ -7,6 +7,9 @@
   padding-top: 6px;
 }
 
+.markmap-wrapper {
+  max-height: calc(100vh - var(--header-height));
+}
 
 .markmap {
   --markmap-font: 300 16px/20px sans-serif;
