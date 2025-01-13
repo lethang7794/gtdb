@@ -27,7 +27,7 @@ export async function generateMetadata(
   const sectionItem = await getND168ById(section || '')
   const sectionExplain = vbplSectionExplain(section).path
   return {
-    title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND]
+    title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND_SHORT]
       .filter(Boolean)
       .join(' | '),
     description: sectionItem?.full_name,

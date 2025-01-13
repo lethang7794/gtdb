@@ -19,6 +19,8 @@ export const env = createEnv({
     NEXT_PUBLIC_APP_ENV: z.enum(['dev', 'prod']),
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
     NEXT_PUBLIC_BRAND: z.string().min(1),
+    NEXT_PUBLIC_BRAND_SHORT: z.string().min(1),
+    NEXT_PUBLIC_BRAND_SLOGAN: z.string().min(1),
     NEXT_PUBLIC_DOMAIN: z.string().min(1),
   },
   /*
@@ -32,6 +34,8 @@ export const env = createEnv({
     NEXT_PUBLIC_APP_ENV: process.env.NEXT_PUBLIC_APP_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,
     NEXT_PUBLIC_BRAND: process.env.NEXT_PUBLIC_BRAND,
+    NEXT_PUBLIC_BRAND_SHORT: process.env.NEXT_PUBLIC_BRAND_SHORT,
+    NEXT_PUBLIC_BRAND_SLOGAN: process.env.NEXT_PUBLIC_BRAND_SLOGAN,
     NEXT_PUBLIC_DOMAIN: process.env.NEXT_PUBLIC_DOMAIN,
   },
 })

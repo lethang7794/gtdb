@@ -90,7 +90,9 @@ export default function Header() {
             href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
             className="-m-1.5 p-1.5"
           >
-            <span className="sr-only">GTDB</span>
+            <span className="sr-only">
+              {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
+            </span>
             {/* <img
               alt=""
               src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600" // TODO: change logo
@@ -246,7 +248,9 @@ export default function Header() {
               href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
               className="-m-1.5 p-1.5"
             >
-              <span className="sr-only">{env.NEXT_PUBLIC_BRAND}</span>
+              <span className="sr-only">
+                {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
+              </span>
               {/* <img
                 alt=""
                 src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"

@@ -4,7 +4,7 @@ import { env } from '@/env.mjs'
 // export const runtime = 'edge'
 
 // Image metadata
-export const alt = `Luật Trật tự, an toàn giao thông đường bộ 2024 | ${env.NEXT_PUBLIC_BRAND}`
+export const alt = `Luật Trật tự, an toàn giao thông đường bộ 2024 | ${env.NEXT_PUBLIC_BRAND_SHORT}`
 export const size = {
   width: 1200,
   height: 630,

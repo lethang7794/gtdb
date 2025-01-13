@@ -18,7 +18,7 @@ export async function generateMetadata(
   const previousImages = (await parent).openGraph?.images || []
 
   return {
-    title: `Nghị định 168/2024 | ${env.NEXT_PUBLIC_BRAND}`,
+    title: `Nghị định 168/2024 | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
     description:
       'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
   }

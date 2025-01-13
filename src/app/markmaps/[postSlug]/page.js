@@ -13,11 +13,12 @@ const CircularColorsDemo = dynamic(
 )
 
 import styles from './postSlug.module.css'
+import { env } from '@/env.mjs'
 
 export async function generateMetadata({ params }) {
   const blogPost = await loadMarkmap(params.postSlug)
   return {
-    title: blogPost.frontmatter.title,
+    title: `${blogPost.frontmatter.title} | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
     description: blogPost.frontmatter.abstract,
   }
 }

@@ -4,6 +4,7 @@ import { Toaster } from '@/components/ui/toaster'
 import { cn } from '@/lib/utils'
 import './globals.css'
 import Header from '@/components/block/header'
+import { env } from '@/env.mjs'
 
 const fontSans = FontSans({
   subsets: ['latin'],
@@ -11,7 +12,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'An Toàn Giao Thông',
+  title: `${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
   description:
     'Tra cứu văn bản pháp luật về giao thông đường bộ, biển báo giao thông, vạch kẻ đường, thuật ngữ giao thông đường bộ...',
 }

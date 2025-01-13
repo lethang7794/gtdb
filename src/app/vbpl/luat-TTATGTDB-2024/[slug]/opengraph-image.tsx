@@ -8,7 +8,7 @@ export const size = {
   width: 1200,
   height: 630,
 }
-export const alt = `Luật Trật tự, an toàn giao thông đường bộ 2024 | ${env.NEXT_PUBLIC_BRAND}`
+export const alt = `Luật Trật tự, an toàn giao thông đường bộ 2024 | ${env.NEXT_PUBLIC_BRAND_SHORT}`
 export const contentType = 'image/png'
 
 export default async function Image({ params }: { params: { slug: string } }) {

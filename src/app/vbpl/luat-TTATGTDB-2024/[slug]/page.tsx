@@ -30,7 +30,7 @@ export async function generateMetadata(
   const sectionItem = await getLuatGT2024ById(section || '')
   const sectionExplain = vbplSectionExplain(section).path
   return {
-    title: [sectionExplain, 'Luật TTATGTĐB 2024', env.NEXT_PUBLIC_BRAND]
+    title: [sectionExplain, 'Luật TTATGTĐB 2024', env.NEXT_PUBLIC_BRAND_SHORT]
       .filter(Boolean)
       .join(' | '),
     description: sectionItem?.content,

@@ -7,7 +7,7 @@ import { BLOG_TITLE } from '@/constant/common'
 import styles from './homepage.module.css'
 
 export const metadata = {
-  title: BLOG_TITLE,
+  title: `Sơ đồ - ${BLOG_TITLE}`,
 }
 
 async function Home() {
