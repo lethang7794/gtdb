@@ -8,10 +8,10 @@ export function Spinner() {
         backgroundColor: 'var(--bgColor-default)',
       }}
     >
-      <div className="flex justify-center items-center space-x-1 text-sm text-gray-700">
+      <div className="flex justify-center items-center space-x-1">
         <svg
           fill="none"
-          className="w-6 h-6 animate-spin"
+          className="w-12 h-w-12 animate-spin"
           viewBox="0 0 32 32"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -23,7 +23,6 @@ export function Spinner() {
             fillRule="evenodd"
           />
         </svg>
-        <div>Đang tải ...</div>
       </div>
     </div>
   )
