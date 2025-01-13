@@ -85,8 +85,6 @@ export default function Header() {
         aria-label="Global"
         className="mx-auto !flex max-w-7xl items-center justify-between p-6 lg:px-8"
         style={{
-          height: 'var(--header-height)',
-          minHeight: 'var(--header-height)',
           display: 'none',
         }}
       >
