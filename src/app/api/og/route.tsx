@@ -6,18 +6,33 @@ import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-deta
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { ImageResponse } from 'next/og'
-// App router includes @vercel/og.
-// No need to install it.
+import { toHex, key } from '@/lib/crypto'
 
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url)
 
-    const law = searchParams.get('l') || ''
-    const section = searchParams.get('s') || ''
+    const law = searchParams.get('l')
+    const section = searchParams.get('s')
+    const id = law
+    const token = searchParams.get('t')
+
+    const verifyToken = toHex(
+      await crypto.subtle.sign(
+        'HMAC',
+        await key,
+        new TextEncoder().encode(JSON.stringify({ id }))
+      )
+    )
+
+    if (token !== verifyToken) {
+      return new Response('Invalid token.', { status: 401 })
+    }
 
     if (!law && !section) {
-      return
+      return new Response('Not found', {
+        status: 404,
+      })
     }
 
     if (law === 'luat') {

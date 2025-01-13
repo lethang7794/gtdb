@@ -15,7 +15,7 @@ export const contentType = 'image/png'
 // Image generation
 export default async function Image(props: { params: { slug: string } }) {
   console.log('ImageRoot', { props })
-  return new ImageResponse(NghiDinh168PreviewRoot, {
+  return new ImageResponse(<NghiDinh168PreviewRoot />, {
     width: 1200,
     height: 630,
   })
