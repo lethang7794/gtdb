@@ -14,9 +14,6 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const section = (await searchParams).section
 
-  // optionally access and extend (rather than replace) parent metadata
-  const previousImages = (await parent).openGraph?.images || []
-
   return {
     title: `Nghị định 168/2024 | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
     description:
