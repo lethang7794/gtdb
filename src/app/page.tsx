@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import { Badge } from '@/components/ui/badge'
+import { SquareArrowOutUpRight } from 'lucide-react'
 
 export default async function Home() {
   return (
@@ -22,16 +23,16 @@ export default async function Home() {
                   >
                     {item.name}
                   </Link>
-                  {item.tags?.map((tag) => {
+                  {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">
                         {tag}
                       </Badge>
                     )
-                  })}
+                  })} */}
                 </div>
                 {item.description ? (
-                  <div className="text-gray-500 italic">
+                  <div className="text-base text-gray-500 italic">
                     ({item.description})
                   </div>
                 ) : null}
@@ -52,16 +53,16 @@ export default async function Home() {
                   >
                     {item.name}
                   </Link>
-                  {item.tags?.map((tag) => {
+                  {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">
                         {tag}
                       </Badge>
                     )
-                  })}
+                  })} */}
                 </div>
                 {item.description ? (
-                  <div className="text-gray-500 italic">
+                  <div className="text-base text-gray-500 italic">
                     ({item.description})
                   </div>
                 ) : null}
@@ -81,17 +82,18 @@ export default async function Home() {
                     href={item.url}
                   >
                     {item.name}
+                    <SquareArrowOutUpRight className="ml-2 inline-block w-4 h-4 text-blue-600 dark:text-blue-500" />
                   </Link>
-                  {item.tags?.map((tag) => {
+                  {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">
                         {tag}
                       </Badge>
                     )
-                  })}
+                  })} */}
                 </div>
                 {item.description ? (
-                  <div className="text-gray-500 italic">
+                  <div className="text-base text-gray-500 italic">
                     ({item.description})
                   </div>
                 ) : null}

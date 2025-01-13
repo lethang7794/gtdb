@@ -13,6 +13,7 @@ import {
   PopoverPanel,
 } from '@headlessui/react'
 import {
+  ArrowTopRightOnSquareIcon,
   ArrowPathIcon,
   Bars3Icon,
   ChartPieIcon,
@@ -28,6 +29,7 @@ import {
 } from '@heroicons/react/20/solid'
 import { env } from '@/env.mjs'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
+import { SquareArrowOutUpRight } from 'lucide-react'
 
 // const products = [
 //   {
@@ -210,6 +212,7 @@ export default function Header() {
                       >
                         {item.name}
                         <span className="absolute inset-0" />
+                        <SquareArrowOutUpRight className="ml-2 inline-block w-4 h-4 text-blue-600 dark:text-blue-500" />
                       </a>
                       <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
@@ -249,8 +252,7 @@ export default function Header() {
                 src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
                 className="h-8 w-auto"
               /> */}
-              GTDB
-              {/* TODO: change logo */}
+              GTDB - Thượng lộ binh an 🏠{/* TODO: change logo */}
             </a>
             <button
               type="button"
@@ -325,6 +327,7 @@ export default function Header() {
                         className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
                       >
                         {item.name}
+                        <SquareArrowOutUpRight className="ml-2 inline-block w-4 h-4 text-blue-600 dark:text-blue-500" />
                       </DisclosureButton>
                     ))}
                   </DisclosurePanel>
