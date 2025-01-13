@@ -7,24 +7,28 @@ interface HomepageLink {
 
 export const LINKS: HomepageLink[] = [
   {
-    name: 'Nghị định 168 (2024) - Tóm tắt',
-    url: '/markmaps/nghi-dinh-168-2024',
-    description: 'Xử phạt vi phạm trong giao thông đường bộ',
-    tags: ['Tóm tắt'],
-  },
-  {
     name: 'Nghị định 168 (2024)',
     url: '/vbpl/nghi-dinh-168-2024',
     description: 'Xử phạt vi phạm trong giao thông đường bộ',
   },
   {
-    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024) - Tóm tắt',
+    name: 'Nghị định 168 (2024) - Tóm tắt',
+    url: '/markmaps/nghi-dinh-168-2024',
     tags: ['Tóm tắt'],
-    url: '/markmaps/luat-TTATGTDB-2024',
+  },
+  {
+    name: 'Nghị định 168 (2024) - Tóm tắt xe môtô',
+    url: '/markmaps/nghi-dinh-168-2024-xe-moto',
+    tags: ['Tóm tắt'],
   },
   {
     name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
     url: '/vbpl/luat-TTATGTDB-2024',
+  },
+  {
+    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024) - Tóm tắt',
+    tags: ['Tóm tắt'],
+    url: '/markmaps/luat-TTATGTDB-2024',
   },
   {
     name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
