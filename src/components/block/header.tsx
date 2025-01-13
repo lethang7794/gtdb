@@ -116,6 +116,7 @@ export default function Header() {
             <Bars3Icon aria-hidden="true" className="size-6" />
           </button>
         </div>
+        
         <PopoverGroup
           className="hidden lg:!flex lg:gap-x-12"
           style={{

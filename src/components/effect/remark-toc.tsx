@@ -54,7 +54,14 @@ export default function RemarkTOCEffect() {
     // console.log({ hash, parts, href, 'window.location': window.location })
 
     setTimeout(() => {
-      router.replace(href)
+      const hash = window.location.hash
+      const id = hash.replace('#', '')
+      if (!id) {
+        return
+      }
+      const el = document.getElementById(id)
+      el?.scrollIntoView({ behavior: 'smooth' })
+      // router.replace(href)
     }, 1000)
   }, [router.replace])
   return null
