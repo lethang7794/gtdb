@@ -34,7 +34,9 @@ export default function RemarkTOCEffect() {
     setTimeout(() => {
       // Remove spinner
       const spinner = document.getElementById('spinner')
-      spinner?.remove()
+      if (spinner) {
+        spinner.style.display = 'none'
+      }
 
       // Enable scroll
       body.style.overflow = 'initial'

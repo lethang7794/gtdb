@@ -1,7 +1,7 @@
-export function Spinner() {
+export function Spinner({ id = 'spinner' }: { id: string }) {
   return (
     <div
-      id="spinner"
+      id={id}
       className="fixed inset-0 flex items-center justify-center z-10"
       style={{
         color: 'var(--fgColor-default)',
