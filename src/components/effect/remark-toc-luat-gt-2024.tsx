@@ -31,12 +31,14 @@ export default function RemarkTOCEffect() {
     // Go to fragment
     router.replace(window.location.href)
 
-    // Remove spinner
-    const spinner = document.getElementById('spinner')
-    spinner?.remove()
+    setTimeout(() => {
+      // Remove spinner
+      const spinner = document.getElementById('spinner')
+      spinner?.remove()
 
-    // Enable scroll
-    body.style.overflow = 'initial'
+      // Enable scroll
+      body.style.overflow = 'initial'
+    }, 500)
   }, [router.replace])
   return null
 }

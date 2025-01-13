@@ -65,12 +65,14 @@ export default function RemarkTOCEffect() {
     // const el = document.getElementById(id)
     // el?.scrollIntoView({ behavior: 'instant' })
 
-    // Remove spinner
-    const spinner = document.getElementById('spinner')
-    spinner?.remove()
+    setTimeout(() => {
+      // Remove spinner
+      const spinner = document.getElementById('spinner')
+      spinner?.remove()
 
-    // Enable scroll
-    body.style.overflow = 'initial'
+      // Enable scroll
+      body.style.overflow = 'initial'
+    }, 500)
   }, [router.replace])
   return null
 }
