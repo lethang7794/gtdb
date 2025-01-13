@@ -2,7 +2,7 @@ import { env } from '@/env.mjs'
 
 export const BLOG_TITLE = `${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`
 
-type Coors = {
+type Colors = {
   '--color-text': string
   '--color-primary-100': string
   '--color-primary-300': string
