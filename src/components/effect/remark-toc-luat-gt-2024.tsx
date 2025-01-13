@@ -1,12 +1,12 @@
 'use client'
 
-import { useLayoutEffect } from 'react'
+import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
 
-  useLayoutEffect(() => {
+  useEffect(() => {
     // Cleanup TOC
     const tocItems = document.querySelectorAll(
       '#mục-lục + ul li > a .anchor-link'
@@ -25,7 +25,9 @@ export default function RemarkTOCEffect() {
     }
 
     // Go to fragment
-    router.replace(window.location.href)
+    setTimeout(() => {
+      router.replace(window.location.href)
+    }, 1000)
   }, [router.replace])
   return null
 }

@@ -1,14 +1,12 @@
 'use client'
 
-import { useLayoutEffect } from 'react'
+import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
 
-  console.log("hello")
-
-  useLayoutEffect(() => {
+  useEffect(() => {
     // Cleanup TOC
     const tocItems = document.querySelectorAll('#mục-lục + ul li > a > span')
     for (const item of Array.from(tocItems)) {
@@ -44,7 +42,20 @@ export default function RemarkTOCEffect() {
     }
 
     // Go to fragment
-    router.replace(window.location.href)
+    const href = window.location.href
+
+    // const hash = window.location.hash
+    // const parts = hash?.split('.') || []
+    // if (parts.length > 1) {
+    //   parts.pop()
+    // }
+    // const href =
+    //   window.location.origin + window.location.pathname + parts.join('.')
+    // console.log({ hash, parts, href, 'window.location': window.location })
+
+    setTimeout(() => {
+      router.replace(href)
+    }, 1000)
   }, [router.replace])
   return null
 }
