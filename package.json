@@ -45,6 +45,7 @@
     "@radix-ui/react-tooltip": "^1.1.2",
     "@t3-oss/env-nextjs": "^0.11.1",
     "@types/mdx": "^2.0.13",
+    "@vercel/analytics": "^1.4.1",
     "ahooks": "^3.8.4",
     "bright": "^1.0.0",
     "class-variance-authority": "^0.7.0",
