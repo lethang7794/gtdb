@@ -8,7 +8,7 @@
 }
 
 .markmap-wrapper {
-  max-height: calc(100vh - var(--header-height));
+  /* max-height: calc(100vh - var(--header-height)); */
 }
 
 .markmap {
