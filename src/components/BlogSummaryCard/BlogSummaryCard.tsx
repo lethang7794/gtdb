@@ -14,22 +14,27 @@ type BlogSummaryCardProps = {
   abstract?: string
 }
 
-function BlogSummaryCard({ slug, title, publishedOn, abstract }: BlogSummaryCardProps) {
+function BlogSummaryCard({
+  slug,
+  title,
+  publishedOn,
+  abstract,
+}: BlogSummaryCardProps) {
   const href = `/${MARKMAPS_PATH}/${slug}`
   const humanizedDate = getHumanizedDate(publishedOn)
 
   return (
     <Card className={styles.wrapper}>
       <Link href={href} className={styles.title}>
-        {title}
+        {title} <span className={styles.arrow}>→</span>
       </Link>
       <time dateTime={publishedOn}>{humanizedDate}</time>
-      <p>
+      {/* <p>
         {abstract}{' '}
         <Link href={href} className={styles.continueReadingLink}>
           Continue reading <span className={styles.arrow}>→</span>
         </Link>
-      </p>
+      </p> */}
     </Card>
   )
 }

@@ -14,11 +14,13 @@ async function Home() {
   const blogPosts = await getMarkmapList()
 
   return (
-    <div className={styles.wrapper}>
-      <h1 className={styles.mainHeading}>Latest markmaps:</h1>
-      {blogPosts.map((blogPost) => {
-        return <BlogSummaryCard key={blogPost.slug} {...blogPost} />
-      })}
+    <div className="container">
+      <div className={styles.wrapper}>
+        <h1 className={styles.mainHeading}>Sơ đồ mới nhất</h1>
+        {blogPosts.map((blogPost) => {
+          return <BlogSummaryCard key={blogPost.slug} {...blogPost} />
+        })}
+      </div>
     </div>
   )
 }
