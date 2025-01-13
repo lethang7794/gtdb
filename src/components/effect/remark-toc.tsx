@@ -7,6 +7,10 @@ export default function RemarkTOCEffect() {
   const router = useRouter()
 
   useEffect(() => {
+    // Disable scroll
+    const body = document.body
+    body.style.overflow = 'hidden'
+
     // Cleanup TOC
     const tocItems = document.querySelectorAll('#mục-lục + ul li > a > span')
     for (const item of Array.from(tocItems)) {
@@ -40,7 +44,7 @@ export default function RemarkTOCEffect() {
         }
       }
     }
-    
+
     // Go to fragment
     router.replace(window.location.href)
 
@@ -61,10 +65,12 @@ export default function RemarkTOCEffect() {
     // const el = document.getElementById(id)
     // el?.scrollIntoView({ behavior: 'instant' })
 
-
     // Remove spinner
     const spinner = document.getElementById('spinner')
     spinner?.remove()
+
+    // Enable scroll
+    body.style.overflow = 'initial'
   }, [router.replace])
   return null
 }

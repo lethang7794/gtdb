@@ -7,6 +7,10 @@ export default function RemarkTOCEffect() {
   const router = useRouter()
 
   useEffect(() => {
+    // Disable scroll
+    const body = document.body
+    body.style.overflow = 'hidden'
+
     // Cleanup TOC
     const tocItems = document.querySelectorAll(
       '#mục-lục + ul li > a .anchor-link'
@@ -30,6 +34,9 @@ export default function RemarkTOCEffect() {
     // Remove spinner
     const spinner = document.getElementById('spinner')
     spinner?.remove()
+
+    // Enable scroll
+    body.style.overflow = 'initial'
   }, [router.replace])
   return null
 }
