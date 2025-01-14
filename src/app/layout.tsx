@@ -29,7 +29,7 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
-          'flex flex-col min-h-full bg-background font-sans antialiased',
+          'flex flex-col min-h-screen bg-background font-sans antialiased',
           fontSans.variable
         )}
       >
@@ -39,7 +39,6 @@ export default function RootLayout({
           <Header />
         </div>
         {children}
-        <div className="grow" />
         <Footer />
         <Toaster />
       </body>

@@ -6,7 +6,7 @@ export default function AboutPage() {
       <div className="container">
         <h1 className="text-center text-4xl font-bold">Giới thiệu</h1>
         <p className="mt-4 text-2xl text-gray-500">
-          <Logo className="h-8" /> là dự án cá nhân <em>phi lợi nhuận</em> nhằm
+          <Logo className="inline-block h-8" /> là dự án cá nhân <em>phi lợi nhuận</em> nhằm
           phổ biến các kiến thức về an toàn giao thông đường bộ đến tất cả mọi
           người dân tham gia giao thông ở Việt Nam.
         </p>

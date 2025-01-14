@@ -11,6 +11,7 @@ import type { IMarkmapOptions } from 'markmap-common'
 import * as markmap from 'markmap-view'
 import 'markmap-toolbar/dist/style.css'
 import '@/style/markmap.css'
+import { cn } from '@/lib/utils'
 
 const initValue = `# markmap
 
@@ -24,12 +25,16 @@ interface MarkmapRenderProps {
   data?: string
   extra?: ReactNode
   options?: Partial<IMarkmapOptions>
+  className?: string
+  classNameSvg?: string
 }
 
 export default function MarkmapRender({
   data,
   extra,
   options = {},
+  className,
+  classNameSvg,
 }: MarkmapRenderProps) {
   const router = useRouter()
   const [value, setValue] = useState(data || initValue)
@@ -88,8 +93,8 @@ export default function MarkmapRender({
   })
 
   return (
-    <div className="relative h-full w-full markmap-wrapper">
-      <svg className="h-full w-full markmap" ref={refSvg} />
+    <div className="relative grow h-full w-full markmap-wrapper">
+      <svg className={cn('h-full w-full markmap', classNameSvg)} ref={refSvg} />
       {extra}
       <div className="absolute bottom-1 right-1" ref={refToolbar} />
     </div>

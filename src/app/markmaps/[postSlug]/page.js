@@ -31,7 +31,11 @@ export async function generateMetadata({ params }) {
 async function BlogPost({ params }) {
   const blogPost = await loadMarkmap(params.postSlug)
 
-  return <Markmap data={blogPost.content} />
+  return (
+    <div>
+      <Markmap data={blogPost.content} classNameSvg="min-h-[calc(100vh-72px)]" />
+    </div>
+  )
 }
 
 export default BlogPost
