@@ -304,13 +304,20 @@ export default function Header() {
                   </DisclosureButton>
                   <DisclosurePanel className="mt-2 space-y-2">
                     {[...products].map((item) => (
-                      <BaseLink
+                      // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
+                      <div
                         key={item.name}
-                        href={item.href}
-                        className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        onClick={() => {
+                          setMobileMenuOpen(false)
+                        }}
                       >
-                        {item.name}
-                      </BaseLink>
+                        <BaseLink
+                          href={item.href}
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        >
+                          {item.name}
+                        </BaseLink>
+                      </div>
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
@@ -325,13 +332,20 @@ export default function Header() {
                   </DisclosureButton>
                   <DisclosurePanel className="mt-2 space-y-2">
                     {[...others].map((item) => (
-                      <BaseLink
+                      // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
+                      <div
                         key={item.name}
-                        href={item.href}
-                        className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        onClick={() => {
+                          setMobileMenuOpen(false)
+                        }}
                       >
-                        {item.name}
-                      </BaseLink>
+                        <BaseLink
+                          href={item.href}
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        >
+                          {item.name}
+                        </BaseLink>
+                      </div>
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
@@ -346,13 +360,20 @@ export default function Header() {
                   </DisclosureButton>
                   <DisclosurePanel className="mt-2 space-y-2">
                     {[...extra].map((item) => (
-                      <BaseLink
+                      // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
+                      <div
                         key={item.name}
-                        href={item.href}
-                        className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        onClick={() => {
+                          setMobileMenuOpen(false)
+                        }}
                       >
-                        {item.name}
-                      </BaseLink>
+                        <BaseLink
+                          href={item.href}
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                        >
+                          {item.name}
+                        </BaseLink>
+                      </div>
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
