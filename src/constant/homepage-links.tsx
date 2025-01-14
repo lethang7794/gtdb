@@ -35,6 +35,11 @@ export const LINKS: HomepageLink[] = [
     url: '/vbpl/toc-do-khoang-cach-an-toan',
     description: '',
   },
+  {
+    name: 'VBPL liên quan đến giao thông đường bộ',
+    url: '/vbpl/danh-sach',
+    description: 'Tên, số hiệu, ngày ban hành, hiệu lực, nguồn, toàn văn...',
+  },
 ]
 
 export const USEFUL_LINKS: HomepageLink[] = [
