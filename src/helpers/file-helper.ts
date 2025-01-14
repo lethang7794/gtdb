@@ -31,7 +31,7 @@ export async function loadFileFromRepo(
   try {
     const url = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${path}`
     const data = await fetch(url, {
-      cache: env.NODE_ENV === 'production' ? 'force-cache' : 'no-cache',
+      cache: env.NEXT_PUBLIC_APP_ENV === 'prod' ? 'force-cache' : 'no-cache',
     })
     return data
   } catch (error) {

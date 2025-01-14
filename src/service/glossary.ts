@@ -12,7 +12,9 @@ export const getGlossaries = cache(() => {
   return data as Record<string, Partial<Glossary>>
 })
 
-export function getGlossaryById(id: string): Partial<Glossary> | undefined {
-  const items = getGlossaries()
-  return items[id]
-}
+export const getGlossaryById = cache(
+  (id: string): Partial<Glossary> | undefined => {
+    const items = getGlossaries()
+    return items[id]
+  }
+)

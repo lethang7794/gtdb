@@ -17,36 +17,40 @@ export const getRoadSignsArray = cache(() => {
   return Object.entries(items)
 })
 
-export function getRoadSignById(id: string): RoadSign | undefined {
+export const getRoadSignById = cache((id: string): RoadSign | undefined => {
   const items = getRoadSigns()
   return items[id]
-}
+})
 
-export function getRoadSignsWithAroundById(id: string):
-  | {
-      prev?: [string, RoadSign]
-      cur: [string, RoadSign]
-      next?: [string, RoadSign]
+export const getRoadSignsWithAroundById = cache(
+  (
+    id: string
+  ):
+    | {
+        prev?: [string, RoadSign]
+        cur: [string, RoadSign]
+        next?: [string, RoadSign]
+      }
+    | undefined => {
+    const items = getRoadSigns()
+    const found = items[id]
+    if (!found) {
+      return undefined
     }
-  | undefined {
-  const items = getRoadSigns()
-  const found = items[id]
-  if (!found) {
-    return undefined
-  }
 
-  const arr = getRoadSignsArray()
-  const foundIdx = arr.findIndex(([key]) => key === id)
-  if (foundIdx === -1) {
-    return undefined
-  }
+    const arr = getRoadSignsArray()
+    const foundIdx = arr.findIndex(([key]) => key === id)
+    if (foundIdx === -1) {
+      return undefined
+    }
 
-  return {
-    prev: foundIdx === 0 ? undefined : arr[foundIdx - 1],
-    cur: arr[foundIdx],
-    next: foundIdx === arr.length ? undefined : arr[foundIdx + 1],
+    return {
+      prev: foundIdx === 0 ? undefined : arr[foundIdx - 1],
+      cur: arr[foundIdx],
+      next: foundIdx === arr.length ? undefined : arr[foundIdx + 1],
+    }
   }
-}
+)
 
 export function getRoadSignImage(sign: RoadSign) {
   return `/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`

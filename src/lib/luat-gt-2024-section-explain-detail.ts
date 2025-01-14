@@ -8,8 +8,9 @@ import {
 import type { LuatGT2024 } from '@/model/LuatGT2024'
 import type { TrafficLight } from '@/model/TrafficLight'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
+import { cache } from 'react'
 
-export async function luatGT2024SectionExplainDetail(id?: string): Promise<{
+export const luatGT2024SectionExplainDetail = cache(async (id?: string): Promise<{
   type?: 'chuong' | 'muc' | 'dieu' | 'khoan' | 'diem'
   path?: string
   chuong?: LuatGT2024
@@ -17,7 +18,7 @@ export async function luatGT2024SectionExplainDetail(id?: string): Promise<{
   dieu?: LuatGT2024
   khoan?: LuatGT2024
   diem?: LuatGT2024
-}> {
+}> => {
   if (!id) {
     return { path: '' }
   }
@@ -68,9 +69,9 @@ export async function luatGT2024SectionExplainDetail(id?: string): Promise<{
   }
 
   return { path: '' }
-}
+});
 
-export async function luatGT2024SectionExplainComponents(slug: string) {
+export const luatGT2024SectionExplainComponents = cache(async (slug: string) => {
   const explainDetail = await luatGT2024SectionExplainDetail(slug || '')
 
   let detail1 = ''
@@ -120,4 +121,4 @@ export async function luatGT2024SectionExplainComponents(slug: string) {
     highlight = 'green'
   }
   return { short1, short2, short3, detail1, detail2, detail3, highlight }
-}
+});

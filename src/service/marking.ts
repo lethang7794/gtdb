@@ -12,10 +12,10 @@ export const getMarkings = cache(() => {
   return data as Record<string, Marking>
 })
 
-export function getMarkingById(id: string): Marking | undefined {
+export const getMarkingById = cache((id: string): Marking | undefined => {
   const items = getMarkings()
   return items[id]
-}
+})
 
 export function getMarkingImage(item: Marking, opts?: { type?: MarkingImage }) {
   if (opts?.type === MarkingImage.extra) {

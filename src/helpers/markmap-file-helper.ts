@@ -1,9 +1,9 @@
-import React from 'react'
+import React, { cache } from 'react'
 import matter from 'gray-matter'
 import { loadFile, readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
 
-export async function getMarkmapList() {
+export const getMarkmapList = cache(async () => {
   const fileNames = await readDirectory(MARKMAP_DIR_PATH)
 
   const markmaps: Record<string, string>[] = []
@@ -20,7 +20,7 @@ export async function getMarkmapList() {
   }
 
   return markmaps.sort((p1, p2) => (p1.publishedOn < p2.publishedOn ? 1 : -1))
-}
+})
 
 export const loadMarkmap = React.cache(async (slug: string) => {
   const rawContent = await loadFile(`${MARKMAP_DIR_PATH}/${slug}.md`)
