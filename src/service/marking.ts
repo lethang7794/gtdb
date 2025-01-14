@@ -7,9 +7,14 @@ const MARKINGS_REPO_PATH = 'data/markings.yaml'
 const MARKINGS_PUBLIC_PATH = 'markings'
 
 export const getMarkings = unstable_cache(async () => {
-  const file = loadFile(MARKINGS_REPO_PATH).toString()
+  const file = await loadFile(MARKINGS_REPO_PATH)
   const data = yaml.parse(file)
   return data as Record<string, Marking>
+})
+
+export const getMarkingsArray = unstable_cache(async () => {
+  const data = await getMarkings()
+  return Object.entries(data)
 })
 
 export const getMarkingById = unstable_cache(

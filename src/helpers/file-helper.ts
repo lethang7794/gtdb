@@ -12,7 +12,7 @@ export function readDirectory(localPath: string) {
 
 export async function loadFile(localPath: string) {
   if (isDev) {
-    return readFile(localPath)
+    return await readFile(localPath)
   }
 
   const data = await loadFileFromRepo(localPath)

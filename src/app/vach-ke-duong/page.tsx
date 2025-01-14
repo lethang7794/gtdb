@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
-import { getMarkings, getMarkingImage } from '@/service/marking'
+import { getMarkingImage, getMarkingsArray } from '@/service/marking'
 import { env } from '@/env.mjs'
 import BaseLink from '@/components/base-link'
 
@@ -11,9 +11,7 @@ export const metadata: Metadata = {
 }
 
 export default async function Home() {
-  const data = await getMarkings()
-
-  const entries = Object.entries(data)
+  const entries = await getMarkingsArray()
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
@@ -40,11 +38,13 @@ export default async function Home() {
               key={key}
               className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
             >
-              <img
-                alt={key}
-                src={imgUrl}
-                className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
-              />
+              {val.image ? (
+                <img
+                  alt={key}
+                  src={imgUrl}
+                  className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                />
+              ) : null}
               <div className="text-sm text-balance text-center leading-5">
                 {val.full_name}
               </div>

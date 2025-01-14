@@ -1,10 +1,16 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getMarkings, getMarkingById, getMarkingImage } from '@/service/marking'
+import {
+  getMarkings,
+  getMarkingById,
+  getMarkingImage,
+  getMarkingsArray,
+} from '@/service/marking'
 import { MarkingImage } from '@/model/Marking'
+import { env } from '@/env.mjs'
 
 export async function generateStaticParams() {
-  const markings = getMarkings()
-  return Object.keys(markings).map((key) => ({ slug: key }))
+  const markings = await getMarkingsArray()
+  return markings.map(([key]) => ({ slug: key }))
 }
 
 type Props = {
@@ -16,19 +22,15 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const sign = await getMarkingById(slug)
-  if (!sign) {
+  const item = await getMarkingById(slug)
+  if (!item) {
     return { title: 'Not Found' }
   }
 
-  // optionally access and extend (rather than replace) parent metadata
-  const previousImages = (await parent).openGraph?.images || []
-
-  const pageTitle = `Vạch ${slug}: ${sign.full_name}`
   return {
-    title: pageTitle,
+    title: `Vạch ${slug}: ${item.full_name} | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
     openGraph: {
-      // images: ["/some-specific-page-image.jpg", ...previousImages],
+      images: [item.image ? getMarkingImage(item) : ''],
     },
   }
 }
