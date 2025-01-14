@@ -1,13 +1,13 @@
-import fs from 'node:fs'
 import yaml from 'yaml'
 import type { RoadSign } from '@/model/RoadSign'
 import { unstable_cache } from 'next/cache'
+import { loadFile } from '@/helpers/file-helper'
 
 const ROAD_SIGNS_REPO_PATH = 'data/signs.yaml'
 const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
 
 export const getRoadSigns = unstable_cache(async () => {
-  const file = fs.readFileSync(ROAD_SIGNS_REPO_PATH).toString()
+  const file = await loadFile(ROAD_SIGNS_REPO_PATH)
   const data = yaml.parse(file)
   return data as Record<string, RoadSign>
 })

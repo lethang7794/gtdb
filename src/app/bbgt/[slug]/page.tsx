@@ -4,15 +4,15 @@ import { serialize } from 'next-mdx-remote/serialize'
 import {
   getRoadSignById,
   getRoadSignImage,
+  getRoadSignsArray,
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
-import { getRoadSigns } from '@/service/road-sign'
 import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
 
 export async function generateStaticParams() {
-  const roadSigns = await getRoadSigns()
-  return Object.keys(roadSigns).map((key) => ({ slug: key }))
+  const roadSigns = await getRoadSignsArray()
+  return roadSigns.map(([key]) => ({ slug: key }))
 }
 
 type Props = {
@@ -30,15 +30,10 @@ export async function generateMetadata(
     return { title: 'Not Found' }
   }
 
-  // optionally access and extend (rather than replace) parent metadata
-  const previousImages = (await parent).openGraph?.images || []
-
   const pageTitle = `${decodedSlug}: ${sign.name}`
   return {
     title: pageTitle,
-    openGraph: {
-      // images: ["/some-specific-page-image.jpg", ...previousImages],
-    },
+    description: sign.docs,
   }
 }
 
