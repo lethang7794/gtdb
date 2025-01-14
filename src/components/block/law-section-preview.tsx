@@ -46,13 +46,17 @@ export function LawSectionPreview({
         }}
       >
         {short1 ? (
-          <div style={getStyleForColor('red', highlight)}>{short1}</div>
+          <div style={getStyleForColor('red', highlight, short1)}>{short1}</div>
         ) : null}
         {short2 ? (
-          <div style={getStyleForColor('yellow', highlight)}>{short2}</div>
+          <div style={getStyleForColor('yellow', highlight, short2)}>
+            {short2}
+          </div>
         ) : null}
         {short3 ? (
-          <div style={getStyleForColor('green', highlight)}>{short3}</div>
+          <div style={getStyleForColor('green', highlight, short3)}>
+            {short3}
+          </div>
         ) : null}
         <div style={styleNghiDinhHeading}>{law}</div>
       </div>
@@ -60,7 +64,7 @@ export function LawSectionPreview({
         <div style={styleDetailWrapper}>
           <div
             style={{
-              ...getStyleForColor('red', highlight),
+              ...getStyleForColor('red', highlight, detail1),
               ...styleDetail,
 
               paddingLeft: '8px',
@@ -77,7 +81,7 @@ export function LawSectionPreview({
         <div style={styleDetailWrapper}>
           <div
             style={{
-              ...getStyleForColor('yellow', highlight),
+              ...getStyleForColor('yellow', highlight, detail2),
               ...styleDetail,
 
               display: 'block',
@@ -94,7 +98,7 @@ export function LawSectionPreview({
         <div style={styleDetailWrapper}>
           <div
             style={{
-              ...getStyleForColor('green', highlight),
+              ...getStyleForColor('green', highlight, detail3),
               ...styleDetail,
 
               display: 'block',
@@ -118,6 +122,9 @@ const stylesByColor: Record<
   share: {
     borderTransparent: {
       border: '4px solid transparent',
+    },
+    fixLetterD: {
+      paddingTop: '10px',
     },
   },
   red: {
@@ -171,12 +178,19 @@ const styleNghiDinhHeading: CSSProperties = {
   padding: '0 8px',
 }
 
-function getStyleForColor(color: TrafficLight, highlight: TrafficLight) {
+function getStyleForColor(
+  color: TrafficLight,
+  highlight: TrafficLight,
+  text?: string
+) {
   return {
     ...stylesByColor[color].base,
     ...(highlight === color
       ? stylesByColor[color].background
       : stylesByColor[color].borderTransparent),
+    ...(text?.startsWith('Đ') || text?.startsWith('đ')
+      ? stylesByColor.share.fixLetterD || {}
+      : {}),
   }
 }
 
