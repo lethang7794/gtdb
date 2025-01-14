@@ -322,13 +322,19 @@ export default function Header() {
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
-                {/* <a
-                  href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
+                <div
+                  onClick={() => {
+                    setMobileMenuOpen(false)
+                  }}
                 >
-                  Features
-                </a>
-                */}
+                  <BaseLink
+                    href="/about"
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  >
+                    Giới thiệu
+                  </BaseLink>
+                </div>
               </div>
               {/* <div className="py-6">
                 <a
