@@ -1,13 +1,18 @@
 import Link from 'next/link'
+import type { Metadata } from 'next'
 
-import type { RoadSign } from '@/model/RoadSign'
-import { getRoadSigns } from '@/service/road-sign'
+import { getRoadSignsArray } from '@/service/road-sign'
 import { getRoadSignImage } from '@/service/road-sign'
+import { env } from '@/env.mjs'
+
+export const metadata: Metadata = {
+  title: `Biển báo giao thông | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
+  description:
+    'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
+}
 
 export default async function Home() {
-  const data = await getRoadSigns()
-
-  const entries = Object.entries(data)
+  const entries = await getRoadSignsArray()
   // const firstTen = entries.slice(0, 30)
 
   return (
