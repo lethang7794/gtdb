@@ -10,12 +10,12 @@ export function Footer() {
             href={`https://${env.NEXT_PUBLIC_DOMAIN}/`}
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <Logo />
+            <Logo className="min-w-24" />
           </a>
           <ul className="flex flex-wrap items-center mb-4 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
               <a href="/about" className="hover:underline me-4">
-                Về chúng tôi
+                Giới thiệu
               </a>
             </li>
           </ul>

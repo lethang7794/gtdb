@@ -52,7 +52,7 @@ export default function Header() {
             <span className="sr-only">
               {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
             </span>
-            <Logo />
+            <Logo className="min-w-24" />
           </BaseLink>
         </div>
         <div className="flex lg:hidden">
@@ -225,7 +225,7 @@ export default function Header() {
               <span className="sr-only">
                 {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
               </span>
-              <Logo />
+              <Logo className="min-w-24" />
             </BaseLink>
             <button
               type="button"
