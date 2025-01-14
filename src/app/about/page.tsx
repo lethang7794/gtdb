@@ -17,9 +17,10 @@ export default function AboutPage() {
         </div>
         <div className="mt-4 text-2xl text-gray-500">
           - Đến đầu năm 2025, với mong muốn mọi người dân có thể dễ dàng{' '}
-          <em>tra cứu, tìm hiểu, tranh luận</em> về <b>Nghị định 168</b> cũng
-          như <b>Luật Trật tự, an toàn giao thông đường bộ 2024</b>, tác giả đã
-          hoàn thiện dự án với các tính năng mới:
+          <em>tra cứu, tìm hiểu, chia sẻ, tranh luận</em> về{' '}
+          <b>Nghị định 168</b> cũng như{' '}
+          <b>Luật Trật tự, an toàn giao thông đường bộ 2024</b>, tác giả đã hoàn
+          thiện dự án với các tính năng mới:
           <br />
           <div className="ml-8">+ Tóm tắt với sơ đồ tư duy.</div>
           <div className="ml-8">+ Mục lục.</div>
@@ -39,7 +40,7 @@ export default function AboutPage() {
           </BaseLink>
           , nếu có sai sót xin phản ánh tới email{' '}
           <a
-            href="mail:gtdb.app@gmail.com"
+            href="mailto:gtdb.app@gmail.com?subject=Phản%ánh%nội%20dung=Có%sai%20sót%20ở%20đường%dẫn:%20...%0D%0ANội%20dung%20sai:%20...%0D%0A.Nên%20sửa%20thành:%20..."
             className="text-blue-500 hover:underline"
           >
             gtdb.app@gmail.com
