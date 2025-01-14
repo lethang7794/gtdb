@@ -13,7 +13,7 @@ export const getRoadSigns = unstable_cache(async () => {
 })
 
 export const getRoadSignsArray = unstable_cache(async () => {
-  const items = getRoadSigns()
+  const items = await getRoadSigns()
   return Object.entries(items)
 })
 
