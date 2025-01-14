@@ -10,12 +10,12 @@ publishedOn: '2023-07-11T12:00:00-0400'
 
 - [_Rơ moóc_]
 - [_Sơ mi rơ moóc_]
-- [_Xe ô tô_]
+- [_Xe ô tô_] <img src="/vehicles/xe-oto-P103a.svg" alt="" height="40" width="40">
   - xe có từ **4 bánh** trở lên _chạy bằng động cơ_, <!-- markmap: fold -->
     - được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray,
     - dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc
     - hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện
-    - (không bao gồm xe chở người 4 bánh có gắn động cơ và xe chở hàng 4 bánh có gắn động cơ;)
+    - (không bao gồm xe chở người 4 bánh có gắn động cơ và xe chở hàng 4 bánh có gắn động cơ)
   - xe **3 bánh** ... > 400 kg <!-- markmap: fold -->
     - có khối lượng bản thân lớn hơn 400 kg
 - [_Xe chở hàng **4 bánh** có gắn động cơ_] ... < 60 km/h <!-- markmap: fold -->
@@ -28,12 +28,12 @@ publishedOn: '2023-07-11T12:00:00-0400'
   - có kết cấu để chở người
   - vận tốc thiết kế không lớn hơn 30 km/h,
   - số người cho phép chở tối đa 15 người
-- [_Xe mô tô_]
+- [_Xe mô tô_] <img src="/vehicles/xe-moto-P104.svg" alt="" height="40" width="40">
   - xe **3 bánh** _chạy bằng động cơ_ ≤ ... 400 kg <!-- markmap: fold -->
     - có khối lượng bản thân không lớn hơn 400 kg
   - xe **2 bánh** _chạy bằng động cơ_ ... (≥ 50 km/h)<!-- markmap: fold -->
     - được thiết kế, sản xuất để hoạt động trên đường bộ (trừ xe gắn máy)
-- [_Xe gắn máy_]
+- [_Xe gắn máy_] <img src="/vehicles/xe-gan-may-P111a.svg" alt="" height="40" width="40">
   - xe có **2 hoặc 3 bánh** _chạy bằng động cơ_ ... < 50 km/h <!-- markmap: fold -->
     - được thiết kế, sản xuất để hoạt động trên đường bộ
     - có vận tốc thiết kế không lớn hơn 50 km/h
@@ -46,12 +46,12 @@ publishedOn: '2023-07-11T12:00:00-0400'
 
 ## 2. [_Xe thô sơ_]
 
-- [_Xe đạp_]
+- [_Xe đạp_] <img src="/vehicles/xe-dap-P110a.svg" alt="" height="40" width="40">
 - [_Xe đạp máy, gồm cả xe đạp điện_]
-- [Xe xích lô]
+- [Xe xích lô] <img src="/vehicles/xe-ba-banh-khong-co-dong-co-P111d.svg" alt="" height="40" width="40">
 - [Xe lăn] <!-- markmap: fold -->
   - dùng cho người khuyết tật
-- [Xe vật nuôi kéo]
+- [Xe vật nuôi kéo] <img src="/vehicles/xe-suc-vat-keo-P114.svg" alt="" height="40" width="40">
 - [(Xe tương tự)][xe thô sơ - tương tự] <!-- markmap: fold -->
   - các loại xe quy định tại khoản này.
 
