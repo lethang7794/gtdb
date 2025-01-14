@@ -17,7 +17,8 @@ export async function loadFile(localPath: string) {
   }
 
   const data = await loadFileFromRepo(localPath)
-  return await data.text()
+  console.log("🚀 ~ loadFile ~ data:", data)
+  return await data?.text()
 }
 
 export const loadFileFromRepo = unstable_cache(
