@@ -10,7 +10,7 @@ import { getGlossaries } from '@/service/glossary'
 import { Badge } from '@/components/ui/badge'
 
 export default async function GlossariesPage() {
-  const data = getGlossaries()
+  const data = await getGlossaries()
   const entries = Object.entries(data) || []
 
   return (

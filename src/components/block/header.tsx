@@ -30,6 +30,7 @@ import {
 import { env } from '@/env.mjs'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import { SquareArrowOutUpRight } from 'lucide-react'
+import BaseLink from '@/components/base-link'
 
 // const products = [
 //   {
@@ -89,7 +90,7 @@ export default function Header() {
         }}
       >
         <div className="flex lg:flex-1">
-          <a
+          <BaseLink
             href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
             className="-m-1.5 p-1.5"
           >
@@ -102,7 +103,7 @@ export default function Header() {
               className="h-8 w-auto"
             /> */}
             GTDB - Thượng lộ bình an 🏠
-          </a>
+          </BaseLink>
         </div>
         <div className="flex lg:hidden">
           <button
@@ -114,7 +115,7 @@ export default function Header() {
             <Bars3Icon aria-hidden="true" className="size-6" />
           </button>
         </div>
-        
+
         <PopoverGroup
           className="hidden lg:!flex lg:gap-x-12"
           style={{
@@ -147,13 +148,13 @@ export default function Header() {
                       />
                     </div> */}
                     <div className="flex-auto">
-                      <a
+                      <BaseLink
                         href={item.href}
                         className="block font-semibold text-gray-900"
                       >
                         {item.name}
                         <span className="absolute inset-0" />
-                      </a>
+                      </BaseLink>
                       <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
                   </div>
@@ -182,13 +183,13 @@ export default function Header() {
                     className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
                   >
                     <div className="flex-auto">
-                      <a
+                      <BaseLink
                         href={item.href}
                         className="block font-semibold text-gray-900"
                       >
                         {item.name}
                         <span className="absolute inset-0" />
-                      </a>
+                      </BaseLink>
                       <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
                   </div>
@@ -217,14 +218,14 @@ export default function Header() {
                     className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
                   >
                     <div className="flex-auto">
-                      <a
+                      <BaseLink
                         href={item.href}
                         className="block font-semibold text-gray-900"
                       >
                         {item.name}
                         <span className="absolute inset-0" />
                         <SquareArrowOutUpRight className="ml-2 inline-block w-4 h-4 text-blue-600 dark:text-blue-500" />
-                      </a>
+                      </BaseLink>
                       <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
                   </div>
@@ -253,7 +254,7 @@ export default function Header() {
         <div className="fixed inset-0 z-10" />
         <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
-            <a
+            <BaseLink
               href={`https://${env.NEXT_PUBLIC_DOMAIN}`}
               className="-m-1.5 p-1.5"
             >
@@ -266,7 +267,7 @@ export default function Header() {
                 className="h-8 w-auto"
               /> */}
               GTDB - Thượng lộ binh an 🏠{/* TODO: change logo */}
-            </a>
+            </BaseLink>
             <button
               type="button"
               onClick={() => setMobileMenuOpen(false)}

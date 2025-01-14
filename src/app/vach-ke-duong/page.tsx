@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { getMarkings, getMarkingImage } from '@/service/marking'
 
 export default async function Home() {
-  const data = getMarkings()
+  const data = await getMarkings()
 
   const entries = Object.entries(data)
 

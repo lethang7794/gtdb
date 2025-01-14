@@ -74,8 +74,8 @@
 .external-link {
   margin-left: 0.25em;
   display: inline-block;
-  fill: currentcolor;
-  font-size: 1em;
+  /* fill: currentcolor; */
+  font-size: 0.9em;
   height: 1em;
-  vertical-align: -0.125em;
+  vertical-align: -0.1em;
 }

@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import { Badge } from '@/components/ui/badge'
 import { SquareArrowOutUpRight } from 'lucide-react'
+import BaseLink from '@/components/base-link'
 
 export default async function Home() {
   return (
@@ -17,12 +18,12 @@ export default async function Home() {
             return (
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
-                  <Link
+                  <BaseLink
                     className="text-blue-600 dark:text-blue-500 hover:underline mr-2"
                     href={item.url}
                   >
                     {item.name}
-                  </Link>
+                  </BaseLink>
                   {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">
@@ -47,12 +48,12 @@ export default async function Home() {
             return (
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
-                  <Link
+                  <BaseLink
                     className="text-blue-600 dark:text-blue-500 hover:underline mr-2"
                     href={item.url}
                   >
                     {item.name}
-                  </Link>
+                  </BaseLink>
                   {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">
@@ -77,13 +78,12 @@ export default async function Home() {
             return (
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
-                  <Link
+                  <BaseLink
                     className="text-blue-600 dark:text-blue-500 hover:underline mr-2"
                     href={item.url}
                   >
                     {item.name}
-                    <SquareArrowOutUpRight className="ml-2 inline-block w-4 h-4 text-blue-600 dark:text-blue-500" />
-                  </Link>
+                  </BaseLink>
                   {/* {item.tags?.map((tag) => {
                     return (
                       <Badge key={tag} className="h-fit w-min">

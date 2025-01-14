@@ -11,7 +11,7 @@ import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
 
 export async function generateStaticParams() {
-  const roadSigns = getRoadSigns()
+  const roadSigns = await getRoadSigns()
   return Object.keys(roadSigns).map((key) => ({ slug: key }))
 }
 
@@ -25,7 +25,7 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const slug = params.slug
   const decodedSlug = slug.replace('%2C', ',')
-  const sign = getRoadSignById(decodedSlug)
+  const sign = await getRoadSignById(decodedSlug)
   if (!sign) {
     return { title: 'Not Found' }
   }
@@ -45,7 +45,7 @@ export async function generateMetadata(
 export default async function RoadSignPage({ params }: Props) {
   const slug = params.slug
   const decodedSlug = slug.replace('%2C', ',')
-  const signWithAround = getRoadSignsWithAroundById(decodedSlug)
+  const signWithAround = await getRoadSignsWithAroundById(decodedSlug)
   if (!signWithAround) {
     return <>Not Found</>
   }

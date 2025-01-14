@@ -3,7 +3,7 @@ import dynamic from 'next/dynamic'
 
 import Markmap from '@/components/markmap'
 import BlogHero from '@/components/BlogHero'
-import { loadMarkmap } from '@/helpers/markmap-file-helper'
+import { getMarkmapList, loadMarkmap } from '@/helpers/markmap-file-helper'
 
 const DivisionGroupsDemo = dynamic(
   () => import('@/components/DivisionGroupsDemo')
@@ -14,6 +14,11 @@ const CircularColorsDemo = dynamic(
 
 import styles from './postSlug.module.css'
 import { env } from '@/env.mjs'
+
+export async function generateStaticParams() {
+  const items = await getMarkmapList()
+  return Object.keys(items).map((key) => ({ slug: key }))
+}
 
 export async function generateMetadata({ params }) {
   const blogPost = await loadMarkmap(params.postSlug)

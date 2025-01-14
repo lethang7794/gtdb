@@ -16,7 +16,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const sign = getMarkingById(slug)
+  const sign = await getMarkingById(slug)
   if (!sign) {
     return { title: 'Not Found' }
   }
@@ -39,7 +39,7 @@ export default async function MarkingPage({
   params: { slug: string }
 }) {
   const slug = params.slug
-  const marking = getMarkingById(slug)
+  const marking = await getMarkingById(slug)
   if (!marking) {
     return <>Not Found</>
   }

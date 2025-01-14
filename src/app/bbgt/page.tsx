@@ -5,7 +5,7 @@ import { getRoadSigns } from '@/service/road-sign'
 import { getRoadSignImage } from '@/service/road-sign'
 
 export default async function Home() {
-  const data = getRoadSigns()
+  const data = await getRoadSigns()
 
   const entries = Object.entries(data)
   // const firstTen = entries.slice(0, 30)
