@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { getMarkingImage, getMarkingsArray } from '@/service/marking'
 import { env } from '@/env.mjs'
 import BaseLink from '@/components/base-link'
+import Image from 'next/image'
 
 export const metadata: Metadata = {
   title: `Vạch kẻ đường | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
@@ -39,11 +40,14 @@ export default async function Home() {
               className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
             >
               {val.image ? (
-                <img
-                  alt={key}
-                  src={imgUrl}
-                  className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
-                />
+                <div className="relative aspect-square w-full">
+                  <Image
+                    alt={key}
+                    src={imgUrl}
+                    fill={true}
+                    className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                  />
+                </div>
               ) : null}
               <div className="text-sm text-balance text-center leading-5">
                 {val.full_name}

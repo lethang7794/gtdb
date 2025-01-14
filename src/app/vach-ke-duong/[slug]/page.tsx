@@ -7,6 +7,7 @@ import {
 } from '@/service/marking'
 import { MarkingImage } from '@/model/Marking'
 import { env } from '@/env.mjs'
+import Image from 'next/image'
 
 export async function generateStaticParams() {
   const markings = await getMarkingsArray()
@@ -51,13 +52,16 @@ export default async function MarkingPage({
       key={slug}
       className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
     >
-      <div className="flex gap-4 h-40">
+      <div className="flex gap-4 h-60">
         {marking.image ? (
-          <img
-            alt={slug}
-            src={getMarkingImage(marking)}
-            className="h-full object-contain object-bottom mb-1"
-          />
+          <div className="relative aspect-square w-full">
+            <Image
+              alt={slug}
+              fill={true}
+              src={getMarkingImage(marking)}
+              className="h-full object-contain object-bottom mb-1"
+            />
+          </div>
         ) : null}
         {marking.image_extra ? (
           <img

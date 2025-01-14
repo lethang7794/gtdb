@@ -5,6 +5,7 @@ import { getRoadSignsArray } from '@/service/road-sign'
 import { getRoadSignImage } from '@/service/road-sign'
 import { env } from '@/env.mjs'
 import BaseLink from '@/components/base-link'
+import Image from 'next/image'
 
 export const metadata: Metadata = {
   title: `Biển báo giao thông | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
@@ -43,11 +44,15 @@ export default async function Home() {
               key={signKey}
               className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
             >
-              <img
-                alt={signKey}
-                src={imgUrl}
-                className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
-              />
+              <div className="relative aspect-square w-full">
+                <Image
+                  alt={signKey}
+                  src={imgUrl}
+                  fill={true}
+                  // placeholder="blur"
+                  className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                />
+              </div>
               <div className="line-clamp-3 text-balance text-center leading-5">
                 {sign.name}
               </div>

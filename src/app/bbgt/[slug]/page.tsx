@@ -9,6 +9,7 @@ import {
 } from '@/service/road-sign'
 import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
+import Image from 'next/image'
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()
@@ -66,11 +67,14 @@ export default async function RoadSignPage({ params }: Props) {
         <div className="flex items-center min-w-24 min-h-10">🔙 Trở lại</div>
       </Link>
       <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
-        <img
-          alt={slug}
-          src={getRoadSignImage(sign)}
-          className="h-[250px] w-full order-none object-contain object-bottom mb-1"
-        />
+        <div className="mx-auto relative aspect-square w-full max-w-72">
+          <Image
+            alt={slug}
+            fill={true}
+            src={getRoadSignImage(sign)}
+            className="h-[250px] w-full order-none object-contain object-bottom mb-1"
+          />
+        </div>
         <div className="text-balance text-center leading-5">{sign.name}</div>
         <br />
         <div className="flex-grow" />
