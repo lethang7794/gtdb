@@ -12,7 +12,15 @@ export default async function Home() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] md:grid-cols-[repeat(auto-fill,minmax(120px,_1fr))] justify-between gap-4">
+      <h1 className="text-center text-4xl font-bold">
+        Biển báo giao thông đường bộ
+      </h1>
+
+      <p className="text-center text-2xl text-gray-500">
+        (Bao gồm tất cả biển báo theo QCVN 41:2019/BGTVT)
+      </p>
+
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] md:grid-cols-[repeat(auto-fill,minmax(120px,_1fr))] justify-between gap-4">
         {entries?.map(([signKey, sign]) => {
           const imgUrl = getRoadSignImage(sign)
 
