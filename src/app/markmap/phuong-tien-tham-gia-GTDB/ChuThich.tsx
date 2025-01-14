@@ -13,7 +13,7 @@ export default function ChuThich() {
     <div className="absolute bottom-1 left-1">
       <Dialog>
         <DialogTrigger>
-          <div className="border-2 bg-white hover:border-gray-500 rounded-md p-2 shadow-sm">
+          <div className="border-2 bg-white hover:border-gray-500 rounded-md p-2 shadow-sm z-10">
             <b>Chú thích</b>: * ** †
           </div>
         </DialogTrigger>

@@ -10,7 +10,7 @@ import { CircleHelp } from 'lucide-react'
 
 export default function NghiDinh168HDSD() {
   return (
-    <div className="fixed bottom-2 right-2 flex">
+    <div className="fixed bottom-2 right-2 flex z-20">
       <Dialog>
         <DialogTrigger>
           <div className="border-2 bg-white opacity-100 hover:border-gray rounded-md p-2 shadow-sm">
