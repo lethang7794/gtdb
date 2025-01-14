@@ -12,58 +12,13 @@ import {
   PopoverGroup,
   PopoverPanel,
 } from '@headlessui/react'
-import {
-  ArrowTopRightOnSquareIcon,
-  ArrowPathIcon,
-  Bars3Icon,
-  ChartPieIcon,
-  CursorArrowRaysIcon,
-  FingerPrintIcon,
-  SquaresPlusIcon,
-  XMarkIcon,
-} from '@heroicons/react/24/outline'
-import {
-  ChevronDownIcon,
-  PhoneIcon,
-  PlayCircleIcon,
-} from '@heroicons/react/20/solid'
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import { ChevronDownIcon } from '@heroicons/react/20/solid'
 import { env } from '@/env.mjs'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
-import { SquareArrowOutUpRight } from 'lucide-react'
 import BaseLink from '@/components/base-link'
+import { Logo } from '@/components/block/logo'
 
-// const products = [
-//   {
-//     name: 'Analytics',
-//     description: 'Get a better understanding of your traffic',
-//     href: '#',
-//     icon: ChartPieIcon,
-//   },
-//   {
-//     name: 'Engagement',
-//     description: 'Speak directly to your customers',
-//     href: '#',
-//     icon: CursorArrowRaysIcon,
-//   },
-//   {
-//     name: 'Security',
-//     description: 'Your customers’ data will be safe and secure',
-//     href: '#',
-//     icon: FingerPrintIcon,
-//   },
-//   {
-//     name: 'Integrations',
-//     description: 'Connect with third-party tools',
-//     href: '#',
-//     icon: SquaresPlusIcon,
-//   },
-//   {
-//     name: 'Automations',
-//     description: 'Build strategic funnels that will convert',
-//     href: '#',
-//     icon: ArrowPathIcon,
-//   },
-// ]
 const products = LINKS.map((item) => ({
   ...item,
   href: item.url,
@@ -97,9 +52,7 @@ export default function Header() {
             <span className="sr-only">
               {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
             </span>
-            <div className="bg-gray-900 rounded-3xl">
-              <img alt="" src="/logo-landscape.svg" className="h-12 w-auto" />
-            </div>
+            <Logo />
           </BaseLink>
         </div>
         <div className="flex lg:hidden">
@@ -272,9 +225,7 @@ export default function Header() {
               <span className="sr-only">
                 {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
               </span>
-              <div className="bg-gray-900 rounded-3xl">
-                <img alt="" src="/logo-landscape.svg" className="h-12 w-auto" />
-              </div>
+              <Logo />
             </BaseLink>
             <button
               type="button"

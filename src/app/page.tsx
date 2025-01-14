@@ -12,7 +12,7 @@ export default async function Home() {
           
         </h1> */}
 
-        <h2 className="mt-8 text-3xl">Văn bản pháp luật:</h2>
+        <h2 className="mt-8 text-3xl">Văn bản pháp luật</h2>
         <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
           {LINKS.map((item) => {
             return (
@@ -42,7 +42,7 @@ export default async function Home() {
           })}
         </ol>
 
-        <h2 className="mt-8 text-3xl">Tổng hợp:</h2>
+        <h2 className="mt-8 text-3xl">Tổng hợp</h2>
         <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
           {USEFUL_LINKS.map((item) => {
             return (
@@ -72,7 +72,7 @@ export default async function Home() {
           })}
         </ol>
 
-        <h2 className="mt-8 text-3xl">Links:</h2>
+        <h2 className="mt-8 text-3xl">Links</h2>
         <ol className="flex flex-col gap-2 list-decimal p-2 ml-8 text-2xl">
           {EXTRA_LINKS.map((item) => {
             return (

@@ -7,6 +7,7 @@ import { cn } from '@/lib/utils'
 import './globals.css'
 import Header from '@/components/block/header'
 import { env } from '@/env.mjs'
+import { Footer } from '@/components/block/footer'
 
 const fontSans = FontSans({
   subsets: ['latin'],
@@ -28,14 +29,18 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
-          'flex flex-col h-full bg-background font-sans antialiased',
+          'flex flex-col min-h-full bg-background font-sans antialiased',
           fontSans.variable
         )}
       >
         <Analytics />
         <SpeedInsights />
-        <Header />
+        <div style={{ minHeight: 72 }}>
+          <Header />
+        </div>
         {children}
+        <div className="grow" />
+        <Footer />
         <Toaster />
       </body>
     </html>
