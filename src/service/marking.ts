@@ -1,21 +1,23 @@
-import { cache } from 'react'
 import fs from 'node:fs'
 import yaml from 'yaml'
 import { MarkingImage, type Marking } from '@/model/Marking'
+import { unstable_cache } from 'next/cache'
 
 const MARKINGS_REPO_PATH = 'data/markings.yaml'
 const MARKINGS_PUBLIC_PATH = 'markings'
 
-export const getMarkings = cache(() => {
+export const getMarkings = unstable_cache(async () => {
   const file = fs.readFileSync(MARKINGS_REPO_PATH).toString()
   const data = yaml.parse(file)
   return data as Record<string, Marking>
 })
 
-export const getMarkingById = cache((id: string): Marking | undefined => {
-  const items = getMarkings()
-  return items[id]
-})
+export const getMarkingById = unstable_cache(
+  async (id: string): Promise<Marking | undefined> => {
+    const items = await getMarkings()
+    return items[id]
+  }
+)
 
 export function getMarkingImage(item: Marking, opts?: { type?: MarkingImage }) {
   if (opts?.type === MarkingImage.extra) {
