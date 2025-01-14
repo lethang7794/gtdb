@@ -16,9 +16,7 @@ export async function loadFile(localPath: string) {
     return await readFile(localPath)
   }
 
-  const data = await loadFileFromRepo(localPath)
-  console.log("🚀 ~ loadFile ~ data:", data)
-  return await data?.text()
+  return await loadFileFromRepo(localPath)
 }
 
 export const loadFileFromRepo = unstable_cache(
@@ -36,7 +34,7 @@ export const loadFileFromRepo = unstable_cache(
       const data = await fetch(url, {
         cache: env.NEXT_PUBLIC_APP_ENV === 'prod' ? 'force-cache' : 'no-cache',
       })
-      return data
+      return await data.text()
     } catch (error) {
       throw new Error(`failed loading file from repo: ${error}`)
     }
