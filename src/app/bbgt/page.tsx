@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { getRoadSignsArray } from '@/service/road-sign'
 import { getRoadSignImage } from '@/service/road-sign'
 import { env } from '@/env.mjs'
+import BaseLink from '@/components/base-link'
 
 export const metadata: Metadata = {
   title: `Biển báo giao thông | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
@@ -22,7 +23,14 @@ export default async function Home() {
       </h1>
 
       <p className="text-center text-2xl text-gray-500">
-        (Bao gồm tất cả biển báo theo QCVN 41:2019/BGTVT)
+        (Bao gồm tất cả biển báo theo QCVN 41:2019/BGTVT -{' '}
+        <BaseLink
+          href={'/vbpl/danh-sach'}
+          className="text-blue-500 hover:underline"
+        >
+          Nguồn
+        </BaseLink>
+        )
       </p>
 
       <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] md:grid-cols-[repeat(auto-fill,minmax(120px,_1fr))] justify-between gap-4">
