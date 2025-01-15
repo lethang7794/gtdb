@@ -10,6 +10,8 @@ export default function RemarkTOCEffect() {
     // Disable scroll
     const body = document.body
     body.style.overflow = 'hidden'
+    // Add background for body
+    body.classList.add('body-bg-markdown')
 
     // Cleanup TOC
     const tocItems = document.querySelectorAll('#mục-lục + ul li > a > span')
@@ -75,6 +77,10 @@ export default function RemarkTOCEffect() {
       // Enable scroll
       body.style.overflow = 'initial'
     }, 500)
+
+    return () => {
+      body.classList.remove('body-bg-markdown')
+    }
   }, [router.replace])
   return null
 }

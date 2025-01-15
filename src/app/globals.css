@@ -79,3 +79,18 @@
   height: 1em;
   vertical-align: -0.1em;
 }
+
+/* Markdown github */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bgColor-default: hsl(212, 19%, 16%);
+  }
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bgColor-default: white;
+  }
+}
+.body-bg-markdown {
+  background-color: var(--bgColor-default) !important;
+}
