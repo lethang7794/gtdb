@@ -13,23 +13,16 @@ markmap:
 ### [1][6.1]. ‥ 400.000 ‥ 600.000 đồng ‥
 
 - [a][6.1.a]. ‥ hiệu lệnh ‥ biển báo hiệu, vạch kẻ đường ‥
-
 - [b][6.1.b]. ‥ dừng xe, đỗ xe ‥ tín hiệu ‥
-
 - [c][6.1.c]. ‥ đèn khẩn cấp ‥
-
 - [d][6.1.d]. ‥ biển báo hiệu ‥ xe kéo ‥
-
 - [đ][6.1.đ]. ‥ còi ‥
 
 ### [2][6.2]. ‥ 600.000 ‥ 800.000 đồng ‥
 
 - [a][6.2.a]. Chuyển làn đường ‥
-
 - [b][6.2.b]. Chở người ‥ quá số lượng ‥
-
 - [c][6.2.c]. ‥ nhường đường ‥ nơi đường bộ giao nhau ‥
-
 - [d][6.2.d]. Dừng xe, đỗ xe
 
   - trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe
@@ -38,13 +31,13 @@ markmap:
   - trên dải phân cách cố định ở giữa hai phần đường xe chạy;
   - đỗ xe trên dốc không chèn bánh;
 
-- [đ][6.2.đ]. (Dừng xe, đỗ xe)
-  - Dừng xe
-    - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
-    - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
-    - trên đường dành riêng cho xe buýt
-    - trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế,
-    - chỗ dành riêng cho xe chữa cháy lấy nước;
+- [đ][6.2.đ]. (Dừng xe, đỗ xe) - Dừng xe
+
+  - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
+  - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
+  - trên đường dành riêng cho xe buýt
+  - trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế,
+  - chỗ dành riêng cho xe chữa cháy lấy nước;
   - rời vị trí lái,
     - tắt máy khi dừng xe (trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe)
     - không sử dụng phanh đỗ xe ‥;
@@ -57,7 +50,6 @@ markmap:
 ### [3][6.3]. ‥ 800.000 ‥ 1.000.000 đồng ‥
 
 - [a][6.3.a]. ‥ quá tốc độ ‥ dưới 10 km/h;
-
 - [b][6.3.b]. (còi, đèn chiếu xa)
 
   - ‥ còi, rú ga liên tục; ‥ còi hơi,
@@ -75,7 +67,6 @@ markmap:
   - không có tín hiệu báo hướng rẽ ‥ không ‥ liên tục ‥
 
 - [d][6.3.d]. ‥ dừng xe, đỗ xe ‥ đường sắt ‥
-
 - [đ][6.3.đ]. Dừng xe, đỗ xe
 
   - nơi đường bộ giao nhau ‥ 05 mét ‥
@@ -94,160 +85,125 @@ markmap:
   - ‥ biển “Cấm ‥” ‥
 
 - [g][6.3.g]. ‥ đèn chiếu sáng ‥
-
 - [h][6.3.h]. ‥ ô tô kéo ‥ đẩy xe khác, vật khác ‥
-
 - [i][6.3.i]. ‥ người trên xe được kéo ‥
-
 - [k][6.3.k]. Không thắt dây đai an toàn ‥
-
 - [l][6.3.l]. Chở người ‥ không thắt dây đai an toàn ‥
-
 - [m][6.3.m]. Chở trẻ em ‥ ngồi cùng hàng ghế với người lái xe ‥ không sử dụng thiết bị an toàn ‥
-
 - [n][6.3.n]. ‥ hầm ‥ không sử dụng đèn chiếu ‥ gần;
-
-- [o][6.3.o]. ‥ ‥ dưới tốc độ tối thiểu ‥
-
-- [p][6.3.p]. ‥ chạy tốc độ thấp hơn ‥ không đi ‥ làn đường bên phải ‥
-  - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
+- [o][6.3.o]. ‥ dưới tốc độ tối thiểu ‥
+- [p][6.3.p]. ‥ chạy tốc độ thấp hơn ‥ không đi ‥ làn đường bên phải ‥ - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
 
 ### [4][6.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
-- [a][6.4.a]. ‥ đi vào làn đường dành riêng thu phí ... tự động không dừng ...
+- [a][6.4.a]. ‥ đi vào làn đường dành riêng thu phí ‥ tự động không dừng ‥
+- [b][6.4.b]. Dừng xe, đỗ xe ‥
 
-- [b][6.4.b]. Dừng xe, đỗ xe ...:
+  - bên trái đường một chiều ‥ đường đôi;
+  - ‥ đường cong ‥ đầu dốc ‥
+  - ‥ cầu ‥, gầm cầu ‥
+  - song song với một xe khác đang dừng, đỗ ‥
 
-  - bên trái đường một chiều ... đường đôi;
-  - ... đường cong ... đầu dốc ...
-  - ... cầu ..., gầm cầu ...
-  - song song với một xe khác đang dừng, đỗ ...
+- [c][6.4.c]. ‥ bảo đảm an toàn ‥ xe ô tô ‥ hư hỏng ‥ nơi ‥ giao nhau cùng mức với đường sắt;
+- [d][6.4.d]. ‥ nhường đường ‥ đủ điều kiện an toàn
+- [đ][6.4.đ]. ‥ hầm ‥
 
-- [c][6.4.c]. ... bảo đảm an toàn ... xe ô tô ... hư hỏng ... nơi ... giao nhau cùng mức với đường sắt;
-
-- [d][6.4.d]. ... nhường đường ... đủ điều kiện an toàn
-
-- [đ][6.4.đ]. ... hầm ...
-
-  - lùi xe, quay đầu ...
-  - dừng xe, đỗ xe ...
-  - ... đèn khẩn cấp ... biển ... đèn cảnh báo ... sự cố kỹ thuật ...
+  - lùi xe, quay đầu ‥
+  - dừng xe, đỗ xe ‥
+  - ‥ đèn khẩn cấp ‥ biển ‥ đèn cảnh báo ‥ sự cố kỹ thuật ‥
 
 - [e][6.4.e]. Lùi xe
 
-  - đường một chiều ... “Cấm đi ngược chiều”,
+  - đường một chiều ‥ “Cấm đi ngược chiều”,
   - khu vực cấm dừng, trên
   - phần đường dành cho người đi bộ qua đường
   - nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt,
   - nơi tầm nhìn bị che khuất; lùi xe
-  - không quan sát hai bên, phía sau xe hoặc không có tín hiệu ...
+  - không quan sát hai bên, phía sau xe hoặc không có tín hiệu ‥
 
-- [g][6.4.g]. ‥ _liên quan_ ... tai nạn giao thông ... không dừng ... giữ nguyên hiện trường, ... trợ giúp người bị nạn ...
-
-- [h][6.4.h]. ... thiết bị phát tín hiệu ưu tiên ...
-
+- [g][6.4.g]. ‥ _liên quan_ ‥ tai nạn giao thông ‥ không dừng ‥ giữ nguyên hiện trường, ‥ trợ giúp người bị nạn ‥
+- [h][6.4.h]. ‥ thiết bị phát tín hiệu ưu tiên ‥
 - [i][6.4.i]. Quay đầu xe
 
   - phần đường dành cho người đi bộ qua đường,
   - trên cầu, đầu cầu, gầm cầu vượt, ngầm,
   - tại nơi đường bộ giao nhau cùng mức với đường sắt,
   - đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất,
-  - trên đường một chiều ...
+  - trên đường một chiều ‥
 
 - [k][6.4.k]. (chuyển hướng)
 
-  - quay đầu xe ... cấm quay đầu ...
-  - rẽ trái ... cấm rẽ trái ...
-  - rẽ phải ... cấm rẽ phải ...
+  - quay đầu xe ‥ cấm quay đầu ‥
+  - rẽ trái ‥ cấm rẽ trái ‥
+  - rẽ phải ‥ cấm rẽ phải ‥
 
-- [l][6.4.l]. ... khoảng cách an toàn ... va chạm ... biển báo hiệu “Cự ly tối thiểu giữa hai xe” ...
+- [l][6.4.l]. ‥ khoảng cách an toàn ‥ va chạm ‥ biển báo hiệu “Cự ly tối thiểu giữa hai xe” ‥
 
 ### [5][6.5]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
-- [a][6.5.a]. Vượt xe ... không được vượt, ... cấm vượt ... tín hiệu ... vượt bên phải ...
-
-- [b][6.5.b]. ‥ đi bên phải theo chiều đi ...; ... phần đường ... làn đường ...; ... đi qua dải phân cách cố định ...
-
-- [c][6.5.c]. Tránh xe đi ngược chiều ...; ... nhường đường cho xe đi ngược chiều ...
-
-- [d][6.5.d]. ... vào ... ra đường cao tốc; ... chạy ở làn dừng xe khẩn cấp ...; ... khoảng cách an toàn ...
-
-- [đ][6.5.đ]. ‥ quá tốc độ ... đến 20 km/h;
-
-- [e][6.5.e]. ... thiết bị phát tín hiệu của xe ... ưu tiên;
-
-- [g][6.5.g]. Chuyển làn đường ...
-
-- [h][6.5.h]. ... cầm ... sử dụng điện thoại ...
-
-- [i][6.5.i]. Đi vào ... đường ... cấm ...
-
-- [k][6.5.k]. Dừng xe, đỗ xe, quay đầu xe ... gây ùn tắc ...
-
-- [l][6.5.l]. **Chuyển hướng** không _nhường quyền đi trước_ ...:
+- [a][6.5.a]. Vượt xe ‥ không được vượt, ‥ cấm vượt ‥ tín hiệu ‥ vượt bên phải ‥
+- [b][6.5.b]. ‥ đi bên phải theo chiều đi ‥; ‥ phần đường ‥ làn đường ‥; ‥ đi qua dải phân cách cố định ‥
+- [c][6.5.c]. Tránh xe đi ngược chiều ‥; ‥ nhường đường cho xe đi ngược chiều ‥
+- [d][6.5.d]. ‥ vào ‥ ra đường cao tốc; ‥ chạy ở làn dừng xe khẩn cấp ‥; ‥ khoảng cách an toàn ‥
+- [đ][6.5.đ]. ‥ quá tốc độ ‥ đến 20 km/h;
+- [e][6.5.e]. ‥ thiết bị phát tín hiệu của xe ‥ ưu tiên;
+- [g][6.5.g]. Chuyển làn đường ‥
+- [h][6.5.h]. ‥ cầm ‥ sử dụng điện thoại ‥
+- [i][6.5.i]. Đi vào ‥ đường ‥ cấm ‥
+- [k][6.5.k]. Dừng xe, đỗ xe, quay đầu xe ‥ gây ùn tắc ‥
+- [l][6.5.l]. **Chuyển hướng** không _nhường quyền đi trước_ ‥
 
   - người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
   - xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
 
-- [m][6.5.m]. **Chuyển hướng** không _**nhường đường**_ ...:
+- [m][6.5.m]. **Chuyển hướng** không _**nhường đường**_ ‥
 
   - các xe đi ngược chiều;
   - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
 
-- [n][6.5.n]. ... **nhường đường** ... từ đường không ưu tiên ... từ đường nhánh ...
+- [n][6.5.n]. ‥ **nhường đường** ‥ từ đường không ưu tiên ‥ từ đường nhánh ‥
+- [o][6.5.o]. ‥ **nhường đường** cho xe
 
-- [o][6.5.o]. ... **nhường đường** cho xe
+  - ‥ đi đến từ bên phải tại nơi đường giao nhau <br/>không có báo hiệu đi theo vòng xuyến;
+  - ‥ đi đến từ bên trái tại nơi đường giao nhau <br/>có báo hiệu đi theo vòng xuyến;
 
-  - ... đi đến từ bên phải tại nơi đường giao nhau <br/>không có báo hiệu đi theo vòng xuyến;
-  - ... đi đến từ bên trái tại nơi đường giao nhau <br/>có báo hiệu đi theo vòng xuyến;
-
-- [p][6.5.p]. Chở người trên thùng xe ... nóc xe; ... đu bám ở cửa xe, ... thành xe ...
-
-- [q][6.5.q]. Mở cửa xe, để cửa xe mở ...
+- [p][6.5.p]. Chở người trên thùng xe ‥ nóc xe; ‥ đu bám ở cửa xe, ‥ thành xe ‥
+- [q][6.5.q]. Mở cửa xe, để cửa xe mở ‥
 
 ### [6][6.6]. ‥ 6.000.000 ‥ 8.000.000 đồng ‥
 
-- [a][6.6.a]. ‥ quá tốc độ ... đến 35 km/h;
-
-- [b][6.6.b]. Không nhường đường ... xe ... ưu tiên ...
-
-- [c][6.6.c]. ‥ ... nồng độ cồn ... 0,25 miligam/1 lít khí thở;
-
-- [d][6.6.d]. ‥ đi trên vỉa hè ...
+- [a][6.6.a]. ‥ quá tốc độ ‥ đến 35 km/h;
+- [b][6.6.b]. Không nhường đường ‥ xe ‥ ưu tiên ‥
+- [c][6.6.c]. ‥ ‥ nồng độ cồn ‥ 0,25 miligam/1 lít khí thở;
+- [d][6.6.d]. ‥ đi trên vỉa hè ‥
 
 ### [7][6.7]. ‥ 12.000.000 ‥ 14.000.000 đồng ‥
 
-- [a][6.7.a]. ‥ quá tốc độ ... trên 35 km/h;
+- [a][6.7.a]. ‥ quá tốc độ ‥ trên 35 km/h;
+- [b][6.7.b]. ‥ chở người ‥ chở hàng bốn bánh ‥ đi vào ‥ cao tốc;
+- [c][6.7.c]. Dừng xe, đỗ xe ‥ cao tốc ‥
 
-- [b][6.7.b]. ‥ chở người ... chở hàng bốn bánh ... đi vào ... cao tốc;
+### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ‥
 
-- [c][6.7.c]. Dừng xe, đỗ xe ... cao tốc ...
-
-### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ...
-
-- **gây** tai nạn giao thông _không_ dừng ... giữ nguyên hiện trường ... trợ giúp người bị nạn, ... trình báo ...
+- **gây** tai nạn giao thông _không_ dừng ‥ giữ nguyên hiện trường ‥ trợ giúp người bị nạn, ‥ trình báo ‥
 
 ### [9][6.9]. ‥ 18.000.000 ‥ 20.000.000 đồng ‥
 
-- [a][6.9.a]. ‥ ... nồng độ cồn ... đến 0,4 miligam/1 lít khí thở;
-
-- [b][6.9.b]. Không chấp hành ... đèn tín hiệu giao thông;
-
-- [c][6.9.c]. Không chấp hành ... người điều khiển giao thông ...
-
-- [d][6.9.d]. Đi ngược chiều ...
+- [a][6.9.a]. ‥ ‥ nồng độ cồn ‥ đến 0,4 miligam/1 lít khí thở;
+- [b][6.9.b]. Không chấp hành ‥ đèn tín hiệu giao thông;
+- [c][6.9.c]. Không chấp hành ‥ người điều khiển giao thông ‥
+- [d][6.9.d]. Đi ngược chiều ‥
 
 ### [10][6.10]. ‥ 20.000.000 ‥ 22.000.000 đồng ‥
 
-- [a][6.10.a]. ‥ ... gây tai nạn giao thông ...
+- [a][6.10.a]. ‥ ‥ gây tai nạn giao thông ‥
 
-  - không quan sát, giảm tốc độ ... quá tốc độ ...;
-  - dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường ... ;
-  - ... phần đường, làn đường, ... khoảng cách an toàn ...
-  - đi vào đường ... cấm
+  - không quan sát, giảm tốc độ ‥ quá tốc độ ‥;
+  - dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường ‥ ;
+  - ‥ phần đường, làn đường, ‥ khoảng cách an toàn ‥
+  - đi vào đường ‥ cấm
 
-- [b][6.10.b]. ... gây tai nạn giao thông:
-  - điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1;
+- [b][6.10.b]. ‥ gây tai nạn giao thông: - điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1;
   - điểm c khoản 2;
   - điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3;
   - điểm a, điểm c, điểm d khoản 4;
@@ -256,15 +212,11 @@ markmap:
 
 ### [11][6.11]. ‥ 30.000.000 ‥ 40.000.000 đồng ‥
 
-- [a][6.11.a]. ‥ ... nồng độ cồn ... quá 0,4 miligam/1 lít khí thở;
-
-- [b][6.11.b]. ... kiểm tra ... nồng độ cồn ...
-
-- [c][6.11.c]. ‥ ma túy ...
-
-- [d][6.11.d]. ... kiểm tra ... ma túy ...
-
-- [đ][6.11.đ]. ‥ đi ngược chiều ..., lùi xe ..., quay đầu ... trên ... cao tốc ...
+- [a][6.11.a]. ‥ ‥ nồng độ cồn ‥ quá 0,4 miligam/1 lít khí thở;
+- [b][6.11.b]. ‥ kiểm tra ‥ nồng độ cồn ‥
+- [c][6.11.c]. ‥ ma túy ‥
+- [d][6.11.d]. ‥ kiểm tra ‥ ma túy ‥
+- [đ][6.11.đ]. ‥ đi ngược chiều ‥, lùi xe ‥, quay đầu ‥ trên ‥ cao tốc ‥
 
 ### [12][6.12]. ‥ 40.000.000 ‥ 50.000.000 đồng ‥
 
@@ -283,13 +235,11 @@ markmap:
 ### [15][6.15]. ‥ xử phạt bổ sung ‥
 
 - [a][6.15.a]. ‥ bị tịch thu thiết bị phát tín hiệu ưu tiên ‥
-
 - [b][6.15.b]. ‥ khoản 12 Điều này
 
   - bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
 
 - [c][6.15.c]. ‥ điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
-
   - bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
 
 ### [16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
@@ -307,7 +257,6 @@ markmap:
   - bị trừ điểm giấy phép lái xe 06 điểm;
 
 - [d][6.16.d]. ‥ điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
-
   - bị trừ điểm giấy phép lái xe 10 điểm.
 
 ## [Điều 13][13]. <br/> ‥ điều kiện ‥ phương tiện ‥
@@ -319,61 +268,47 @@ markmap:
 ### [2][13.2]. ‥ 400.000 ‥ 600.000 đồng ‥
 
 - [a][13.2.a]. ‥ đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, <br/> cần gạt nước, gương chiếu hậu, <br/>dây đai an toàn, <br/>dụng cụ thoát hiểm, thiết bị chữa cháy, <br/>đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe ‥
-
 - [b][13.2.b]. ‥ còi ‥
-
 - [c][13.2.c]. ‥ bộ phận giảm thanh, giảm khói ‥
 
 ### [3][13.3]. ‥ 1.000.000 ‥ 2.000.000 đồng ‥
 
 - [a][13.3.a]. ‥ lắp thêm đèn ‥
-
 - [b][13.3.b]. ‥ hệ thống chuyển hướng ‥
-
 - [c][13.3.c]. ‥ bánh lốp ‥
-
 - [d][13.3.d]. ‥ lắp thêm ‥ tháo bớt ghế, giường ‥
 
 ### [4][13.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
 - [a][13.4.a]. ‥ đăng ký xe ‥ hết hạn
-
 - [b][13.4.b]. ‥ thùng xe không đúng ‥ thông số ‥
-
 - [c][13.4.c]. ‥ phù hiệu, biểu trưng nhận diện _tương tự_ của các <br/>cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
 
 ### [5][13.5]. ‥ 3.000.000 ‥ 4.000.000 đồng ‥
 
 - [a][13.5.a]. ‥ tem kiểm định ‥ hết hiệu lực ‥ dưới 01 tháng ‥
-
 - [b][13.5.b]. ‥ hệ thống hãm‥
-
 - [c][13.5.c]. ‥ niên hạn sử dụng
-
 - [d][13.5.d]. ‥ còi ‥ quá âm lượng ‥
 
 ### [6][13.6]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
 - [a][13.6.a]. ‥ đăng ký xe ‥ tem kiểm định ‥ bị tẩy xóa ‥
-
 - [b][13.6.b]. ‥ tem kiểm định ‥ hết hiệu lực ‥ 01 tháng trở lên
 
 ### [7][13.7]. ‥ 10.000.000 ‥ 12.000.000 đồng ‥
 
 - [a][13.7.a]. ‥ quá phạm vi, tuyến đường, thời hạn cho phép;
-
 - [b][13.7.b]. ‥ không gắn biển số ‥
 
 ### [8][13.8]. ‥ 20.000.000 ‥ 26.000.000 đồng ‥
 
 - [a][13.8.a]. ‥ biển số không đúng ‥ đăng ký xe ‥
-
 - [b][13.8.b]. ‥ không ‥ đủ **biển số** ‥ vị trí, ‥ rõ chữ ‥ bẻ cong ‥
 
 ### [9][13.9]. Tịch thu phương tiện ‥
 
 - [a][13.9.a]. ‥ quá niên hạn ‥
-
 - [b][13.9.b]. ‥ xe sản xuất, lắp ráp trái quy định‥
 
 ### [10][13.10]. ‥ xử phạt bổ sung ‥
@@ -382,9 +317,8 @@ markmap:
 
   - bị tịch thu biển số xe;
 
-- [b][13.10.b]. ‥ điểm a khoản 4, điểm a khoản 6 Điều này ‥
-  - ‥ không chứng minh được nguồn gốc xuất xứ ‥
-    - bị tịch thu phương tiện.
+- [b][13.10.b]. ‥ điểm a khoản 4, điểm a khoản 6 Điều này ‥ - ‥ không chứng minh được nguồn gốc xuất xứ ‥
+  - bị tịch thu phương tiện.
 
 ### [11][13.11]. ‥ khắc phục hậu quả ‥
 
@@ -402,8 +336,7 @@ markmap:
 
   - khôi phục lại tình trạng ban đầu ‥
 
-- [d][13.11.d]. ‥ điểm a khoản 6 Điều này ‥
-  - nộp lại chứng nhận đăng ký xe ‥ bị tẩy xóa.
+- [d][13.11.d]. ‥ điểm a khoản 6 Điều này ‥ - nộp lại chứng nhận đăng ký xe ‥ bị tẩy xóa.
 
 ### [12][13.12]. điểm a khoản 6 Điều này
 
@@ -419,8 +352,7 @@ markmap:
 
   - bị trừ điểm giấy phép lái xe 06 điểm;
 
-- [c][13.13.c]. ‥ điểm a khoản 8 Điều này
-  - bị trừ điểm giấy phép lái xe 10 điểm.
+- [c][13.13.c]. ‥ điểm a khoản 8 Điều này - bị trừ điểm giấy phép lái xe 10 điểm.
 
 [Nghị định 168]: /vbpl/nghi-dinh-168-2024
 [6]: /vbpl/nghi-dinh-168-2024#6
