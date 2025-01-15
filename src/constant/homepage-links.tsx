@@ -17,6 +17,11 @@ export const LINKS: HomepageLink[] = [
     tags: ['Tóm tắt'],
   },
   {
+    name: 'Nghị định 168 (2024) - Tóm tắt xe ôtô',
+    url: '/markmaps/nghi-dinh-168-2024-xe-oto',
+    tags: ['Tóm tắt'],
+  },
+  {
     name: 'Nghị định 168 (2024) - Tóm tắt xe môtô',
     url: '/markmaps/nghi-dinh-168-2024-xe-moto',
     tags: ['Tóm tắt'],
