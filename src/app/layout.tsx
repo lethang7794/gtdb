@@ -18,7 +18,7 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title: `${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
   description:
-    'Tra cứu văn bản pháp luật về giao thông đường bộ, biển báo giao thông, vạch kẻ đường, thuật ngữ giao thông đường bộ...',
+    'Tra cứu văn bản pháp luật về giao thông đường bộ (Nghị định 168/2024, Luật Trật tự, an toàn giao thông đường bộ 2024...), biển báo giao thông, vạch kẻ đường (theo QCVN 41:2019/BGTVT), thuật ngữ giao thông đường bộ...',
 }
 
 export default function RootLayout({
