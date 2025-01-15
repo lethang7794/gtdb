@@ -7,9 +7,9 @@ export default function AboutPage() {
       <div className="container">
         <h1 className="text-center text-4xl font-bold">Giới thiệu</h1>
         <div className="mt-8 text-2xl text-gray-500">
-          <Logo className="inline-block h-8 -mb-2" /> là dự án cá nhân nhằm phổ
-          biến các <b>kiến thức về an toàn giao thông đường bộ</b> đến tất cả
-          mọi người dân tham gia giao thông ở Việt Nam.
+          <Logo className="!h-8 -mb-2" display="inline-block" /> là dự án cá
+          nhân nhằm phổ biến các <b>kiến thức về an toàn giao thông đường bộ</b>{' '}
+          đến tất cả mọi người dân tham gia giao thông ở Việt Nam.
         </div>
         <div className="mt-4 text-2xl text-gray-500">
           - Dự án khởi đầu là nơi để tác giả tra cứu luật, tài liệu, biển báo
@@ -30,8 +30,8 @@ export default function AboutPage() {
 
         <div className="mt-4 text-2xl text-gray-500">
           Tất cả văn bản pháp luật tại{' '}
-          <Logo className="inline-block h-8 -mb-2" /> đều được trích dẫn nguyên
-          văn từ{' '}
+          <Logo className="!h-8 -mb-2" display="inline-block" /> đều được trích
+          dẫn nguyên văn từ{' '}
           <BaseLink
             href="https://vbpl.vn/"
             className="text-blue-500 hover:underline"
