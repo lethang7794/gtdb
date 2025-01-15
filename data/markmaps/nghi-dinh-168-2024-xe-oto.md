@@ -10,7 +10,7 @@ markmap:
 
 ## [Điều 6][6]<br/> ‥ quy tắc giao thông ‥
 
-### [1][6.1]. ‥ 400.000 ‥ 600.000 đồng ‥
+### [6.1][6.1]. ‥ 400.000 ‥ 600.000 đồng ‥
 
 - [a][6.1.a]. ‥ hiệu lệnh ‥ biển báo hiệu, vạch kẻ đường ‥
 - [b][6.1.b]. ‥ dừng xe, đỗ xe ‥ tín hiệu ‥
@@ -18,7 +18,7 @@ markmap:
 - [d][6.1.d]. ‥ biển báo hiệu ‥ xe kéo ‥
 - [đ][6.1.đ]. ‥ còi ‥
 
-### [2][6.2]. ‥ 600.000 ‥ 800.000 đồng ‥
+### [6.2][6.2]. ‥ 600.000 ‥ 800.000 đồng ‥
 
 - [a][6.2.a]. Chuyển làn đường ‥
 - [b][6.2.b]. Chở người ‥ quá số lượng ‥
@@ -45,7 +45,7 @@ markmap:
   - dừng xe
     - nơi có biển “Cấm dừng xe ‥”
 
-### [3][6.3]. ‥ 800.000 ‥ 1.000.000 đồng ‥
+### [6.3][6.3]. ‥ 800.000 ‥ 1.000.000 đồng ‥
 
 - [a][6.3.a]. ‥ quá tốc độ ‥ dưới 10 km/h;
 - [b][6.3.b]. (còi, đèn chiếu xa) <!-- markmap: fold -->
@@ -85,7 +85,7 @@ markmap:
 - [p][6.3.p]. ‥ chạy tốc độ thấp hơn ‥ không đi ‥ làn đường bên phải ‥ <!-- markmap: fold -->
   - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
 
-### [4][6.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
+### [6.4][6.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
 - [a][6.4.a]. ‥ đi vào làn đường dành riêng thu phí ‥ tự động không dừng ‥
 - [b][6.4.b]. Dừng xe, đỗ xe ‥ <!-- markmap: fold -->
@@ -122,7 +122,7 @@ markmap:
 - [l][6.4.l]. ‥ khoảng cách an toàn ‥ <!-- markmap: fold -->
   - va chạm ‥ biển báo hiệu “Cự ly tối thiểu giữa hai xe” ‥
 
-### [5][6.5]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
+### [6.5][6.5]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
 - [a][6.5.a]. Vượt xe ‥ không được vượt, ‥ cấm vượt ‥ tín hiệu ‥ vượt bên phải ‥
 - [b][6.5.b]. ‥ đi bên phải theo chiều đi ‥; ‥ phần đường ‥ làn đường ‥; ‥ đi qua dải phân cách cố định ‥
@@ -147,32 +147,32 @@ markmap:
 - [p][6.5.p]. Chở người trên thùng xe ‥ nóc xe; ‥ đu bám ở cửa xe, ‥ thành xe ‥
 - [q][6.5.q]. Mở cửa xe, để cửa xe mở ‥
 
-### [6][6.6]. ‥ 6.000.000 ‥ 8.000.000 đồng ‥
+### [6.6][6.6]. ‥ 6.000.000 ‥ 8.000.000 đồng ‥
 
 - [a][6.6.a]. ‥ quá tốc độ ‥ đến 35 km/h;
 - [b][6.6.b]. Không nhường đường ‥ xe ‥ ưu tiên ‥
 - [c][6.6.c]. ‥ ‥ nồng độ cồn ‥ 0,25 miligam/1 lít khí thở;
 - [d][6.6.d]. ‥ đi trên vỉa hè ‥
 
-### [7][6.7]. ‥ 12.000.000 ‥ 14.000.000 đồng ‥
+### [6.7][6.7]. ‥ 12.000.000 ‥ 14.000.000 đồng ‥
 
 - [a][6.7.a]. ‥ quá tốc độ ‥ trên 35 km/h;
 - [b][6.7.b]. ‥ chở người ‥ chở hàng bốn bánh ‥ đi vào ‥ cao tốc;
 - [c][6.7.c]. Dừng xe, đỗ xe ‥ cao tốc ‥
 
-### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ‥
+### [6.8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ‥
 
 - **gây** tai nạn giao thông <!-- markmap: fold -->
   - _không_ dừng ‥ giữ nguyên hiện trường ‥ trợ giúp người bị nạn, ‥ trình báo ‥
 
-### [9][6.9]. ‥ 18.000.000 ‥ 20.000.000 đồng ‥
+### [6.9][6.9]. ‥ 18.000.000 ‥ 20.000.000 đồng ‥
 
 - [a][6.9.a]. ‥ ‥ nồng độ cồn ‥ đến 0,4 miligam/1 lít khí thở;
 - [b][6.9.b]. Không chấp hành ‥ đèn tín hiệu giao thông;
 - [c][6.9.c]. Không chấp hành ‥ người điều khiển giao thông ‥
 - [d][6.9.d]. Đi ngược chiều ‥
 
-### [10][6.10]. ‥ 20.000.000 ‥ 22.000.000 đồng ‥
+### [6.10][6.10]. ‥ 20.000.000 ‥ 22.000.000 đồng ‥
 
 - [a][6.10.a]. ‥ ‥ gây tai nạn giao thông ‥ <!-- markmap: fold -->
   - không quan sát, giảm tốc độ ‥ quá tốc độ ‥;
@@ -187,7 +187,7 @@ markmap:
   - điểm c, điểm d, điểm e, điểm h, điểm n, điểm o, điểm q khoản 5;
   - điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này.
 
-### [11][6.11]. ‥ 30.000.000 ‥ 40.000.000 đồng ‥
+### [6.11][6.11]. ‥ 30.000.000 ‥ 40.000.000 đồng ‥
 
 - [a][6.11.a]. ‥ ‥ nồng độ cồn ‥ quá 0,4 miligam/1 lít khí thở;
 - [b][6.11.b]. ‥ kiểm tra ‥ nồng độ cồn ‥
@@ -195,21 +195,21 @@ markmap:
 - [d][6.11.d]. ‥ kiểm tra ‥ ma túy ‥
 - [đ][6.11.đ]. ‥ đi ngược chiều ‥, lùi xe ‥, quay đầu ‥ trên ‥ cao tốc ‥
 
-### [12][6.12]. ‥ 40.000.000 ‥ 50.000.000 đồng ‥
+### [6.12][6.12]. ‥ 40.000.000 ‥ 50.000.000 đồng ‥
 
 - ‥ lạng lách, đánh võng ‥
 - quá tốc độ đuổi nhau ‥
 - dùng chân điều khiển vô lăng xe ‥
 
-### [13][6.13]. ‥ 50.000.000 ‥ 70.000.000 đồng
+### [6.13][6.13]. ‥ 50.000.000 ‥ 70.000.000 đồng
 
 - khoản 12 Điều này ‥ gây tai nạn giao thông.
 
-### [14][6.14]. Tịch thu phương tiện
+### [6.14][6.14]. Tịch thu phương tiện
 
 - tái phạm ‥ lạng lách, đánh võng ‥
 
-### [15][6.15]. ‥ xử phạt bổ sung ‥
+### [6.15][6.15]. ‥ xử phạt bổ sung ‥
 
 - [a][6.15.a]. ‥ bị tịch thu thiết bị phát tín hiệu ưu tiên ‥
 - [b][6.15.b]. ‥ khoản 12 Điều này
@@ -217,7 +217,7 @@ markmap:
 - [c][6.15.c]. ‥ điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
   - bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
 
-### [16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
+### [6.16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
 
 - [a][6.16.a]. ... 02 điểm; <!-- markmap: fold -->
   - ‥ điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
@@ -234,60 +234,60 @@ markmap:
 
 - ‥ kính chắn gió ‥
 
-### [2][13.2]. ‥ 400.000 ‥ 600.000 đồng ‥
+### [13.2][13.2]. ‥ 400.000 ‥ 600.000 đồng ‥
 
 - [a][13.2.a]. ‥ đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, <br/> cần gạt nước, gương chiếu hậu, <br/>dây đai an toàn, <br/>dụng cụ thoát hiểm, thiết bị chữa cháy, <br/>đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe ‥
 - [b][13.2.b]. ‥ còi ‥
 - [c][13.2.c]. ‥ bộ phận giảm thanh, giảm khói ‥
 
-### [3][13.3]. ‥ 1.000.000 ‥ 2.000.000 đồng ‥
+### [13.3][13.3]. ‥ 1.000.000 ‥ 2.000.000 đồng ‥
 
 - [a][13.3.a]. ‥ lắp thêm đèn ‥
 - [b][13.3.b]. ‥ hệ thống chuyển hướng ‥
 - [c][13.3.c]. ‥ bánh lốp ‥
 - [d][13.3.d]. ‥ lắp thêm ‥ tháo bớt ghế, giường ‥
 
-### [4][13.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
+### [13.4][13.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
 - [a][13.4.a]. ‥ đăng ký xe ‥ hết hạn
 - [b][13.4.b]. ‥ thùng xe không đúng ‥ thông số ‥
 - [c][13.4.c]. ‥ phù hiệu, biểu trưng nhận diện _tương tự_ của các <br/>cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
 
-### [5][13.5]. ‥ 3.000.000 ‥ 4.000.000 đồng ‥
+### [13.5][13.5]. ‥ 3.000.000 ‥ 4.000.000 đồng ‥
 
 - [a][13.5.a]. ‥ tem kiểm định ‥ hết hiệu lực ‥ dưới 01 tháng ‥
 - [b][13.5.b]. ‥ hệ thống hãm‥
 - [c][13.5.c]. ‥ niên hạn sử dụng
 - [d][13.5.d]. ‥ còi ‥ quá âm lượng ‥
 
-### [6][13.6]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
+### [13.6][13.6]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
 - [a][13.6.a]. ‥ đăng ký xe ‥ tem kiểm định ‥ bị tẩy xóa ‥
 - [b][13.6.b]. ‥ tem kiểm định ‥ hết hiệu lực ‥ 01 tháng trở lên
 
-### [7][13.7]. ‥ 10.000.000 ‥ 12.000.000 đồng ‥
+### [13.7][13.7]. ‥ 10.000.000 ‥ 12.000.000 đồng ‥
 
 - [a][13.7.a]. ‥ quá phạm vi, tuyến đường, thời hạn cho phép;
 - [b][13.7.b]. ‥ không gắn biển số ‥
 
-### [8][13.8]. ‥ 20.000.000 ‥ 26.000.000 đồng ‥
+### [13.8][13.8]. ‥ 20.000.000 ‥ 26.000.000 đồng ‥
 
 - [a][13.8.a]. ‥ biển số không đúng ‥ đăng ký xe ‥
 - [b][13.8.b]. ‥ không ‥ đủ **biển số** ‥ vị trí, ‥ rõ chữ ‥ bẻ cong ‥
 
-### [9][13.9]. Tịch thu phương tiện ‥
+### [13.9][13.9]. Tịch thu phương tiện ‥
 
 - [a][13.9.a]. ‥ quá niên hạn ‥
 - [b][13.9.b]. ‥ xe sản xuất, lắp ráp trái quy định‥
 
-### [10][13.10]. ‥ xử phạt bổ sung ‥
+### [13.10][13.10]. ‥ xử phạt bổ sung ‥
 
 - [a][13.10.a]. ‥ điểm a khoản 8 Điều này
   - bị tịch thu biển số xe;
 - [b][13.10.b]. ‥ điểm a khoản 4, điểm a khoản 6 Điều này ‥ - ‥ không chứng minh được nguồn gốc xuất xứ ‥
   - bị tịch thu phương tiện.
 
-### [11][13.11]. ‥ khắc phục hậu quả ‥
+### [13.11][13.11]. ‥ khắc phục hậu quả ‥
 
 - [a][13.11.a]. ‥ khoản 1; khoản 2; <br/>điểm b, điểm c khoản 3; <br/>điểm b khoản 4; <br/>điểm b, điểm d khoản 5; <br/>điểm b khoản 8 Điều này buộc
   - lắp ‥ đủ thiết bị ‥ đủ tiêu chuẩn
@@ -299,11 +299,11 @@ markmap:
   - khôi phục lại tình trạng ban đầu ‥
 - [d][13.11.d]. ‥ điểm a khoản 6 Điều này ‥ - nộp lại chứng nhận đăng ký xe ‥ bị tẩy xóa.
 
-### [12][13.12]. điểm a khoản 6 Điều này
+### [13.12][13.12]. điểm a khoản 6 Điều này
 
 - bị thu hồi chứng nhận đăng ký xe‥
 
-### [13][13.13]. ‥ trừ điểm giấy phép lái xe ..>
+### [13.13][13.13]. ‥ trừ điểm giấy phép lái xe ..>
 
 - [a][13.13.a]. ‥ điểm a, điểm b khoản 3; <br/>khoản 4; <br/>khoản 5; <br/>khoản 6; <br/>điểm a khoản 7 Điều này
   - bị trừ điểm giấy phép lái xe 02 điểm;
