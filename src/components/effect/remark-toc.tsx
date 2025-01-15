@@ -76,7 +76,7 @@ export default function RemarkTOCEffect() {
 
       // Enable scroll
       body.style.overflow = 'initial'
-    }, 500)
+    }, 0)
 
     return () => {
       body.classList.remove('body-bg-markdown')
