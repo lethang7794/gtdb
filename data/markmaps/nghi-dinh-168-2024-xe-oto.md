@@ -210,29 +210,49 @@
 
 - <A id="6.11.đ">đ.</A> ... đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
 
-### <A id="6.12">12.</A> ... 40.000.000 ... 50.000.000 đồng đối với người điều khiển xe thực hiện hành vi điều khiển xe lạng lách, đánh võng trên đường bộ; quá tốc độ đuổi nhau trên đường bộ; dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường bộ.
+### <A id="6.12">12.</A> ... 40.000.000 ... 50.000.000 đồng ...
 
-### <A id="6.13">13.</A> ... 50.000.000 ... 70.000.000 đồng đối với người điều khiển xe thực hiện hành vi vi phạm quy định tại khoản 12 Điều này mà gây tai nạn giao thông.
+- ... lạng lách, đánh võng ...
+- quá tốc độ đuổi nhau ...
+- dùng chân điều khiển vô lăng xe ...
 
-### <A id="6.14">14.</A> Tịch thu phương tiện đối với người điều khiển xe tái phạm hành vi điều khiển xe lạng lách, đánh võng quy định tại khoản 12 Điều này.
+### <A id="6.13">13.</A> ... 50.000.000 ... 70.000.000 đồng
 
-### <A id="6.15">15.</A> Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+- khoản 12 Điều này ... gây tai nạn giao thông.
 
-- <A id="6.15.a">a.</A> Thực hiện hành vi quy định tại điểm e khoản 5 Điều này còn bị tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt, sử dụng trái quy định;
+### <A id="6.14">14.</A> Tịch thu phương tiện
 
-- <A id="6.15.b">b.</A> Thực hiện hành vi quy định tại khoản 12 Điều này bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
+- tái phạm ... lạng lách, đánh võng ...
 
-- <A id="6.15.c">c.</A> Thực hiện hành vi quy định tại điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
+### <A id="6.15">15.</A> ... xử phạt bổ sung ...
 
-### <A id="6.16">16.</A> Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe như sau:
+- <A id="6.15.a">a.</A> ... bị tịch thu thiết bị phát tín hiệu ưu tiên ...
 
-- <A id="6.16.a">a.</A> Thực hiện hành vi quy định tại điểm h, điểm i khoản 3; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này bị trừ điểm giấy phép lái xe 02 điểm;
+- <A id="6.15.b">b.</A> ... khoản 12 Điều này
 
-- <A id="6.16.b">b.</A> Thực hiện hành vi quy định tại điểm h khoản 5; khoản 6; điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này bị trừ điểm giấy phép lái xe 04 điểm;
+  - bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
 
-- <A id="6.16.c">c.</A> Thực hiện hành vi quy định tại điểm p khoản 5; điểm a, điểm c khoản 7; khoản 8 Điều này bị trừ điểm giấy phép lái xe 06 điểm;
+- <A id="6.15.c">c.</A> ... điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
 
-- <A id="6.16.d">d.</A> Thực hiện hành vi quy định tại điểm a khoản 9, khoản 10, điểm đkhoản 11 Điều này bị trừ điểm giấy phép lái xe 10 điểm.
+  - bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
+
+### <A id="6.16">16.</A> ... trừ điểm giấy phép lái xe ...
+
+- <A id="6.16.a">a.</A> ... điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
+
+  - bị trừ điểm giấy phép lái xe 02 điểm;
+
+- <A id="6.16.b">b.</A> ... điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
+
+  - bị trừ điểm giấy phép lái xe 04 điểm;
+
+- <A id="6.16.c">c.</A> ... điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
+
+  - bị trừ điểm giấy phép lái xe 06 điểm;
+
+- <A id="6.16.d">d.</A> ... điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
+
+  - bị trừ điểm giấy phép lái xe 10 điểm.
 
 ## <A id="13">Điều 13.</A><br/> ... điều kiện ... phương tiện ...
 
@@ -242,45 +262,45 @@
 
 ### <A id="13.2">2.</A> ... 400.000 ... 600.000 đồng ...
 
-- <A id="13.2.a">a.</A> ... không có đủ đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, cần gạt nước, gương chiếu hậu, dây đai an toàn, dụng cụ thoát hiểm, thiết bị chữa cháy, đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe hoặc có những thiết bị đó nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế (đối với loại xe được quy định phải có những thiết bị đó), trừ các hành vi vi phạm quy định tại điểm h khoản 3 Điều 20, điểm d khoản 4 Điều 26 của Nghị định này;
+- <A id="13.2.a">a.</A> ... đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, <br/> cần gạt nước, gương chiếu hậu, <br/>dây đai an toàn, <br/>dụng cụ thoát hiểm, thiết bị chữa cháy, <br/>đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe ...
 
-- <A id="13.2.b">b.</A> ... không có còi hoặc có nhưng còi không có tác dụng;
+- <A id="13.2.b">b.</A> ... còi ...
 
-- <A id="13.2.c">c.</A> ... không có bộ phận giảm thanh, giảm khói hoặc có nhưng không có tác dụng, không bảo đảm quy chuẩn môi trường về khí thải, tiếng ồn.
+- <A id="13.2.c">c.</A> ... bộ phận giảm thanh, giảm khói ...
 
 ### <A id="13.3">3.</A> ... 1.000.000 ... 2.000.000 đồng ...
 
-- <A id="13.3.a">a.</A> ... lắp thêm đèn phía trước, phía sau, trên nóc, dưới gầm, một hoặc cả hai bên thành xe, trừ đèn sương mù dạng rời được lấp theo quy định;
+- <A id="13.3.a">a.</A> ... lắp thêm đèn ...
 
-- <A id="13.3.b">b.</A> ... có hệ thống chuyển hướng của xe không đúng tiêu chuẩn an toàn kỹ thuật;
+- <A id="13.3.b">b.</A> ... hệ thống chuyển hướng ...
 
-- <A id="13.3.c">c.</A> ... không lắp đủ bánh lốp hoặc lắp bánh lốp không đúng kích cỡ hoặc không bảo đảm tiêu chuẩn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.3.c">c.</A> ... bánh lốp ...
 
-- <A id="13.3.d">d.</A> ... ô tô kinh doanh vận tải hành khách lắp thêm hoặc tháo bớt ghế, giường nằm hoặc có kích thước khoang chở hành lý (hầm xe) không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe.
+- <A id="13.3.d">d.</A> ... lắp thêm ... tháo bớt ghế, giường ...
 
 ### <A id="13.4">4.</A> ... 2.000.000 ... 3.000.000 đồng ...
 
-- <A id="13.4.a">a.</A> ... không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) đã hết hạn sử dụng, hết hiệu lực (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.4.a">a.</A> ... đăng ký xe ... hết hạn
 
-- <A id="13.4.b">b.</A> ... ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe;
+- <A id="13.4.b">b.</A> ... thùng xe không đúng ... thông số ...
 
-- <A id="13.4.c">c.</A> ... dán, lắp phù hiệu, biểu trưng nhận diện tương tự của các cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
+- <A id="13.4.c">c.</A> ... phù hiệu, biểu trưng nhận diện _tương tự_ của các cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
 
 ### <A id="13.5">5.</A> ... 3.000.000 ... 4.000.000 đồng ...
 
-- <A id="13.5.a">a.</A> ... có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hiệu lực (hạn sử dụng) dưới 01 tháng (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.5.a">a.</A> ... tem kiểm định ... hết hiệu lực ... dưới 01 tháng ...
 
-- <A id="13.5.b">b.</A> ... không đủ hệ thống hàm hoặc có đủ hệ thống hãm nhưng không có tác dụng, không đúng tiêu chuẩn an toàn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.5.b">b.</A> ... hệ thống hãm...
 
-- <A id="13.5.c">c.</A> ... kinh doanh vận tải có niên hạn sử dụng không bảo đảm điều kiện của hình thức kinh doanh đã đăng ký;
+- <A id="13.5.c">c.</A> ... niên hạn sử dụng
 
-- <A id="13.5.d">d.</A> ... lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.
+- <A id="13.5.d">d.</A> ... còi ... quá âm lượng ...
 
 ### <A id="13.6">6.</A> ... 4.000.000 ... 6.000.000 đồng ...
 
-- <A id="13.6.a">a.</A> Sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không đúng số khung, số động cơ (số máy) của xe (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.6.a">a.</A> ... đăng ký xe ... tem kiểm định ... bị tẩy xóa ...
 
-- <A id="13.6.b">b.</A> ... không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc).
+- <A id="13.6.b">b.</A> ... tem kiểm định ... hết hiệu lực ... 01 tháng trở lên
 
 ### <A id="13.7">7.</A> ... 10.000.000 ... 12.000.000 đồng ...
 
