@@ -40,7 +40,7 @@ export default function AboutPage() {
           </BaseLink>
           , nếu có sai sót xin phản ánh tới email{' '}
           <a
-            href="mailto:gtdb.app@gmail.com?subject=Phản%ánh%nội%20dung=Có%sai%20sót%20ở%20đường%dẫn:%20...%0D%0ANội%20dung%20sai:%20...%0D%0A.Nên%20sửa%20thành:%20..."
+            href="mailto:gtdb.app@gmail.com?subject=Phản ánh nội dung&body=Có sai sót ở link: X. Nội dung sai: Y. Nên sửa thành: Z"
             className="text-blue-500 hover:underline"
           >
             gtdb.app@gmail.com
