@@ -11,7 +11,7 @@ import Image from 'next/image'
 
 export async function generateStaticParams() {
   const markings = await getMarkingsArray()
-  return markings.map(([key]) => ({ slug: key }))
+  return markings.map(([key]) => ({ slug: key })).slice(0, 20)
 }
 
 type Props = {

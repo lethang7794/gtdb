@@ -13,7 +13,7 @@ import Image from 'next/image'
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()
-  return roadSigns.map(([key]) => ({ slug: key }))
+  return roadSigns.map(([key]) => ({ slug: key })).slice(0, 20)
 }
 
 type Props = {
