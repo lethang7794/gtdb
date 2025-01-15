@@ -38,7 +38,7 @@ markmap:
   - trên dải phân cách cố định ở giữa hai phần đường xe chạy;
   - đỗ xe trên dốc không chèn bánh;
 
-- [đ][6.2.đ].
+- [đ][6.2.đ]. (Dừng xe, đỗ xe)
   - Dừng xe
     - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
     - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
@@ -58,7 +58,7 @@ markmap:
 
 - [a][6.3.a]. ‥ quá tốc độ ‥ dưới 10 km/h;
 
-- [b][6.3.b].
+- [b][6.3.b]. (còi, đèn chiếu xa)
 
   - ‥ còi, rú ga liên tục; ‥ còi hơi,
   - ‥ đèn chiếu xa
