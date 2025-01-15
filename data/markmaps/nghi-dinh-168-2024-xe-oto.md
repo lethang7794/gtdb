@@ -22,7 +22,7 @@ markmap:
 
 - [a][6.2.a]. Chuyển làn đường ‥
 - [b][6.2.b]. Chở người ‥ quá số lượng ‥
-- [c][6.2.c]. ‥ nhường đường ‥ nơi đường bộ giao nhau ‥
+- [c][6.2.c]. ‥ **nhường đường** ‥ nơi đường bộ giao nhau ‥
 - [d][6.2.d]. Dừng xe, đỗ xe <!-- markmap: fold -->
   - trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe
   - không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe
@@ -55,7 +55,7 @@ markmap:
     - ‥ khu dân cư có ‥ chiếu sáng ‥
     - ‥ đi ngược chiều ‥
     - ‥ chuyển hướng xe ‥ nơi đường giao nhau ‥
-- [c][6.3.c]. Chuyển hướng <!-- markmap: fold -->
+- [c][6.3.c]. **Chuyển hướng** <!-- markmap: fold -->
   - không quan sát
   - không bảo đảm khoảng cách an toàn với xe phía sau
   - không giảm tốc độ
@@ -94,7 +94,7 @@ markmap:
   - ‥ cầu ‥, gầm cầu ‥
   - song song với một xe khác đang dừng, đỗ ‥
 - [c][6.4.c]. ‥ bảo đảm an toàn ‥ xe ô tô ‥ hư hỏng ‥ nơi ‥ giao nhau cùng mức với đường sắt;
-- [d][6.4.d]. ‥ nhường đường ‥ đủ điều kiện an toàn
+- [d][6.4.d]. ‥ **nhường đường** ‥ đủ điều kiện an toàn
 - [đ][6.4.đ]. ‥ hầm ‥ <!-- markmap: fold -->
   - lùi xe, quay đầu ‥
   - dừng xe, đỗ xe ‥
@@ -126,7 +126,7 @@ markmap:
 
 - [a][6.5.a]. Vượt xe ‥ không được vượt, ‥ cấm vượt ‥ tín hiệu ‥ vượt bên phải ‥
 - [b][6.5.b]. ‥ đi bên phải theo chiều đi ‥; ‥ phần đường ‥ làn đường ‥; ‥ đi qua dải phân cách cố định ‥
-- [c][6.5.c]. Tránh xe đi ngược chiều ‥; ‥ nhường đường cho xe đi ngược chiều ‥
+- [c][6.5.c]. Tránh xe đi ngược chiều ‥; ‥ **nhường đường** cho xe đi ngược chiều ‥
 - [d][6.5.d]. ‥ vào ‥ ra đường cao tốc; ‥ chạy ở làn dừng xe khẩn cấp ‥; ‥ khoảng cách an toàn ‥
 - [đ][6.5.đ]. ‥ quá tốc độ ‥ đến 20 km/h;
 - [e][6.5.e]. ‥ thiết bị phát tín hiệu của xe ‥ ưu tiên;
@@ -150,7 +150,7 @@ markmap:
 ### [6.6][6.6]. ‥ 6.000.000 ‥ 8.000.000 đồng ‥
 
 - [a][6.6.a]. ‥ quá tốc độ ‥ đến 35 km/h;
-- [b][6.6.b]. Không nhường đường ‥ xe ‥ ưu tiên ‥
+- [b][6.6.b]. Không **nhường đường** ‥ xe ‥ ưu tiên ‥
 - [c][6.6.c]. ‥ ‥ nồng độ cồn ‥ 0,25 miligam/1 lít khí thở;
 - [d][6.6.d]. ‥ đi trên vỉa hè ‥
 
@@ -215,7 +215,7 @@ markmap:
 - [b][6.15.b]. ‥ tước ‥ giấy phép lái xe ‥ 10 ‥ 12 tháng;
   - ‥ khoản 12 Điều này
 - [c][6.15.c]. ‥ tước ‥ giấy phép lái xe ‥ 22 ‥ 24 tháng.
-  - ‥ điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
+  - ‥ điểm a, điểm b, điểm c, điểm d khoản 11; <br/>khoản 13; <br/>khoản 14 Điều này
 
 ### [6.16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
 
@@ -298,7 +298,8 @@ markmap:
   - ‥ tháo bỏ ‥
 - [c][13.11.c]. ‥ điểm c khoản 4 Điều này
   - khôi phục lại tình trạng ban đầu ‥
-- [d][13.11.d]. ‥ điểm a khoản 6 Điều này ‥ - nộp lại chứng nhận đăng ký xe ‥ bị tẩy xóa.
+- [d][13.11.d]. ‥ điểm a khoản 6 Điều này ‥
+  - nộp lại chứng nhận đăng ký xe ‥ bị tẩy xóa.
 
 ### [13.12][13.12]. điểm a khoản 6 Điều này
 
