@@ -6,7 +6,9 @@ import { XMindEmbedViewer } from 'xmind-embed-viewer'
 
 const EXAMPLE_XMIND_URL = '' // TODO
 
-export default function XmindRender({ fileURL }: { fileURL?: string }) {
+export default function XmindRender({
+  fileURL = EXAMPLE_XMIND_URL,
+}: { fileURL?: string }) {
   const [loading, setLoading] = useState(true)
 
   const viewerRef = useRef<HTMLDivElement>(null)
@@ -17,7 +19,7 @@ export default function XmindRender({ fileURL }: { fileURL?: string }) {
         return
       }
 
-      const res = await fetch(fileURL || EXAMPLE_XMIND_URL)
+      const res = await fetch(fileURL)
 
       const viewer = new XMindEmbedViewer({
         el: '#xmind-viewer',
@@ -34,7 +36,7 @@ export default function XmindRender({ fileURL }: { fileURL?: string }) {
     }
 
     initXmind()
-  }, [])
+  }, [fileURL])
 
   return (
     <div className="h-full">

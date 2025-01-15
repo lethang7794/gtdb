@@ -47,6 +47,6 @@ export default function RemarkTOCEffect() {
     return () => {
       body.classList.remove('body-bg-markdown')
     }
-  }, [router.replace])
+  }, [router])
   return null
 }
