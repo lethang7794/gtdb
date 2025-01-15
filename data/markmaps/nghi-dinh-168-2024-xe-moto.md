@@ -6,9 +6,9 @@ markmap:
   maxWidth: 400
 ---
 
-# [Nghị định 168] ... xử phạt vi phạm ... xe môtô
+# [Nghị định 168]<br/> ... xử phạt vi phạm ... xe môtô
 
-## [Điều 7]. ... quy tắc giao thông đường bộ ...
+## [Điều 7].<br/> ... quy tắc giao thông ...
 
 ### [7.1]. ... 200.000 ... 400.000 đồng ...
 
@@ -118,12 +118,12 @@ markmap:
 
 - [b][7.5.b]. **Chuyển hướng** không nhường quyền đi trước cho:
 
-  - người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
+  - người đi bộ, xe lăn của người khuyết tật <br/> qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
   - xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
 
 - [c][7.5.c]. **Chuyển hướng** không nhường đường cho:
   - các xe đi ngược chiều;
-  - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ.
+  - người đi bộ, xe thô sơ đang <br/> qua đường tại nơi không có vạch kẻ đường cho người đi bộ.
 
 ### [7.6]. ... 2.000.000 ... 3.000.000 đồng ...
 
@@ -137,8 +137,8 @@ markmap:
   - từ **đường nhánh** ra đường chính;
 
 - [d][7.6.d]. Không giảm tốc độ và nhường đường cho
-  - xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến;
-  - xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến.
+  - xe đi đến từ bên phải tại nơi đường giao nhau<br/>không có báo hiệu đi theo vòng xuyến;
+  - xe đi đến từ bên trái tại nơi đường giao nhau<br/>có báo hiệu đi theo vòng xuyến.
 
 ### [7.7]. ... 4.000.000 ... 6.000.000 đồng ...
 
@@ -168,7 +168,7 @@ markmap:
 
   - không giữ nguyên hiện trường,
   - không trợ giúp người bị nạn,
-  - không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất;
+  - không ở lại hiện trường ... không ... trình báo ...
 
 - [d][7.9.d]. ... nồng độ cồn ... vượt quá 0,4 miligam/1 lít khí thở;
 
@@ -209,7 +209,7 @@ markmap:
 
 ### [7.11]. Tịch thu phương tiện ...
 
-- [a][7.11.a]. Buông cả hai tay ... _điều khiển xe_; dùng chân ...; ngồi về một bên ...; nằm trên yên xe ...; thay người điều khiển khi xe đang chạy; quay người về phía sau ... bịt mắt ...
+- [a][7.11.a]. Buông cả hai tay ... _điều khiển xe_; dùng chân ...; ngồi về một bên ...; nằm trên yên xe ...;<br/> thay người điều khiển khi xe đang chạy; quay người về phía sau ... bịt mắt ...
 
 - [b][7.11.b]. ... chạy ... một bánh ...
 
@@ -233,7 +233,7 @@ markmap:
 
 - [d][7.13.d]. ... điểm b khoản 8, khoản 10 Điều này ... trừ ... 10 điểm.
 
-## [Điều 14]. ... điều kiện ... phương tiện ...
+## [Điều 14].<br/> ... điều kiện ... phương tiện ...
 
 ### [14.1]. ... 400.000 ... 600.000 ...
 
