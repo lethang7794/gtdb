@@ -3,7 +3,7 @@ title: 'Nghị định 168 ‥ xử phạt vi phạm ‥ xe ôtô ‥'
 abstract:
 publishedOn: '2025-01-15T12:00:00-0400'
 markmap:
-  maxWidth: 400
+  # maxWidth: 400
 ---
 
 # [Nghị định 168]<br/>‥ xử phạt vi phạm ‥ xe ôtô
@@ -114,109 +114,157 @@ markmap:
 
 ### [4][6.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
-- [a][6.4.a]. ‥ không đủ điều kiện đã thu phí theo hình thức điện tử tự động không dừng (xe không gắn thẻ đầu cuối) đi vào làn đường dành riêng thu phí theo hình thức điện tử tự động không dừng tại các trạm thu phí;
+- [a][6.4.a]. ‥ đi vào làn đường dành riêng thu phí ... tự động không dừng ...
 
-- [b][6.4.b]. Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái (theo hướng lưu thông) của đường đôi; trên đoạn đường cong hoặc gần đầu dốc nơi tầm nhìn bị che khuất; trên cầu (trừ trường hợp tổ chức giao thông cho phép), gầm cầu vượt (trừ những nơi cho phép dừng xe, đỗ xe), song song với một xe khác đang dừng, đỗ, trừ hành vi vi phạm quy định tại điểm c khoản 7 Điều này;
+- [b][6.4.b]. Dừng xe, đỗ xe ...:
 
-- [c][6.4.c]. Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng ngay tại nơi đường bộ giao nhau cùng mức với đường sắt;
+  - bên trái đường một chiều ... đường đôi;
+  - ... đường cong ... đầu dốc ...
+  - ... cầu ..., gầm cầu ...
+  - song song với một xe khác đang dừng, đỗ ...
 
-- [d][6.4.d]. Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn;
+- [c][6.4.c]. ... bảo đảm an toàn ... xe ô tô ... hư hỏng ... nơi ... giao nhau cùng mức với đường sắt;
 
-- [đ][6.4.đ]. Lùi xe, quay đầu xe trong hầm đường bộ; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo "Chú ý xe đỗ" (hoặc đèn cảnh báo) về phía sau xe khoảng cách đảm bảo an toàn khi dừng xe, đỗ xe trong hầm đường bộ trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe;
+- [d][6.4.d]. ... nhường đường ... đủ điều kiện an toàn
 
-- [e][6.4.e]. Lùi xe ở đường một chiều, đường có biển “Cấm đi ngược chiều”, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất; lùi xe không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe, trừ hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
+- [đ][6.4.đ]. ... hầm ...
 
-- [g][6.4.g]. ‥ có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, trừ hành vi vi phạm quy định tại khoản 8 Điều này;
+  - lùi xe, quay đầu ...
+  - dừng xe, đỗ xe ...
+  - ... đèn khẩn cấp ... biển ... đèn cảnh báo ... sự cố kỹ thuật ...
 
-- [h][6.4.h]. Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+- [e][6.4.e]. Lùi xe
 
-- [i][6.4.i]. Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời hoặc tổ chức giao thông tại những khu vực này có bố trí nơi quay đầu xe;
+  - đường một chiều ... “Cấm đi ngược chiều”,
+  - khu vực cấm dừng, trên
+  - phần đường dành cho người đi bộ qua đường
+  - nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt,
+  - nơi tầm nhìn bị che khuất; lùi xe
+  - không quan sát hai bên, phía sau xe hoặc không có tín hiệu ...
 
-- [k][6.4.k]. Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển; điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển; điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển;
+- [g][6.4.g]. ‥ _liên quan_ ... tai nạn giao thông ... không dừng ... giữ nguyên hiện trường, ... trợ giúp người bị nạn ...
 
-- [l][6.4.l]. Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”, trừ các hành vi vi phạm quy định tại điểm d khoản 5 Điều này.
+- [h][6.4.h]. ... thiết bị phát tín hiệu ưu tiên ...
+
+- [i][6.4.i]. Quay đầu xe
+
+  - phần đường dành cho người đi bộ qua đường,
+  - trên cầu, đầu cầu, gầm cầu vượt, ngầm,
+  - tại nơi đường bộ giao nhau cùng mức với đường sắt,
+  - đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất,
+  - trên đường một chiều ...
+
+- [k][6.4.k]. (chuyển hướng)
+
+  - quay đầu xe ... cấm quay đầu ...
+  - rẽ trái ... cấm rẽ trái ...
+  - rẽ phải ... cấm rẽ phải ...
+
+- [l][6.4.l]. ... khoảng cách an toàn ... va chạm ... biển báo hiệu “Cự ly tối thiểu giữa hai xe” ...
 
 ### [5][6.5]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
-- [a][6.5.a]. [Vượt xe] trong những trường hợp không được vượt, [vượt xe] tại đoạn đường có biển báo hiệu có nội dung cấm vượt (đối với loại phương tiện đang điều khiển); không có tín hiệu trước khi vượt hoặc có tín hiệu [vượt xe] nhưng không sử dụng trong suốt quá trình vượt xe; vượt bên phải xe khác trong trường hợp không được phép;
+- [a][6.5.a]. Vượt xe ... không được vượt, ... cấm vượt ... tín hiệu ... vượt bên phải ...
 
-- [b][6.5.b]. ‥ không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) trừ hành vi quy định tại điểm a khoản 4 Điều này; điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;
+- [b][6.5.b]. ‥ đi bên phải theo chiều đi ...; ... phần đường ... làn đường ...; ... đi qua dải phân cách cố định ...
 
-- [c][6.5.c]. Tránh xe đi ngược chiều không đúng quy định (trừ hành vi vi phạm sử dụng đèn chiếu xa khi tránh xe đi ngược chiều quy định tại điểm b khoản 3 Điều này); không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+- [c][6.5.c]. Tránh xe đi ngược chiều ...; ... nhường đường cho xe đi ngược chiều ...
 
-- [d][6.5.d]. Không tuân thủ quy định khi vào hoặc ra đường cao tốc; điều khiển xe chạy ở làn dừng xe khẩn cấp hoặc phần lề đường của đường cao tốc; không tuân thủ quy định về khoảng cách an toàn đối với xe chạy liền trước khi chạy trên đường cao tốc;
+- [d][6.5.d]. ... vào ... ra đường cao tốc; ... chạy ở làn dừng xe khẩn cấp ...; ... khoảng cách an toàn ...
 
-- [đ][6.5.đ]. ‥ quá tốc độ quy định từ 10 km/h đến 20 km/h;
+- [đ][6.5.đ]. ‥ quá tốc độ ... đến 20 km/h;
 
-- [e][6.5.e]. Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên;
+- [e][6.5.e]. ... thiết bị phát tín hiệu của xe ... ưu tiên;
 
-- [g][6.5.g]. Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc [chuyển làn đường] không đúng quy định “mỗi lần [chuyển làn đường] chỉ được phép chuyển sang một làn đường liền kề” khi chạy trên đường cao tốc;
+- [g][6.5.g]. Chuyển làn đường ...
 
-- [h][6.5.h]. Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ;
+- [h][6.5.h]. ... cầm ... sử dụng điện thoại ...
 
-- [i][6.5.i]. Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm d khoản 9, điểm đ khoản 11 Điều này, hành vi bị cấm đi vào công trình thủy lợi và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+- [i][6.5.i]. Đi vào ... đường ... cấm ...
 
-- [k][6.5.k]. Dừng xe, đỗ xe, quay đầu xe trái quy định gây ùn tắc giao thông;
+- [k][6.5.k]. Dừng xe, đỗ xe, quay đầu xe ... gây ùn tắc ...
 
-- [l][6.5.l]. Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+- [l][6.5.l]. **Chuyển hướng** không _nhường quyền đi trước_ ...:
 
-- [m][6.5.m]. Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+  - người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
+  - xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
 
-- [n][6.5.n]. Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính;
+- [m][6.5.m]. **Chuyển hướng** không _**nhường đường**_ ...:
 
-- [o][6.5.o]. Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến; không giảm tốc độ và nhường đường cho xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến;
+  - các xe đi ngược chiều;
+  - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
 
-- [p][6.5.p]. Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy;
+- [n][6.5.n]. ... **nhường đường** ... từ đường không ưu tiên ... từ đường nhánh ...
 
-- [q][6.5.q]. Mở cửa xe, để cửa xe mở không bảo đảm an toàn.
+- [o][6.5.o]. ... **nhường đường** cho xe
+
+  - ... đi đến từ bên phải tại nơi đường giao nhau <br/>không có báo hiệu đi theo vòng xuyến;
+  - ... đi đến từ bên trái tại nơi đường giao nhau <br/>có báo hiệu đi theo vòng xuyến;
+
+- [p][6.5.p]. Chở người trên thùng xe ... nóc xe; ... đu bám ở cửa xe, ... thành xe ...
+
+- [q][6.5.q]. Mở cửa xe, để cửa xe mở ...
 
 ### [6][6.6]. ‥ 6.000.000 ‥ 8.000.000 đồng ‥
 
-- [a][6.6.a]. ‥ quá tốc độ quy định trên 20 km/h đến 35 km/h;
+- [a][6.6.a]. ‥ quá tốc độ ... đến 35 km/h;
 
-- [b][6.6.b]. Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;
+- [b][6.6.b]. Không nhường đường ... xe ... ưu tiên ...
 
-- [c][6.6.c]. ‥ trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở;
+- [c][6.6.c]. ‥ ... nồng độ cồn ... 0,25 miligam/1 lít khí thở;
 
-- [d][6.6.d]. ‥ đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan.
+- [d][6.6.d]. ‥ đi trên vỉa hè ...
 
 ### [7][6.7]. ‥ 12.000.000 ‥ 14.000.000 đồng ‥
 
-- [a][6.7.a]. ‥ quá tốc độ quy định trên 35 km/h;
+- [a][6.7.a]. ‥ quá tốc độ ... trên 35 km/h;
 
-- [b][6.7.b]. ‥ chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc;
+- [b][6.7.b]. ‥ chở người ... chở hàng bốn bánh ... đi vào ... cao tốc;
 
-- [c][6.7.c]. Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp khi gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe ở làn dừng xe khẩn cấp trên đường cao tốc; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo “Chú ý xe đỗ” (hoặc đèn cảnh báo) về phía sau xe khoảng cách tối thiểu 150 mét khi dừng xe, đỗ xe trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe trên một phần làn đường xe chạy trên đường cao tốc.
+- [c][6.7.c]. Dừng xe, đỗ xe ... cao tốc ...
 
-### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng đối với người điều khiển xe thực hiện hành vi vi phạm gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất.
+### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ...
+
+- **gây** tai nạn giao thông _không_ dừng ... giữ nguyên hiện trường ... trợ giúp người bị nạn, ... trình báo ...
 
 ### [9][6.9]. ‥ 18.000.000 ‥ 20.000.000 đồng ‥
 
-- [a][6.9.a]. ‥ trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở;
+- [a][6.9.a]. ‥ ... nồng độ cồn ... đến 0,4 miligam/1 lít khí thở;
 
-- [b][6.9.b]. Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+- [b][6.9.b]. Không chấp hành ... đèn tín hiệu giao thông;
 
-- [c][6.9.c]. Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+- [c][6.9.c]. Không chấp hành ... người điều khiển giao thông ...
 
-- [d][6.9.d]. Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển "Cấm đi ngược chiều”, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
+- [d][6.9.d]. Đi ngược chiều ...
 
 ### [10][6.10]. ‥ 20.000.000 ‥ 22.000.000 đồng ‥
 
-- [a][6.10.a]. ‥ không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông; điều khiển xe quá tốc độ quy định gây tai nạn giao thông; dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, [chuyển làn đường] không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển gây tai nạn giao thông, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
+- [a][6.10.a]. ‥ ... gây tai nạn giao thông ...
 
-- [b][6.10.b]. Vi phạm quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông: điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1; điểm c khoản 2; điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3; điểm a, điểm c, điểm d khoản 4; điểm c, điểm d, điểm e, điểm h, điểm n, điểm o, điểm q khoản 5; điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này.
+  - không quan sát, giảm tốc độ ... quá tốc độ ...;
+  - dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường ... ;
+  - ... phần đường, làn đường, ... khoảng cách an toàn ...
+  - đi vào đường ... cấm
+
+- [b][6.10.b]. ... gây tai nạn giao thông:
+  - điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1;
+  - điểm c khoản 2;
+  - điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3;
+  - điểm a, điểm c, điểm d khoản 4;
+  - điểm c, điểm d, điểm e, điểm h, điểm n, điểm o, điểm q khoản 5;
+  - điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này.
 
 ### [11][6.11]. ‥ 30.000.000 ‥ 40.000.000 đồng ‥
 
-- [a][6.11.a]. ‥ trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+- [a][6.11.a]. ‥ ... nồng độ cồn ... quá 0,4 miligam/1 lít khí thở;
 
-- [b][6.11.b]. Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+- [b][6.11.b]. ... kiểm tra ... nồng độ cồn ...
 
-- [c][6.11.c]. ‥ trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng;
+- [c][6.11.c]. ‥ ma túy ...
 
-- [d][6.11.d]. Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
+- [d][6.11.d]. ... kiểm tra ... ma túy ...
 
-- [đ][6.11.đ]. ‥ đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
+- [đ][6.11.đ]. ‥ đi ngược chiều ..., lùi xe ..., quay đầu ... trên ... cao tốc ...
 
 ### [12][6.12]. ‥ 40.000.000 ‥ 50.000.000 đồng ‥
 
