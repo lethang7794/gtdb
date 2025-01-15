@@ -284,7 +284,7 @@
 
 - <A id="13.4.b">b.</A> ... thùng xe không đúng ... thông số ...
 
-- <A id="13.4.c">c.</A> ... phù hiệu, biểu trưng nhận diện _tương tự_ của các cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
+- <A id="13.4.c">c.</A> ... phù hiệu, biểu trưng nhận diện _tương tự_ của các <br/>cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
 
 ### <A id="13.5">5.</A> ... 3.000.000 ... 4.000.000 đồng ...
 
@@ -304,44 +304,64 @@
 
 ### <A id="13.7">7.</A> ... 10.000.000 ... 12.000.000 đồng ...
 
-- <A id="13.7.a">a.</A> ... đăng ký tạm thời, xe có phạm vi hoạt động hạn chế hoạt động quá phạm vi, tuyến đường, thời hạn cho phép;
+- <A id="13.7.a">a.</A> ... quá phạm vi, tuyến đường, thời hạn cho phép;
 
-- <A id="13.7.b">b.</A> ... (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số).
+- <A id="13.7.b">b.</A> ... không gắn biển số ...
 
 ### <A id="13.8">8.</A> ... 20.000.000 ... 26.000.000 đồng ...
 
-- <A id="13.8.a">a.</A> ... gắn biển số không đúng với chứng nhận đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp (kể cả rơ moóc và sơ mi rơ moóc);
+- <A id="13.8.a">a.</A> ... biển số không đúng ... đăng ký xe ...
 
-- <A id="13.8.b">b.</A> ... không gắn đủ biển số hoặc gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sử dụng chất liệu khác sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe (kể cả rơ moóc và sơ mi rơ moóc).
+- <A id="13.8.b">b.</A> ... không ... đủ **biển số** ... vị trí, ... rõ chữ ... bẻ cong ...
 
 ### <A id="13.9">9.</A> Tịch thu phương tiện ...
 
-- <A id="13.9.a">a.</A> ... quá niên hạn sử dụng tham gia giao thông, trừ hành vi quy định tại điểm c khoản 5 Điều này;
+- <A id="13.9.a">a.</A> ... quá niên hạn ...
 
-- <A id="13.9.b">b.</A> Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông (bao gồm cả xe công nông thuộc diện bị đình chỉ tham gia giao thông, rơ moóc và sơ mi rơ moóc được kéo theo).
+- <A id="13.9.b">b.</A> ... xe sản xuất, lắp ráp trái quy định...
 
-### <A id="13.10">10.</A> Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+### <A id="13.10">10.</A> ... xử phạt bổ sung ...
 
-- <A id="13.10.a">a.</A> Thực hiện hành vi quy định tại điểm a khoản 8 Điều này bị tịch thu biển số xe;
+- <A id="13.10.a">a.</A> ... điểm a khoản 8 Điều này
 
-- <A id="13.10.b">b.</A> Thực hiện hành vi quy định tại điểm a khoản 4, điểm a khoản 6 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngàn hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không: do cơ quan có thẩm quyền cấp, không đúng số khung, số động cơ (số máy) của xe hoặc bị tẩy xóa (kể cả rơ moóc và sơ mi rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng nhận nguồn gốc xe, chứng nhận quyền sở hữu hợp pháp) thì bị tịch thu phương tiện.
+  - bị tịch thu biển số xe;
 
-### <A id="13.11">11.</A> Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các biện pháp khắc phục hậu quả sau đây:
+- <A id="13.10.b">b.</A> ... điểm a khoản 4, điểm a khoản 6 Điều này ...
+  - ... không chứng minh được nguồn gốc xuất xứ ...
+    - bị tịch thu phương tiện.
 
-- <A id="13.11.a">a.</A> Thực hiện hành vi quy định tại khoản 1; khoản 2; điểm b, điểm c khoản 3; điểm b khoản 4; điểm b, điểm d khoản 5; điểm b khoản 8 Điều này buộc lắp đầy đủ thiết bị hoặc thay thế thiết bị đủ tiêu chuẩn, quy chuẩn an toàn kỹ thuật hoặc khôi phục lại tính năng kỹ thuật của thiết bị theo quy định; buộc thực hiện đúng quy định về biển số hoặc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra;
+### <A id="13.11">11.</A> ... khắc phục hậu quả ...
 
-- <A id="13.11.b">b.</A> Thực hiện hành vi quy định tại điểm a, điểm d khoản 3 Điều này buộc lắp đầy đủ thiết bị hoặc khôi phục lại tính năng kỹ thuật của thiết bị theo quy định, tháo bỏ những thiết bị lắp thêm không đúng quy định;
+- <A id="13.11.a">a.</A> ... khoản 1; khoản 2; <br/>điểm b, điểm c khoản 3; <br/>điểm b khoản 4; <br/>điểm b, điểm d khoản 5; <br/>điểm b khoản 8 Điều này buộc
 
-- <A id="13.11.c">c.</A> Thực hiện hành vi quy định tại điểm c khoản 4 Điều này buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra;
+  - lắp ... đủ thiết bị ... đủ tiêu chuẩn
+  - ... khôi phục lại tình trạng ban đầu ...
 
-- <A id="13.11.d">d.</A> Thực hiện hành vi quy định tại điểm a khoản 6 Điều này buộc nộp lại chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường, chứng nhận đăng ký xe bị tẩy xóa.
+- <A id="13.11.b">b.</A> ... điểm a, điểm d khoản 3 Điều này ...
 
-### <A id="13.12">12.</A> Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi quy định tại điểm a khoản 6 Điều này bị thu hồi chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không do cơ quan có thẩm quyền cấp hoặc không đúng số khung, số động cơ (số máy) của xe, giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp.
+  - lắp đầy đủ ...
+  - ... tháo bỏ ...
 
-### <A id="13.13">13.</A> Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe như sau:
+- <A id="13.11.c">c.</A> ... điểm c khoản 4 Điều này
 
-- <A id="13.13.a">a.</A> Thực hiện hành vi quy định tại điểm a, điểm b khoản 3; khoản 4; khoản 5; khoản 6; điểm a khoản 7 Điều này bị trừ điểm giấy phép lái xe 02 điểm;
+  - khôi phục lại tình trạng ban đầu ...
 
-- <A id="13.13.b">b.</A> Thực hiện hành vi quy định tại điểm b khoản 7, điểm b khoản 8 Điều này bị trừ điểm giấy phép lái xe 06 điểm;
+- <A id="13.11.d">d.</A> ... điểm a khoản 6 Điều này ...
+  - nộp lại chứng nhận đăng ký xe ... bị tẩy xóa.
 
-- <A id="13.13.c">c.</A> Thực hiện hành vi quy định tại điểm a khoản 8 Điều này bị trừ điểm giấy phép lái xe 10 điểm.
+### <A id="13.12">12.</A> điểm a khoản 6 Điều này
+
+- bị thu hồi chứng nhận đăng ký xe...
+
+### <A id="13.13">13.</A> ... trừ điểm giấy phép lái xe ..>
+
+- <A id="13.13.a">a.</A> ... điểm a, điểm b khoản 3; <br/>khoản 4; <br/>khoản 5; <br/>khoản 6; <br/>điểm a khoản 7 Điều này
+
+  - bị trừ điểm giấy phép lái xe 02 điểm;
+
+- <A id="13.13.b">b.</A> ... điểm b khoản 7, <br/>điểm b khoản 8 Điều này
+
+  - bị trừ điểm giấy phép lái xe 06 điểm;
+
+- <A id="13.13.c">c.</A> ... điểm a khoản 8 Điều này
+  - bị trừ điểm giấy phép lái xe 10 điểm.
