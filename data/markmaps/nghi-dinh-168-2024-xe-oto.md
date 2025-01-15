@@ -141,7 +141,7 @@ markmap:
   - các xe đi ngược chiều;
   - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
 - [n][6.5.n]. ‥ **nhường đường** ‥ từ đường không ưu tiên ‥ từ đường nhánh ‥
-- [o][6.5.o]. ‥ **nhường đường** cho xe ... vòng xuyến <!-- markmap: fold -->
+- [o][6.5.o]. ‥ **nhường đường** cho xe ‥ vòng xuyến <!-- markmap: fold -->
   - ‥ đi đến từ bên phải tại nơi đường giao nhau <br/>không có báo hiệu đi theo vòng xuyến;
   - ‥ đi đến từ bên trái tại nơi đường giao nhau <br/>có báo hiệu đi theo vòng xuyến;
 - [p][6.5.p]. Chở người trên thùng xe ‥ nóc xe; ‥ đu bám ở cửa xe, ‥ thành xe ‥
@@ -212,20 +212,20 @@ markmap:
 ### [6.15][6.15]. ‥ xử phạt bổ sung ‥
 
 - [a][6.15.a]. ‥ bị tịch thu thiết bị phát tín hiệu ưu tiên ‥
-- [b][6.15.b]. ‥ khoản 12 Điều này
-  - bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
-- [c][6.15.c]. ‥ điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
-  - bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
+- [b][6.15.b]. ‥ tước ‥ giấy phép lái xe ‥ 10 ‥ 12 tháng;
+  - ‥ khoản 12 Điều này
+- [c][6.15.c]. ‥ tước ‥ giấy phép lái xe ‥ 22 ‥ 24 tháng.
+  - ‥ điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
 
 ### [6.16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
 
-- [a][6.16.a]. ... 02 điểm; <!-- markmap: fold -->
+- [a][6.16.a]. ‥ 02 điểm; <!-- markmap: fold -->
   - ‥ điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
-- [b][6.16.b]. ... 04 điểm; <!-- markmap: fold -->
+- [b][6.16.b]. ‥ 04 điểm; <!-- markmap: fold -->
   - ‥ điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
-- [c][6.16.c]. ... 06 điểm; <!-- markmap: fold -->
+- [c][6.16.c]. ‥ 06 điểm; <!-- markmap: fold -->
   - ‥ điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
-- [d][6.16.d]. ... 10 điểm. <!-- markmap: fold -->
+- [d][6.16.d]. ‥ 10 điểm. <!-- markmap: fold -->
   - ‥ điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
 
 ## [Điều 13][13]. <br/> ‥ điều kiện ‥ phương tiện ‥
@@ -282,10 +282,11 @@ markmap:
 
 ### [13.10][13.10]. ‥ xử phạt bổ sung ‥
 
-- [a][13.10.a]. ‥ điểm a khoản 8 Điều này
-  - bị tịch thu biển số xe;
-- [b][13.10.b]. ‥ điểm a khoản 4, điểm a khoản 6 Điều này ‥ - ‥ không chứng minh được nguồn gốc xuất xứ ‥
-  - bị tịch thu phương tiện.
+- [a][13.10.a]. ‥ bị tịch thu biển số xe
+  - ‥ điểm a khoản 8 Điều này
+- [b][13.10.b]. ‥ bị tịch thu phương tiện
+  - ‥ điểm a khoản 4, điểm a khoản 6 Điều này ‥
+  - ‥ không chứng minh được nguồn gốc xuất xứ ‥
 
 ### [13.11][13.11]. ‥ khắc phục hậu quả ‥
 
