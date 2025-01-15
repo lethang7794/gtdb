@@ -23,19 +23,19 @@ markmap:
 - [a][6.2.a]. Chuyển làn đường ‥
 - [b][6.2.b]. Chở người ‥ quá số lượng ‥
 - [c][6.2.c]. ‥ nhường đường ‥ nơi đường bộ giao nhau ‥
-- [d][6.2.d]. Dừng xe, đỗ xe
-
+- [d][6.2.d]. Dừng xe, đỗ xe <!-- markmap: fold -->
   - trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe
   - không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe
   - ngược với chiều lưu thông của làn đường;
   - trên dải phân cách cố định ở giữa hai phần đường xe chạy;
   - đỗ xe trên dốc không chèn bánh;
-- [đ][6.2.đ]. (Dừng xe, đỗ xe) - Dừng xe
-  - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
-  - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
-  - trên đường dành riêng cho xe buýt
-  - trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế,
-  - chỗ dành riêng cho xe chữa cháy lấy nước;
+- [đ][6.2.đ]. (Dừng xe, đỗ xe) <!-- markmap: fold -->
+  - Dừng xe
+    - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
+    - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
+    - trên đường dành riêng cho xe buýt
+    - trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế,
+    - chỗ dành riêng cho xe chữa cháy lấy nước;
   - rời vị trí lái,
     - tắt máy khi dừng xe (trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe)
     - không sử dụng phanh đỗ xe ‥;
@@ -48,20 +48,20 @@ markmap:
 ### [3][6.3]. ‥ 800.000 ‥ 1.000.000 đồng ‥
 
 - [a][6.3.a]. ‥ quá tốc độ ‥ dưới 10 km/h;
-- [b][6.3.b]. (còi, đèn chiếu xa)
+- [b][6.3.b]. (còi, đèn chiếu xa) <!-- markmap: fold -->
   - ‥ còi, rú ga liên tục; ‥ còi hơi,
   - ‥ đèn chiếu xa
     - ‥ người đi bộ qua đường
     - ‥ khu dân cư có ‥ chiếu sáng ‥
     - ‥ đi ngược chiều ‥
     - ‥ chuyển hướng xe ‥ nơi đường giao nhau ‥
-- [c][6.3.c]. Chuyển hướng
+- [c][6.3.c]. Chuyển hướng <!-- markmap: fold -->
   - không quan sát
   - không bảo đảm khoảng cách an toàn với xe phía sau
   - không giảm tốc độ
   - không có tín hiệu báo hướng rẽ ‥ không ‥ liên tục ‥
 - [d][6.3.d]. ‥ dừng xe, đỗ xe ‥ đường sắt ‥
-- [đ][6.3.đ]. Dừng xe, đỗ xe
+- [đ][6.3.đ]. Dừng xe, đỗ xe <!-- markmap: fold -->
   - nơi đường bộ giao nhau ‥ 05 mét ‥
   - điểm đón, trả khách
   - ‥ cổng ‥ 05 mét ‥ trụ sở cơ quan ‥
@@ -69,7 +69,7 @@ markmap:
   - che ‥ biển báo ‥ đèn tín hiệu giao thông
   - nơi mở dải phân cách giữa
   - cách xe ô tô ‥ đỗ ngược chiều ‥ 20 mét ‥
-- [e][6.3.e]. Đỗ xe
+- [e][6.3.e]. Đỗ xe <!-- markmap: fold -->
   - không sát ‥ lề đường ‥ 0,25 mét;
   - ‥ đường dành riêng cho xe buýt;
   - ‥ miệng cống ‥ hầm ‥ điện cao thế, ‥ xe chữa cháy lấy nước‥
@@ -82,42 +82,45 @@ markmap:
 - [m][6.3.m]. Chở trẻ em ‥ ngồi cùng hàng ghế với người lái xe ‥ không sử dụng thiết bị an toàn ‥
 - [n][6.3.n]. ‥ hầm ‥ không sử dụng đèn chiếu ‥ gần;
 - [o][6.3.o]. ‥ dưới tốc độ tối thiểu ‥
-- [p][6.3.p]. ‥ chạy tốc độ thấp hơn ‥ không đi ‥ làn đường bên phải ‥ - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
+- [p][6.3.p]. ‥ chạy tốc độ thấp hơn ‥ không đi ‥ làn đường bên phải ‥ <!-- markmap: fold -->
+  - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
 
 ### [4][6.4]. ‥ 2.000.000 ‥ 3.000.000 đồng ‥
 
 - [a][6.4.a]. ‥ đi vào làn đường dành riêng thu phí ‥ tự động không dừng ‥
-- [b][6.4.b]. Dừng xe, đỗ xe ‥
+- [b][6.4.b]. Dừng xe, đỗ xe ‥ <!-- markmap: fold -->
   - bên trái đường một chiều ‥ đường đôi;
   - ‥ đường cong ‥ đầu dốc ‥
   - ‥ cầu ‥, gầm cầu ‥
   - song song với một xe khác đang dừng, đỗ ‥
 - [c][6.4.c]. ‥ bảo đảm an toàn ‥ xe ô tô ‥ hư hỏng ‥ nơi ‥ giao nhau cùng mức với đường sắt;
 - [d][6.4.d]. ‥ nhường đường ‥ đủ điều kiện an toàn
-- [đ][6.4.đ]. ‥ hầm ‥
+- [đ][6.4.đ]. ‥ hầm ‥ <!-- markmap: fold -->
   - lùi xe, quay đầu ‥
   - dừng xe, đỗ xe ‥
   - ‥ đèn khẩn cấp ‥ biển ‥ đèn cảnh báo ‥ sự cố kỹ thuật ‥
-- [e][6.4.e]. Lùi xe
+- [e][6.4.e]. Lùi xe <!-- markmap: fold -->
   - đường một chiều ‥ “Cấm đi ngược chiều”,
   - khu vực cấm dừng, trên
   - phần đường dành cho người đi bộ qua đường
   - nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt,
   - nơi tầm nhìn bị che khuất; lùi xe
   - không quan sát hai bên, phía sau xe hoặc không có tín hiệu ‥
-- [g][6.4.g]. ‥ _liên quan_ ‥ tai nạn giao thông ‥ không dừng ‥ giữ nguyên hiện trường, ‥ trợ giúp người bị nạn ‥
+- [g][6.4.g]. ‥ _liên quan_ ‥ tai nạn giao thông ‥ <!-- markmap: fold -->
+  - không dừng ‥ giữ nguyên hiện trường, ‥ trợ giúp người bị nạn ‥
 - [h][6.4.h]. ‥ thiết bị phát tín hiệu ưu tiên ‥
-- [i][6.4.i]. Quay đầu xe
+- [i][6.4.i]. Quay đầu xe <!-- markmap: fold -->
   - phần đường dành cho người đi bộ qua đường,
   - trên cầu, đầu cầu, gầm cầu vượt, ngầm,
   - tại nơi đường bộ giao nhau cùng mức với đường sắt,
   - đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất,
   - trên đường một chiều ‥
-- [k][6.4.k]. (chuyển hướng)
+- [k][6.4.k]. (chuyển hướng) <!-- markmap: fold -->
   - quay đầu xe ‥ cấm quay đầu ‥
   - rẽ trái ‥ cấm rẽ trái ‥
   - rẽ phải ‥ cấm rẽ phải ‥
-- [l][6.4.l]. ‥ khoảng cách an toàn ‥ va chạm ‥ biển báo hiệu “Cự ly tối thiểu giữa hai xe” ‥
+- [l][6.4.l]. ‥ khoảng cách an toàn ‥ <!-- markmap: fold -->
+  - va chạm ‥ biển báo hiệu “Cự ly tối thiểu giữa hai xe” ‥
 
 ### [5][6.5]. ‥ 4.000.000 ‥ 6.000.000 đồng ‥
 
@@ -131,14 +134,14 @@ markmap:
 - [h][6.5.h]. ‥ cầm ‥ sử dụng điện thoại ‥
 - [i][6.5.i]. Đi vào ‥ đường ‥ cấm ‥
 - [k][6.5.k]. Dừng xe, đỗ xe, quay đầu xe ‥ gây ùn tắc ‥
-- [l][6.5.l]. **Chuyển hướng** không _nhường quyền đi trước_ ‥
+- [l][6.5.l]. **Chuyển hướng** không _nhường quyền đi trước_ ‥ <!-- markmap: fold -->
   - người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ;
   - xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
-- [m][6.5.m]. **Chuyển hướng** không _**nhường đường**_ ‥
+- [m][6.5.m]. **Chuyển hướng** không _**nhường đường**_ ‥ <!-- markmap: fold -->
   - các xe đi ngược chiều;
   - người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
 - [n][6.5.n]. ‥ **nhường đường** ‥ từ đường không ưu tiên ‥ từ đường nhánh ‥
-- [o][6.5.o]. ‥ **nhường đường** cho xe
+- [o][6.5.o]. ‥ **nhường đường** cho xe ... vòng xuyến <!-- markmap: fold -->
   - ‥ đi đến từ bên phải tại nơi đường giao nhau <br/>không có báo hiệu đi theo vòng xuyến;
   - ‥ đi đến từ bên trái tại nơi đường giao nhau <br/>có báo hiệu đi theo vòng xuyến;
 - [p][6.5.p]. Chở người trên thùng xe ‥ nóc xe; ‥ đu bám ở cửa xe, ‥ thành xe ‥
@@ -159,7 +162,8 @@ markmap:
 
 ### [8][6.8]. ‥ 16.000.000 ‥ 18.000.000 đồng ‥
 
-- **gây** tai nạn giao thông _không_ dừng ‥ giữ nguyên hiện trường ‥ trợ giúp người bị nạn, ‥ trình báo ‥
+- **gây** tai nạn giao thông <!-- markmap: fold -->
+  - _không_ dừng ‥ giữ nguyên hiện trường ‥ trợ giúp người bị nạn, ‥ trình báo ‥
 
 ### [9][6.9]. ‥ 18.000.000 ‥ 20.000.000 đồng ‥
 
@@ -170,12 +174,13 @@ markmap:
 
 ### [10][6.10]. ‥ 20.000.000 ‥ 22.000.000 đồng ‥
 
-- [a][6.10.a]. ‥ ‥ gây tai nạn giao thông ‥
+- [a][6.10.a]. ‥ ‥ gây tai nạn giao thông ‥ <!-- markmap: fold -->
   - không quan sát, giảm tốc độ ‥ quá tốc độ ‥;
   - dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường ‥ ;
   - ‥ phần đường, làn đường, ‥ khoảng cách an toàn ‥
   - đi vào đường ‥ cấm
-- [b][6.10.b]. ‥ gây tai nạn giao thông: - điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1;
+- [b][6.10.b]. ‥ gây tai nạn giao thông: <!-- markmap: fold -->
+  - điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1;
   - điểm c khoản 2;
   - điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3;
   - điểm a, điểm c, điểm d khoản 4;
@@ -214,14 +219,14 @@ markmap:
 
 ### [16][6.16]. ‥ trừ điểm giấy phép lái xe ‥
 
-- [a][6.16.a]. ‥ điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
-  - bị trừ điểm giấy phép lái xe 02 điểm;
-- [b][6.16.b]. ‥ điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
-  - bị trừ điểm giấy phép lái xe 04 điểm;
-- [c][6.16.c]. ‥ điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
-  - bị trừ điểm giấy phép lái xe 06 điểm;
-- [d][6.16.d]. ‥ điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
-  - bị trừ điểm giấy phép lái xe 10 điểm.
+- [a][6.16.a]. ... 02 điểm; <!-- markmap: fold -->
+  - ‥ điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
+- [b][6.16.b]. ... 04 điểm; <!-- markmap: fold -->
+  - ‥ điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
+- [c][6.16.c]. ... 06 điểm; <!-- markmap: fold -->
+  - ‥ điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
+- [d][6.16.d]. ... 10 điểm. <!-- markmap: fold -->
+  - ‥ điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
 
 ## [Điều 13][13]. <br/> ‥ điều kiện ‥ phương tiện ‥
 
