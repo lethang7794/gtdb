@@ -1,28 +1,36 @@
+---
+title: 'Nghị định 168 ‥ xử phạt vi phạm ‥ xe ôtô ‥'
+abstract:
+publishedOn: '2025-01-15T12:00:00-0400'
+markmap:
+  maxWidth: 400
+---
+
 # [Nghị định 168]<br/>... xử phạt vi phạm ... xe ôtô
 
-## <A id="6">Điều 6.</A><br/> ... quy tắc giao thông ...
+## [Điều 6][6]<br/> ... quy tắc giao thông ...
 
-### <A id="6.1">1.</A> ... 400.000 ... 600.000 đồng ...
+### [1][6.1] ... 400.000 ... 600.000 đồng ...
 
-- <A id="6.1.a">a.</A> ... hiệu lệnh ... biển báo hiệu, vạch kẻ đường ...
+- [a][6.1.a] ... hiệu lệnh ... biển báo hiệu, vạch kẻ đường ...
 
-- <A id="6.1.b">b.</A> ... dừng xe, đỗ xe ... tín hiệu ...
+- [b][6.1.b] ... dừng xe, đỗ xe ... tín hiệu ...
 
-- <A id="6.1.c">c.</A> ... đèn khẩn cấp ...
+- [c][6.1.c] ... đèn khẩn cấp ...
 
-- <A id="6.1.d">d.</A> ... biển báo hiệu ... xe kéo ...
+- [d][6.1.d] ... biển báo hiệu ... xe kéo ...
 
-- <A id="6.1.đ">đ.</A> ... còi ...
+- [đ][6.1.đ] ... còi ...
 
-### <A id="6.2">2.</A> ... 600.000 ... 800.000 đồng ...
+### [2][6.2] ... 600.000 ... 800.000 đồng ...
 
-- <A id="6.2.a">a.</A> Chuyển làn đường ...
+- [a][6.2.a] Chuyển làn đường ...
 
-- <A id="6.2.b">b.</A> Chở người ... quá số lượng ...
+- [b][6.2.b] Chở người ... quá số lượng ...
 
-- <A id="6.2.c">c.</A> ... nhường đường ... nơi đường bộ giao nhau ...
+- [c][6.2.c] ... nhường đường ... nơi đường bộ giao nhau ...
 
-- <A id="6.2.d">d.</A> Dừng xe, đỗ xe
+- [d][6.2.d] Dừng xe, đỗ xe
 
   - trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe
   - không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe
@@ -30,7 +38,7 @@
   - trên dải phân cách cố định ở giữa hai phần đường xe chạy;
   - đỗ xe trên dốc không chèn bánh;
 
-- <A id="6.2.đ">đ.</A>
+- [đ][6.2.đ]
   - Dừng xe
     - không sát theo lề đường, vỉa hè phía bên phải theo chiều đi hoặc
     - bánh xe gần nhất cách lề đường, vỉa hè quá 0,25 mét
@@ -46,11 +54,11 @@
   - dừng xe
     - nơi có biển “Cấm dừng xe ...”
 
-### <A id="6.3">3.</A> ... 800.000 ... 1.000.000 đồng ...
+### [3][6.3] ... 800.000 ... 1.000.000 đồng ...
 
-- <A id="6.3.a">a.</A> ... quá tốc độ ... dưới 10 km/h;
+- [a][6.3.a] ... quá tốc độ ... dưới 10 km/h;
 
-- <A id="6.3.b">b.</A>
+- [b][6.3.b]
 
   - ... còi, rú ga liên tục; ... còi hơi,
   - ... đèn chiếu xa
@@ -59,16 +67,16 @@
     - ... đi ngược chiều ...
     - ... chuyển hướng xe ... nơi đường giao nhau ...
 
-- <A id="6.3.c">c.</A> Chuyển hướng
+- [c][6.3.c] Chuyển hướng
 
   - không quan sát
   - không bảo đảm khoảng cách an toàn với xe phía sau
   - không giảm tốc độ
   - không có tín hiệu báo hướng rẽ ... không ... liên tục ...
 
-- <A id="6.3.d">d.</A> ... dừng xe, đỗ xe ... đường sắt ...
+- [d][6.3.d] ... dừng xe, đỗ xe ... đường sắt ...
 
-- <A id="6.3.đ">đ.</A> Dừng xe, đỗ xe
+- [đ][6.3.đ] Dừng xe, đỗ xe
 
   - nơi đường bộ giao nhau ... 05 mét ...
   - điểm đón, trả khách
@@ -78,290 +86,431 @@
   - nơi mở dải phân cách giữa
   - cách xe ô tô ... đỗ ngược chiều ... 20 mét ...
 
-- <A id="6.3.e">e.</A> Đỗ xe
+- [e][6.3.e] Đỗ xe
 
   - không sát ... lề đường ... 0,25 mét;
   - ... đường dành riêng cho xe buýt;
   - ... miệng cống ... hầm ... điện cao thế, ... xe chữa cháy lấy nước...
   - ... biển “Cấm ...” ...
 
-- <A id="6.3.g">g.</A> ... đèn chiếu sáng ...
+- [g][6.3.g] ... đèn chiếu sáng ...
 
-- <A id="6.3.h">h.</A> ... ô tô kéo ... đẩy xe khác, vật khác ...
+- [h][6.3.h] ... ô tô kéo ... đẩy xe khác, vật khác ...
 
-- <A id="6.3.i">i.</A> ... người trên xe được kéo ...
+- [i][6.3.i] ... người trên xe được kéo ...
 
-- <A id="6.3.k">k.</A> Không thắt dây đai an toàn ...
+- [k][6.3.k] Không thắt dây đai an toàn ...
 
-- <A id="6.3.l">l.</A> Chở người ... không thắt dây đai an toàn ...
+- [l][6.3.l] Chở người ... không thắt dây đai an toàn ...
 
-- <A id="6.3.m">m.</A> Chở trẻ em ... ngồi cùng hàng ghế với người lái xe ... không sử dụng thiết bị an toàn ...
+- [m][6.3.m] Chở trẻ em ... ngồi cùng hàng ghế với người lái xe ... không sử dụng thiết bị an toàn ...
 
-- <A id="6.3.n">n.</A> ... hầm ... không sử dụng đèn chiếu ... gần;
+- [n][6.3.n] ... hầm ... không sử dụng đèn chiếu ... gần;
 
-- <A id="6.3.o">o.</A> ... ... dưới tốc độ tối thiểu ...
+- [o][6.3.o] ... ... dưới tốc độ tối thiểu ...
 
-- <A id="6.3.p">p.</A> ... chạy tốc độ thấp hơn ... không đi ... làn đường bên phải ...
+- [p][6.3.p] ... chạy tốc độ thấp hơn ... không đi ... làn đường bên phải ...
   - trừ trường hợp các xe khác đi cùng chiều quá tốc độ quy định.
 
-### <A id="6.4">4.</A> ... 2.000.000 ... 3.000.000 đồng ...
+### [4][6.4] ... 2.000.000 ... 3.000.000 đồng ...
 
-- <A id="6.4.a">a.</A> ... không đủ điều kiện đã thu phí theo hình thức điện tử tự động không dừng (xe không gắn thẻ đầu cuối) đi vào làn đường dành riêng thu phí theo hình thức điện tử tự động không dừng tại các trạm thu phí;
+- [a][6.4.a] ... không đủ điều kiện đã thu phí theo hình thức điện tử tự động không dừng (xe không gắn thẻ đầu cuối) đi vào làn đường dành riêng thu phí theo hình thức điện tử tự động không dừng tại các trạm thu phí;
 
-- <A id="6.4.b">b.</A> Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái (theo hướng lưu thông) của đường đôi; trên đoạn đường cong hoặc gần đầu dốc nơi tầm nhìn bị che khuất; trên cầu (trừ trường hợp tổ chức giao thông cho phép), gầm cầu vượt (trừ những nơi cho phép dừng xe, đỗ xe), song song với một xe khác đang dừng, đỗ, trừ hành vi vi phạm quy định tại điểm c khoản 7 Điều này;
+- [b][6.4.b] Dừng xe, đỗ xe tại vị trí: bên trái đường một chiều hoặc bên trái (theo hướng lưu thông) của đường đôi; trên đoạn đường cong hoặc gần đầu dốc nơi tầm nhìn bị che khuất; trên cầu (trừ trường hợp tổ chức giao thông cho phép), gầm cầu vượt (trừ những nơi cho phép dừng xe, đỗ xe), song song với một xe khác đang dừng, đỗ, trừ hành vi vi phạm quy định tại điểm c khoản 7 Điều này;
 
-- <A id="6.4.c">c.</A> Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng ngay tại nơi đường bộ giao nhau cùng mức với đường sắt;
+- [c][6.4.c] Không thực hiện biện pháp bảo đảm an toàn theo quy định khi xe ô tô bị hư hỏng ngay tại nơi đường bộ giao nhau cùng mức với đường sắt;
 
-- <A id="6.4.d">d.</A> Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn;
+- [d][6.4.d] Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn;
 
-- <A id="6.4.đ">đ.</A> Lùi xe, quay đầu xe trong hầm đường bộ; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo "Chú ý xe đỗ" (hoặc đèn cảnh báo) về phía sau xe khoảng cách đảm bảo an toàn khi dừng xe, đỗ xe trong hầm đường bộ trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe;
+- [đ][6.4.đ] Lùi xe, quay đầu xe trong hầm đường bộ; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo "Chú ý xe đỗ" (hoặc đèn cảnh báo) về phía sau xe khoảng cách đảm bảo an toàn khi dừng xe, đỗ xe trong hầm đường bộ trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe;
 
-- <A id="6.4.e">e.</A> Lùi xe ở đường một chiều, đường có biển “Cấm đi ngược chiều”, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất; lùi xe không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe, trừ hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
+- [e][6.4.e] Lùi xe ở đường một chiều, đường có biển “Cấm đi ngược chiều”, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất; lùi xe không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe, trừ hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
 
-- <A id="6.4.g">g.</A> ... có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, trừ hành vi vi phạm quy định tại khoản 8 Điều này;
+- [g][6.4.g] ... có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, trừ hành vi vi phạm quy định tại khoản 8 Điều này;
 
-- <A id="6.4.h">h.</A> Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+- [h][6.4.h] Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
 
-- <A id="6.4.i">i.</A> Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời hoặc tổ chức giao thông tại những khu vực này có bố trí nơi quay đầu xe;
+- [i][6.4.i] Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời hoặc tổ chức giao thông tại những khu vực này có bố trí nơi quay đầu xe;
 
-- <A id="6.4.k">k.</A> Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển; điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển; điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển;
+- [k][6.4.k] Quay đầu xe tại nơi có biển báo hiệu có nội dung cấm quay đầu đối với loại phương tiện đang điều khiển; điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển; điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển;
 
-- <A id="6.4.l">l.</A> Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”, trừ các hành vi vi phạm quy định tại điểm d khoản 5 Điều này.
+- [l][6.4.l] Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”, trừ các hành vi vi phạm quy định tại điểm d khoản 5 Điều này.
 
-### <A id="6.5">5.</A> ... 4.000.000 ... 6.000.000 đồng ...
+### [5][6.5] ... 4.000.000 ... 6.000.000 đồng ...
 
-- <A id="6.5.a">a.</A> [Vượt xe] trong những trường hợp không được vượt, [vượt xe] tại đoạn đường có biển báo hiệu có nội dung cấm vượt (đối với loại phương tiện đang điều khiển); không có tín hiệu trước khi vượt hoặc có tín hiệu [vượt xe] nhưng không sử dụng trong suốt quá trình vượt xe; vượt bên phải xe khác trong trường hợp không được phép;
+- [a][6.5.a] [Vượt xe] trong những trường hợp không được vượt, [vượt xe] tại đoạn đường có biển báo hiệu có nội dung cấm vượt (đối với loại phương tiện đang điều khiển); không có tín hiệu trước khi vượt hoặc có tín hiệu [vượt xe] nhưng không sử dụng trong suốt quá trình vượt xe; vượt bên phải xe khác trong trường hợp không được phép;
 
-- <A id="6.5.b">b.</A> ... không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) trừ hành vi quy định tại điểm a khoản 4 Điều này; điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;
+- [b][6.5.b] ... không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) trừ hành vi quy định tại điểm a khoản 4 Điều này; điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;
 
-- <A id="6.5.c">c.</A> Tránh xe đi ngược chiều không đúng quy định (trừ hành vi vi phạm sử dụng đèn chiếu xa khi tránh xe đi ngược chiều quy định tại điểm b khoản 3 Điều này); không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+- [c][6.5.c] Tránh xe đi ngược chiều không đúng quy định (trừ hành vi vi phạm sử dụng đèn chiếu xa khi tránh xe đi ngược chiều quy định tại điểm b khoản 3 Điều này); không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
 
-- <A id="6.5.d">d.</A> Không tuân thủ quy định khi vào hoặc ra đường cao tốc; điều khiển xe chạy ở làn dừng xe khẩn cấp hoặc phần lề đường của đường cao tốc; không tuân thủ quy định về khoảng cách an toàn đối với xe chạy liền trước khi chạy trên đường cao tốc;
+- [d][6.5.d] Không tuân thủ quy định khi vào hoặc ra đường cao tốc; điều khiển xe chạy ở làn dừng xe khẩn cấp hoặc phần lề đường của đường cao tốc; không tuân thủ quy định về khoảng cách an toàn đối với xe chạy liền trước khi chạy trên đường cao tốc;
 
-- <A id="6.5.đ">đ.</A> ... quá tốc độ quy định từ 10 km/h đến 20 km/h;
+- [đ][6.5.đ] ... quá tốc độ quy định từ 10 km/h đến 20 km/h;
 
-- <A id="6.5.e">e.</A> Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên;
+- [e][6.5.e] Xe không được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên;
 
-- <A id="6.5.g">g.</A> Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc [chuyển làn đường] không đúng quy định “mỗi lần [chuyển làn đường] chỉ được phép chuyển sang một làn đường liền kề” khi chạy trên đường cao tốc;
+- [g][6.5.g] Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc [chuyển làn đường] không đúng quy định “mỗi lần [chuyển làn đường] chỉ được phép chuyển sang một làn đường liền kề” khi chạy trên đường cao tốc;
 
-- <A id="6.5.h">h.</A> Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ;
+- [h][6.5.h] Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ;
 
-- <A id="6.5.i">i.</A> Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm d khoản 9, điểm đ khoản 11 Điều này, hành vi bị cấm đi vào công trình thủy lợi và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+- [i][6.5.i] Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm d khoản 9, điểm đ khoản 11 Điều này, hành vi bị cấm đi vào công trình thủy lợi và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
 
-- <A id="6.5.k">k.</A> Dừng xe, đỗ xe, quay đầu xe trái quy định gây ùn tắc giao thông;
+- [k][6.5.k] Dừng xe, đỗ xe, quay đầu xe trái quy định gây ùn tắc giao thông;
 
-- <A id="6.5.l">l.</A> Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+- [l][6.5.l] Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
 
-- <A id="6.5.m">m.</A> Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+- [m][6.5.m] Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
 
-- <A id="6.5.n">n.</A> Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính;
+- [n][6.5.n] Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính;
 
-- <A id="6.5.o">o.</A> Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến; không giảm tốc độ và nhường đường cho xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến;
+- [o][6.5.o] Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến; không giảm tốc độ và nhường đường cho xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến;
 
-- <A id="6.5.p">p.</A> Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy;
+- [p][6.5.p] Chở người trên thùng xe trái quy định; chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy;
 
-- <A id="6.5.q">q.</A> Mở cửa xe, để cửa xe mở không bảo đảm an toàn.
+- [q][6.5.q] Mở cửa xe, để cửa xe mở không bảo đảm an toàn.
 
-### <A id="6.6">6.</A> ... 6.000.000 ... 8.000.000 đồng ...
+### [6][6.6] ... 6.000.000 ... 8.000.000 đồng ...
 
-- <A id="6.6.a">a.</A> ... quá tốc độ quy định trên 20 km/h đến 35 km/h;
+- [a][6.6.a] ... quá tốc độ quy định trên 20 km/h đến 35 km/h;
 
-- <A id="6.6.b">b.</A> Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;
+- [b][6.6.b] Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;
 
-- <A id="6.6.c">c.</A> ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở;
+- [c][6.6.c] ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở;
 
-- <A id="6.6.d">d.</A> ... đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan.
+- [d][6.6.d] ... đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan.
 
-### <A id="6.7">7.</A> ... 12.000.000 ... 14.000.000 đồng ...
+### [7][6.7] ... 12.000.000 ... 14.000.000 đồng ...
 
-- <A id="6.7.a">a.</A> ... quá tốc độ quy định trên 35 km/h;
+- [a][6.7.a] ... quá tốc độ quy định trên 35 km/h;
 
-- <A id="6.7.b">b.</A> ... chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc;
+- [b][6.7.b] ... chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ đi vào đường cao tốc;
 
-- <A id="6.7.c">c.</A> Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp khi gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe ở làn dừng xe khẩn cấp trên đường cao tốc; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo “Chú ý xe đỗ” (hoặc đèn cảnh báo) về phía sau xe khoảng cách tối thiểu 150 mét khi dừng xe, đỗ xe trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe trên một phần làn đường xe chạy trên đường cao tốc.
+- [c][6.7.c] Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu bằng đèn khẩn cấp khi gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe ở làn dừng xe khẩn cấp trên đường cao tốc; không có báo hiệu bằng đèn khẩn cấp, không đặt biển cảnh báo “Chú ý xe đỗ” (hoặc đèn cảnh báo) về phía sau xe khoảng cách tối thiểu 150 mét khi dừng xe, đỗ xe trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe trên một phần làn đường xe chạy trên đường cao tốc.
 
-### <A id="6.8">8.</A> ... 16.000.000 ... 18.000.000 đồng đối với người điều khiển xe thực hiện hành vi vi phạm gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất.
+### [8][6.8] ... 16.000.000 ... 18.000.000 đồng đối với người điều khiển xe thực hiện hành vi vi phạm gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất.
 
-### <A id="6.9">9.</A> ... 18.000.000 ... 20.000.000 đồng ...
+### [9][6.9] ... 18.000.000 ... 20.000.000 đồng ...
 
-- <A id="6.9.a">a.</A> ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở;
+- [a][6.9.a] ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở;
 
-- <A id="6.9.b">b.</A> Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+- [b][6.9.b] Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
 
-- <A id="6.9.c">c.</A> Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+- [c][6.9.c] Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
 
-- <A id="6.9.d">d.</A> Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển "Cấm đi ngược chiều”, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
+- [d][6.9.d] Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển "Cấm đi ngược chiều”, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
 
-### <A id="6.10">10.</A> ... 20.000.000 ... 22.000.000 đồng ...
+### [10][6.10] ... 20.000.000 ... 22.000.000 đồng ...
 
-- <A id="6.10.a">a.</A> ... không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông; điều khiển xe quá tốc độ quy định gây tai nạn giao thông; dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, [chuyển làn đường] không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển gây tai nạn giao thông, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
+- [a][6.10.a] ... không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông; điều khiển xe quá tốc độ quy định gây tai nạn giao thông; dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, [chuyển làn đường] không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển gây tai nạn giao thông, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này;
 
-- <A id="6.10.b">b.</A> Vi phạm quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông: điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1; điểm c khoản 2; điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3; điểm a, điểm c, điểm d khoản 4; điểm c, điểm d, điểm e, điểm h, điểm n, điểm o, điểm q khoản 5; điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này.
+- [b][6.10.b] Vi phạm quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông: điểm a, điểm b, điểm c, điểm d, điểm đ khoản 1; điểm c khoản 2; điểm b, điểm g, điểm h, điểm n, điểm o, điểm p, khoản 3; điểm a, điểm c, điểm d khoản 4; điểm c, điểm d, điểm e, điểm h, điểm n, điểm o, điểm q khoản 5; điểm b khoản 7; điểm b, điểm c, điểm d khoản 9 Điều này.
 
-### <A id="6.11">11.</A> ... 30.000.000 ... 40.000.000 đồng ...
+### [11][6.11] ... 30.000.000 ... 40.000.000 đồng ...
 
-- <A id="6.11.a">a.</A> ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+- [a][6.11.a] ... trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
 
-- <A id="6.11.b">b.</A> Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+- [b][6.11.b] Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
 
-- <A id="6.11.c">c.</A> ... trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng;
+- [c][6.11.c] ... trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng;
 
-- <A id="6.11.d">d.</A> Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
+- [d][6.11.d] Không chấp hành yêu cầu kiểm tra về chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
 
-- <A id="6.11.đ">đ.</A> ... đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
+- [đ][6.11.đ] ... đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, quay đầu xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.
 
-### <A id="6.12">12.</A> ... 40.000.000 ... 50.000.000 đồng ...
+### [12][6.12] ... 40.000.000 ... 50.000.000 đồng ...
 
 - ... lạng lách, đánh võng ...
 - quá tốc độ đuổi nhau ...
 - dùng chân điều khiển vô lăng xe ...
 
-### <A id="6.13">13.</A> ... 50.000.000 ... 70.000.000 đồng
+### [13][6.13] ... 50.000.000 ... 70.000.000 đồng
 
 - khoản 12 Điều này ... gây tai nạn giao thông.
 
-### <A id="6.14">14.</A> Tịch thu phương tiện
+### [14][6.14] Tịch thu phương tiện
 
 - tái phạm ... lạng lách, đánh võng ...
 
-### <A id="6.15">15.</A> ... xử phạt bổ sung ...
+### [15][6.15] ... xử phạt bổ sung ...
 
-- <A id="6.15.a">a.</A> ... bị tịch thu thiết bị phát tín hiệu ưu tiên ...
+- [a][6.15.a] ... bị tịch thu thiết bị phát tín hiệu ưu tiên ...
 
-- <A id="6.15.b">b.</A> ... khoản 12 Điều này
+- [b][6.15.b] ... khoản 12 Điều này
 
   - bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;
 
-- <A id="6.15.c">c.</A> ... điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
+- [c][6.15.c] ... điểm a, điểm b, điểm c, điểm d khoản 11; khoản 13; khoản 14 Điều này
 
   - bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.
 
-### <A id="6.16">16.</A> ... trừ điểm giấy phép lái xe ...
+### [16][6.16] ... trừ điểm giấy phép lái xe ...
 
-- <A id="6.16.a">a.</A> ... điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
+- [a][6.16.a] ... điểm h, điểm i khoản 3;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4;<br/>điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i, điểm k, điểm n, điểm o khoản 5 Điều này
 
   - bị trừ điểm giấy phép lái xe 02 điểm;
 
-- <A id="6.16.b">b.</A> ... điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
+- [b][6.16.b] ... điểm h khoản 5;<br/>khoản 6;<br/>điểm b khoản 7;<br/>điểm b, điểm c, điểm d khoản 9 Điều này
 
   - bị trừ điểm giấy phép lái xe 04 điểm;
 
-- <A id="6.16.c">c.</A> ... điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
+- [c][6.16.c] ... điểm p khoản 5;<br/>điểm a, điểm c khoản 7;<br/>khoản 8 Điều này
 
   - bị trừ điểm giấy phép lái xe 06 điểm;
 
-- <A id="6.16.d">d.</A> ... điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
+- [d][6.16.d] ... điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
 
   - bị trừ điểm giấy phép lái xe 10 điểm.
 
-## <A id="13">Điều 13.</A><br/> ... điều kiện ... phương tiện ...
+## [Điều 13][13] <br/> ... điều kiện ... phương tiện ...
 
-### <A id="13.1">1.</A> ... 200.000 ... 400.000 đồng
+### [13.1][13.1] ... 200.000 ... 400.000 đồng
 
-- .. xe không có kính chắn gió ...
+- ... kính chắn gió ...
 
-### <A id="13.2">2.</A> ... 400.000 ... 600.000 đồng ...
+### [2][13.2] ... 400.000 ... 600.000 đồng ...
 
-- <A id="13.2.a">a.</A> ... đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, <br/> cần gạt nước, gương chiếu hậu, <br/>dây đai an toàn, <br/>dụng cụ thoát hiểm, thiết bị chữa cháy, <br/>đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe ...
+- [a][13.2.a] ... đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, <br/> cần gạt nước, gương chiếu hậu, <br/>dây đai an toàn, <br/>dụng cụ thoát hiểm, thiết bị chữa cháy, <br/>đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe ...
 
-- <A id="13.2.b">b.</A> ... còi ...
+- [b][13.2.b] ... còi ...
 
-- <A id="13.2.c">c.</A> ... bộ phận giảm thanh, giảm khói ...
+- [c][13.2.c] ... bộ phận giảm thanh, giảm khói ...
 
-### <A id="13.3">3.</A> ... 1.000.000 ... 2.000.000 đồng ...
+### [3][13.3] ... 1.000.000 ... 2.000.000 đồng ...
 
-- <A id="13.3.a">a.</A> ... lắp thêm đèn ...
+- [a][13.3.a] ... lắp thêm đèn ...
 
-- <A id="13.3.b">b.</A> ... hệ thống chuyển hướng ...
+- [b][13.3.b] ... hệ thống chuyển hướng ...
 
-- <A id="13.3.c">c.</A> ... bánh lốp ...
+- [c][13.3.c] ... bánh lốp ...
 
-- <A id="13.3.d">d.</A> ... lắp thêm ... tháo bớt ghế, giường ...
+- [d][13.3.d] ... lắp thêm ... tháo bớt ghế, giường ...
 
-### <A id="13.4">4.</A> ... 2.000.000 ... 3.000.000 đồng ...
+### [4][13.4] ... 2.000.000 ... 3.000.000 đồng ...
 
-- <A id="13.4.a">a.</A> ... đăng ký xe ... hết hạn
+- [a][13.4.a] ... đăng ký xe ... hết hạn
 
-- <A id="13.4.b">b.</A> ... thùng xe không đúng ... thông số ...
+- [b][13.4.b] ... thùng xe không đúng ... thông số ...
 
-- <A id="13.4.c">c.</A> ... phù hiệu, biểu trưng nhận diện _tương tự_ của các <br/>cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
+- [c][13.4.c] ... phù hiệu, biểu trưng nhận diện _tương tự_ của các <br/>cơ quan nhà nước, cơ quan ngoại giao, tổ chức quốc tế tại Việt Nam.
 
-### <A id="13.5">5.</A> ... 3.000.000 ... 4.000.000 đồng ...
+### [5][13.5] ... 3.000.000 ... 4.000.000 đồng ...
 
-- <A id="13.5.a">a.</A> ... tem kiểm định ... hết hiệu lực ... dưới 01 tháng ...
+- [a][13.5.a] ... tem kiểm định ... hết hiệu lực ... dưới 01 tháng ...
 
-- <A id="13.5.b">b.</A> ... hệ thống hãm...
+- [b][13.5.b] ... hệ thống hãm...
 
-- <A id="13.5.c">c.</A> ... niên hạn sử dụng
+- [c][13.5.c] ... niên hạn sử dụng
 
-- <A id="13.5.d">d.</A> ... còi ... quá âm lượng ...
+- [d][13.5.d] ... còi ... quá âm lượng ...
 
-### <A id="13.6">6.</A> ... 4.000.000 ... 6.000.000 đồng ...
+### [6][13.6] ... 4.000.000 ... 6.000.000 đồng ...
 
-- <A id="13.6.a">a.</A> ... đăng ký xe ... tem kiểm định ... bị tẩy xóa ...
+- [a][13.6.a] ... đăng ký xe ... tem kiểm định ... bị tẩy xóa ...
 
-- <A id="13.6.b">b.</A> ... tem kiểm định ... hết hiệu lực ... 01 tháng trở lên
+- [b][13.6.b] ... tem kiểm định ... hết hiệu lực ... 01 tháng trở lên
 
-### <A id="13.7">7.</A> ... 10.000.000 ... 12.000.000 đồng ...
+### [7][13.7] ... 10.000.000 ... 12.000.000 đồng ...
 
-- <A id="13.7.a">a.</A> ... quá phạm vi, tuyến đường, thời hạn cho phép;
+- [a][13.7.a] ... quá phạm vi, tuyến đường, thời hạn cho phép;
 
-- <A id="13.7.b">b.</A> ... không gắn biển số ...
+- [b][13.7.b] ... không gắn biển số ...
 
-### <A id="13.8">8.</A> ... 20.000.000 ... 26.000.000 đồng ...
+### [8][13.8] ... 20.000.000 ... 26.000.000 đồng ...
 
-- <A id="13.8.a">a.</A> ... biển số không đúng ... đăng ký xe ...
+- [a][13.8.a] ... biển số không đúng ... đăng ký xe ...
 
-- <A id="13.8.b">b.</A> ... không ... đủ **biển số** ... vị trí, ... rõ chữ ... bẻ cong ...
+- [b][13.8.b] ... không ... đủ **biển số** ... vị trí, ... rõ chữ ... bẻ cong ...
 
-### <A id="13.9">9.</A> Tịch thu phương tiện ...
+### [9][13.9] Tịch thu phương tiện ...
 
-- <A id="13.9.a">a.</A> ... quá niên hạn ...
+- [a][13.9.a] ... quá niên hạn ...
 
-- <A id="13.9.b">b.</A> ... xe sản xuất, lắp ráp trái quy định...
+- [b][13.9.b] ... xe sản xuất, lắp ráp trái quy định...
 
-### <A id="13.10">10.</A> ... xử phạt bổ sung ...
+### [10][13.10] ... xử phạt bổ sung ...
 
-- <A id="13.10.a">a.</A> ... điểm a khoản 8 Điều này
+- [a][13.10.a] ... điểm a khoản 8 Điều này
 
   - bị tịch thu biển số xe;
 
-- <A id="13.10.b">b.</A> ... điểm a khoản 4, điểm a khoản 6 Điều này ...
+- [b][13.10.b] ... điểm a khoản 4, điểm a khoản 6 Điều này ...
   - ... không chứng minh được nguồn gốc xuất xứ ...
     - bị tịch thu phương tiện.
 
-### <A id="13.11">11.</A> ... khắc phục hậu quả ...
+### [11][13.11] ... khắc phục hậu quả ...
 
-- <A id="13.11.a">a.</A> ... khoản 1; khoản 2; <br/>điểm b, điểm c khoản 3; <br/>điểm b khoản 4; <br/>điểm b, điểm d khoản 5; <br/>điểm b khoản 8 Điều này buộc
+- [a][13.11.a] ... khoản 1; khoản 2; <br/>điểm b, điểm c khoản 3; <br/>điểm b khoản 4; <br/>điểm b, điểm d khoản 5; <br/>điểm b khoản 8 Điều này buộc
 
   - lắp ... đủ thiết bị ... đủ tiêu chuẩn
   - ... khôi phục lại tình trạng ban đầu ...
 
-- <A id="13.11.b">b.</A> ... điểm a, điểm d khoản 3 Điều này ...
+- [b][13.11.b] ... điểm a, điểm d khoản 3 Điều này ...
 
   - lắp đầy đủ ...
   - ... tháo bỏ ...
 
-- <A id="13.11.c">c.</A> ... điểm c khoản 4 Điều này
+- [c][13.11.c] ... điểm c khoản 4 Điều này
 
   - khôi phục lại tình trạng ban đầu ...
 
-- <A id="13.11.d">d.</A> ... điểm a khoản 6 Điều này ...
+- [d][13.11.d] ... điểm a khoản 6 Điều này ...
   - nộp lại chứng nhận đăng ký xe ... bị tẩy xóa.
 
-### <A id="13.12">12.</A> điểm a khoản 6 Điều này
+### [12][13.12] điểm a khoản 6 Điều này
 
 - bị thu hồi chứng nhận đăng ký xe...
 
-### <A id="13.13">13.</A> ... trừ điểm giấy phép lái xe ..>
+### [13][13.13] ... trừ điểm giấy phép lái xe ..>
 
-- <A id="13.13.a">a.</A> ... điểm a, điểm b khoản 3; <br/>khoản 4; <br/>khoản 5; <br/>khoản 6; <br/>điểm a khoản 7 Điều này
+- [a][13.13.a] ... điểm a, điểm b khoản 3; <br/>khoản 4; <br/>khoản 5; <br/>khoản 6; <br/>điểm a khoản 7 Điều này
 
   - bị trừ điểm giấy phép lái xe 02 điểm;
 
-- <A id="13.13.b">b.</A> ... điểm b khoản 7, <br/>điểm b khoản 8 Điều này
+- [b][13.13.b] ... điểm b khoản 7, <br/>điểm b khoản 8 Điều này
 
   - bị trừ điểm giấy phép lái xe 06 điểm;
 
-- <A id="13.13.c">c.</A> ... điểm a khoản 8 Điều này
+- [c][13.13.c] ... điểm a khoản 8 Điều này
   - bị trừ điểm giấy phép lái xe 10 điểm.
+
+[Nghị định 168]: /vbpl/nghi-dinh-168-2024
+[6]: /vbpl/nghi-dinh-168-2024#6
+[6.1]: /vbpl/nghi-dinh-168-2024#6.1
+[6.1.a]: /vbpl/nghi-dinh-168-2024#6.1.a
+[6.1.b]: /vbpl/nghi-dinh-168-2024#6.1.b
+[6.1.c]: /vbpl/nghi-dinh-168-2024#6.1.c
+[6.1.d]: /vbpl/nghi-dinh-168-2024#6.1.d
+[6.1.đ]: /vbpl/nghi-dinh-168-2024#6.1.đ
+[6.2]: /vbpl/nghi-dinh-168-2024#6.2
+[6.2.a]: /vbpl/nghi-dinh-168-2024#6.2.a
+[6.2.b]: /vbpl/nghi-dinh-168-2024#6.2.b
+[6.2.c]: /vbpl/nghi-dinh-168-2024#6.2.c
+[6.2.d]: /vbpl/nghi-dinh-168-2024#6.2.d
+[6.2.đ]: /vbpl/nghi-dinh-168-2024#6.2.đ
+[6.3]: /vbpl/nghi-dinh-168-2024#6.3
+[6.3.a]: /vbpl/nghi-dinh-168-2024#6.3.a
+[6.3.b]: /vbpl/nghi-dinh-168-2024#6.3.b
+[6.3.c]: /vbpl/nghi-dinh-168-2024#6.3.c
+[6.3.d]: /vbpl/nghi-dinh-168-2024#6.3.d
+[6.3.đ]: /vbpl/nghi-dinh-168-2024#6.3.đ
+[6.3.e]: /vbpl/nghi-dinh-168-2024#6.3.e
+[6.3.g]: /vbpl/nghi-dinh-168-2024#6.3.g
+[6.3.h]: /vbpl/nghi-dinh-168-2024#6.3.h
+[6.3.i]: /vbpl/nghi-dinh-168-2024#6.3.i
+[6.3.k]: /vbpl/nghi-dinh-168-2024#6.3.k
+[6.3.l]: /vbpl/nghi-dinh-168-2024#6.3.l
+[6.3.m]: /vbpl/nghi-dinh-168-2024#6.3.m
+[6.3.n]: /vbpl/nghi-dinh-168-2024#6.3.n
+[6.3.o]: /vbpl/nghi-dinh-168-2024#6.3.o
+[6.3.p]: /vbpl/nghi-dinh-168-2024#6.3.p
+[6.4]: /vbpl/nghi-dinh-168-2024#6.4
+[6.4.a]: /vbpl/nghi-dinh-168-2024#6.4.a
+[6.4.b]: /vbpl/nghi-dinh-168-2024#6.4.b
+[6.4.c]: /vbpl/nghi-dinh-168-2024#6.4.c
+[6.4.d]: /vbpl/nghi-dinh-168-2024#6.4.d
+[6.4.đ]: /vbpl/nghi-dinh-168-2024#6.4.đ
+[6.4.e]: /vbpl/nghi-dinh-168-2024#6.4.e
+[6.4.g]: /vbpl/nghi-dinh-168-2024#6.4.g
+[6.4.h]: /vbpl/nghi-dinh-168-2024#6.4.h
+[6.4.i]: /vbpl/nghi-dinh-168-2024#6.4.i
+[6.4.k]: /vbpl/nghi-dinh-168-2024#6.4.k
+[6.4.l]: /vbpl/nghi-dinh-168-2024#6.4.l
+[6.5]: /vbpl/nghi-dinh-168-2024#6.5
+[6.5.a]: /vbpl/nghi-dinh-168-2024#6.5.a
+[6.5.b]: /vbpl/nghi-dinh-168-2024#6.5.b
+[6.5.c]: /vbpl/nghi-dinh-168-2024#6.5.c
+[6.5.d]: /vbpl/nghi-dinh-168-2024#6.5.d
+[6.5.đ]: /vbpl/nghi-dinh-168-2024#6.5.đ
+[6.5.e]: /vbpl/nghi-dinh-168-2024#6.5.e
+[6.5.g]: /vbpl/nghi-dinh-168-2024#6.5.g
+[6.5.h]: /vbpl/nghi-dinh-168-2024#6.5.h
+[6.5.i]: /vbpl/nghi-dinh-168-2024#6.5.i
+[6.5.k]: /vbpl/nghi-dinh-168-2024#6.5.k
+[6.5.l]: /vbpl/nghi-dinh-168-2024#6.5.l
+[6.5.m]: /vbpl/nghi-dinh-168-2024#6.5.m
+[6.5.n]: /vbpl/nghi-dinh-168-2024#6.5.n
+[6.5.o]: /vbpl/nghi-dinh-168-2024#6.5.o
+[6.5.p]: /vbpl/nghi-dinh-168-2024#6.5.p
+[6.5.q]: /vbpl/nghi-dinh-168-2024#6.5.q
+[6.6]: /vbpl/nghi-dinh-168-2024#6.6
+[6.6.a]: /vbpl/nghi-dinh-168-2024#6.6.a
+[6.6.b]: /vbpl/nghi-dinh-168-2024#6.6.b
+[6.6.c]: /vbpl/nghi-dinh-168-2024#6.6.c
+[6.6.d]: /vbpl/nghi-dinh-168-2024#6.6.d
+[6.7]: /vbpl/nghi-dinh-168-2024#6.7
+[6.7.a]: /vbpl/nghi-dinh-168-2024#6.7.a
+[6.7.b]: /vbpl/nghi-dinh-168-2024#6.7.b
+[6.7.c]: /vbpl/nghi-dinh-168-2024#6.7.c
+[6.8]: /vbpl/nghi-dinh-168-2024#6.8
+[6.9]: /vbpl/nghi-dinh-168-2024#6.9
+[6.9.a]: /vbpl/nghi-dinh-168-2024#6.9.a
+[6.9.b]: /vbpl/nghi-dinh-168-2024#6.9.b
+[6.9.c]: /vbpl/nghi-dinh-168-2024#6.9.c
+[6.9.d]: /vbpl/nghi-dinh-168-2024#6.9.d
+[6.10]: /vbpl/nghi-dinh-168-2024#6.10
+[6.10.a]: /vbpl/nghi-dinh-168-2024#6.10.a
+[6.10.b]: /vbpl/nghi-dinh-168-2024#6.10.b
+[6.11]: /vbpl/nghi-dinh-168-2024#6.11
+[6.11.a]: /vbpl/nghi-dinh-168-2024#6.11.a
+[6.11.b]: /vbpl/nghi-dinh-168-2024#6.11.b
+[6.11.c]: /vbpl/nghi-dinh-168-2024#6.11.c
+[6.11.d]: /vbpl/nghi-dinh-168-2024#6.11.d
+[6.11.đ]: /vbpl/nghi-dinh-168-2024#6.11.đ
+[6.12]: /vbpl/nghi-dinh-168-2024#6.12
+[6.13]: /vbpl/nghi-dinh-168-2024#6.13
+[6.14]: /vbpl/nghi-dinh-168-2024#6.14
+[6.15]: /vbpl/nghi-dinh-168-2024#6.15
+[6.15.a]: /vbpl/nghi-dinh-168-2024#6.15.a
+[6.15.b]: /vbpl/nghi-dinh-168-2024#6.15.b
+[6.15.c]: /vbpl/nghi-dinh-168-2024#6.15.c
+[6.16]: /vbpl/nghi-dinh-168-2024#6.16
+[6.16.a]: /vbpl/nghi-dinh-168-2024#6.16.a
+[6.16.b]: /vbpl/nghi-dinh-168-2024#6.16.b
+[6.16.c]: /vbpl/nghi-dinh-168-2024#6.16.c
+[6.16.d]: /vbpl/nghi-dinh-168-2024#6.16.d
+[13]: /vbpl/nghi-dinh-168-2024#13
+[13.1]: /vbpl/nghi-dinh-168-2024#13.1
+[13.2]: /vbpl/nghi-dinh-168-2024#13.2
+[13.2.a]: /vbpl/nghi-dinh-168-2024#13.2.a
+[13.2.b]: /vbpl/nghi-dinh-168-2024#13.2.b
+[13.2.c]: /vbpl/nghi-dinh-168-2024#13.2.c
+[13.3]: /vbpl/nghi-dinh-168-2024#13.3
+[13.3.a]: /vbpl/nghi-dinh-168-2024#13.3.a
+[13.3.b]: /vbpl/nghi-dinh-168-2024#13.3.b
+[13.3.c]: /vbpl/nghi-dinh-168-2024#13.3.c
+[13.3.d]: /vbpl/nghi-dinh-168-2024#13.3.d
+[13.4]: /vbpl/nghi-dinh-168-2024#13.4
+[13.4.a]: /vbpl/nghi-dinh-168-2024#13.4.a
+[13.4.b]: /vbpl/nghi-dinh-168-2024#13.4.b
+[13.4.c]: /vbpl/nghi-dinh-168-2024#13.4.c
+[13.5]: /vbpl/nghi-dinh-168-2024#13.5
+[13.5.a]: /vbpl/nghi-dinh-168-2024#13.5.a
+[13.5.b]: /vbpl/nghi-dinh-168-2024#13.5.b
+[13.5.c]: /vbpl/nghi-dinh-168-2024#13.5.c
+[13.5.d]: /vbpl/nghi-dinh-168-2024#13.5.d
+[13.6]: /vbpl/nghi-dinh-168-2024#13.6
+[13.6.a]: /vbpl/nghi-dinh-168-2024#13.6.a
+[13.6.b]: /vbpl/nghi-dinh-168-2024#13.6.b
+[13.7]: /vbpl/nghi-dinh-168-2024#13.7
+[13.7.a]: /vbpl/nghi-dinh-168-2024#13.7.a
+[13.7.b]: /vbpl/nghi-dinh-168-2024#13.7.b
+[13.8]: /vbpl/nghi-dinh-168-2024#13.8
+[13.8.a]: /vbpl/nghi-dinh-168-2024#13.8.a
+[13.8.b]: /vbpl/nghi-dinh-168-2024#13.8.b
+[13.9]: /vbpl/nghi-dinh-168-2024#13.9
+[13.9.a]: /vbpl/nghi-dinh-168-2024#13.9.a
+[13.9.b]: /vbpl/nghi-dinh-168-2024#13.9.b
+[13.10]: /vbpl/nghi-dinh-168-2024#13.10
+[13.10.a]: /vbpl/nghi-dinh-168-2024#13.10.a
+[13.10.b]: /vbpl/nghi-dinh-168-2024#13.10.b
+[13.11]: /vbpl/nghi-dinh-168-2024#13.11
+[13.11.a]: /vbpl/nghi-dinh-168-2024#13.11.a
+[13.11.b]: /vbpl/nghi-dinh-168-2024#13.11.b
+[13.11.c]: /vbpl/nghi-dinh-168-2024#13.11.c
+[13.11.d]: /vbpl/nghi-dinh-168-2024#13.11.d
+[13.12]: /vbpl/nghi-dinh-168-2024#13.12
+[13.13]: /vbpl/nghi-dinh-168-2024#13.13
+[13.13.a]: /vbpl/nghi-dinh-168-2024#13.13.a
+[13.13.b]: /vbpl/nghi-dinh-168-2024#13.13.b
+[13.13.c]: /vbpl/nghi-dinh-168-2024#13.13.c
