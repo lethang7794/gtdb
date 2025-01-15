@@ -11,6 +11,13 @@ export interface IBaseLinkProps extends PropsWithChildren {
   className?: string
 }
 
+const isNewTabUrl = (url: string): boolean => {
+  if (url.match('new-tab=true')) {
+    return true
+  }
+  return false
+}
+
 const isExternalUrl = (url: string, domain: string): boolean => {
   const urlLowerCase = url.toLowerCase()
 
@@ -42,6 +49,7 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
   const { href, children, ...linkProps } = props
 
   const isExternal = isExternalUrl(href.toString(), env.NEXT_PUBLIC_DOMAIN)
+  const isNewTab = isNewTabUrl(href.toString())
 
   const newLinkProps = { ...linkProps }
 
@@ -50,6 +58,19 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
     newLinkProps.target = '_blank'
   }
 
+  if (isNewTab) {
+    const cleanHref = href.toString().replace(/&*new-tab=true/, '')
+    return (
+      <a
+        href={cleanHref}
+        {...newLinkProps}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {children}
+      </a>
+    )
+  }
   return (
     <>
       {isExternal ? (
