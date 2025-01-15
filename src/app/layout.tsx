@@ -45,7 +45,7 @@ export default function RootLayout({
             minHeight: '72px',
           }}
         >
-          {/* <Header /> */}
+          <Header />
         </div>
         {children}
         <Footer />
