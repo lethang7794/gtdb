@@ -39,7 +39,7 @@ export default function RootLayout({
       >
         <Analytics />
         <SpeedInsights />
-        <div style={{ minHeight: 72 }}>
+        <div style={{ height: 'var(--header-height)' }}>
           <Header />
         </div>
         {children}
