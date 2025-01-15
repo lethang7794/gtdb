@@ -14,6 +14,9 @@ import LuatGT2024MindMap from '@/app/markmap/luat-TTATGTDB-2024/page'
 import { Spinner } from '@/components/block/spinner'
 import BaseLink from '@/components/base-link'
 import type { Route } from 'next'
+import ShareButton, {
+  ShareButtonWrapper,
+} from '@/components/block/share-button'
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
@@ -33,6 +36,8 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     NghiDinh168HDSD,
     LuatGT2024MindMap,
     Spinner,
+    ShareButton,
+    ShareButtonWrapper,
     ...components,
   }
 }
