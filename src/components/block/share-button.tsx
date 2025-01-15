@@ -11,15 +11,14 @@ export default function ShareButton({
 }: { path?: string; title?: string }) {
   const { toast } = useToast()
 
-  const shareTitle = title || document?.title || ''
-  const link = path
-    ? window?.location?.origin + path
-    : window?.location?.origin + window?.location?.pathname
-
   return (
     <button
       type="button"
       onClick={() => {
+        const shareTitle = title || document?.title || ''
+        const link = path
+          ? window?.location?.origin + path
+          : window?.location?.origin + window?.location?.pathname
         copyToClipboard(link)
         toast({
           title: `✅ Đã sao chép: ${shareTitle}`,
