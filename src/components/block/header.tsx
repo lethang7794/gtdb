@@ -39,7 +39,7 @@ export default function Header() {
     <header className="bg-white">
       <nav
         aria-label="Global"
-        className="mx-auto !flex max-w-7xl items-center justify-between p-6 py-3 lg:px-8"
+        className="mx-auto !flex max-w-7xl items-center justify-between p-6 py-3 lg:px-8 border-gray-200 border-b-[1px]"
         style={{
           display: 'none',
         }}
