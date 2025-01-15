@@ -39,8 +39,13 @@ export default function RootLayout({
       >
         <Analytics />
         <SpeedInsights />
-        <div style={{ height: 'var(--header-height)' }}>
-          <Header />
+        <div
+          style={{
+            height: '72px', // Use css variable will cause a delay because the css need time to load
+            minHeight: '72px',
+          }}
+        >
+          {/* <Header /> */}
         </div>
         {children}
         <Footer />
