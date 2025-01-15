@@ -1,7 +1,6 @@
 import matter from 'gray-matter'
 import { loadFile, readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
-import { unstable_cache } from 'next/cache'
 
 export const getMarkmapList = async () => {
   const fileNames = await readDirectory(MARKMAP_DIR_PATH)

@@ -2,15 +2,7 @@ import React from 'react'
 import dynamic from 'next/dynamic'
 
 import Markmap from '@/components/markmap'
-import BlogHero from '@/components/BlogHero'
 import { getMarkmapList, loadMarkmap } from '@/helpers/markmap-file-helper'
-
-const DivisionGroupsDemo = dynamic(
-  () => import('@/components/DivisionGroupsDemo')
-)
-const CircularColorsDemo = dynamic(
-  () => import('@/components/CircularColorsDemo')
-)
 
 import styles from './postSlug.module.css'
 import { env } from '@/env.mjs'
@@ -33,7 +25,7 @@ async function BlogPost({ params }) {
 
   return (
     <div>
-      <Markmap data={blogPost.content} classNameSvg="min-h-[calc(100vh-72px)]" />
+      <Markmap data={blogPost.content} classNameSvg={styles.markmapSVG} />
     </div>
   )
 }
