@@ -9,6 +9,10 @@ import { ImageResponse } from 'next/og'
 import { toHex, key } from '@/lib/crypto'
 import { LAW_ABBR } from '@/constant/laws'
 import { isDev } from '@/env.mjs'
+import type { ServerRuntime } from 'next'
+
+export const runtime: ServerRuntime = 'edge'
+// export const preferredRegion = ['sin1']
 
 export async function GET(request: Request) {
   try {
