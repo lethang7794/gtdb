@@ -19,6 +19,7 @@ const nextConfig = {
         // These rewrites are checked after headers/redirects
         // and before all files including _next/public files which
         // allows overriding page files
+
         {
           source: '/vbpl/nghi-dinh-168-2024',
           missing: [{ type: 'query', key: 's' }],
@@ -28,6 +29,17 @@ const nextConfig = {
           source: '/vbpl/nghi-dinh-168-2024',
           has: [{ type: 'query', key: 's', value: '(?<section>.*)' }],
           destination: '/vbpl/nghi-dinh-168-2024/:section#:section',
+        },
+
+        {
+          source: '/vbpl/luat-TTATGTDB-2024',
+          missing: [{ type: 'query', key: 's' }],
+          destination: `/vbpl/luat-TTATGTDB-2024/${VBPL_SECTION_ZERO}`,
+        },
+        {
+          source: '/vbpl/luat-TTATGTDB-2024',
+          has: [{ type: 'query', key: 's', value: '(?<section>.*)' }],
+          destination: '/vbpl/luat-TTATGTDB-2024/:section#:section',
         },
       ],
 
