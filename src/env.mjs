@@ -9,6 +9,7 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
+    VERCEL_ENV: z.enum(['development', 'preview', 'production']),
     NEXT_PUBLIC_SECRET: z.string(),
     NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
   },
@@ -33,6 +34,7 @@ export const env = createEnv({
    */
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
+    VERCEL_ENV: process.env.VERCEL_ENV,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
     NEXT_PUBLIC_CACHE_REVALIDATION: process.env.NEXT_PUBLIC_CACHE_REVALIDATION,
 

@@ -19,9 +19,11 @@ type Props = {
 
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
-  return Object.keys(items)
-    .map((key) => ({ slug: key }))
-    .slice(0, 20)
+  const staticParams = Object.keys(items).map((key) => ({ slug: key }))
+  if (env.VERCEL_ENV === 'production') {
+    return staticParams
+  }
+  return staticParams.slice(0, 5)
 }
 
 export async function generateMetadata(

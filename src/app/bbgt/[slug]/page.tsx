@@ -10,10 +10,15 @@ import {
 import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
 import Image from 'next/image'
+import { env } from '@/env.mjs'
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()
-  return roadSigns.map(([key]) => ({ slug: key })).slice(0, 20)
+  const staticParams = roadSigns.map(([key]) => ({ slug: key }))
+  if (env.VERCEL_ENV === 'production') {
+    return staticParams
+  }
+  return staticParams.slice(0, 5)
 }
 
 type Props = {

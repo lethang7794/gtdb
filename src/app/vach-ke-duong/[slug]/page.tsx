@@ -11,7 +11,11 @@ import Image from 'next/image'
 
 export async function generateStaticParams() {
   const markings = await getMarkingsArray()
-  return markings.map(([key]) => ({ slug: key })).slice(0, 20)
+  const staticParams = markings.map(([key]) => ({ slug: key }))
+  if (env.VERCEL_ENV === 'production') {
+    return staticParams
+  }
+  return staticParams.slice(0, 5)
 }
 
 type Props = {
