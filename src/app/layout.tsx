@@ -8,7 +8,7 @@ import './globals.css'
 import Header from '@/components/block/header'
 import { env } from '@/env.mjs'
 import { Footer } from '@/components/block/footer'
-import Head from 'next/head'
+import { PreloadResources } from '@/app/preload-resources'
 
 const fontSans = FontSans({
   subsets: ['latin'],
@@ -28,15 +28,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full">
-      <Head>
-        <link rel="preload" as="image" href="logo-landscape.svg" />
-      </Head>
       <body
         className={cn(
           'flex flex-col min-h-screen bg-background font-sans antialiased',
           fontSans.variable
         )}
       >
+        <PreloadResources />
         <Analytics />
         <SpeedInsights />
         <div
