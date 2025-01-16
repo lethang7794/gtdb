@@ -4,11 +4,7 @@ import { readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
 
 export const getMarkmaps = async () => {
-  console.log('process.cwd():', process.cwd())
-  console.log('process.env.PWD:', process.env.PWD)
-  console.log('process.execPath:', process.execPath)
-
-  const dirPath = path.join(MARKMAP_DIR_PATH)
+  const dirPath = MARKMAP_DIR_PATH
   const fileNames = await readDirectory(dirPath)
 
   const markmaps: Record<string, string>[] = []
