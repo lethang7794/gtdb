@@ -1,4 +1,4 @@
-import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
+import { VBPL_SECTION_ZERO } from "@/constant/vbpl"
 
 export function vbplSectionExplain(id?: string):
   | {
