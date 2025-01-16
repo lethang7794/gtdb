@@ -1,15 +1,11 @@
-import yaml from 'yaml'
 import { MarkingImage, type Marking } from '@/model/Marking'
 import { unstable_cache } from 'next/cache'
-import { loadFile } from '@/helpers/file-helper'
+import file from '@data/markings.yaml'
 
-const MARKINGS_REPO_PATH = 'data/markings.yaml'
 const MARKINGS_PUBLIC_PATH = 'markings'
 
 export const getMarkings = unstable_cache(async () => {
-  const file = await loadFile(MARKINGS_REPO_PATH)
-  const data = yaml.parse(file)
-  return data as Record<string, Marking>
+  return file as Record<string, Marking>
 })
 
 export const getMarkingsArray = unstable_cache(async () => {
