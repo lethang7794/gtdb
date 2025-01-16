@@ -10,6 +10,7 @@ export const env = createEnv({
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
     NEXT_PUBLIC_SECRET: z.string(),
+    NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
   },
   /*
    * Environment variables available on the client (and server).
@@ -33,6 +34,8 @@ export const env = createEnv({
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
+    NEXT_PUBLIC_CACHE_REVALIDATION: process.env.NEXT_PUBLIC_CACHE_REVALIDATION,
+
     NEXT_PUBLIC_APP_ENV: process.env.NEXT_PUBLIC_APP_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,
     NEXT_PUBLIC_BRAND: process.env.NEXT_PUBLIC_BRAND,
