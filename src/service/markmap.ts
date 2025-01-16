@@ -5,15 +5,10 @@ import { readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
 
 export const getMarkmaps = async () => {
-  console.log('Run pwd')
-  exec('pwd', (error, stdout, stderr) => {
-    if (error) {
-      console.error(`exec error: ${error}`)
-      return
-    }
-    console.log(`stdout: ${stdout}`)
-    console.error(`stderr: ${stderr}`)
-  })
+  console.log('process.cwd():', process.cwd())
+  console.log('process.env():', process.env)
+  console.log('process.execPath:', process.execPath)
+  console.log('process.argv:', process.argv)
 
   const dirPath = path.join('../..', MARKMAP_DIR_PATH)
   const fileNames = await readDirectory(dirPath)
