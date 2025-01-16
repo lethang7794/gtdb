@@ -14,7 +14,7 @@ type Props = {
 
 export async function generateStaticParams() {
   const items = await getMarkmaps()
-  const params = Object.keys(items).map((key) => ({ slug: key }))
+  const params = items.map((item) => ({ slug: item.slug }))
   return processStaticParams(params)
 }
 
