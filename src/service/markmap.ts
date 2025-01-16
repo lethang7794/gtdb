@@ -5,11 +5,12 @@ import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
 
 export const getMarkmaps = async () => {
   console.log('process.cwd():', process.cwd())
+  console.log('process.env.PWD:', process.env.PWD)
   console.log('process.env():', process.env)
   console.log('process.execPath:', process.execPath)
   console.log('process.argv:', process.argv)
 
-  const dirPath = path.join(process.cwd(), MARKMAP_DIR_PATH)
+  const dirPath = path.join(process.env.PWD || '', MARKMAP_DIR_PATH)
   const fileNames = await readDirectory(dirPath)
 
   const markmaps: Record<string, string>[] = []
@@ -30,7 +31,7 @@ export const getMarkmaps = async () => {
 }
 
 export const getMarkmapById = async (slug: string) => {
-  const dirPath = path.join(process.cwd(), MARKMAP_DIR_PATH)
+  const dirPath = path.join(process.env.PWD || '', MARKMAP_DIR_PATH)
   const filePath = path.join(dirPath, `${slug}.md`)
   const rawContent = await readFile(filePath)
   const { data: frontmatter, content } = matter(rawContent)
