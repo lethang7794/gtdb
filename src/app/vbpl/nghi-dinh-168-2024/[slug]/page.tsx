@@ -2,11 +2,11 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
 import { getToken } from '@/lib/crypto'
-import '../style.css'
 import { LAW_ABBR } from '@/constant/laws'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { Spinner } from '@/components/block/spinner'
+import { processStaticParams } from '@/lib/static-params'
+import '../style.css'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -17,11 +17,8 @@ const LAW = LAW_ABBR.nghiDinh168
 
 export async function generateStaticParams() {
   const items = await getND168s()
-  const staticParams = Object.keys(items).map((key) => ({ slug: key }))
-  if (env.VERCEL_ENV === 'production') {
-    return staticParams
-  }
-  return staticParams.slice(0, 5)
+  const params = Object.keys(items).map((key) => ({ slug: key }))
+  return processStaticParams(params)
 }
 
 export async function generateMetadata(

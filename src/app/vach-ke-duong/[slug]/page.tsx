@@ -8,14 +8,12 @@ import {
 import { MarkingImage } from '@/model/Marking'
 import { env } from '@/env.mjs'
 import Image from 'next/image'
+import { processStaticParams } from '@/lib/static-params'
 
 export async function generateStaticParams() {
-  const markings = await getMarkingsArray()
-  const staticParams = markings.map(([key]) => ({ slug: key }))
-  if (env.VERCEL_ENV === 'production') {
-    return staticParams
-  }
-  return staticParams.slice(0, 5)
+  const items = await getMarkingsArray()
+  const params = items.map(([key]) => ({ slug: key }))
+  return processStaticParams(params)
 }
 
 type Props = {
