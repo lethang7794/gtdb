@@ -10,22 +10,16 @@ import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
-  // Optionally, add any other Next.js config below
   transpilePackages: ['next-mdx-remote'],
 
-  experimental: {
-    turbo: {
-      rules: {
-        '*.yaml': [
-          {
-            loader: 'yaml-loader',
-            options: {
-              format: 'yaml',
-            },
-          },
-        ],
-      },
-    },
+  // Custom webpack configuration
+  webpack(config, options) {
+    config.module.rules.push({
+      test: /\.ya?ml$/,
+      use: "yaml-loader",
+    });
+
+    return config;
   },
 
   // Map an incoming request path to a different destination path
