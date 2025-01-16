@@ -1,5 +1,4 @@
 import path from 'node:path'
-import { exec } from 'node:child_process'
 import matter from 'gray-matter'
 import { readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
@@ -10,7 +9,7 @@ export const getMarkmaps = async () => {
   console.log('process.execPath:', process.execPath)
   console.log('process.argv:', process.argv)
 
-  const dirPath = path.join('../..', MARKMAP_DIR_PATH)
+  const dirPath = path.join(process.cwd(), MARKMAP_DIR_PATH)
   const fileNames = await readDirectory(dirPath)
 
   const markmaps: Record<string, string>[] = []
@@ -31,7 +30,7 @@ export const getMarkmaps = async () => {
 }
 
 export const getMarkmapById = async (slug: string) => {
-  const dirPath = path.join('../..', MARKMAP_DIR_PATH)
+  const dirPath = path.join(process.cwd(), MARKMAP_DIR_PATH)
   const filePath = path.join(dirPath, `${slug}.md`)
   const rawContent = await readFile(filePath)
   const { data: frontmatter, content } = matter(rawContent)
