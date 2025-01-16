@@ -59,7 +59,7 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
   }
 
   if (isNewTab) {
-    const cleanHref = href.toString().replace(/&*new-tab=true/, '')
+    const cleanHref = href.toString().replace(/&*new-tab=true/, '').replace("?&", "?").replace(/\?$/, "")
     return (
       <a
         href={cleanHref}
