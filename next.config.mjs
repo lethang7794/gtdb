@@ -4,6 +4,7 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkGfm from 'remark-gfm'
 import rehypeStringify from 'rehype-stringify'
+import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -21,7 +22,7 @@ const nextConfig = {
         {
           source: '/vbpl/nghi-dinh-168-2024',
           missing: [{ type: 'query', key: 's' }],
-          destination: '/vbpl/nghi-dinh-168-2024/0',
+          destination: `/vbpl/nghi-dinh-168-2024/${VBPL_SECTION_ZERO}`,
         },
         {
           source: '/vbpl/nghi-dinh-168-2024',

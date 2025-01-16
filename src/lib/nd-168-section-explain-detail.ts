@@ -4,6 +4,7 @@ import {
   isDieu,
   isKhoan,
   isDiem,
+  isSectionZero,
 } from '@/lib/vbpl-explain-section'
 import type { ND168 } from '@/model/ND168'
 import type { TrafficLight } from '@/model/TrafficLight'
@@ -18,7 +19,7 @@ export async function nd168SectionExplainDetail(id?: string): Promise<{
   khoan?: ND168
   diem?: ND168
 }> {
-  if (!id) {
+  if (!id || isSectionZero(id)) {
     return { path: '' }
   }
 

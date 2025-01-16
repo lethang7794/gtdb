@@ -1,3 +1,5 @@
+import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
+
 export function vbplSectionExplain(id?: string):
   | {
       type: 'chuong'
@@ -22,7 +24,7 @@ export function vbplSectionExplain(id?: string):
   | {
       path: ''
     } {
-  if (!id) {
+  if (!id || isSectionZero(id)) {
     return { path: '' }
   }
 
@@ -61,6 +63,10 @@ export function vbplSectionExplain(id?: string):
   }
 
   return { path: '' }
+}
+
+export function isSectionZero(id: string) {
+  return id === VBPL_SECTION_ZERO
 }
 
 export function isChuong(id: string) {
