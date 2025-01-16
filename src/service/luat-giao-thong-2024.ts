@@ -1,14 +1,8 @@
-import { cache } from 'react'
-import yaml from 'yaml'
-import { loadFile } from '@/helpers/file-helper'
 import type { LuatGT2024 } from '@/model/LuatGT2024'
 import { unstable_cache } from 'next/cache'
-
-export const LUAT_GT_2024_PATH = 'data/luat-TTATGTDT-2024.yaml'
+import data from '@data/luat-TTATGTDT-2024.yaml'
 
 export const getLuatGT2024s = unstable_cache(async () => {
-  const file = await loadFile(LUAT_GT_2024_PATH)
-  const data = yaml.parse(file)
   return data as Record<string, LuatGT2024>
 })
 
