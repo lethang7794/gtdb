@@ -6,7 +6,7 @@ import { isDev } from '@/env.mjs'
 
 const PWD = isDev
   ? process.cwd() // Work on local
-  : path.resolve('/vercel/path0')
+  : path.resolve('/vercel/path0') // Work on Vercel
 
 export const getMarkmaps = async () => {
   console.log('process.cwd():', process.cwd())
