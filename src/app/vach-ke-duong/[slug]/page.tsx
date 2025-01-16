@@ -8,10 +8,12 @@ import {
 import { MarkingImage } from '@/model/Marking'
 import { env } from '@/env.mjs'
 import Image from 'next/image'
+import { processStaticParams } from '@/lib/static-params'
 
 export async function generateStaticParams() {
-  const markings = await getMarkingsArray()
-  return markings.map(([key]) => ({ slug: key })).slice(0, 20)
+  const items = await getMarkingsArray()
+  const params = items.map(([key]) => ({ slug: key }))
+  return processStaticParams(params)
 }
 
 type Props = {

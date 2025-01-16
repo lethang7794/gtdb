@@ -9,6 +9,7 @@ import { env } from '@/env.mjs'
 import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
 import '../style.css'
+import { processStaticParams } from '@/lib/static-params'
 
 const LAW = LAW_ABBR.luatGT2024
 
@@ -19,9 +20,8 @@ type Props = {
 
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
-  return Object.keys(items)
-    .map((key) => ({ slug: key }))
-    .slice(0, 20)
+  const params = Object.keys(items).map((key) => ({ slug: key }))
+  return processStaticParams(params)
 }
 
 export async function generateMetadata(
