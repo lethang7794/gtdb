@@ -66,34 +66,8 @@ export default async function RoadSignPage({ params }: Props) {
         href={'/bbgt/'}
         scroll={false}
       >
-        <div className="flex items-center min-w-24 min-h-10">🔙 Trở lại</div>
+        <div className="flex items-center min-w-24 min-h-10">🔙 Danh sách biển báo</div>
       </Link>
-      <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
-        <div className="mx-auto relative aspect-square w-full max-w-72">
-          <Image
-            alt={slug}
-            fill={true}
-            src={getRoadSignImage(sign)}
-            className="h-[250px] w-full order-none object-contain object-bottom mb-1"
-          />
-        </div>
-        <div className="text-balance text-center leading-5">{sign.name}</div>
-        <br />
-        <div className="flex-grow" />
-        <div className="flex flex-col">
-          {/* <div className="text-balance text-center leading-5">
-            {sign.docs_name}
-          </div> */}
-          <MDX mdxSource={mdxSource} />
-          <div className="w-full mb-2 text-right border-t-2 border-b-2">
-            <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
-            <div className="italic text-gray-500 text-balance">
-              {sign.docs_source}
-            </div>
-          </div>
-          {/* <div className="whitespace-pre-wrap text-justify">{sign.docs}</div> */}
-        </div>
-      </div>
       <div className="flex justify-between w-full">
         {prevSignKey ? (
           <Link
@@ -122,6 +96,32 @@ export default async function RoadSignPage({ params }: Props) {
         ) : (
           <div className="min-w-24 min-h-10" />
         )}
+      </div>
+      <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
+        <div className="mx-auto relative aspect-square w-full max-w-72">
+          <Image
+            alt={slug}
+            fill={true}
+            src={getRoadSignImage(sign)}
+            className="h-[250px] w-full order-none object-contain object-bottom mb-1"
+          />
+        </div>
+        <div className="text-balance text-center leading-5">{sign.name}</div>
+        <br />
+        <div className="flex-grow" />
+        <div className="flex flex-col">
+          {/* <div className="text-balance text-center leading-5">
+            {sign.docs_name}
+          </div> */}
+          <MDX mdxSource={mdxSource} />
+          <div className="w-full mb-2 text-right border-t-2 border-b-2">
+            <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
+            <div className="italic text-gray-500 text-balance">
+              {sign.docs_source}
+            </div>
+          </div>
+          {/* <div className="whitespace-pre-wrap text-justify">{sign.docs}</div> */}
+        </div>
       </div>
     </div>
   )
