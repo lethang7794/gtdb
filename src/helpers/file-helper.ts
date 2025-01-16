@@ -36,7 +36,6 @@ export const loadFileFromRepo = async (
       try {
         const url = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${path}`
         const data = await fetch(url, {
-          cache: isProd ? 'force-cache' : 'no-store',
           // Vercel Data Cache (Edge Cache): Cache responses from data fetches.
           // See https://vercel.com/docs/infrastructure/data-cache
           next: {
