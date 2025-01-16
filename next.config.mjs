@@ -4,6 +4,7 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkGfm from 'remark-gfm'
 import rehypeStringify from 'rehype-stringify'
+import withYaml from '@importable/yaml/next'
 import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 
 /** @type {import('next').NextConfig} */
@@ -76,4 +77,4 @@ const withMDX = createMDX({
 })
 
 // Merge MDX config with Next.js config
-export default withMDX(nextConfig)
+export default withYaml(withMDX(nextConfig))
