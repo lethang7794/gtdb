@@ -1,14 +1,17 @@
+import path, { dirname } from 'node:path'
 import matter from 'gray-matter'
-import { loadFile, readDirectory, readFile } from '@/helpers/file-helper'
+import { readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
 
-export const getMarkmapList = async () => {
-  const fileNames = await readDirectory(MARKMAP_DIR_PATH)
+export const getMarkmaps = async () => {
+  const dirPath = MARKMAP_DIR_PATH
+  const fileNames = await readDirectory(dirPath)
 
   const markmaps: Record<string, string>[] = []
 
   for (const fileName of fileNames) {
-    const rawContent = await loadFile(`${MARKMAP_DIR_PATH}/${fileName}`)
+    const filePath = path.join(MARKMAP_DIR_PATH, fileName)
+    const rawContent = await readFile(filePath)
 
     const { data: frontmatter } = matter(rawContent)
 
@@ -21,8 +24,9 @@ export const getMarkmapList = async () => {
   return markmaps.sort((p1, p2) => (p1.publishedOn < p2.publishedOn ? 1 : -1))
 }
 
-export const loadMarkmap = async (slug: string) => {
-  const rawContent = await loadFile(`${MARKMAP_DIR_PATH}/${slug}.md`)
+export const getMarkmapById = async (slug: string) => {
+  const filePath = path.join(MARKMAP_DIR_PATH, `${slug}.md`)
+  const rawContent = await readFile(filePath)
   const { data: frontmatter, content } = matter(rawContent)
   return { frontmatter, content: rawContent }
 }

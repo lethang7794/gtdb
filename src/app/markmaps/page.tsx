@@ -1,7 +1,7 @@
 import React from 'react'
 
 import BlogSummaryCard from '@/components/BlogSummaryCard'
-import { getMarkmapList } from '@/helpers/markmap-file-helper'
+import { getMarkmaps } from '@/service/markmap'
 import { BLOG_TITLE } from '@/constant/common'
 
 import styles from './homepage.module.css'
@@ -11,7 +11,7 @@ export const metadata = {
 }
 
 async function Home() {
-  const blogPosts = await getMarkmapList()
+  const blogPosts = await getMarkmaps()
 
   return (
     <div className="container">
