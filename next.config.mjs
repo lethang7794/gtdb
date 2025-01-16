@@ -4,7 +4,6 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkGfm from 'remark-gfm'
 import rehypeStringify from 'rehype-stringify'
-import withYaml from '@importable/yaml/next'
 import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 
 /** @type {import('next').NextConfig} */
@@ -16,10 +15,10 @@ const nextConfig = {
   webpack(config, options) {
     config.module.rules.push({
       test: /\.ya?ml$/,
-      use: "yaml-loader",
-    });
+      use: 'yaml-loader',
+    })
 
-    return config;
+    return config
   },
 
   // Map an incoming request path to a different destination path
