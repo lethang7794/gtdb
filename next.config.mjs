@@ -13,6 +13,21 @@ const nextConfig = {
   // Optionally, add any other Next.js config below
   transpilePackages: ['next-mdx-remote'],
 
+  experimental: {
+    turbo: {
+      rules: {
+        '*.yaml': [
+          {
+            loader: 'yaml-loader',
+            options: {
+              format: 'yaml',
+            },
+          },
+        ],
+      },
+    },
+  },
+
   // Map an incoming request path to a different destination path
   async rewrites() {
     return {
@@ -77,4 +92,4 @@ const withMDX = createMDX({
 })
 
 // Merge MDX config with Next.js config
-export default withYaml(withMDX(nextConfig))
+export default withMDX(nextConfig)
