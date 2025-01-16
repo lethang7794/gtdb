@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "uname -a && pwd && ls data && ls data/markmaps && ls && next build",
+    "build": "uname -a && echo pwd && pwd && echo ls data && ls data && echo ls data/markmaps && ls data/markmaps && next build",
     "start": "next start",
     "lint": "next lint"
   },
