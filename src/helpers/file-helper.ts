@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { env, isDev } from '@/env.mjs'
+import { env, isDev, isProd } from '@/env.mjs'
 import { unstable_cache } from 'next/cache'
 
 export function readFile(localPath: string) {
@@ -36,8 +36,13 @@ export const loadFileFromRepo = async (
       try {
         const url = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${path}`
         const data = await fetch(url, {
-          // cache:
-          //   env.NEXT_PUBLIC_APP_ENV === 'prod' ? 'force-cache' : 'no-cache',
+          cache: isProd ? 'force-cache' : 'no-store',
+          // Vercel Data Cache (Edge Cache): Cache responses from data fetches.
+          // See https://vercel.com/docs/infrastructure/data-cache
+          next: {
+            revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION || 86400,
+            tags: cache?.tags,
+          },
         })
         return await data.text()
       } catch (error) {
@@ -45,6 +50,7 @@ export const loadFileFromRepo = async (
       }
     },
     [path, repo, branch],
+    // Cache between requests
     {
       revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION || 86400,
       tags: cache?.tags,

@@ -46,3 +46,4 @@ export const env = createEnv({
 })
 
 export const isDev = env.NEXT_PUBLIC_APP_ENV === 'dev'
+export const isProd = env.NEXT_PUBLIC_APP_ENV === 'prod'
