@@ -7,6 +7,7 @@ import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
+import React from 'react'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -49,9 +50,9 @@ export async function generateMetadata(
   }
 }
 
-export default async function NghiDinh1682024Page({
+export default React.cache(async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
   return <NghiDinh1682024 />
-}
+})

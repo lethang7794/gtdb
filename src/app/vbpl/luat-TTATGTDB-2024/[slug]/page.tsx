@@ -10,6 +10,7 @@ import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
 import '../style.css'
 import { processStaticParams } from '@/lib/static-params'
+import React from 'react'
 
 const LAW = LAW_ABBR.luatGT2024
 
@@ -53,6 +54,6 @@ export async function generateMetadata(
   }
 }
 
-export default function LuatTTATGTDB2024Page() {
+export default React.cache(function LuatTTATGTDB2024Page() {
   return <LuatTTATGTDB2024 />
-}
+})
