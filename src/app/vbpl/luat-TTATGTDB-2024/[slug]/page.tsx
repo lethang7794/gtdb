@@ -57,6 +57,8 @@ export async function generateMetadata(
   }
 }
 
-export default cacheWithRevalidate(async function LuatTTATGTDB2024Page() {
-  return <LuatTTATGTDB2024 />
-})
+export default env.CI
+  ? cacheWithRevalidate(async function LuatTTATGTDB2024Page() {
+      return <LuatTTATGTDB2024 />
+    })
+  : () => <LuatTTATGTDB2024 />
