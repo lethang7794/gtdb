@@ -54,8 +54,6 @@ export default async function RoadSignPage({ params }: Props) {
   const prevSignKey = prev?.[0]
   const nextSignKey = next?.[0]
 
-  const mdxSource = await serialize(sign.docs_mdx || '')
-
   return (
     <div
       key={slug}
@@ -66,7 +64,9 @@ export default async function RoadSignPage({ params }: Props) {
         href={'/bbgt/'}
         scroll={false}
       >
-        <div className="flex items-center min-w-24 min-h-10">🔙 Danh sách biển báo</div>
+        <div className="flex items-center min-w-24 min-h-10">
+          🔙 Danh sách biển báo
+        </div>
       </Link>
       <div className="flex justify-between w-full">
         {prevSignKey ? (
@@ -113,7 +113,7 @@ export default async function RoadSignPage({ params }: Props) {
           {/* <div className="text-balance text-center leading-5">
             {sign.docs_name}
           </div> */}
-          <MDX mdxSource={mdxSource} />
+          <MDX source={sign.docs_mdx} />
           <div className="w-full mb-2 text-right border-t-2 border-b-2">
             <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
             <div className="italic text-gray-500 text-balance">
