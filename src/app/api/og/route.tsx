@@ -10,6 +10,7 @@ import { toHex, key } from '@/lib/crypto'
 import { LAW_ABBR } from '@/constant/laws'
 import { isDev } from '@/env.mjs'
 import type { ServerRuntime } from 'next'
+import { isSectionZero } from '@/lib/vbpl-explain-section'
 
 // export const runtime: ServerRuntime = 'edge'
 // export const preferredRegion = ['sin1']
@@ -42,7 +43,7 @@ export async function GET(request: Request) {
     }
 
     if (law === LAW_ABBR.luatGT2024) {
-      if (!section) {
+      if (!section || isSectionZero(section)) {
         return new ImageResponse(<LuatGT2024PreviewRoot />, {
           width: 1200,
           height: 630,
@@ -77,7 +78,7 @@ export async function GET(request: Request) {
     }
 
     if (law === LAW_ABBR.nghiDinh168) {
-      if (!section) {
+      if (!section || isSectionZero(section)) {
         return new ImageResponse(<NghiDinh168PreviewRoot />, {
           width: 1200,
           height: 630,
