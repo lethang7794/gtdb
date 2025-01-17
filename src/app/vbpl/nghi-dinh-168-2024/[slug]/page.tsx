@@ -8,6 +8,7 @@ import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import React from 'react'
+import { unstable_cache } from 'next/cache'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -50,7 +51,7 @@ export async function generateMetadata(
   }
 }
 
-export default React.cache(async function NghiDinh1682024Page({
+export default unstable_cache(async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
