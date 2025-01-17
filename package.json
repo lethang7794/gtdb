@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "pwd & echo ls && ls & echo ls src & ls src && echo ls src/content & ls src/content & next build",
     "start": "next start",
     "lint": "next lint"
   },
