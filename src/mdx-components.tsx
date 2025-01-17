@@ -18,26 +18,30 @@ import ShareButton, {
   ShareButtonWrapper,
 } from '@/components/block/share-button'
 
-export function useMDXComponents(components: MDXComponents): MDXComponents {
+export const components: MDXComponents = {
+  a: ({ children, href, ...props }) => (
+    <BaseLink href={href as Route} {...props}>
+      {children}
+    </BaseLink>
+  ),
+  DocumentHeading,
+  DocumentEnding,
+  CollapsibleSection,
+  A,
+  AA,
+  RemarkTOCEffect,
+  RemarkTOCEffectLuatGT2024,
+  NghiDinh168MindMap,
+  NghiDinh168HDSD,
+  LuatGT2024MindMap,
+  Spinner,
+  ShareButton,
+  ShareButtonWrapper,
+}
+
+export function useMDXComponents(comps: MDXComponents): MDXComponents {
   return {
-    a: ({ children, href, ...props }) => (
-      <BaseLink href={href as Route} {...props}>
-        {children}
-      </BaseLink>
-    ),
-    DocumentHeading,
-    DocumentEnding,
-    CollapsibleSection,
-    A,
-    AA,
-    RemarkTOCEffect,
-    RemarkTOCEffectLuatGT2024,
-    NghiDinh168MindMap,
-    NghiDinh168HDSD,
-    LuatGT2024MindMap,
-    Spinner,
-    ShareButton,
-    ShareButtonWrapper,
     ...components,
+    ...comps,
   }
 }

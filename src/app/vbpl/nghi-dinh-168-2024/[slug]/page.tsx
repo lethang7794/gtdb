@@ -1,3 +1,5 @@
+import { MDXRemote } from 'next-mdx-remote/rsc'
+
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
@@ -7,9 +9,9 @@ import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
-import React from 'react'
-import { unstable_cache } from 'next/cache'
-import { cacheWithRevalidate } from '@/lib/cache'
+import React, { Suspense } from 'react'
+import { getNghiDinh168Mdx } from '@/service/nghi-dinh-168-mdx'
+import { components } from '@/mdx-components'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -24,10 +26,17 @@ export async function generateStaticParams() {
   return processStaticParams(params)
 }
 
+// generateMetadata (and Page) are called twice in build
+//
+// next dev: Page -> generateMetadata
 export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
+  console.log(
+    '\n🚀 ~ NghiDinh1682024Page - slug - generateMetadata',
+    (await params).slug
+  )
   const token = getToken(LAW)
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
@@ -56,5 +65,10 @@ export default async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
-  return <NghiDinh1682024 />
+  console.log('\n🚀 ~ NghiDinh1682024Page - slug - Page', (await params).slug)
+  console.log('🚀 ~ NghiDinh1682024Page - outside cached')
+  // const mdx = await getNghiDinh168Mdx()
+  const { content } = await getNghiDinh168Mdx()
+
+  return <Suspense fallback={<>Loading...</>}>{content}</Suspense>
 }
