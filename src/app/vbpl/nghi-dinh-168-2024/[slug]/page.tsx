@@ -52,9 +52,11 @@ export async function generateMetadata(
   }
 }
 
-export default cacheWithRevalidate(function NghiDinh1682024Page({
-  params,
-  searchParams,
-}: Props) {
-  return <NghiDinh1682024 />
-})
+export default env.CI
+  ? cacheWithRevalidate(function NghiDinh1682024Page({
+      params,
+      searchParams,
+    }: Props) {
+      return <NghiDinh1682024 />
+    })
+  : () => <NghiDinh1682024 />

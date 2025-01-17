@@ -42,6 +42,6 @@ export async function generateMetadata(
   }
 }
 
-export default cacheWithRevalidate(async function LuatTTATGTDB2024Page() {
+export default async function LuatTTATGTDB2024Page() {
   return <LuatTTATGTDB2024 />
-})
+}
