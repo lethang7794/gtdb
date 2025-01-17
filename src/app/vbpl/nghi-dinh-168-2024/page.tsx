@@ -7,6 +7,7 @@ import { LAW_ABBR } from '@/constant/laws'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { Spinner } from '@/components/block/spinner'
+import React from 'react'
 
 type Props = {
   params: Promise<{ id: string }>
@@ -40,9 +41,9 @@ export async function generateMetadata(
   }
 }
 
-export default async function NghiDinh1682024Page({
+export default React.cache(async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
   return <NghiDinh1682024 />
-}
+})
