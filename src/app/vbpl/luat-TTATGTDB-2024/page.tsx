@@ -8,6 +8,7 @@ import { getToken } from '@/lib/crypto'
 import './style.css'
 import React from 'react'
 import { unstable_cache } from 'next/cache'
+import { cacheWithRevalidate } from '@/lib/cache'
 
 const LAW = LAW_ABBR.luatGT2024
 
@@ -41,6 +42,6 @@ export async function generateMetadata(
   }
 }
 
-export default unstable_cache(async function LuatTTATGTDB2024Page() {
+export default cacheWithRevalidate(async function LuatTTATGTDB2024Page() {
   return <LuatTTATGTDB2024 />
 })
