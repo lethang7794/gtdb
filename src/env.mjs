@@ -1,6 +1,7 @@
 // src/env.mjs
 import { createEnv } from '@t3-oss/env-nextjs'
 import { z } from 'zod'
+import { constants } from './constant'
 
 export const env = createEnv({
   /*
@@ -36,7 +37,9 @@ export const env = createEnv({
     NODE_ENV: process.env.NODE_ENV,
     VERCEL_ENV: process.env.VERCEL_ENV,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
-    NEXT_PUBLIC_CACHE_REVALIDATION: process.env.NEXT_PUBLIC_CACHE_REVALIDATION,
+    NEXT_PUBLIC_CACHE_REVALIDATION:
+      process.env.NEXT_PUBLIC_CACHE_REVALIDATION ||
+      constants.cache.CACHE_REVALIDATION_DEFAULT,
 
     NEXT_PUBLIC_APP_ENV: process.env.NEXT_PUBLIC_APP_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,

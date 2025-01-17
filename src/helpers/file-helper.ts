@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { env, isDev, isProd } from '@/env.mjs'
+import { env, isDev } from '@/env.mjs'
 import { unstable_cache } from 'next/cache'
 
 export function readFile(localPath: string) {
@@ -39,7 +39,7 @@ export const loadFileFromRepo = async (
           // Vercel Data Cache (Edge Cache): Cache responses from data fetches.
           // See https://vercel.com/docs/infrastructure/data-cache
           next: {
-            revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION || 86400,
+            revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION,
             tags: cache?.tags,
           },
         })
@@ -51,7 +51,7 @@ export const loadFileFromRepo = async (
     [path, repo, branch],
     // Cache between requests
     {
-      revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION || 86400,
+      revalidate: env.NEXT_PUBLIC_CACHE_REVALIDATION,
       tags: cache?.tags,
     }
   )

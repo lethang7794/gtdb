@@ -9,6 +9,7 @@ import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { Spinner } from '@/components/block/spinner'
 import React from 'react'
 import { unstable_cache } from 'next/cache'
+import { cacheWithRevalidate } from '@/lib/cache'
 
 type Props = {
   params: Promise<{ id: string }>
@@ -42,7 +43,7 @@ export async function generateMetadata(
   }
 }
 
-export default unstable_cache(async function NghiDinh1682024Page({
+export default cacheWithRevalidate(async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {

@@ -12,6 +12,8 @@ import '../style.css'
 import { processStaticParams } from '@/lib/static-params'
 import React from 'react'
 import { unstable_cache } from 'next/cache'
+import { constants } from '@/constant'
+import { cacheWithRevalidate } from '@/lib/cache'
 
 const LAW = LAW_ABBR.luatGT2024
 
@@ -55,6 +57,6 @@ export async function generateMetadata(
   }
 }
 
-export default unstable_cache(async function LuatTTATGTDB2024Page() {
+export default cacheWithRevalidate(async function LuatTTATGTDB2024Page() {
   return <LuatTTATGTDB2024 />
 })
