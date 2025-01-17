@@ -8,7 +8,7 @@ import { cache } from 'react'
 const FILE_NAME = 'nghi-dinh-168.mdx'
 
 export const getNghiDinh168Mdx = cache(async () => {
-  console.log('🚀 ~ getNghiDinh168Mdx: inside cached')
+  // console.log('🚀 ~ getNghiDinh168Mdx: inside cached')
   const filePath = path.join(CONTENT_DIR_PATH, FILE_NAME)
   const rawContent = await readFile(filePath)
   // return rawContent

@@ -33,10 +33,10 @@ export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  console.log(
-    '\n🚀 ~ NghiDinh1682024Page - slug - generateMetadata',
-    (await params).slug
-  )
+  // console.log(
+  //   '\n🚀 ~ NghiDinh1682024Page - slug - generateMetadata',
+  //   (await params).slug
+  // )
   const token = getToken(LAW)
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
@@ -65,10 +65,10 @@ export default async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
-  console.log('\n🚀 ~ NghiDinh1682024Page - slug - Page', (await params).slug)
-  console.log('🚀 ~ NghiDinh1682024Page - outside cached')
+  // console.log('\n🚀 ~ NghiDinh1682024Page - slug - Page', (await params).slug)
+  // console.log('🚀 ~ NghiDinh1682024Page - outside cached')
   // const mdx = await getNghiDinh168Mdx()
   const { content } = await getNghiDinh168Mdx()
 
-  return <Suspense fallback={<>Loading...</>}>{content}</Suspense>
+  return <Suspense fallback={<>...</>}>{content}</Suspense>
 }
