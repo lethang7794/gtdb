@@ -1,4 +1,5 @@
 import { env } from '@/env.mjs'
+import { LogoBlank } from './logo-blank'
 
 export const LuatGT2024PreviewRoot = () => (
   <div
@@ -59,7 +60,6 @@ export const LuatGT2024PreviewRoot = () => (
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        gap: 8,
         fontStyle: 'normal',
         color: 'white',
         marginTop: 16,
@@ -68,8 +68,10 @@ export const LuatGT2024PreviewRoot = () => (
         whiteSpace: 'pre-wrap',
       }}
     >
-      <div style={{ fontSize: 32 }}>Xem chi tiết tại:</div>
-      <div style={{ fontSize: 40 }}>{env.NEXT_PUBLIC_BRAND}</div>
+      <div tw="">Xem chi tiết tại:</div>
+      <div tw="ml-1 -mr-4">www.</div>
+      <LogoBlank />
+      <div tw="-ml-4">.vercel.app</div>
     </div>
   </div>
 )
