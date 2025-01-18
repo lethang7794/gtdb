@@ -47,5 +47,9 @@ export default async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
-  return <NghiDinh1682024 />
+  return (
+    <div className="toc-hidden">
+      <NghiDinh1682024 />
+    </div>
+  )
 }

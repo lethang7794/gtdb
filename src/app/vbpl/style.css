@@ -6,7 +6,7 @@ h2#mục-lục + ul {
   height: 50vh;
   overflow-y: auto;
 }
-h2#mục-lục + ul > li {
+.toc-hidden h2#mục-lục + ul > li {
   display: none;
 }
 .display-revert {
