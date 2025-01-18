@@ -13,7 +13,6 @@ h2#mục-lục + ul > li {
   display: revert !important;
 }
 
-
 h2#mục-lục + ul > li > a {
   font-weight: bold;
 }
@@ -53,5 +52,31 @@ h2#mục-lục + ul > li > ul:has(ul) > li > ul {
     line-clamp: 2;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+  }
+}
+
+.markdown-body h1:has(:target),
+.markdown-body h2:has(:target),
+.markdown-body h3:has(:target),
+.markdown-body h4:has(:target),
+.markdown-body h5:has(:target),
+.markdown-body h6:has(:target) {
+  animation: yellowflash-bg 5s;
+
+  span {
+    animation: yellowflash-bg 5s;
+  }
+}
+
+@keyframes yellowflash-bg {
+  from {
+    /* background: yellow; */
+    /* color: black; */
+    text-decoration: underline;
+  }
+  to {
+    /* background: transparent; */
+    /* color: white; */
+    text-decoration: none;
   }
 }
