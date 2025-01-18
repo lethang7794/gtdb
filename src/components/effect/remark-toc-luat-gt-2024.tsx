@@ -7,11 +7,12 @@ export default function RemarkTOCEffect() {
   const router = useRouter()
 
   useEffect(() => {
-    // Disable scroll
-    const body = document.body
-    body.style.overflow = 'hidden'
     // Add background for body
+    const body = document.body
     body.classList.add('body-bg-markdown')
+
+    // Go to fragment
+    router.replace(window.location.href)
 
     // Cleanup TOC
     const tocItems = document.querySelectorAll(
@@ -30,19 +31,22 @@ export default function RemarkTOCEffect() {
       }
     }
 
-    // Go to fragment
-    router.replace(window.location.href)
+    // setTimeout(() => {
+    //   // Remove spinner
+    //   const spinner = document.getElementById('spinner')
+    //   if (spinner) {
+    //     spinner.style.display = 'none'
+    //   }
 
-    setTimeout(() => {
-      // Remove spinner
-      const spinner = document.getElementById('spinner')
-      if (spinner) {
-        spinner.style.display = 'none'
-      }
+    //   // Enable scroll
+    //   body.style.overflow = 'initial'
+    // }, 0)
 
-      // Enable scroll
-      body.style.overflow = 'initial'
-    }, 0)
+    // Show TOC after go to id
+    const liItems = document.querySelectorAll('h2#mục-lục + ul > li')
+    for (const item of Array.from(liItems)) {
+      item.classList.add('display-revert')
+    }
 
     return () => {
       body.classList.remove('body-bg-markdown')
