@@ -1,5 +1,6 @@
 import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
+import { LogoBlank } from '@/components/block/logo-blank'
 
 export function LawSectionPreview({
   short1,
@@ -20,6 +21,8 @@ export function LawSectionPreview({
   highlight: TrafficLight
   law: string
 }) {
+  const showMore = `Xem chi tiết ${short1} ${short2} ${short3} ${law} tại:`
+
   return (
     <div
       style={{
@@ -41,10 +44,12 @@ export function LawSectionPreview({
           fontStyle: 'normal',
           letterSpacing: '-0.025em',
           color: 'white',
-          padding: '48px 60px 0 60px',
+          padding: '16px 60px 0 60px',
           lineHeight: 1.4,
         }}
       >
+        <div style={styleNghiDinhHeading}>{law}</div>
+        <div tw="-ml-2">:</div>
         {short1 ? (
           <div style={getStyleForColor('red', highlight, short1)}>{short1}</div>
         ) : null}
@@ -58,14 +63,19 @@ export function LawSectionPreview({
             {short3}
           </div>
         ) : null}
-        <div style={styleNghiDinhHeading}>{law}</div>
+        {/* <div style={{ flexGrow: 1 }} /> */}
       </div>
       {detail1 ? (
-        <div style={styleDetailWrapper}>
+        <div
+          style={{
+            ...styleDetailWrapper,
+            ...getStyleForDetailColor('red', highlight, detail1),
+          }}
+        >
           <div
             style={{
-              ...getStyleForColor('red', highlight, detail1),
               ...styleDetail,
+              ...getStyleForColor('red', highlight, detail1),
 
               paddingLeft: '8px',
 
@@ -78,11 +88,16 @@ export function LawSectionPreview({
         </div>
       ) : null}
       {detail2 ? (
-        <div style={styleDetailWrapper}>
+        <div
+          style={{
+            ...styleDetailWrapper,
+            ...getStyleForDetailColor('yellow', highlight, detail1),
+          }}
+        >
           <div
             style={{
-              ...getStyleForColor('yellow', highlight, detail2),
               ...styleDetail,
+              ...getStyleForColor('yellow', highlight, detail2),
 
               display: 'block',
               lineClamp: detail3 ? '1' : '3',
@@ -95,22 +110,33 @@ export function LawSectionPreview({
         </div>
       ) : null}
       {detail3 ? (
-        <div style={styleDetailWrapper}>
+        <div
+          style={{
+            ...styleDetailWrapper,
+            ...getStyleForDetailColor('green', highlight, detail3),
+          }}
+        >
           <div
             style={{
-              ...getStyleForColor('green', highlight, detail3),
               ...styleDetail,
+              ...getStyleForColor('green', highlight, detail3),
 
               display: 'block',
               lineClamp: '3',
 
-              paddingLeft: '56px',
+              paddingLeft: '32px',
             }}
           >
             {detail3}
           </div>
         </div>
       ) : null}
+      <div tw="absolute flex bottom-4 right-16 text-white items-center">
+        <div tw="">{showMore}</div>
+        <div tw="ml-1 -mr-4">www.</div>
+        <LogoBlank />
+        <div tw="-ml-4">.vercel.app</div>
+      </div>
     </div>
   )
 }
@@ -129,7 +155,7 @@ const stylesByColor: Record<
   },
   red: {
     base: {
-      padding: '0 8px',
+      padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
     },
@@ -139,11 +165,14 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'red',
       color: 'white',
+      paddingRight: '12',
+      paddingLeft: '12',
     },
+    detailWrapper: {},
   },
   yellow: {
     base: {
-      padding: '0 8px',
+      padding: '4px 0px 0',
       borderRadius: '16px',
       color: 'white',
     },
@@ -153,11 +182,13 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'yellow',
       color: 'black',
+      paddingRight: '12',
+      paddingLeft: '12',
     },
   },
   green: {
     base: {
-      padding: '0 8px',
+      padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
     },
@@ -167,6 +198,11 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'green',
       color: 'white',
+      paddingRight: '12',
+      paddingLeft: '12',
+    },
+    detailWrapper: {
+      paddingLeft: 128,
     },
   },
 }
@@ -175,7 +211,8 @@ const styleNghiDinhHeading: CSSProperties = {
   color: 'white',
   border: '4px solid transparent',
   borderRadius: '16px',
-  padding: '0 8px',
+  padding: '0 0px',
+  // fontStyle: 'italic' // doesn't work
 }
 
 function getStyleForColor(
@@ -193,6 +230,15 @@ function getStyleForColor(
       : {}),
   }
 }
+function getStyleForDetailColor(
+  color: TrafficLight,
+  highlight: TrafficLight,
+  text?: string
+) {
+  return {
+    ...stylesByColor[color].detailWrapper,
+  }
+}
 
 const styleDetailWrapper: CSSProperties = {
   display: 'flex',
@@ -203,7 +249,7 @@ const styleDetail: CSSProperties = {
   fontSize: 36,
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
-  marginTop: 24,
+  marginTop: 16,
   lineHeight: 1.4,
   padding: '4px 8px 4px 0',
 }

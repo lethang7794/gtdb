@@ -103,7 +103,7 @@ export async function nd168SectionExplainComponents(slug: string) {
     detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
     short2 = `${explainDetail.khoan?.code_name || ''}`
     detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
-    short2 = `Khoản ${short2}`
+    short2 = `khoản ${short2}`
     highlight = 'yellow'
   }
   if (explainDetail.type === 'diem') {
