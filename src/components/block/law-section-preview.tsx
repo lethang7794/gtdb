@@ -47,6 +47,8 @@ export function LawSectionPreview({
           lineHeight: 1.4,
         }}
       >
+        <div style={styleNghiDinhHeading}>{law}</div>
+        <div tw="-ml-2">:</div>
         {short1 ? (
           <div style={getStyleForColor('red', highlight, short1)}>{short1}</div>
         ) : null}
@@ -60,8 +62,7 @@ export function LawSectionPreview({
             {short3}
           </div>
         ) : null}
-        <div style={{ flexGrow: 1 }} />
-        <div style={styleNghiDinhHeading}>{law}</div>
+        {/* <div style={{ flexGrow: 1 }} /> */}
       </div>
       {detail1 ? (
         <div
@@ -153,7 +154,7 @@ const stylesByColor: Record<
   },
   red: {
     base: {
-      padding: '0 8px',
+      padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
     },
@@ -163,12 +164,14 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'red',
       color: 'white',
+      paddingRight: '12',
+      paddingLeft: '12',
     },
     detailWrapper: {},
   },
   yellow: {
     base: {
-      padding: '4px 8px 0',
+      padding: '4px 0px 0',
       borderRadius: '16px',
       color: 'white',
     },
@@ -178,11 +181,13 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'yellow',
       color: 'black',
+      paddingRight: '12',
+      paddingLeft: '12',
     },
   },
   green: {
     base: {
-      padding: '0 8px',
+      padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
     },
@@ -192,6 +197,8 @@ const stylesByColor: Record<
     background: {
       backgroundColor: 'green',
       color: 'white',
+      paddingRight: '12',
+      paddingLeft: '12',
     },
     detailWrapper: {
       paddingLeft: 128,
@@ -203,7 +210,8 @@ const styleNghiDinhHeading: CSSProperties = {
   color: 'white',
   border: '4px solid transparent',
   borderRadius: '16px',
-  padding: '0 8px',
+  padding: '0 0px',
+  // fontStyle: 'italic' // doesn't work
 }
 
 function getStyleForColor(
