@@ -103,7 +103,7 @@ export const luatGT2024SectionExplainComponents = cache(async (slug: string) => 
     detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
     short2 = `${explainDetail.khoan?.cur_level || ''}`
     detail2 = `${short2}. ${explainDetail.khoan?.content || ''}`
-    short2 = `Khoản ${short2}`
+    short2 = `khoản ${short2}`
     highlight = 'yellow'
   }
   if (explainDetail.type === 'diem') {
