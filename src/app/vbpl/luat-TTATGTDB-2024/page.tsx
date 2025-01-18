@@ -43,5 +43,9 @@ export async function generateMetadata(
 }
 
 export default async function LuatTTATGTDB2024Page() {
-  return <LuatTTATGTDB2024 />
+  return (
+    <div className="toc-hidden">
+      <LuatTTATGTDB2024 />
+    </div>
+  )
 }
