@@ -143,7 +143,7 @@ const stylesByColor: Record<
   },
   yellow: {
     base: {
-      padding: '0 8px',
+      padding: '4px 8px 0',
       borderRadius: '16px',
       color: 'white',
     },
