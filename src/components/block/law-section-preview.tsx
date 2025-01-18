@@ -250,8 +250,8 @@ const Logo = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     id="svg537795"
-    width="160"
-    height="80"
+    width="180"
+    height="90"
     version="1.1"
     viewBox="0 0 1024 512"
   >
