@@ -37,9 +37,9 @@ export async function generateMetadata(
     description: sectionItem
       ? sectionItem.full_name
       : 'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
-    openGraph: {
-      images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
-    },
+    // openGraph: {
+    //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
+    // },
   }
 }
 
