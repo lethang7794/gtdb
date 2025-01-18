@@ -1,18 +1,25 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
 
-  useEffect(() => {
-    // Disable scroll
-    const body = document.body
-    body.style.overflow = 'hidden'
+  useLayoutEffect(() => {
     // Add background for body
+    const body = document.body
     body.classList.add('body-bg-markdown')
 
+    // Go to fragment
+    router.replace(window.location.href)
+
+    return () => {
+      body.classList.remove('body-bg-markdown')
+    }
+  }, [router])
+
+  useEffect(() => {
     // Cleanup TOC
     const tocItems = document.querySelectorAll(
       '#mục-lục + ul li > a .anchor-link'
@@ -30,23 +37,11 @@ export default function RemarkTOCEffect() {
       }
     }
 
-    // Go to fragment
-    router.replace(window.location.href)
-
-    setTimeout(() => {
-      // Remove spinner
-      const spinner = document.getElementById('spinner')
-      if (spinner) {
-        spinner.style.display = 'none'
-      }
-
-      // Enable scroll
-      body.style.overflow = 'initial'
-    }, 0)
-
-    return () => {
-      body.classList.remove('body-bg-markdown')
+    // Show TOC after go to id
+    const liItems = document.querySelectorAll('h2#mục-lục + ul > li')
+    for (const item of Array.from(liItems)) {
+      item.classList.add('display-revert')
     }
-  }, [router])
+  }, [])
   return null
 }

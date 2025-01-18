@@ -3,9 +3,16 @@
  */
 
 h2#mục-lục + ul {
-  max-height: 75vh;
+  height: 50vh;
   overflow-y: auto;
 }
+h2#mục-lục + ul > li {
+  display: none;
+}
+.display-revert {
+  display: revert !important;
+}
+
 
 h2#mục-lục + ul > li > a {
   font-weight: bold;
