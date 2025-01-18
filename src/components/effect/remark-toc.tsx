@@ -13,7 +13,13 @@ export default function RemarkTOCEffect() {
 
     // Go to fragment
     router.replace(window.location.href)
-
+    
+    // Or - doesn't work
+    // const hash = window.location.hash
+    // const id = hash.replace('#', '')
+    // const el = document.getElementById(id)
+    // el?.scrollIntoView({ behavior: 'smooth' })
+    
     return () => {
       body.classList.remove('body-bg-markdown')
     }
