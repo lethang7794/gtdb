@@ -60,6 +60,10 @@ export default function RemarkTOCEffect() {
       for (const item of Array.from(tocAnchorItems)) {
         item.setAttribute('tabindex', '-1')
       }
+      const tocButtonItems = document.querySelectorAll('#mục-lục + ul button')
+      for (const item of Array.from(tocButtonItems)) {
+        item.setAttribute('tabindex', '-1')
+      }
     }, 1000)
   }, [])
   return null

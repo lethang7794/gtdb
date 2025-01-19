@@ -4,7 +4,7 @@ import React from 'react'
 import type { ReactNode } from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
+import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 
@@ -34,9 +34,11 @@ export default function AnchorLink({ id, children }: Props) {
   }, [hasCopied])
 
   const explain = vbplSectionExplain(id).path
+
+  const El = isDieu(id) || isKhoan(id) ? 'button' : 'span'
+
   return (
-    // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
-    <span
+    <El
       id={`${id}`}
       onClick={(e) => {
         e.preventDefault()
@@ -82,6 +84,6 @@ export default function AnchorLink({ id, children }: Props) {
         </span>
       )}
       {children}
-    </span>
+    </El>
   )
 }

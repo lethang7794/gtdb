@@ -27,8 +27,10 @@ export default function RemarkTOCEffect() {
 
   useEffect(() => {
     // Cleanup TOC
-    const tocItems = document.querySelectorAll('#mục-lục + ul li > a > span')
-    for (const item of Array.from(tocItems)) {
+    const tocItems = document.querySelectorAll(
+      '#mục-lục + ul li > a .anchor-link'
+    )
+    for (const item of [...tocItems]) {
       const id = item.id
       item.removeAttribute('id')
       const parent = item.parentElement
@@ -75,6 +77,10 @@ export default function RemarkTOCEffect() {
 
       const tocAnchorItems = document.querySelectorAll('#mục-lục + ul a')
       for (const item of Array.from(tocAnchorItems)) {
+        item.setAttribute('tabindex', '-1')
+      }
+      const tocButtonItems = document.querySelectorAll('#mục-lục + ul button')
+      for (const item of Array.from(tocButtonItems)) {
         item.setAttribute('tabindex', '-1')
       }
     }, 1000)
