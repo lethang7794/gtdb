@@ -54,3 +54,6 @@ export const getRoadSignsWithAroundById = unstable_cache(
 export function getRoadSignImage(sign: RoadSign) {
   return `/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`
 }
+export function getRoadSignOgImage(sign: RoadSign) {
+  return `/${ROAD_SIGNS_PUBLIC_PATH}/og/${sign.image}`.replace('.svg', '.png')
+}
