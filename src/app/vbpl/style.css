@@ -5,7 +5,6 @@
 h2#mục-lục + ul {
   height: 50vh;
   overflow-y: auto;
-  margin-right: -1rem;
 }
 .toc-hidden h2#mục-lục + ul > li {
   display: none;
