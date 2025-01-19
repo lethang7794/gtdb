@@ -48,6 +48,19 @@ export default function RemarkTOCEffect() {
     for (const item of Array.from(liItems)) {
       item.classList.add('display-revert')
     }
+
+    // Remove tabIndex of markmap and toc
+    setTimeout(() => {
+      const markmapAnchorItems = document.querySelectorAll('#tóm-tắt a')
+      for (const item of Array.from(markmapAnchorItems)) {
+        item.setAttribute('tabindex', '-1')
+      }
+
+      const tocAnchorItems = document.querySelectorAll('#mục-lục + ul a')
+      for (const item of Array.from(tocAnchorItems)) {
+        item.setAttribute('tabindex', '-1')
+      }
+    }, 1000)
   }, [])
   return null
 }

@@ -66,6 +66,7 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
         {...newLinkProps}
         target="_blank"
         rel="noopener noreferrer"
+        tabIndex={-1}
       >
         {children}
       </a>
