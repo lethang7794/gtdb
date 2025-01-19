@@ -49,7 +49,7 @@ export async function generateMetadata(
 
 export default async function RoadSignPage({ params }: Props) {
   const slug = params.slug
-  const decodedSlug = slug.replace('%2C', ',')
+  const decodedSlug = slug.replace(/%2C/g, ',')
   const signWithAround = await getRoadSignsWithAroundById(decodedSlug)
   if (!signWithAround) {
     return <>Not Found</>
