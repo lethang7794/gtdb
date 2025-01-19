@@ -1,3 +1,4 @@
+import React from 'react'
 import type { Metadata, ResolvingMetadata } from 'next'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
@@ -6,9 +7,6 @@ import { env } from '@/env.mjs'
 import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
 import './style.css'
-import React from 'react'
-import { unstable_cache } from 'next/cache'
-import { cacheWithRevalidate } from '@/lib/cache'
 
 const LAW = LAW_ABBR.luatGT2024
 
@@ -30,7 +28,11 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionExplain, 'Luật TTATGTĐB 2024', env.NEXT_PUBLIC_BRAND_SHORT]
+    title: [
+      sectionItem && sectionExplain,
+      'Luật TTATGTĐB 2024',
+      env.NEXT_PUBLIC_BRAND_SHORT,
+    ]
       .filter(Boolean)
       .join(' | '),
     description:

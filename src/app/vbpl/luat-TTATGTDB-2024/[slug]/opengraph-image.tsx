@@ -8,17 +8,14 @@ import { ImageResponse } from 'next/og'
 export default async function Image({ params }: { params: { slug: string } }) {
   const section = params.slug
 
-  if (!section || isSectionZero(section)) {
+  if (
+    !section ||
+    isSectionZero(section) ||
+    !(await getLuatGT2024ById(section))
+  ) {
     return new ImageResponse(<LuatGT2024PreviewRoot />, {
       width: 1200,
       height: 630,
-    })
-  }
-
-  const item = await getLuatGT2024ById(section)
-  if (!item) {
-    return new Response('Not found', {
-      status: 404,
     })
   }
 
