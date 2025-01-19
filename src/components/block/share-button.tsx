@@ -21,7 +21,7 @@ export default function ShareButton({
           : window?.location?.origin + window?.location?.pathname
         const shareData = {
           title: shareTitle,
-          text: `Xem chi tiết ${shareTitle} tại ${link}`,
+          text: `Xem chi tiết ${shareTitle} tại: `,
           url: link,
         }
         if (navigator.share && navigator.canShare(shareData)) {

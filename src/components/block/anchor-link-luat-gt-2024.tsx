@@ -47,7 +47,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
 
           const shareData = {
             title: `${explain} Luật TTATGTĐB 2024`,
-            text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại ${shareLink}`,
+            text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại: `,
             url: shareLink,
           }
           if (navigator.share && navigator.canShare(shareData)) {

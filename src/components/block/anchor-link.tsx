@@ -45,7 +45,7 @@ export default function AnchorLink({ id, children }: Props) {
 
         const shareData = {
           title: `${explain} Nghị định 168/2024`,
-          text: `Xem chi tiết ${explain} Nghị định 168/2024 tại ${shareLink}`,
+          text: `Xem chi tiết ${explain} Nghị định 168/2024 tại: `,
           url: shareLink,
         }
         if (navigator.share && navigator.canShare(shareData)) {
