@@ -50,19 +50,17 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
             text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại ${shareLink}`,
             url: shareLink,
           }
-          alert('before')
           if (navigator.share && navigator.canShare(shareData)) {
-            alert('run')
             navigator.share(shareData)
+          } else {
+            copyToClipboard(shareLink)
+            setHasCopied(true)
+            setHasCopiedRecently(true)
+            toast({
+              title: `✅ Đã sao chép: ${explain}`,
+              description: `${shareLink}`,
+            })
           }
-
-          copyToClipboard(shareLink)
-          setHasCopied(true)
-          setHasCopiedRecently(true)
-          toast({
-            title: `✅ Đã sao chép: ${explain}`,
-            description: `${shareLink}`,
-          })
         }}
         className="anchor-link absolute inline-block min-w-6 text-center rounded-md cursor-pointer"
       >
