@@ -44,6 +44,18 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
           e.preventDefault()
           e.stopPropagation()
           const shareLink = getShareLinkFromId(id)
+
+          const shareData = {
+            title: 'Luật TTATGTĐB 2024',
+            text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại ${shareLink}`,
+            url: shareLink,
+          }
+          alert('before')
+          if (navigator.share && navigator.canShare(shareData)) {
+            alert('run')
+            navigator.share(shareData)
+          }
+
           copyToClipboard(shareLink)
           setHasCopied(true)
           setHasCopiedRecently(true)

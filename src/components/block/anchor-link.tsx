@@ -42,6 +42,13 @@ export default function AnchorLink({ id, children }: Props) {
         e.preventDefault()
         e.stopPropagation()
         const shareLink = getShareLinkFromId(id)
+
+        navigator?.share({
+          title: 'Nghị định 168/2024',
+          text: `Xem chi tiết ${explain} Nghị định 168/2024 tại ${shareLink}`,
+          url: shareLink,
+        })
+
         copyToClipboard(shareLink)
         setHasCopied(true)
         setHasCopiedRecently(true)
