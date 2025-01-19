@@ -28,7 +28,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const slug = params.slug
-  const decodedSlug = slug.replace('%2C', ',')
+  const decodedSlug = slug.replace(/%2C/g, ',')
   const sign = await getRoadSignById(decodedSlug)
   if (!sign) {
     return { title: 'Not Found' }
