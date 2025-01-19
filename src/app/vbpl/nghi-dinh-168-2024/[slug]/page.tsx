@@ -1,3 +1,4 @@
+import React from 'react'
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
@@ -7,9 +8,6 @@ import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
-import React from 'react'
-import { unstable_cache } from 'next/cache'
-import { cacheWithRevalidate } from '@/lib/cache'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -40,7 +38,11 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND_SHORT]
+    title: [
+      sectionItem && sectionExplain,
+      'Nghị định 168/2024',
+      env.NEXT_PUBLIC_BRAND_SHORT,
+    ]
       .filter(Boolean)
       .join(' | '),
     description: sectionItem

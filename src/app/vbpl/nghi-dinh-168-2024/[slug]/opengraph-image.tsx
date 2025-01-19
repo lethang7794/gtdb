@@ -8,17 +8,10 @@ import { ImageResponse } from 'next/og'
 export default async function Image({ params }: { params: { slug: string } }) {
   const section = params.slug
 
-  if (!section || isSectionZero(section)) {
+  if (!section || isSectionZero(section) || !(await getND168ById(section))) {
     return new ImageResponse(<NghiDinh168PreviewRoot />, {
       width: 1200,
       height: 630,
-    })
-  }
-
-  const item = await getND168ById(section)
-  if (!item) {
-    return new Response('Not found', {
-      status: 404,
     })
   }
 

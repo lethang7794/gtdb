@@ -1,3 +1,4 @@
+import React from 'react'
 import type { Metadata, ResolvingMetadata } from 'next'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import {
@@ -8,12 +9,8 @@ import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { env } from '@/env.mjs'
 import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
-import '../style.css'
 import { processStaticParams } from '@/lib/static-params'
-import React from 'react'
-import { unstable_cache } from 'next/cache'
-import { constants } from '@/constant'
-import { cacheWithRevalidate } from '@/lib/cache'
+import '../style.css'
 
 const LAW = LAW_ABBR.luatGT2024
 
