@@ -41,7 +41,7 @@ export async function generateMetadata(
     title: pageTitle,
     description: sign.docs,
     openGraph: {
-      images: imgIsSupportByOg ? [img] : undefined,
+      images: imgIsSupportByOg ? [img] : { url: img.replace('.svg', '.png') },
     },
   }
 }
