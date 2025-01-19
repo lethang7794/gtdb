@@ -1,14 +1,13 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 
 import { getRoadSignsArray } from '@/service/road-sign'
 import { getRoadSignImage } from '@/service/road-sign'
-import { env } from '@/env.mjs'
 import BaseLink from '@/components/base-link'
-import Image from 'next/image'
 
 export const metadata: Metadata = {
-  title: `Biển báo giao thông | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
+  title: 'Biển báo giao thông',
   description:
     'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }

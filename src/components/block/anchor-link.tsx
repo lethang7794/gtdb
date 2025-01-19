@@ -42,13 +42,23 @@ export default function AnchorLink({ id, children }: Props) {
         e.preventDefault()
         e.stopPropagation()
         const shareLink = getShareLinkFromId(id)
-        copyToClipboard(shareLink)
-        setHasCopied(true)
-        setHasCopiedRecently(true)
-        toast({
-          title: `✅ Đã sao chép: ${explain}`,
-          description: `${shareLink}`,
-        })
+
+        const shareData = {
+          title: `${explain} Nghị định 168/2024`,
+          text: `Xem chi tiết ${explain} Nghị định 168/2024 tại: `,
+          url: shareLink,
+        }
+        if (navigator.share && navigator.canShare(shareData)) {
+          navigator.share(shareData)
+        } else {
+          copyToClipboard(shareLink)
+          setHasCopied(true)
+          setHasCopiedRecently(true)
+          toast({
+            title: `✅ Đã sao chép: ${explain}`,
+            description: `${shareLink}`,
+          })
+        }
       }}
       className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
     >

@@ -8,7 +8,7 @@ export default function MdxLayout({ children }: { children: React.ReactNode }) {
   return (
     <div className={`${GITHUB_MARKDOWN_CSS_CLASS} font-sans`}>
       <div className="relative flex h-full flex-col justify-between py-6 md:py-8">
-        <div className="container px-8 lg:px-8">{children}</div>
+        <div className="container pr-4 pl-8">{children}</div>
       </div>
     </div>
   )

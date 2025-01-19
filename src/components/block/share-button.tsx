@@ -19,11 +19,20 @@ export default function ShareButton({
         const link = path
           ? window?.location?.origin + path
           : window?.location?.origin + window?.location?.pathname
-        copyToClipboard(link)
-        toast({
-          title: `✅ Đã sao chép: ${shareTitle}`,
-          description: `${link}`,
-        })
+        const shareData = {
+          title: shareTitle,
+          text: `Xem chi tiết ${shareTitle} tại: `,
+          url: link,
+        }
+        if (navigator.share && navigator.canShare(shareData)) {
+          navigator.share(shareData)
+        } else {
+          copyToClipboard(link)
+          toast({
+            title: `✅ Đã sao chép: ${shareTitle}`,
+            description: `${link}`,
+          })
+        }
       }}
       className="border-2 bg-white opacity-100 hover:border-gray rounded-md p-2 shadow-sm"
     >

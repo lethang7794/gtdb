@@ -1,3 +1,4 @@
+import type { Metadata } from 'next'
 import { CaretSortIcon } from '@radix-ui/react-icons'
 import { Button } from '@/components/ui/button'
 import {
@@ -8,6 +9,10 @@ import {
 
 import { getGlossaries } from '@/service/glossary'
 import { Badge } from '@/components/ui/badge'
+
+export const metadata: Metadata = {
+  title: 'Giải thích từ ngữ',
+}
 
 export default async function GlossariesPage() {
   const data = await getGlossaries()

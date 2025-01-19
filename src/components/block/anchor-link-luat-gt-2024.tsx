@@ -44,13 +44,23 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
           e.preventDefault()
           e.stopPropagation()
           const shareLink = getShareLinkFromId(id)
-          copyToClipboard(shareLink)
-          setHasCopied(true)
-          setHasCopiedRecently(true)
-          toast({
-            title: `✅ Đã sao chép: ${explain}`,
-            description: `${shareLink}`,
-          })
+
+          const shareData = {
+            title: `${explain} Luật TTATGTĐB 2024`,
+            text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại: `,
+            url: shareLink,
+          }
+          if (navigator.share && navigator.canShare(shareData)) {
+            navigator.share(shareData)
+          } else {
+            copyToClipboard(shareLink)
+            setHasCopied(true)
+            setHasCopiedRecently(true)
+            toast({
+              title: `✅ Đã sao chép: ${explain}`,
+              description: `${shareLink}`,
+            })
+          }
         }}
         className="anchor-link absolute inline-block min-w-6 text-center rounded-md cursor-pointer"
       >
