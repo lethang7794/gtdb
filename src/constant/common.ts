@@ -1,6 +1,9 @@
 import { env } from '@/env.mjs'
 
-export const BLOG_TITLE = `${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`
+export const BLOG_TITLE = [
+  `${env.NEXT_PUBLIC_BRAND_SHORT}`,
+  `${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
+].join(' - ')
 
 type Colors = {
   '--color-text': string

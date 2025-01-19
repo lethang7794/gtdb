@@ -2,12 +2,11 @@ import React from 'react'
 
 import BlogSummaryCard from '@/components/BlogSummaryCard'
 import { getMarkmaps } from '@/service/markmap'
-import { BLOG_TITLE } from '@/constant/common'
 
 import styles from './homepage.module.css'
 
 export const metadata = {
-  title: `Sơ đồ - ${BLOG_TITLE}`,
+  title: 'Sơ đồ',
 }
 
 async function Home() {

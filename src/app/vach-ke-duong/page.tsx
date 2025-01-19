@@ -6,7 +6,7 @@ import BaseLink from '@/components/base-link'
 import Image from 'next/image'
 
 export const metadata: Metadata = {
-  title: `Vạch kẻ đường | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
+  title: 'Vạch kẻ đường',
   description:
     'Tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }

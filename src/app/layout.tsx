@@ -6,19 +6,31 @@ import { Toaster } from '@/components/ui/toaster'
 import { cn } from '@/lib/utils'
 import './globals.css'
 import Header from '@/components/block/header'
-import { env } from '@/env.mjs'
 import { Footer } from '@/components/block/footer'
 import { PreloadResources } from '@/app/preload-resources'
+import { env, isDev } from '@/env.mjs'
 
 const fontSans = FontSans({
   subsets: ['latin'],
   variable: '--font-sans',
 })
 
+const rootPageTitle: string = [
+  `${env.NEXT_PUBLIC_BRAND_SHORT}`,
+  `${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
+].join(' - ')
+const metadataBase: URL = isDev
+  ? new URL('http://localhost:3000')
+  : new URL(`https://${env.NEXT_PUBLIC_DOMAIN}`)
+
 export const metadata: Metadata = {
-  title: `${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
+  title: {
+    template: `%s | ${rootPageTitle}`,
+    default: rootPageTitle,
+  },
   description:
     'Tra cứu VBPL về giao thông đường bộ (GTĐB): Nghị định 168/2024, Luật Trật tự, an toàn GTĐB 2024...; biển báo giao thông, vạch kẻ đường (theo QCVN 41:2019/BGTVT), thuật ngữ GTĐB...',
+  metadataBase: metadataBase,
 }
 
 export default function RootLayout({
