@@ -1,5 +1,10 @@
+import type { Metadata } from 'next'
 import BaseLink from '@/components/base-link'
 import { Logo } from '@/components/block/logo'
+
+export const metadata: Metadata = {
+  title: 'Giới thiệu',
+}
 
 export default function AboutPage() {
   return (

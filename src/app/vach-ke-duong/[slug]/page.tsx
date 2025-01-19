@@ -31,7 +31,7 @@ export async function generateMetadata(
   }
 
   return {
-    title: `Vạch ${slug}: ${item.full_name} | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
+    title: `Vạch ${slug}: ${item.full_name}`,
     openGraph: {
       images: [item.image ? getMarkingImage(item) : ''],
     },

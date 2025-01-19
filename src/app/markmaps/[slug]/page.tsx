@@ -5,7 +5,6 @@ import { processStaticParams } from '@/lib/static-params'
 import { getMarkmapById, getMarkmaps } from '@/service/markmap'
 
 import styles from './slug.module.css'
-import { env } from '@/env.mjs'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -22,7 +21,7 @@ export async function generateMetadata({ params }: Props) {
   const { slug } = await params
   const item = await getMarkmapById(slug)
   return {
-    title: `${item.frontmatter.title} | ${env.NEXT_PUBLIC_BRAND_SHORT}`,
+    title: `${item.frontmatter.title}`,
     description: item.frontmatter.abstract,
   }
 }
