@@ -4,6 +4,7 @@ import { serialize } from 'next-mdx-remote/serialize'
 import {
   getRoadSignById,
   getRoadSignImage,
+  getRoadSignOgImage,
   getRoadSignsArray,
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
@@ -41,7 +42,7 @@ export async function generateMetadata(
     title: pageTitle,
     description: sign.docs,
     openGraph: {
-      images: imgIsSupportByOg ? [img] : { url: img.replace('.svg', '.png') },
+      images: getRoadSignOgImage(sign),
     },
   }
 }
