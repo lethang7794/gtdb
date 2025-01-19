@@ -44,6 +44,20 @@ h2#mục-lục + ul a:hover .anchor-link {
   text-decoration: underline;
 }
 
+button.anchor-link {
+  height: 1.5em;
+}
+button.anchor-link.section-dieu:focus {
+  /* border: 1px solid; */
+  margin-top: -4px;
+  width: 6ch;
+}
+button.anchor-link.section-khoan:focus {
+  /* border: 1px solid; */
+  margin-left: -3ch;
+}
+
+
 .anchor-link {
   padding-right: 1em;
 
