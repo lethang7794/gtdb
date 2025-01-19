@@ -46,7 +46,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
           const shareLink = getShareLinkFromId(id)
 
           const shareData = {
-            title: 'Luật TTATGTĐB 2024',
+            title: `${explain} Luật TTATGTĐB 2024`,
             text: `Xem chi tiết ${explain} Luật TTATGTĐB 2024 tại ${shareLink}`,
             url: shareLink,
           }

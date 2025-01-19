@@ -44,7 +44,7 @@ export default function AnchorLink({ id, children }: Props) {
         const shareLink = getShareLinkFromId(id)
 
         const shareData = {
-          title: 'Nghị định 168/2024',
+          title: `${explain} Nghị định 168/2024`,
           text: `Xem chi tiết ${explain} Nghị định 168/2024 tại ${shareLink}`,
           url: shareLink,
         }
