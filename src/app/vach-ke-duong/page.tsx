@@ -29,7 +29,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] justify-between gap-4">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] lg:grid-cols-[repeat(auto-fill,minmax(200px,_1fr))] justify-between gap-4">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
 
