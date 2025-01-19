@@ -12,18 +12,18 @@ export default function RemarkTOCEffect() {
     body.classList.add('body-bg-markdown')
 
     // Go to fragment
-    router.replace(window.location.href)
+    // router.replace(window.location.href)
     
     // Or - doesn't work
-    // const hash = window.location.hash
-    // const id = hash.replace('#', '')
-    // const el = document.getElementById(id)
-    // el?.scrollIntoView({ behavior: 'smooth' })
+    const hash = window.location.hash
+    const id = hash.replace('#', '')
+    const el = document.getElementById(id)
+    el?.scrollIntoView({ behavior: 'instant' })
     
     return () => {
       body.classList.remove('body-bg-markdown')
     }
-  }, [router])
+  }, [])
 
   useEffect(() => {
     // Cleanup TOC
