@@ -33,10 +33,16 @@ export async function generateMetadata(
     return { title: 'Not Found' }
   }
 
+  const img = getRoadSignImage(sign)
+  const imgIsSupportByOg = img.match(/.png|.jpg|.jpeg/)
+
   const pageTitle = `${decodedSlug}: ${sign.name}`
   return {
     title: pageTitle,
     description: sign.docs,
+    openGraph: {
+      images: imgIsSupportByOg ? [img] : undefined,
+    },
   }
 }
 
