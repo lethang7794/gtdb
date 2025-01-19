@@ -30,7 +30,8 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
-          'flex flex-col min-h-screen bg-background font-sans antialiased',
+          // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
+          'flex flex-col min-h-screen bg-background font-sans antialiased body-bg-markdown',
           fontSans.variable
         )}
       >
@@ -45,7 +46,7 @@ export default function RootLayout({
         >
           <Header />
         </div>
-        {children}
+        <div className="bg-white">{children}</div>
         <Footer />
         <Toaster />
       </body>
