@@ -102,7 +102,7 @@ export function LawSectionPreview({
         </div>
       ) : null}
       {id && !isDieu(id) && !isKhoanFirst(id) ? (
-        <div tw="text-white ml-[94px] -mt-[16px] -mb-[15px] text-xl">...</div>
+        <div tw="text-white ml-[94px] -mt-[12px] -mb-[12px] text-xl">...</div>
       ) : null}
       {detail2 ? (
         <div
@@ -142,7 +142,7 @@ export function LawSectionPreview({
               ...getStyleForColor('green', highlight, detail3),
 
               display: 'block',
-              lineClamp: '3',
+              lineClamp: '4',
 
               paddingLeft: '32px',
             }}
@@ -151,7 +151,7 @@ export function LawSectionPreview({
           </div>
         </div>
       ) : null}
-      <div tw="absolute flex bottom-4 right-16 text-white items-center">
+      <div tw="absolute flex bottom-1 right-16 text-white items-center">
         <div tw="">{showMore}</div>
         <div tw="ml-1 -mr-4">www.</div>
         <LogoBlank />

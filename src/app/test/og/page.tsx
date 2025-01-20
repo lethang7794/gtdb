@@ -1,6 +1,6 @@
 'use client'
 
-import { Nd168SectionPreview } from '../vbpl/nghi-dinh-168-2024/[slug]/nd-168-section-preview'
+import { LawSectionPreview } from '@/components/block/law-section-preview'
 
 export default function Page() {
   // const explain = 'Điểm l, khoản 5, Điều 6'
@@ -25,9 +25,11 @@ a. Cá nhân, tổ chức vi phạm có trách nhiệm thi hành biện pháp kh
 Người có thẩm quyền ra quyết định thi hành biện pháp khắc phục hậu quả chuyển giấy phép, chứng chỉ hành nghề bị tẩy xóa, sửa chữa làm sai lệch nội dung cho cơ quan, người có thẩm quyền đã cấp giấy phép, chứng chỉ hành nghề đó;
 `
 
+  const law = 'Nghi dinh 168'
+
   return (
     <div className="w-[1200px] h-[630px]">
-      <Nd168SectionPreview
+      <LawSectionPreview
         short1={short1}
         short2={short2}
         short3={short3}
@@ -35,6 +37,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
         detail2={detail2}
         detail3={detail3}
         highlight={'yellow'}
+        law={law}
       />
     </div>
   )
