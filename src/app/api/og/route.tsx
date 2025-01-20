@@ -69,6 +69,7 @@ export async function GET(request: Request) {
           detail3={detail3}
           highlight={highlight}
           law="Luật TTATGTĐB 2024"
+          id={section}
         />,
         {
           width: 1200,
@@ -104,6 +105,7 @@ export async function GET(request: Request) {
           detail3={detail3}
           highlight={highlight}
           law="Nghị định 168/2024"
+          id={section}
         />,
         {
           width: 1200,

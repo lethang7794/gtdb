@@ -85,6 +85,14 @@ export function isKhoan(id: string) {
   return id.match(/^\d+.\d+$/)
 }
 
+export function isKhoanFirst(id: string) {
+  return id.match(/^\d+.1/)
+}
+
 export function isDiem(id: string) {
   return id.match(/^\d+.\d+.(\w|đ)$/)
+}
+
+export function isDiemFirst(id: string) {
+  return id.match(/^\d+.\d+.a$/)
 }

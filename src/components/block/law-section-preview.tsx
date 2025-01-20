@@ -1,6 +1,13 @@
 import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
 import { LogoBlank } from '@/components/block/logo-blank'
+import {
+  isDiem,
+  isDiemFirst,
+  isDieu,
+  isKhoan,
+  isKhoanFirst,
+} from '@/lib/vbpl-explain-section'
 
 export function LawSectionPreview({
   short1,
@@ -11,6 +18,7 @@ export function LawSectionPreview({
   detail3,
   highlight,
   law,
+  id = '',
 }: {
   short1: string
   short2: string
@@ -23,6 +31,11 @@ export function LawSectionPreview({
   id?: string
 }) {
   const showMore = `Xem chi tiết ${short1} ${short2} ${short3} ${law} tại:`
+
+  console.log({
+    id,
+    'isKhoanFirst(id)': isKhoanFirst(id),
+  })
 
   return (
     <div
@@ -88,6 +101,9 @@ export function LawSectionPreview({
           </div>
         </div>
       ) : null}
+      {id && !isDieu(id) && !isKhoanFirst(id) ? (
+        <div tw="text-white ml-[94px] -mt-[16px] -mb-[15px] text-xl">...</div>
+      ) : null}
       {detail2 ? (
         <div
           style={{
@@ -109,6 +125,9 @@ export function LawSectionPreview({
             {detail2}
           </div>
         </div>
+      ) : null}
+      {id && isDiem(id) && !isDiemFirst(id) ? (
+        <div tw="text-white ml-41 -mt-3 -mb-3 text-xl">...</div>
       ) : null}
       {detail3 ? (
         <div
@@ -252,6 +271,6 @@ const styleDetail: CSSProperties = {
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
   marginTop: 16,
-  lineHeight: 1.4,
+  lineHeight: 1.25,
   padding: '4px 8px 4px 0',
 }
