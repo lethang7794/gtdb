@@ -28,11 +28,7 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [
-      sectionItem && sectionExplain,
-      'Luật TTATGTĐB 2024',
-      env.NEXT_PUBLIC_BRAND_SHORT,
-    ]
+    title: [sectionItem && sectionExplain, 'Luật TTATGTĐB 2024']
       .filter(Boolean)
       .join(' | '),
     description:

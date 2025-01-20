@@ -31,9 +31,7 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionExplain, 'Nghị định 168/2024', env.NEXT_PUBLIC_BRAND_SHORT]
-      .filter(Boolean)
-      .join(' | '),
+    title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
     description: sectionItem
       ? sectionItem.full_name
       : 'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
