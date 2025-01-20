@@ -58,7 +58,7 @@ export default function RootLayout({
         >
           <Header />
         </div>
-        <div className="bg-white">{children}</div>
+        <div className="flex-grow bg-white">{children}</div>
         <Footer />
         <Toaster />
       </body>
