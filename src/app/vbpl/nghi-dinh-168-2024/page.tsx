@@ -3,20 +3,20 @@ import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
 import { getToken } from '@/lib/crypto'
 import './style.css'
-import { LAW_ABBR } from '@/constant/laws'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { Spinner } from '@/components/block/spinner'
 import React from 'react'
 import { unstable_cache } from 'next/cache'
 import { cacheWithRevalidate } from '@/lib/cache'
+import { constants } from '@/constant'
 
 type Props = {
   params: Promise<{ id: string }>
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
-const LAW = LAW_ABBR.nghiDinh168
+const LAW = constants.laws.nghiDinh168.id
 
 export async function generateMetadata(
   { params, searchParams }: Props,

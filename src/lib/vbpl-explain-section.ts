@@ -1,4 +1,4 @@
-import { VBPL_SECTION_ZERO } from "@/constant/vbpl"
+import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
 
 export function vbplSectionExplain(id?: string):
   | {
@@ -81,10 +81,23 @@ export function isDieu(id: string) {
   return id.match(/^\d+$/)
 }
 
+export function hasDieu(id: string, dieu: number) {
+  const regex = new RegExp(`^${dieu}`)
+  return id.match(regex)
+}
+
 export function isKhoan(id: string) {
   return id.match(/^\d+.\d+$/)
 }
 
+export function isKhoanFirst(id: string) {
+  return id.match(/^\d+.1/)
+}
+
 export function isDiem(id: string) {
   return id.match(/^\d+.\d+.(\w|đ)$/)
+}
+
+export function isDiemFirst(id: string) {
+  return id.match(/^\d+.\d+.a$/)
 }

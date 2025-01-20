@@ -1,5 +1,6 @@
 import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { NghiDinh168PreviewRoot } from '@/components/block/nghi-dinh-168-preview-root'
+import { constants } from '@/constant'
 import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-detail'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
 import { getND168ById } from '@/service/nghi-dinh-168'
@@ -26,7 +27,8 @@ export default async function Image({ params }: { params: { slug: string } }) {
       detail2={detail2}
       detail3={detail3}
       highlight={highlight}
-      law="Nghị định 168/2024"
+      law={constants.laws.nghiDinh168.short_name}
+      id={section}
     />,
     {
       width: 1200,

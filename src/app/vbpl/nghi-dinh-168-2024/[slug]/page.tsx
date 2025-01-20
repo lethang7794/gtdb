@@ -3,18 +3,18 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
 import { getToken } from '@/lib/crypto'
-import { LAW_ABBR } from '@/constant/laws'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
+import { constants } from '@/constant'
 
 type Props = {
   params: Promise<{ slug: string }>
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
-const LAW = LAW_ABBR.nghiDinh168
+const LAW = constants.laws.nghiDinh168.id
 
 export async function generateStaticParams() {
   const items = await getND168s()

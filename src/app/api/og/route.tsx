@@ -7,10 +7,10 @@ import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { getND168ById } from '@/service/nghi-dinh-168'
 import { ImageResponse } from 'next/og'
 import { toHex, key } from '@/lib/crypto'
-import { LAW_ABBR } from '@/constant/laws'
 import { isDev } from '@/env.mjs'
 import type { ServerRuntime } from 'next'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
+import { constants } from '@/constant'
 
 // export const runtime: ServerRuntime = 'edge'
 // export const preferredRegion = ['sin1']
@@ -42,7 +42,7 @@ export async function GET(request: Request) {
       })
     }
 
-    if (law === LAW_ABBR.luatGT2024) {
+    if (law === constants.laws.luatGT2024.id) {
       if (!section || isSectionZero(section)) {
         return new ImageResponse(<LuatGT2024PreviewRoot />, {
           width: 1200,
@@ -68,7 +68,8 @@ export async function GET(request: Request) {
           detail2={detail2}
           detail3={detail3}
           highlight={highlight}
-          law="Luật TTATGTĐB 2024"
+          law={constants.laws.luatGT2024.short_name}
+          id={section}
         />,
         {
           width: 1200,
@@ -77,7 +78,7 @@ export async function GET(request: Request) {
       )
     }
 
-    if (law === LAW_ABBR.nghiDinh168) {
+    if (law === constants.laws.nghiDinh168.id) {
       if (!section || isSectionZero(section)) {
         return new ImageResponse(<NghiDinh168PreviewRoot />, {
           width: 1200,
@@ -103,7 +104,8 @@ export async function GET(request: Request) {
           detail2={detail2}
           detail3={detail3}
           highlight={highlight}
-          law="Nghị định 168/2024"
+          law={constants.laws.nghiDinh168.short_name}
+          id={section}
         />,
         {
           width: 1200,
@@ -118,7 +120,7 @@ export async function GET(request: Request) {
 
     // biome-ignore lint/suspicious/noExplicitAny: <explanation>
   } catch (e: any) {
-    console.log(`${e.message}`)
+    console.error(`${e.message}`)
     return new Response('Failed to generate the image', {
       status: 500,
     })

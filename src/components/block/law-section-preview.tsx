@@ -1,16 +1,25 @@
 import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
 import { LogoBlank } from '@/components/block/logo-blank'
+import {
+  hasDieu,
+  isDiem,
+  isDiemFirst,
+  isDieu,
+  isKhoanFirst,
+} from '@/lib/vbpl-explain-section'
+import { constants } from '@/constant'
 
 export function LawSectionPreview({
   short1,
   short2,
   short3,
-  detail1,
-  detail2,
+  detail1: detail1Prop,
+  detail2: detail2Prop,
   detail3,
   highlight,
   law,
+  id = '',
 }: {
   short1: string
   short2: string
@@ -20,8 +29,14 @@ export function LawSectionPreview({
   detail3: string
   highlight: TrafficLight
   law: string
+  id?: string
 }) {
   const showMore = `Xem chi tiết ${short1} ${short2} ${short3} ${law} tại:`
+
+  const detail1 = processDieu(detail1Prop, law, id)
+  const detail2 = detail3
+    ? detail2Prop.replace(/đối với.*/, '...')
+    : detail2Prop
 
   return (
     <div
@@ -45,7 +60,7 @@ export function LawSectionPreview({
           letterSpacing: '-0.025em',
           color: 'white',
           padding: '16px 60px 0 60px',
-          lineHeight: 1.4,
+          lineHeight: 1.2,
         }}
       >
         <div style={styleNghiDinhHeading}>{law}</div>
@@ -87,6 +102,9 @@ export function LawSectionPreview({
           </div>
         </div>
       ) : null}
+      {id && !isDieu(id) && !isKhoanFirst(id) ? (
+        <div tw="text-white ml-[94px] -mt-[12px] -mb-[12px] text-xl">...</div>
+      ) : null}
       {detail2 ? (
         <div
           style={{
@@ -109,6 +127,9 @@ export function LawSectionPreview({
           </div>
         </div>
       ) : null}
+      {id && isDiem(id) && !isDiemFirst(id) ? (
+        <div tw="text-white ml-41 -mt-3 -mb-3 text-xl">...</div>
+      ) : null}
       {detail3 ? (
         <div
           style={{
@@ -122,7 +143,7 @@ export function LawSectionPreview({
               ...getStyleForColor('green', highlight, detail3),
 
               display: 'block',
-              lineClamp: '3',
+              lineClamp: '4',
 
               paddingLeft: '32px',
             }}
@@ -131,7 +152,7 @@ export function LawSectionPreview({
           </div>
         </div>
       ) : null}
-      <div tw="absolute flex bottom-4 right-16 text-white items-center">
+      <div tw="absolute flex bottom-1 right-16 text-white items-center">
         <div tw="">{showMore}</div>
         <div tw="ml-1 -mr-4">www.</div>
         <LogoBlank />
@@ -158,6 +179,7 @@ const stylesByColor: Record<
       padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
+      marginTop: 4,
     },
     border: {
       border: '4px solid red',
@@ -250,6 +272,31 @@ const styleDetail: CSSProperties = {
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
   marginTop: 16,
-  lineHeight: 1.4,
+  lineHeight: 1.25,
   padding: '4px 8px 4px 0',
+}
+
+function processDieu(detail1Prop: string, law: string, id: string) {
+  if (law === constants.laws.nghiDinh168.short_name) {
+    if (hasDieu(id, 6)) {
+      return 'Điều 6. ... người điều khiển xe ô tô 🚘 ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 7)) {
+      return 'Điều 7. ... người điều khiển xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 9)) {
+      return 'Điều 9. ... người điều khiển xe đạp 🚲, xe đạp máy ... xe thô sơ ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 10)) {
+      return 'Điều 10. ... người đi bộ 🚶 vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 13)) {
+      return 'Điều 13. ... xe ô tô 🚘 ... vi phạm quy định về điều kiện của phương tiện ...'
+    }
+    if (hasDieu(id, 14)) {
+      return 'Điều 14. ... xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy định về điều kiện của phương tiện ...'
+    }
+  }
+
+  return detail1Prop
 }

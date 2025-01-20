@@ -4,11 +4,11 @@ import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { env } from '@/env.mjs'
-import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
+import { constants } from '@/constant'
 import './style.css'
 
-const LAW = LAW_ABBR.luatGT2024
+const LAW = constants.laws.luatGT2024.id
 
 type Props = {
   params: Promise<{ slug: string }>
