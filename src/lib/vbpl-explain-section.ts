@@ -81,12 +81,6 @@ export function isDieu(id: string) {
   return id.match(/^\d+$/)
 }
 
-export function hasDieu6(id: string) {
-  return id.match(/^6/)
-}
-export function hasDieu7(id: string) {
-  return id.match(/^7/)
-}
 export function hasDieu(id: string, dieu: number) {
   const regex = new RegExp(`^${dieu}`)
   return id.match(regex)

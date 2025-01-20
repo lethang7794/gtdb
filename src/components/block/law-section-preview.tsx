@@ -3,12 +3,9 @@ import type { CSSProperties } from 'react'
 import { LogoBlank } from '@/components/block/logo-blank'
 import {
   hasDieu,
-  hasDieu6,
-  hasDieu7,
   isDiem,
   isDiemFirst,
   isDieu,
-  isKhoan,
   isKhoanFirst,
 } from '@/lib/vbpl-explain-section'
 import { constants } from '@/constant'
@@ -40,11 +37,6 @@ export function LawSectionPreview({
   const detail2 = detail3
     ? detail2Prop.replace(/đối với.*/, '...')
     : detail2Prop
-
-  console.log({
-    id,
-    'isKhoanFirst(id)': isKhoanFirst(id),
-  })
 
   return (
     <div
@@ -286,10 +278,10 @@ const styleDetail: CSSProperties = {
 
 function processDieu(detail1Prop: string, law: string, id: string) {
   if (law === constants.laws.nghiDinh168.short_name) {
-    if (hasDieu6(id)) {
+    if (hasDieu(id, 6)) {
       return 'Điều 6. ... người điều khiển xe ô tô 🚘 ... vi phạm quy tắc giao thông ...'
     }
-    if (hasDieu7(id)) {
+    if (hasDieu(id, 7)) {
       return 'Điều 7. ... người điều khiển xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy tắc giao thông ...'
     }
     if (hasDieu(id, 9)) {
