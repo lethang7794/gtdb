@@ -27,6 +27,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
       detail3={detail3}
       highlight={highlight}
       law="Nghị định 168/2024"
+      id={section}
     />,
     {
       width: 1200,

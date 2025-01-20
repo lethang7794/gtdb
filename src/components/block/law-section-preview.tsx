@@ -20,6 +20,7 @@ export function LawSectionPreview({
   detail3: string
   highlight: TrafficLight
   law: string
+  id?: string
 }) {
   const showMore = `Xem chi tiết ${short1} ${short2} ${short3} ${law} tại:`
 
@@ -45,7 +46,7 @@ export function LawSectionPreview({
           letterSpacing: '-0.025em',
           color: 'white',
           padding: '16px 60px 0 60px',
-          lineHeight: 1.4,
+          lineHeight: 1.2,
         }}
       >
         <div style={styleNghiDinhHeading}>{law}</div>
@@ -158,6 +159,7 @@ const stylesByColor: Record<
       padding: '0 0px',
       borderRadius: '16px',
       color: 'white',
+      marginTop: 4,
     },
     border: {
       border: '4px solid red',
