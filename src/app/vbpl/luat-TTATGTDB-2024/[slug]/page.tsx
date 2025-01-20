@@ -42,9 +42,7 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionExplain, 'Luật TTATGTĐB 2024', env.NEXT_PUBLIC_BRAND_SHORT]
-      .filter(Boolean)
-      .join(' | '),
+    title: [sectionExplain, 'Luật TTATGTĐB 2024'].filter(Boolean).join(' | '),
     description:
       sectionItem?.content ||
       'Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.',
