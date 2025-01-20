@@ -2,19 +2,23 @@ import type { TrafficLight } from '@/model/TrafficLight'
 import type { CSSProperties } from 'react'
 import { LogoBlank } from '@/components/block/logo-blank'
 import {
+  hasDieu,
+  hasDieu6,
+  hasDieu7,
   isDiem,
   isDiemFirst,
   isDieu,
   isKhoan,
   isKhoanFirst,
 } from '@/lib/vbpl-explain-section'
+import { constants } from '@/constant'
 
 export function LawSectionPreview({
   short1,
   short2,
   short3,
-  detail1,
-  detail2,
+  detail1: detail1Prop,
+  detail2: detail2Prop,
   detail3,
   highlight,
   law,
@@ -31,6 +35,11 @@ export function LawSectionPreview({
   id?: string
 }) {
   const showMore = `Xem chi tiết ${short1} ${short2} ${short3} ${law} tại:`
+
+  const detail1 = processDieu(detail1Prop, law, id)
+  const detail2 = detail3
+    ? detail2Prop.replace(/đối với.*/, '...')
+    : detail2Prop
 
   console.log({
     id,
@@ -273,4 +282,29 @@ const styleDetail: CSSProperties = {
   marginTop: 16,
   lineHeight: 1.25,
   padding: '4px 8px 4px 0',
+}
+
+function processDieu(detail1Prop: string, law: string, id: string) {
+  if (law === constants.laws.nghiDinh168.short_name) {
+    if (hasDieu6(id)) {
+      return 'Điều 6. ... người điều khiển xe ô tô 🚘 ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu7(id)) {
+      return 'Điều 7. ... người điều khiển xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 9)) {
+      return 'Điều 9. ... người điều khiển xe đạp 🚲, xe đạp máy ... xe thô sơ ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 10)) {
+      return 'Điều 10. ... người đi bộ 🚶 vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 13)) {
+      return 'Điều 13. ... xe ô tô 🚘 ... vi phạm quy định về điều kiện của phương tiện ...'
+    }
+    if (hasDieu(id, 14)) {
+      return 'Điều 14. ... xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy định về điều kiện của phương tiện ...'
+    }
+  }
+
+  return detail1Prop
 }

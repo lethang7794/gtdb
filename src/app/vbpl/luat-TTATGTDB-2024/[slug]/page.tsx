@@ -7,12 +7,12 @@ import {
 } from '@/service/luat-giao-thong-2024'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { env } from '@/env.mjs'
-import { LAW_ABBR } from '@/constant/laws'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
+import { constants } from '@/constant'
 
-const LAW = LAW_ABBR.luatGT2024
+const LAW = constants.laws.luatGT2024.id
 
 type Props = {
   params: Promise<{ slug: string }>
