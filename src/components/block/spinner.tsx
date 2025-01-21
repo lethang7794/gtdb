@@ -1,8 +1,16 @@
-export function Spinner({ id = 'spinner' }: { id: string }) {
+import { cn } from '@/lib/utils'
+
+export function Spinner({
+  id = 'spinner',
+  className,
+}: { id?: string; className?: string }) {
   return (
     <div
       id={id}
-      className="fixed inset-0 flex items-center justify-center z-20"
+      className={cn(
+        'fixed inset-0 flex items-center justify-center z-20',
+        className
+      )}
       style={{
         color: 'var(--fgColor-default)',
         backgroundColor: 'var(--bgColor-default)',
