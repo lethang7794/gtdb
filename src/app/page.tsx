@@ -22,7 +22,7 @@ export default async function Home() {
                   backgroundImage:
                     'linear-gradient(90deg, rgb(0, 124, 240), rgb(0, 223, 216))',
                   backgroundClip: 'text',
-                  '-webkit-background-clip': 'text',
+                  WebkitBackgroundClip: 'text',
                   color: 'transparent',
                 }}
               >
@@ -34,7 +34,7 @@ export default async function Home() {
                   backgroundImage:
                     'linear-gradient(90deg, rgb(121, 40, 202), rgb(255, 0, 128))',
                   backgroundClip: 'text',
-                  '-webkit-background-clip': 'text',
+                  WebkitBackgroundClip: 'text',
                   color: 'transparent',
                 }}
               >
@@ -46,7 +46,7 @@ export default async function Home() {
                   backgroundImage:
                     'linear-gradient(90deg, rgb(255, 77, 77), rgb(249, 203, 40))',
                   backgroundClip: 'text',
-                  '-webkit-background-clip': 'text',
+                  WebkitBackgroundClip: 'text',
                   color: 'transparent',
                 }}
               >
@@ -83,31 +83,96 @@ export default async function Home() {
                 backgroundImage:
                   'linear-gradient(90deg, rgb(0, 124, 240), rgb(0, 223, 216))',
                 backgroundClip: 'text',
-                '-webkit-background-clip': 'text',
+                WebkitBackgroundClip: 'text',
                 color: 'transparent',
               }}
             >
               <div>
                 <span className="italic">Đọc</span> mọi lúc mọi nơi
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
-                Ban đêm hay ban ngày
-                <div className="relative aspect-square">
-                  <Image
-                    fill
-                    src="/assets/showcase/moi-luc-dark-mode.png"
-                    alt="Tóm tắt - Sơ đồ tư duy"
-                  />
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Ban ngày hay ban đêm
+                <div className="mt-4 relative mx-auto w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <Image
+                      fill
+                      src="/assets/showcase/moi-luc-light-mode.png"
+                      alt="Đọc mọi lúc với chế độ sáng"
+                    />
+                  </div>
+                  <div className="absolute left-16 top-16 w-80">
+                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                      <Image
+                        fill
+                        src="/assets/showcase/moi-luc-dark-mode.png"
+                        alt="Đọc mọi lúc với chế độ tối"
+                        className="rounded-[32px]"
+                      />
+                    </div>
+                  </div>
                 </div>
               </div>
               <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
-                Điện thoại hay máy tính
+                Máy tính hay điện thoại
+                <div className="mt-4 relative mx-auto w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <Image
+                      fill
+                      src="/assets/showcase/moi-noi-desktop.png"
+                      alt="Đọc mọi nơi trên máy tính"
+                    />
+                  </div>
+                  <div className="absolute left-16 top-16 w-80">
+                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                      <Image
+                        src="/assets/showcase/moi-noi-mobile.png"
+                        fill
+                        alt="Đọc mọi nơi trên điện thoại"
+                        className="rounded-[32px]"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
-                Tóm tắt với sơ đồ
+                Tóm tắt với sơ đồ...
+                <div className="mt-4 relative mx-auto w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <Image
+                      fill
+                      src="/assets/showcase/tom-tat-bang-so-do.png"
+                      alt="Tóm tắt với sơ đồ tư duy"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                ...có thể tương tác
+                <div className="mt-4 relative mx-auto w-96">
+                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <Image
+                      fill
+                      src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
+                      alt="Tương tác với sơ đồ tư duy"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Mục lục chi tiết
+                <div className="mt-4 relative mx-auto w-96">
+                  <div className="relative aspect-[1/1] rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <Image
+                      fill
+                      src="/assets/showcase/tom-tat-muc-luc.png"
+                      alt="Mục lục chi tiết"
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
+
           <div className="mt-16 flex flex-row md:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
             <div
               className=""
@@ -115,7 +180,7 @@ export default async function Home() {
                 backgroundImage:
                   'linear-gradient(90deg, rgb(121, 40, 202), rgb(255, 0, 128))',
                 backgroundClip: 'text',
-                '-webkit-background-clip': 'text',
+                WebkitBackgroundClip: 'text',
                 color: 'transparent',
               }}
             >
@@ -140,7 +205,7 @@ export default async function Home() {
                 backgroundImage:
                   'linear-gradient(90deg, rgb(255, 77, 77), rgb(249, 203, 40))',
                 backgroundClip: 'text',
-                '-webkit-background-clip': 'text',
+                WebkitBackgroundClip: 'text',
                 color: 'transparent',
               }}
             >
