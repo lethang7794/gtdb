@@ -82,7 +82,7 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
           </a>
         </>
       ) : (
-        <Link href={href} {...newLinkProps}>
+        <Link href={href} prefetch={false} {...newLinkProps}>
           {children}
         </Link>
       )}
