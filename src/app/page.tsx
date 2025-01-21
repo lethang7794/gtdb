@@ -92,81 +92,91 @@ export default async function Home() {
               </div>
               <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Ban ngày hay ban đêm
-                <div className="mt-4 relative mx-auto w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
-                    <Image
-                      fill
-                      src="/assets/showcase/moi-luc-light-mode.png"
-                      alt="Đọc mọi lúc với chế độ sáng"
-                    />
-                  </div>
-                  <div className="absolute left-16 top-16 w-80">
-                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
                       <Image
                         fill
-                        src="/assets/showcase/moi-luc-dark-mode.png"
-                        alt="Đọc mọi lúc với chế độ tối"
-                        className="rounded-[32px]"
+                        src="/assets/showcase/moi-luc-light-mode.png"
+                        alt="Đọc mọi lúc với chế độ sáng"
                       />
+                    </div>
+                    <div className="absolute left-16 top-16 w-80">
+                      <div className="aspect-square rounded-[32px] overflow-hidden">
+                        <Image
+                          fill
+                          src="/assets/showcase/moi-luc-dark-mode.png"
+                          alt="Đọc mọi lúc với chế độ tối"
+                          className="rounded-[32px]"
+                        />
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Máy tính hay điện thoại
-                <div className="mt-4 relative mx-auto w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
-                    <Image
-                      fill
-                      src="/assets/showcase/moi-noi-desktop.png"
-                      alt="Đọc mọi nơi trên máy tính"
-                    />
-                  </div>
-                  <div className="absolute left-16 top-16 w-80">
-                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
                       <Image
-                        src="/assets/showcase/moi-noi-mobile.png"
                         fill
-                        alt="Đọc mọi nơi trên điện thoại"
-                        className="rounded-[32px]"
+                        src="/assets/showcase/moi-noi-desktop.png"
+                        alt="Đọc mọi nơi trên máy tính"
+                      />
+                    </div>
+                    <div className="absolute left-16 top-16 w-80">
+                      <div className="aspect-square rounded-[32px] overflow-hidden">
+                        <Image
+                          src="/assets/showcase/moi-noi-mobile.png"
+                          fill
+                          alt="Đọc mọi nơi trên điện thoại"
+                          className="rounded-[32px]"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Tóm tắt với sơ đồ...
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                      <Image
+                        fill
+                        src="/assets/showcase/tom-tat-bang-so-do.png"
+                        alt="Tóm tắt với sơ đồ tư duy"
                       />
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
-                Tóm tắt với sơ đồ...
-                <div className="mt-4 relative mx-auto w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
-                    <Image
-                      fill
-                      src="/assets/showcase/tom-tat-bang-so-do.png"
-                      alt="Tóm tắt với sơ đồ tư duy"
-                    />
-                  </div>
-                </div>
-              </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 ...có thể tương tác
-                <div className="mt-4 relative mx-auto w-96">
-                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
-                    <Image
-                      fill
-                      src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
-                      alt="Tương tác với sơ đồ tư duy"
-                    />
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                      <Image
+                        fill
+                        src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
+                        alt="Tương tác với sơ đồ tư duy"
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Mục lục chi tiết
-                <div className="mt-4 relative mx-auto w-96">
-                  <div className="relative aspect-[1/1] rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
-                    <Image
-                      fill
-                      src="/assets/showcase/tom-tat-muc-luc.png"
-                      alt="Mục lục chi tiết"
-                    />
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-[1/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                      <Image
+                        fill
+                        src="/assets/showcase/tom-tat-muc-luc.png"
+                        alt="Mục lục chi tiết"
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
@@ -187,14 +197,115 @@ export default async function Home() {
               <div>
                 <span className="italic">Hiểu</span> đúng như luật nói
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
-                Gồm toàn bộ nội dung
+
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Số hóa đến từng chi tiết ...
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                ... dù là quốc hiệu
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                      <Image
+                        fill
+                        src="/assets/showcase/so-hoa-chi-tiet-quoc-hieu.png"
+                        alt="Đọc mọi lúc với chế độ sáng"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                ...hay người ký
+                <div className="mt-4 ml-8 flex justify-start">
+                  <div className="relative w-96">
+                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                      <Image
+                        fill
+                        src="/assets/showcase/so-hoa-chi-tiet-nguoi-ky.png"
+                        alt="Đọc mọi lúc với chế độ sáng"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Không thiếu một biển báo
+              </div>
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-32 mr-32">
+                    <Image
+                      fill
+                      src="/assets/showcase/bien-bao-giao-thong-001.png"
+                      alt="Biển báo giao thông - 1"
+                    />
+                  </div>
+                  <div className="absolute left-16 top-16 w-64">
+                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                      <Image
+                        fill
+                        src="/assets/showcase/bien-bao-giao-thong-002.png"
+                        alt="Biển báo giao thông - 2"
+                        className="rounded-[32px]"
+                      />
+                    </div>
+                  </div>
+                  <div className="absolute left-32 top-32 w-64">
+                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                      <Image
+                        fill
+                        src="/assets/showcase/bien-bao-giao-thong-003.png"
+                        alt="Biển báo giao thông - 3"
+                        className="rounded-[32px]"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Bất kỳ vạch kẻ đường
+              </div>
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/vach-ke-duong.png"
+                      alt="Vạch kẻ đường"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Liên kết đến giải thích
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/lien-ket-den-giai-thich.png"
+                      alt="Liên kết đến giải thích"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Chi li nhưng chí lý
+              </div>
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/chi-li-nhung-chi-ly.png"
+                      alt="Chi li nhưng chí lý"
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -212,14 +323,53 @@ export default async function Home() {
               <div className="font-bold">
                 <span className="italic">Chia sẻ</span> để cùng hiểu
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+
+              <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Trong một nốt nhạc
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/chia-se-trong-mot-not-nhac.png"
+                      alt="Chia sẻ trong một nốt nhác"
+                      className="object-cover object-top"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Đến đúng điểm
               </div>
-              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/chia-se-den-dung-diem.png"
+                      alt="Đến đúng điểm"
+                      className="object-cover object-top"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Xem trước nội dung
+              </div>
+              <div className="mt-4 ml-8 flex justify-start">
+                <div className="relative w-96">
+                  <div className="relative aspect-[1200/630] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <Image
+                      fill
+                      src="/assets/showcase/chia-se-xem-truoc.png"
+                      alt="Xem trước nội dung"
+                      className="object-cover object-top"
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
