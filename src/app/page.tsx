@@ -6,6 +6,7 @@ import BaseLink from '@/components/base-link'
 import ShareButton, {
   ShareButtonWrapper,
 } from '@/components/block/share-button'
+import Image from 'next/image'
 
 export default async function Home() {
   return (
@@ -89,12 +90,25 @@ export default async function Home() {
               <div>
                 <span className="italic">Đọc</span> mọi lúc mọi nơi
               </div>
-              <div>Ban đêm hay ban ngày</div>
-              <div>Điện thoại hay máy tính</div>
-              <div>Tóm tắt với sơ đồ</div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Ban đêm hay ban ngày
+                <div className="relative aspect-square">
+                  <Image
+                    fill
+                    src="/assets/showcase/moi-luc-dark-mode.png"
+                    alt="Tóm tắt - Sơ đồ tư duy"
+                  />
+                </div>
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Điện thoại hay máy tính
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Tóm tắt với sơ đồ
+              </div>
             </div>
           </div>
-          <div className="flex flex-row md:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row md:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
             <div
               className=""
               style={{
@@ -108,12 +122,18 @@ export default async function Home() {
               <div>
                 <span className="italic">Hiểu</span> đúng như luật nói
               </div>
-              <div>Gồm toàn bộ nội dung</div>
-              <div>Liên kết đến giải thích</div>
-              <div>Chi li nhưng chí lý</div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Gồm toàn bộ nội dung
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Liên kết đến giải thích
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Chi li nhưng chí lý
+              </div>
             </div>
           </div>
-          <div className="flex flex-row md:justify-end font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row md:justify-end font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
             <div
               className="md:pl-64 whitespace-nowrap"
               style={{
@@ -127,9 +147,15 @@ export default async function Home() {
               <div className="font-bold">
                 <span className="italic">Chia sẻ</span> để cùng hiểu
               </div>
-              <div>Trong một nốt nhạc</div>
-              <div>Đến đúng điểm</div>
-              <div>Xem trước nội dung</div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Trong một nốt nhạc
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Đến đúng điểm
+              </div>
+              <div className="text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
+                Xem trước nội dung
+              </div>
             </div>
           </div>
 
