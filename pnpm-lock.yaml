@@ -215,6 +215,9 @@ importers:
       remark-collapse:
         specifier: ^0.1.2
         version: 0.1.2
+      remark-custom-header-id:
+        specifier: ^1.0.0
+        version: 1.0.0
       remark-gfm:
         specifier: ^4.0.0
         version: 4.0.0
@@ -3611,6 +3614,10 @@ packages:
 
   remark-collapse@0.1.2:
     resolution: {integrity: sha512-x2lhtaT4nR1Tkp/hftoeiMHbdAntxu5Q9D6lymwMqUtoF2pg3bqNaa8NO/8yyOVhddYk0d0dkhGc+avGUf0lZA==}
+
+  remark-custom-header-id@1.0.0:
+    resolution: {integrity: sha512-xs1MAgCg1HoiIfqSVV5BPydB4/sc1tT8OHDoqt8Lnf1JHPMUDVumY2Szm/P9MIxIzOT9+tu4IYJTql0vCzldoA==}
+    engines: {node: '>=18'}
 
   remark-gfm@4.0.0:
     resolution: {integrity: sha512-U92vJgBPkbw4Zfu/IiW2oTZLSL3Zpv+uI7My2eq8JxKgqraFdU8YUGicEJCEgSbeaG+QDFqIcwwfMTOEelPxuA==}
@@ -8185,6 +8192,11 @@ snapshots:
     dependencies:
       mdast-util-heading-range: 2.1.5
       mdast-util-to-string: 1.1.0
+
+  remark-custom-header-id@1.0.0:
+    dependencies:
+      '@types/unist': 3.0.3
+      unist-util-visit: 5.0.0
 
   remark-gfm@4.0.0:
     dependencies:
