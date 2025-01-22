@@ -1,4 +1,5 @@
 import createMDX from '@next/mdx'
+import remarkCustomHeaderId from 'remark-custom-header-id'
 import remarkTOC from 'remark-toc'
 import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
@@ -74,6 +75,7 @@ const withMDX = createMDX({
   // Add markdown plugins here, as desired
   options: {
     remarkPlugins: [
+      remarkCustomHeaderId,
       [remarkTOC, { heading: '(table[ -]of[ -])?contents?|toc|mục lục' }],
       remarkGfm,
     ],

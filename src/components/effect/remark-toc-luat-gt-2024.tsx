@@ -27,9 +27,7 @@ export default function RemarkTOCEffect() {
 
   useEffect(() => {
     // Cleanup TOC
-    const tocItems = document.querySelectorAll(
-      '#mục-lục + ul li > a .anchor-link'
-    )
+    const tocItems = document.querySelectorAll('#mục-lục + ul li > a')
     for (const item of Array.from(tocItems)) {
       const id = item.id
       item.removeAttribute('id')
@@ -40,6 +38,14 @@ export default function RemarkTOCEffect() {
           grand.removeAttribute('id')
           grand.setAttribute('href', `#${id}`)
         }
+      }
+      const firstChild = item.firstElementChild
+      if (firstChild?.tagName === 'SPAN') {
+        firstChild.removeAttribute('id')
+      }
+      const secondChild = firstChild?.nextElementSibling
+      if (secondChild?.tagName === 'BUTTON' || secondChild?.tagName === 'SPAN') {
+        secondChild.removeAttribute('id')
       }
     }
 

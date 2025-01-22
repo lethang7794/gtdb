@@ -24,8 +24,8 @@ const ShareButtonWrapper = dynamic(() =>
   import('@/components/block/share-button').then((m) => m.ShareButtonWrapper)
 )
 
-import A from '@/components/block/anchor-link'
-import AA from '@/components/block/anchor-link-luat-gt-2024'
+import A from '@/components/block/anchor-link.server'
+import AA from '@/components/block/anchor-link-luat-gt-2024.server'
 import RemarkTOCEffect from '@/components/effect/remark-toc'
 import RemarkTOCEffectLuatGT2024 from '@/components/effect/remark-toc-luat-gt-2024'
 import { Spinner } from '@/components/block/spinner'
