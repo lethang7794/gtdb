@@ -44,7 +44,7 @@ export default function RemarkTOCEffect() {
         firstChild.removeAttribute('id')
       }
       const secondChild = firstChild?.nextElementSibling
-      if (secondChild?.tagName === 'BUTTON') {
+      if (secondChild?.tagName === 'BUTTON' || secondChild?.tagName === 'SPAN') {
         secondChild.removeAttribute('id')
       }
     }
