@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Markmap from '@/components/markmap'
-import { getLuatGT2024MindMap } from '@/service/luat-giao-thong-2024-mind-map'
+import { getMarkmapById } from '@/service/markmap'
 
 export const metadata: Metadata = {
   title:
@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 export default async function LuatGT2024Mindmap() {
-  const data = await getLuatGT2024MindMap()
+  const item = await getMarkmapById('luat-TTATGTDB-2024')
 
-  return <Markmap data={data} />
+  return <Markmap data={item.content} />
 }

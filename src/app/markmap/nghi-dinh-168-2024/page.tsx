@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
-import { getNghiDinh168MindMap } from '@/service/nghi-dinh-168-mind-map'
 import Markmap from '@/components/markmap'
+import { getMarkmapById } from '@/service/markmap'
 
 export const metadata: Metadata = {
   title: 'Nghị định 168/2024 - Tóm tắt',
@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 }
 
 export default async function NghiDinh168Mindmap() {
-  const data = await getNghiDinh168MindMap()
+  const item = await getMarkmapById('nghi-dinh-168-2024')
 
-  return <Markmap data={data} />
+  return <Markmap data={item.content} />
 }

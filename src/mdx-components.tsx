@@ -10,10 +10,12 @@ const NghiDinh168MindMap = dynamic(
   () => import('@/app/markmap/nghi-dinh-168-2024/page'),
   { loading: () => <Spinner className="absolute" /> }
 )
+
 const LuatGT2024MindMap = dynamic(
   () => import('@/app/markmap/luat-TTATGTDB-2024/page'),
   { loading: () => <Spinner className="absolute" /> }
 )
+
 const NghiDinh168HDSD = dynamic(
   () => import('@/app/vbpl/nghi-dinh-168-2024/hdsd')
 )
