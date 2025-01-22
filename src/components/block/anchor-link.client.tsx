@@ -11,9 +11,16 @@ import { copyToClipboard } from '@/lib/copy-to-clipboard'
 type Props = {
   id: string
   children: ReactNode
+  explain?: string
+  element?: JSX.ElementType
 }
 
-export default function AnchorLink({ id, children }: Props) {
+export default function AnchorLinkClient({
+  id,
+  children,
+  explain,
+  element: El = 'span',
+}: Props) {
   const { toast } = useToast()
 
   const [hasCopied, setHasCopied] = React.useState(false)
@@ -33,9 +40,6 @@ export default function AnchorLink({ id, children }: Props) {
     }
   }, [hasCopied])
 
-  const explain = vbplSectionExplain(id).path
-
-  const El = isDieu(id) || isKhoan(id) ? 'button' : 'span'
 
   return (
     <El
