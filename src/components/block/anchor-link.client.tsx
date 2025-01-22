@@ -84,7 +84,7 @@ export default function AnchorLinkClient({
             <span className="copied">Đã sao chép</span>
           ) : (
             <span className="copy">
-              Sao chép đường dẫn: <em>{vbplSectionExplain(id).path}</em>
+              Sao chép đường dẫn: <em>{explain}</em>
             </span>
           )}
         </span>

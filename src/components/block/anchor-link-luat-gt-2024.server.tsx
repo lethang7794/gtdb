@@ -1,6 +1,7 @@
 import React from 'react'
 import type { ReactNode } from 'react'
 import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
+import AnchorLinkLuatGT2024Client from './anchor-link-luat-gt-2024.client'
 
 type Props = {
   id: string
@@ -14,7 +15,9 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
   return (
     <>
       <span id={id} />
-      {children}
+      <AnchorLinkLuatGT2024Client id={id} explain={explain} element={El}>
+        {children}
+      </AnchorLinkLuatGT2024Client>
     </>
   )
 }

@@ -19,7 +19,7 @@ type Props = {
   element?: JSX.ElementType
 }
 
-export default function AnchorLinkClient({
+export default function AnchorLinkLuatGT2024Client({
   id,
   children,
   explain,
