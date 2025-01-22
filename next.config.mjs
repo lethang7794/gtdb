@@ -62,6 +62,12 @@ const nextConfig = {
       ],
     }
   },
+
+  experimental: {
+    outputFileTracingIncludes: {
+      '/*': ['./data/**/*', './src/content/**/*'],
+    },
+  },
 }
 
 const withMDX = createMDX({
