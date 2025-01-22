@@ -60,14 +60,20 @@ h2#mục-lục + ul > li > ul:has(ul) > li > ul {
 .markdown-body h3:has(:target),
 .markdown-body h4:has(:target),
 .markdown-body h5:has(:target),
-.markdown-body h6:has(:target) {
-  animation: yellowflash-bg 5s;
+.markdown-body h6:has(:target),
+.markdown-body h1:target,
+.markdown-body h2:target,
+.markdown-body h3:target,
+.markdown-body h4:target,
+.markdown-body h5:target,
+.markdown-body h6:target {
+  animation: yellowflash-bg 10s;
 
   span {
-    animation: yellowflash-bg 5s;
+    animation: yellowflash-bg 10s;
   }
   button {
-    animation: yellowflash-bg 5s;
+    animation: yellowflash-bg 10s;
   }
 }
 
