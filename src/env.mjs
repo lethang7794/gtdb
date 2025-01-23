@@ -10,6 +10,7 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
+    CF_PAGES_BRANCH: z.string(),
     CI: z.coerce.boolean(),
     NEXT_PUBLIC_SECRET: z.string(),
     NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
@@ -35,6 +36,7 @@ export const env = createEnv({
    */
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
+    CF_PAGES_BRANCH: process.env.CF_PAGES_BRANCH,
     CI: process.env.CI || false,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
     NEXT_PUBLIC_CACHE_REVALIDATION:
