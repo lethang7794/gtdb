@@ -4,14 +4,14 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
   // Local dev
   if (env.NEXT_PUBLIC_APP_ENV === 'dev') {
     const sub = params.slice(0, 5)
-    console.warn('NEXT_PUBLIC_APP_ENV: $dev', getSlugsInfo(params, sub, path))
+    console.warn('NEXT_PUBLIC_APP_ENV: $dev\n', getSlugsInfo(params, sub, path))
     return sub
   }
   // VERCEL preview environment
   if (env.NEXT_PUBLIC_APP_ENV === 'preview') {
     const sub = params.slice(0, 50)
     console.warn(
-      'NEXT_PUBLIC_APP_ENV: preview',
+      'NEXT_PUBLIC_APP_ENV: preview\n',
       getSlugsInfo(params, sub, path)
     )
     return sub
@@ -20,7 +20,7 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
   if (env.CF_PAGES_BRANCH !== 'main') {
     const sub = params.slice(0, 50)
     console.warn(
-      'CF_PAGES_BRANCH is not main.',
+      "CF_PAGES_BRANCH !== 'main'\n",
       getSlugsInfo(params, sub, path)
     )
     return sub
