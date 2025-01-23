@@ -4,10 +4,7 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
   // Local dev
   if (env.NEXT_PUBLIC_APP_ENV === 'dev') {
     const sub = params.slice(0, 5)
-    console.warn(
-      'NEXT_PUBLIC_APP_ENV: $dev',
-      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total).`
-    )
+    console.warn('NEXT_PUBLIC_APP_ENV: $dev', getSlugsInfo(params, sub, path))
     return sub
   }
   // VERCEL preview environment
@@ -15,7 +12,7 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
     const sub = params.slice(0, 50)
     console.warn(
       'NEXT_PUBLIC_APP_ENV: preview',
-      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total).`
+      getSlugsInfo(params, sub, path)
     )
     return sub
   }
@@ -24,10 +21,17 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
     const sub = params.slice(0, 50)
     console.warn(
       'CF_PAGES_BRANCH is not main.',
-      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total).`
+      getSlugsInfo(params, sub, path)
     )
     return sub
   }
 
   return params
+}
+function getSlugsInfo(
+  params: { slug: string }[],
+  sub: { slug: string }[],
+  path: string | undefined
+) {
+  return `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total) at ${path}`
 }
