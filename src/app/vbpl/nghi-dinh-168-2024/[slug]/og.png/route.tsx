@@ -2,11 +2,21 @@ import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { NghiDinh168PreviewRoot } from '@/components/block/nghi-dinh-168-preview-root'
 import { constants } from '@/constant'
 import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-detail'
+import { processStaticParams } from '@/lib/static-params'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
-import { getND168ById } from '@/service/nghi-dinh-168'
+import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { ImageResponse } from 'next/og'
 
-export default async function Image({ params }: { params: { slug: string } }) {
+export async function generateStaticParams() {
+  const items = await getND168s()
+  const params = Object.keys(items).map((key) => ({ slug: key }))
+  return processStaticParams(params)
+}
+
+export async function GET(
+  req: Request,
+  { params }: { params: { slug: string } }
+) {
   const section = params.slug
 
   if (!section || isSectionZero(section) || !(await getND168ById(section))) {
