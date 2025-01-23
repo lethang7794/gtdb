@@ -12,11 +12,12 @@ import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
 import Image from 'next/image'
 import { processStaticParams } from '@/lib/static-params'
+import { constants } from '@/constant'
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()
   const params = roadSigns.map(([key]) => ({ slug: key }))
-  return processStaticParams(params)
+  return processStaticParams(params, constants.paths.bbgt.ROOT)
 }
 
 type Props = {

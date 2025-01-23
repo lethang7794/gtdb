@@ -24,7 +24,10 @@ type Props = {
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
-  return processStaticParams([{ slug: '0' }, ...params])
+  return processStaticParams(
+    [{ slug: '0' }, ...params],
+    `${constants.paths.vbpl.LUAT_GT_2024}/[slug]`
+  )
 }
 
 export async function generateMetadata(

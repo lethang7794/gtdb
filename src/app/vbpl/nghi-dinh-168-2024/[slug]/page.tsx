@@ -20,7 +20,10 @@ const PAGE_PATH = constants.paths.vbpl.NGHI_DINH_168
 export async function generateStaticParams() {
   const items = await getND168s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
-  return processStaticParams([{ slug: '0' }, ...params])
+  return processStaticParams(
+    [{ slug: '0' }, ...params],
+    `${constants.paths.vbpl.LUAT_GT_2024}/[slug]`
+  )
 }
 
 export async function generateMetadata(
