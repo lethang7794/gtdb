@@ -33,5 +33,5 @@ function getSlugsInfo(
   sub: { slug: string }[],
   path: string | undefined
 ) {
-  return `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total) at ${path}`
+  return `Instead of generating all params at ${path} (${params.length} total), generating for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')}`
 }
