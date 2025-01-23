@@ -10,7 +10,7 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
-    CF_PAGES_BRANCH: z.string(),
+    CF_PAGES_BRANCH: z.string().optional(),
     CI: z.coerce.boolean(),
     NEXT_PUBLIC_SECRET: z.string(),
     NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
