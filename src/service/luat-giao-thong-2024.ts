@@ -6,7 +6,7 @@ export const getLuatGT2024s = unstable_cache(async () => {
   return data as Record<string, LuatGT2024>
 })
 
-export const getLuatGT2024ById = unstable_cache(
+export const getLuatGT2024ById = (
   async (id: string): Promise<LuatGT2024 | undefined> => {
     const items = await getLuatGT2024s()
     return items[id]
