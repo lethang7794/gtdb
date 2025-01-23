@@ -15,7 +15,7 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
     const sub = params.slice(0, 50)
     console.warn(
       'NEXT_PUBLIC_APP_ENV: preview',
-      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')}  instead of all params (${params.length} total).`
+      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total).`
     )
     return sub
   }
@@ -24,7 +24,7 @@ export function processStaticParams(params: { slug: string }[], path?: string) {
     const sub = params.slice(0, 50)
     console.warn(
       'CF_PAGES_BRANCH is not main.',
-      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')}  instead of all params (${params.length} total).`
+      `Generate static params for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')} instead of all params (${params.length} total).`
     )
     return sub
   }
