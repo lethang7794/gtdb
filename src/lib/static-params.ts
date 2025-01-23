@@ -1,18 +1,37 @@
 import { env } from '@/env.mjs'
 
-export function processStaticParams(params: { slug: string }[]) {
+export function processStaticParams(params: { slug: string }[], path?: string) {
   // Local dev
   if (env.NEXT_PUBLIC_APP_ENV === 'dev') {
-    return params.slice(0, 5)
+    const sub = params.slice(0, 5)
+    console.warn('NEXT_PUBLIC_APP_ENV: $dev\n', getSlugsInfo(params, sub, path))
+    return sub
   }
   // VERCEL preview environment
   if (env.NEXT_PUBLIC_APP_ENV === 'preview') {
-    return params.slice(0, 50)
+    const sub = params.slice(0, 50)
+    console.warn(
+      'NEXT_PUBLIC_APP_ENV: preview\n',
+      getSlugsInfo(params, sub, path)
+    )
+    return sub
   }
   // Cloudflare preview
   if (env.CF_PAGES_BRANCH !== 'main') {
-    return params.slice(0, 50)
+    const sub = params.slice(0, 50)
+    console.warn(
+      "CF_PAGES_BRANCH !== 'main'\n",
+      getSlugsInfo(params, sub, path)
+    )
+    return sub
   }
 
   return params
+}
+function getSlugsInfo(
+  params: { slug: string }[],
+  sub: { slug: string }[],
+  path: string | undefined
+) {
+  return `Instead of generating all params at ${path} (${params.length} total), generating for ${sub.length} slugs: ${sub.map(({ slug }) => slug).join(', ')}`
 }

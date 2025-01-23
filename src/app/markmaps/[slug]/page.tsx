@@ -5,6 +5,7 @@ import { processStaticParams } from '@/lib/static-params'
 import { getMarkmapById, getMarkmaps } from '@/service/markmap'
 
 import styles from './slug.module.css'
+import { constants } from '@/constant'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -14,7 +15,7 @@ type Props = {
 export async function generateStaticParams() {
   const items = await getMarkmaps()
   const params = items.map((item) => ({ slug: item.slug }))
-  return processStaticParams(params)
+  return processStaticParams(params, constants.paths.markmaps.ROOT)
 }
 
 export async function generateMetadata({ params }: Props) {

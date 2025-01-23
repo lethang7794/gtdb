@@ -9,11 +9,12 @@ import { MarkingImage } from '@/model/Marking'
 import { env } from '@/env.mjs'
 import Image from 'next/image'
 import { processStaticParams } from '@/lib/static-params'
+import { constants } from '@/constant'
 
 export async function generateStaticParams() {
   const items = await getMarkingsArray()
   const params = items.map(([key]) => ({ slug: key }))
-  return processStaticParams(params)
+  return processStaticParams(params, constants.paths.vachKeDuong.ROOT)
 }
 
 type Props = {

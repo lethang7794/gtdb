@@ -13,7 +13,10 @@ import { ImageResponse } from 'next/og'
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
-  return processStaticParams(params)
+  return processStaticParams(
+    params,
+    `${constants.paths.vbpl.LUAT_GT_2024}/[slug]/og.png`
+  )
 }
 
 export async function GET(
