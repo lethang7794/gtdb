@@ -10,7 +10,7 @@ import type { TrafficLight } from '@/model/TrafficLight'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { cache } from 'react'
 
-export const luatGT2024SectionExplainDetail = cache(async (id?: string): Promise<{
+export const luatGT2024SectionExplainDetail = (async (id?: string): Promise<{
   type?: 'chuong' | 'muc' | 'dieu' | 'khoan' | 'diem'
   path?: string
   chuong?: LuatGT2024
@@ -71,7 +71,7 @@ export const luatGT2024SectionExplainDetail = cache(async (id?: string): Promise
   return { path: '' }
 });
 
-export const luatGT2024SectionExplainComponents = cache(async (slug: string) => {
+export const luatGT2024SectionExplainComponents = (async (slug: string) => {
   const explainDetail = await luatGT2024SectionExplainDetail(slug || '')
 
   let detail1 = ''
