@@ -118,7 +118,11 @@ export function LawSectionPreview({
               ...getStyleForColor('yellow', highlight, detail2),
 
               display: 'block',
-              lineClamp: detail3 ? '1' : '3',
+              lineClamp: detail3
+                ? law === constants.laws.nghiDinh168.short_name
+                  ? '1'
+                  : '2'
+                : '3',
 
               paddingLeft: '32px',
             }}
@@ -143,7 +147,8 @@ export function LawSectionPreview({
               ...getStyleForColor('green', highlight, detail3),
 
               display: 'block',
-              lineClamp: '4',
+              lineClamp:
+                law === constants.laws.nghiDinh168.short_name ? '4' : '3',
 
               paddingLeft: '32px',
             }}
@@ -153,7 +158,7 @@ export function LawSectionPreview({
         </div>
       ) : null}
       <div tw="absolute flex bottom-1 right-16 text-white items-center">
-        <div tw="">{showMore}</div>
+        {/* <div tw="">{showMore}</div> */}
         <div tw="ml-1 -mr-4">www.</div>
         <LogoBlank />
         <div tw="-ml-4">.vercel.app</div>
@@ -204,6 +209,9 @@ const stylesByColor: Record<
       border: '4px solid transparent',
     },
     fixLetterD: {
+      paddingTop: '6px',
+    },
+    fixLetterDHighlight: {
       paddingTop: '10px',
     },
   },
@@ -281,7 +289,9 @@ function getStyleForColor(
       ? stylesByColor[color].background
       : stylesByColor[color].borderTransparent),
     ...(text?.startsWith('Đ') || text?.startsWith('đ')
-      ? stylesByColor.share.fixLetterD || {}
+      ? highlight === color
+        ? stylesByColor.share.fixLetterDHighlight
+        : stylesByColor.share.fixLetterD
       : {}),
   }
 }
@@ -316,6 +326,9 @@ function processDieu(detail1Prop: string, law: string, id: string) {
     }
     if (hasDieu(id, 7)) {
       return 'Điều 7. ... người điều khiển xe mô tô 🏍️ , xe gắn máy 🛵 ... vi phạm quy tắc giao thông ...'
+    }
+    if (hasDieu(id, 8)) {
+      return 'Điều 8. ... người điều khiển xe máy chuyên dùng ... vi phạm quy tắc giao thông ...'
     }
     if (hasDieu(id, 9)) {
       return 'Điều 9. ... người điều khiển xe đạp 🚲, xe đạp máy ... xe thô sơ ... vi phạm quy tắc giao thông ...'
