@@ -1,32 +1,33 @@
 import React from 'react'
 import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
-import { env } from '@/env.mjs'
 import { getToken } from '@/lib/crypto'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
+import Link from 'next/link'
 
 type Props = {
   params: Promise<{ slug: string }>
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
-const LAW = constants.laws.nghiDinh168.id
+const LAW = constants.laws.nghiDinh168
+const PAGE_PATH = constants.paths.vbpl.NGHI_DINH_168
 
 export async function generateStaticParams() {
   const items = await getND168s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
-  return processStaticParams(params)
+  return processStaticParams([{ slug: '0' }, ...params])
 }
 
 export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const token = getToken(LAW)
+  const token = getToken(LAW.id)
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
 
@@ -38,7 +39,7 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionItem && sectionExplain, 'Nghị định 168/2024']
+    title: [sectionItem && sectionExplain, LAW.short_name]
       .filter(Boolean)
       .join(' | '),
     description: sectionItem
@@ -48,7 +49,7 @@ export async function generateMetadata(
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
     openGraph: {
-      images: `/vbpl/nghi-dinh-168-2024/${decodedSlug}/og.png`,
+      images: `${PAGE_PATH}/${decodedSlug}/og.png`,
     },
   }
 }
@@ -57,6 +58,35 @@ export default async function NghiDinh1682024Page({
   params,
   searchParams,
 }: Props) {
+  const slug = (await params).slug
+  const decodedSlug = decodeURI(slug)
+  const section = decodedSlug
+
+  if (section !== '0') {
+    const sectionExplain = vbplSectionExplain(section).path
+
+    const sectionName = `${sectionExplain} ${LAW.short_name}`
+    return (
+      <div className="flex flex-col items-center">
+        <Link href={`${PAGE_PATH}#${section}`} className="w-full">
+          <div className="relative aspect-[1200/630] w-full">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              alt={sectionName}
+              src={`${PAGE_PATH}/${section}/og.png`}
+              className="w-full object-contain"
+            />
+          </div>
+        </Link>
+        <Link href={`${PAGE_PATH}#${section}`} className="mx-auto">
+          <h2 className="!border-b-0">
+            Toàn văn <i>{sectionName}</i>
+          </h2>
+        </Link>
+      </div>
+    )
+  }
+
   return (
     <div className="toc-hidden">
       <NghiDinh1682024 />

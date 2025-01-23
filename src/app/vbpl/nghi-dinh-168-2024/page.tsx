@@ -13,6 +13,7 @@ type Props = {
 }
 
 const LAW = constants.laws.nghiDinh168.id
+const PAGE_PATH = constants.paths.vbpl.NGHI_DINH_168
 
 export async function generateMetadata(
   { params, searchParams }: Props,
@@ -20,20 +21,14 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const token = getToken(LAW)
 
-  const s = (await searchParams).s || ''
-  const section = decodeURI(Array.isArray(s) ? s[0] : s)
-
-  const sectionItem = await getND168ById(section || '')
-  const sectionExplain = vbplSectionExplain(section).path
-
   return {
-    title: [sectionExplain, 'Nghị định 168/2024'].filter(Boolean).join(' | '),
-    description: sectionItem
-      ? sectionItem.content
-      : 'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
-    // openGraph: {
-    //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
-    // },
+    title: ['Nghị định 168/2024'].filter(Boolean).join(' | '),
+    description:
+      'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
+    openGraph: {
+      // images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
+      images: `${PAGE_PATH}/0/og.png`,
+    },
   }
 }
 

@@ -9,6 +9,8 @@ import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // output: 'export',
+
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   transpilePackages: ['next-mdx-remote'],
 

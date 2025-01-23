@@ -11,8 +11,10 @@ import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
+import Link from 'next/link'
 
-const LAW = constants.laws.luatGT2024.id
+const LAW = constants.laws.luatGT2024
+const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -22,14 +24,14 @@ type Props = {
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
-  return processStaticParams(params)
+  return processStaticParams([{ slug: '0' }, ...params])
 }
 
 export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const token = getToken(LAW)
+  const token = getToken(LAW.id)
 
   // const s = (await searchParams).s || ''
   // const section = decodeURI(Array.isArray(s) ? s[0] : s)
@@ -42,7 +44,7 @@ export async function generateMetadata(
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
-    title: [sectionExplain, 'Luật TTATGTĐB 2024'].filter(Boolean).join(' | '),
+    title: [sectionExplain, LAW.short_name].filter(Boolean).join(' | '),
     description:
       sectionItem?.content ||
       'Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.',
@@ -55,7 +57,39 @@ export async function generateMetadata(
   }
 }
 
-export default async function LuatTTATGTDB2024Page() {
+export default async function LuatTTATGTDB2024Page({
+  params,
+  searchParams,
+}: Props) {
+  const slug = (await params).slug
+  const decodedSlug = decodeURI(slug)
+  const section = decodedSlug
+
+  if (section !== '0') {
+    const sectionExplain = vbplSectionExplain(section).path
+
+    const sectionName = `${sectionExplain} ${LAW.short_name}`
+    return (
+      <div className="flex flex-col items-center">
+        <Link href={`${PAGE_PATH}#${section}`} className="w-full">
+          <div className="relative aspect-[1200/630] w-full">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              alt={sectionName}
+              src={`${PAGE_PATH}/${section}/og.png`}
+              className="w-full object-contain"
+            />
+          </div>
+        </Link>
+        <Link href={`${PAGE_PATH}#${section}`} className="mx-auto">
+          <h2 className="!border-b-0">
+            Toàn văn <i>{sectionName}</i>
+          </h2>
+        </Link>
+      </div>
+    )
+  }
+
   return (
     <div className="toc-hidden">
       <LuatTTATGTDB2024 />
