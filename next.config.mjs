@@ -16,6 +16,11 @@ const normalizeConfig = (phase, { defaultConfig }) => {
    */
   const nextConfig = {
     output: phase === PHASE_DEVELOPMENT_SERVER ? undefined : 'export',
+    images: {
+      unoptimized:
+        process.env.NEXT_PUBLIC_APP_ENV !== 'dev' &&
+        process.env.VERCEL_ENV !== '',
+    },
 
     pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
     transpilePackages: ['next-mdx-remote'],

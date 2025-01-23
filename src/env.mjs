@@ -10,6 +10,7 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
+    VERCEL_ENV: z.enum(['development', 'preview', 'production']),
     CF_PAGES_BRANCH: z.string().optional(),
     CI: z.coerce.boolean(),
     NEXT_PUBLIC_SECRET: z.string(),
@@ -36,6 +37,7 @@ export const env = createEnv({
    */
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
+    VERCEL_ENV: process.env.VERCEL_ENV,
     CF_PAGES_BRANCH: process.env.CF_PAGES_BRANCH,
     CI: process.env.CI || false,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
