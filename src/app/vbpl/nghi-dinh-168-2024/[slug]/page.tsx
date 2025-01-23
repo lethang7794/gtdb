@@ -42,11 +42,14 @@ export async function generateMetadata(
       .filter(Boolean)
       .join(' | '),
     description: sectionItem
-      ? sectionItem.full_name
+      ? sectionItem.content
       : 'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
+    openGraph: {
+      images: `/vbpl/nghi-dinh-168-2024/${decodedSlug}/og.png`,
+    },
   }
 }
 

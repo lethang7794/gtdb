@@ -2,11 +2,24 @@ import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { LuatGT2024PreviewRoot } from '@/components/block/luat-gt-2024-preview-root'
 import { constants } from '@/constant'
 import { luatGT2024SectionExplainComponents } from '@/lib/luat-gt-2024-section-explain-detail'
+import { processStaticParams } from '@/lib/static-params'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
-import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
+import {
+  getLuatGT2024ById,
+  getLuatGT2024s,
+} from '@/service/luat-giao-thong-2024'
 import { ImageResponse } from 'next/og'
 
-export default async function Image({ params }: { params: { slug: string } }) {
+export async function generateStaticParams() {
+  const items = await getLuatGT2024s()
+  const params = Object.keys(items).map((key) => ({ slug: key }))
+  return processStaticParams(params)
+}
+
+export async function GET(
+  req: Request,
+  { params }: { params: { slug: string } }
+) {
   const section = params.slug
 
   if (

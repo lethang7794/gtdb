@@ -82,43 +82,52 @@ export async function nd168SectionExplainComponents(slug: string) {
   let short3 = ''
   let highlight: TrafficLight = 'green'
   if (explainDetail.type === 'chuong') {
-    short1 = `Chương ${explainDetail.chuong?.code_name || ''}`
-    detail1 = `${short1}. ${explainDetail.chuong?.full_name || ''}`
+    short1 = `Chương ${explainDetail.chuong?.cur_level || ''}`
+    detail1 = `${short1}. ${explainDetail.chuong?.content || ''}`
     highlight = 'red'
   }
   if (explainDetail.type === 'muc') {
-    short1 = `Chương ${explainDetail.chuong?.code_name || ''}`
-    detail1 = `${short1}. ${explainDetail.chuong?.full_name || ''}`
-    short2 = `Mục ${explainDetail.muc?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.muc?.full_name || ''}`
+    short1 = `Chương ${explainDetail.chuong?.cur_level || ''}`
+    detail1 = `${short1}. ${explainDetail.chuong?.content || ''}`
+    short2 = `Mục ${explainDetail.muc?.cur_level || ''}`
+    detail2 = `${short2}. ${explainDetail.muc?.content || ''}`
     highlight = 'yellow'
   }
   if (explainDetail.type === 'dieu') {
-    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
+    short1 = `Điều ${explainDetail.dieu?.cur_level || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
     highlight = 'red'
   }
   if (explainDetail.type === 'khoan') {
-    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
-    short2 = `${explainDetail.khoan?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
+    short1 = `Điều ${explainDetail.dieu?.cur_level || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
+    short2 = `${explainDetail.khoan?.cur_level || ''}`
+    detail2 = `${short2}. ${explainDetail.khoan?.content || ''}`
     short2 = `khoản ${short2}`
     highlight = 'yellow'
   }
   if (explainDetail.type === 'diem') {
-    short1 = `Điều ${explainDetail.dieu?.code_name || ''}`
-    detail1 = `${short1}. ${explainDetail.dieu?.full_name || ''}`
+    short1 = `Điều ${explainDetail.dieu?.cur_level || ''}`
+    detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
 
-    short2 = `${explainDetail.khoan?.code_name || ''}`
-    detail2 = `${short2}. ${explainDetail.khoan?.full_name || ''}`
+    short2 = `${explainDetail.khoan?.cur_level || ''}`
+    detail2 = `${short2}. ${explainDetail.khoan?.content || ''}`
     short2 = `khoản ${short2}`
 
-    short3 = `${explainDetail.diem?.code_name || ''}`
-    detail3 = `${short3}. ${explainDetail.diem?.full_name || ''}`
+    short3 = `${explainDetail.diem?.cur_level || ''}`
+    detail3 = `${short3}. ${explainDetail.diem?.content || ''}`
     short3 = `điểm ${short3}`
 
     highlight = 'green'
   }
-  return { short1, short2, short3, detail1, detail2, detail3, highlight }
+
+  return {
+    short1,
+    short2,
+    short3,
+    detail1,
+    detail2,
+    detail3,
+    highlight,
+  } as const
 }

@@ -49,6 +49,9 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
+    openGraph: {
+      images: `/vbpl/luat-TTATGTDB-2024/${decodedSlug}/og.png`,
+    },
   }
 }
 

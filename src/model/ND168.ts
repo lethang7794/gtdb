@@ -1,6 +1,7 @@
 export type ND168 = {
-  code_name: string
-  full_name: string
+  id?: string
+  cur_level?: string
+  content?: string
 }
 
 export type ND168sByKey = Record<string, ND168>
