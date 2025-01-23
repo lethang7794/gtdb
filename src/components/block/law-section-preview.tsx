@@ -158,6 +158,39 @@ export function LawSectionPreview({
         <LogoBlank />
         <div tw="-ml-4">.vercel.app</div>
       </div>
+
+      {/* WATERMARK */}
+      <div tw="absolute top-0 left-0 flex" style={{ opacity: '0.03' }}>
+        <LogoBlank width="1200" height="630" />
+      </div>
+
+      <div tw="absolute top-12 left-1 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+      <div tw="absolute bottom-8 left-1 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+
+      {/* <div tw="absolute bottom-32 left-80 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+      <div tw="absolute bottom-8 left-80 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+
+      <div tw="absolute bottom-40 right-72 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+      <div tw="absolute bottom-12 right-72 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div> */}
+
+      <div tw="absolute top-12 right-1 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
+      <div tw="absolute bottom-12 right-1 flex" style={{ opacity: '0.02' }}>
+        <LogoBlank />
+      </div>
     </div>
   )
 }
