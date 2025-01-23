@@ -14,6 +14,7 @@ const normalizeConfig = (phase, { defaultConfig }) => {
   /**
    * @type {import('next').NextConfig}
    */
+  console.log('🚀 ~ normalizeConfig ~ phase:', phase)
   const nextConfig = {
     output: phase === PHASE_DEVELOPMENT_SERVER ? undefined : 'export',
 
