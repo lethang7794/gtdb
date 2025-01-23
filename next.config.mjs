@@ -15,7 +15,7 @@ const normalizeConfig = (phase, { defaultConfig }) => {
    * @type {import('next').NextConfig}
    */
   const nextConfig = {
-    output: phase === PHASE_DEVELOPMENT_SERVER ? undefined : 'export',
+    output: process.env.CF_PAGES_BRANCH ? 'export' : undefined,
     images: {
       unoptimized:
         process.env.NEXT_PUBLIC_APP_ENV !== 'dev' &&
