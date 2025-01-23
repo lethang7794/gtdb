@@ -1,4 +1,8 @@
-export const LogoBlank = () => (
+import type { JSX, SVGProps } from 'react'
+
+export const LogoBlank = (
+  props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>
+) => (
   // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -7,6 +11,7 @@ export const LogoBlank = () => (
     height="90"
     version="1.1"
     viewBox="0 0 1024 512"
+    {...props}
   >
     <title />
     <g id="logo-group" transform="matrix(1.3832 0 0 1.3832 -196.204 -275.16)">
