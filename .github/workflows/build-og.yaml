@@ -1,3 +1,5 @@
+name: Generate OpenGraph Images
+
 on:
   push:
     tags:
