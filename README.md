@@ -2,7 +2,10 @@
 
 ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/gtdb)
 
-View online at: [https://gtdb.vercel.app/](https://gtdb.vercel.app/)
+View online at:
+
+- [https://gtdb-2jt.pages.dev/](https://gtdb-2jt.pages.dev/)
+- [https://gtdb.vercel.app/](https://gtdb.vercel.app/)
 
 Summary: A collection of resources to be a better driver in Vietnam.
 
