@@ -6,7 +6,7 @@ on:
 
 jobs:
   hello:
-    runs-on: ''
+    runs-on: ubuntu-latest
     steps:
       - run: |
           echo "Log level: $LEVEL"
