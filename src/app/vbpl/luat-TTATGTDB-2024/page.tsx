@@ -25,10 +25,10 @@ export async function generateMetadata(
     title: ['Luật TTATGTĐB 2024'].filter(Boolean).join(' | '),
     description:
       'Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.',
-    openGraph: {
-      // images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
-      images: '/vbpl/luat-TTATGTDB-2024/0/og.png',
-    },
+    openGraph:
+      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true'
+        ? { images: '/og/vbpl/luat-TTATGTDB-2024/0/og.png' }
+        : { images: '/vbpl/luat-TTATGTDB-2024/0/og.png' },
   }
 }
 

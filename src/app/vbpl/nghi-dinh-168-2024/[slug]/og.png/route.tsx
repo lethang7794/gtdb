@@ -1,6 +1,7 @@
 import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { NghiDinh168PreviewRoot } from '@/components/block/nghi-dinh-168-preview-root'
 import { constants } from '@/constant'
+import { env } from '@/env.mjs'
 import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-detail'
 import { processStaticParams } from '@/lib/static-params'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
@@ -8,6 +9,10 @@ import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
 import { ImageResponse } from 'next/og'
 
 export async function generateStaticParams() {
+  if (env.NEXT_PUBLIC_OUTPUT_EXPORT) {
+    return []
+  }
+
   const items = await getND168s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
   return processStaticParams(
