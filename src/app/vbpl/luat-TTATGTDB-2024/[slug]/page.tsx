@@ -12,6 +12,7 @@ import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
 import Link from 'next/link'
+import { stripMarkdown } from '@/lib/strip-markdown'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
@@ -49,7 +50,7 @@ export async function generateMetadata(
   return {
     title: [sectionExplain, LAW.short_name].filter(Boolean).join(' | '),
     description:
-      sectionItem?.content ||
+      (await stripMarkdown(sectionItem?.content)) ||
       'Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.',
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
