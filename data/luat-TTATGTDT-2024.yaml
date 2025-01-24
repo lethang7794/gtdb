@@ -21,84 +21,112 @@ I:
   cur_level: 1
   content: |+
     _Trật tự, an toàn giao thông đường bộ_ là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
+  content_text: |+
+    Trật tự, an toàn giao thông đường bộ là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ.
 
 2.2:
   id: 2.2
   cur_level: 2
   content: |+
     _Phương tiện giao thông đường bộ_ là các loại xe, bao gồm: phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới), phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), xe máy chuyên dùng và các loại xe tương tự.
+  content_text: |+
+    Phương tiện giao thông đường bộ là các loại xe, bao gồm: phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới), phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), xe máy chuyên dùng và các loại xe tương tự.
 
 2.3:
   id: 2.3
   cur_level: 3
   content: |+
     _Phương tiện tham gia giao thông đường bộ_ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.
+  content_text: |+
+    Phương tiện tham gia giao thông đường bộ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.
 
 2.4:
   id: 2.4
   cur_level: 4
   content: |+
     _Đường ưu tiên_ là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
+  content_text: |+
+    Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.
 
 2.5:
   id: 2.5
   cur_level: 5
   content: |+
     _Phần đường xe chạy_ là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại.
+  content_text: |+
+    Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại.
 
 2.6:
   id: 2.6
   cur_level: 6
   content: |+
     _Làn đường_ là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn.
+  content_text: |+
+    Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn.
 
 2.7:
   id: 2.7
   cur_level: 7
   content: |+
     _Cải tạo xe_ (sau đây gọi là cải tạo) là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.
+  content_text: |+
+    Cải tạo xe (sau đây gọi là cải tạo) là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.
 
 2.8:
   id: 2.8
   cur_level: 8
   content: |+
     _Người tham gia giao thông đường bộ_ bao gồm: người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.
+  content_text: |+
+    Người tham gia giao thông đường bộ_ bao gồm: người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.
 
 2.9:
   id: 2.9
   cur_level: 9
   content: |+
     _Người điều khiển phương tiện tham gia giao thông đường bộ_ bao gồm: người điều khiển xe cơ giới (sau đây gọi là người lái xe), người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.
+  content_text: |+
+    Người điều khiển phương tiện tham gia giao thông đường bộ bao gồm: người điều khiển xe cơ giới (sau đây gọi là người lái xe), người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.
 
 "2.10":
   id: 2.10
   cur_level: 10
   content: |+
     _Người điều khiển giao thông đường bộ_ (sau đây gọi là người điều khiển giao thông) bao gồm: Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.
+  content_text: |+
+    Người điều khiển giao thông đường bộ (sau đây gọi là người điều khiển giao thông) bao gồm: Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.
 
 2.11:
   id: 2.11
   cur_level: 11
   content: |+
     _Ùn tắc giao thông đường bộ_ (sau đây gọi là ùn tắc giao thông) là tình trạng người, phương tiện tham gia giao thông đường bộ bị dồn ứ, di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
+  content_text: |+
+    Ùn tắc giao thông đường bộ (sau đây gọi là ùn tắc giao thông) là tình trạng người, phương tiện tham gia giao thông đường bộ bị dồn ứ, di chuyển với tốc độ rất chậm hoặc không thể di chuyển được.
 
 2.12:
   id: 2.12
   cur_level: 12
   content: |+
     _Tai nạn giao thông đường bộ_ là va chạm liên quan đến người, phương tiện khi tham gia giao thông đường bộ, xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.
+  content_text: |+
+    Tai nạn giao thông đường bộ là va chạm liên quan đến người, phương tiện khi tham gia giao thông đường bộ, xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.
 
 2.13:
   id: 2.13
   cur_level: 13
   content: |+
     _Thiết bị an toàn cho trẻ em_ là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.
+  content_text: |+
+    Thiết bị an toàn cho trẻ em_ là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.
 
 2.14:
   id: 2.14
   cur_level: 14
   content: |+
     _Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ_ là thiết bị kỹ thuật công nghệ có khả năng phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; do lực lượng chức năng sử dụng để hỗ trợ chỉ huy, điều khiển giao thông đường bộ, giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ.
+  content_text: |+
+    Thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ là thiết bị kỹ thuật công nghệ có khả năng phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; do lực lượng chức năng sử dụng để hỗ trợ chỉ huy, điều khiển giao thông đường bộ, giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ.
 
 3:
   id: 3
@@ -2025,53 +2053,71 @@ III:
   cur_level: 1
   content: |+
     _Xe cơ giới_ bao gồm:
+  content_text: |+
+    Xe cơ giới bao gồm:
 
 34.1.a:
   id: 34.1.a
   cur_level: a
   content: |+
     _Xe ô tô_ gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
+  content_text: |+
+    Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;
 
 34.1.b:
   id: 34.1.b
   cur_level: b
   content: |+
     _Rơ moóc_ là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
+  content_text: |+
+    Rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo;
 
 34.1.c:
   id: 34.1.c
   cur_level: c
   content: |+
     _Sơ mi rơ moóc_ là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
+  content_text: |+
+    Sơ mi rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo;
 
 34.1.d:
   id: 34.1.d
   cur_level: d
   content: |+
     _Xe chở người bốn bánh có gắn động cơ_ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
+  content_text: |+
+    Xe chở người bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);
 
 34.1.đ:
   id: 34.1.đ
   cur_level: đ
   content: |+
     _Xe chở hàng bốn bánh có gắn động cơ_ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
+  content_text: |+
+    Xe chở hàng bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg; trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;
 
 34.1.e:
   id: 34.1.e
   cur_level: e
   content: |+
     _Xe mô tô_ gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
+  content_text: |+
+    Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;
 
 34.1.g:
   id: 34.1.g
   cur_level: g
   content: |+
     _Xe gắn máy_ là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
+  content_text: |+
+    Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm<sup>3</sup>; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;
 
 34.1.h:
   id: 34.1.h
   cur_level: h
   content: |+
+    Xe tương tự các loại xe quy định tại khoản này.
+  content_text: |+
     Xe tương tự các loại xe quy định tại khoản này.
 
 34.2:
@@ -2079,18 +2125,24 @@ III:
   cur_level: 2
   content: |+
     _Xe thô sơ_ bao gồm:
+  content_text: |+
+    Xe thô sơ bao gồm:
 
 34.2.a:
   id: 34.2.a
   cur_level: a
   content: |+
     _Xe đạp_ là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
+  content_text: |+
+    Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;
 
 34.2.b:
   id: 34.2.b
   cur_level: b
   content: |+
     _Xe đạp máy, gồm cả xe đạp điện_, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
+  content_text: |+
+    Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;
 
 34.2.c:
   id: 34.2.c
@@ -2121,6 +2173,8 @@ III:
   cur_level: 3
   content: |+
     _Xe máy chuyên dùng_ bao gồm:
+  content_text: |+
+    Xe máy chuyên dùng bao gồm:
 
 34.3.a:
   id: 34.3.a
@@ -2163,6 +2217,8 @@ III:
   cur_level: 4
   content: |+
     _Phương tiện giao thông thông minh_ là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ.
+  content_text: |+
+    Phương tiện giao thông thông minh là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ.
 
 34.5:
   id: 34.5
@@ -3705,90 +3761,120 @@ IV:
   cur_level: a
   content: |+
     _Hạng A1_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
+  content_text: |+
+    Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm<sup>3</sup> hoặc có công suất động cơ điện đến 11 kW;
 
 58.1.b:
   id: 58.1.b
   cur_level: b
   content: |+
     _Hạng A_ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+  content_text: |+
+    Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm<sup>3</sup> hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
 
 58.1.c:
   id: 58.1.c
   cur_level: c
   content: |+
     _Hạng B1_ cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+  content_text: |+
+    Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
 
 58.1.d:
   id: 58.1.d
   cur_level: d
   content: |+
     _Hạng B_ cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
+  content_text: |+
+    Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;
 
 58.1.đ:
   id: 58.1.đ
   cur_level: đ
   content: |+
     _Hạng C1_ cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
+  content_text: |+
+    Hạng C1 cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B;
 
 58.1.e:
   id: 58.1.e
   cur_level: e
   content: |+
     _Hạng C_ cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
+  content_text: |+
+    Hạng C cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe hạng B và hạng C1;
 
 58.1.g:
   id: 58.1.g
   cur_level: g
   content: |+
     _Hạng D1_ cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
+  content_text: |+
+    Hạng D1 cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;
 
 58.1.h:
   id: 58.1.h
   cur_level: h
   content: |+
     _Hạng D2_ cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
+  content_text: |+
+    Hạng D2 cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1;
 
 58.1.i:
   id: 58.1.i
   cur_level: i
   content: |+
     _Hạng D_ cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
+  content_text: |+
+    Hạng D cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C, D1, D2;
 
 58.1.k:
   id: 58.1.k
   cur_level: k
   content: |+
     _Hạng BE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+  content_text: |+
+    Hạng BE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
 58.1.l:
   id: 58.1.l
   cur_level: l
   content: |+
     _Hạng C1E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+  content_text: |+
+    Hạng C1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
 58.1.m:
   id: 58.1.m
   cur_level: m
   content: |+
     _Hạng CE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+  content_text: |+
+    Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
 
 58.1.n:
   id: 58.1.n
   cur_level: n
   content: |+
     _Hạng D1E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+  content_text: |+
+    Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
 58.1.o:
   id: 58.1.o
   cur_level: o
   content: |+
     _Hạng D2E_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+  content_text: |+
+    Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
 
 58.1.p:
   id: 58.1.p
   cur_level: p
   content: |+
     _Hạng DE_ cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+  content_text: |+
+    Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
 
 58.2:
   id: 58.2

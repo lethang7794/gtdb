@@ -120,9 +120,9 @@ export function LawSectionPreview({
               display: 'block',
               lineClamp: detail3
                 ? law === constants.laws.nghiDinh168.short_name
-                  ? '1'
+                  ? '2'
                   : '2'
-                : '3',
+                : '5',
 
               paddingLeft: '32px',
             }}
