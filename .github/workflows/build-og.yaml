@@ -8,6 +8,10 @@ concurrency:
   group: 'opengraph-image'
   cancel-in-progress: true
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -76,9 +80,17 @@ jobs:
           echo "Log level: $LEVEL"
           echo "Tags: $TAGS"
           echo "Environment: $NEXT_PUBLIC_APP_ENV"
-          ls out/vbpl/nghi-dinh-168-2024
-          ls out/vbpl/luat-TTATGTDB-2024
       - run: |
           just copy_opengraph_images
       - run: |
           git status
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: update opengraph images
+          title: Update OpenGraph Images
+          body: Generate open graph images to reflect release changes
+          branch: update-og-images
+          base: main
+          add-paths: |
+            public/og/
