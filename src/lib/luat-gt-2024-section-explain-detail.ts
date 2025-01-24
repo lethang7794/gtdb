@@ -8,8 +8,6 @@ import {
 import type { LuatGT2024 } from '@/model/LuatGT2024'
 import type { TrafficLight } from '@/model/TrafficLight'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
-import { cache } from 'react'
-import { stripMarkdown } from './strip-markdown'
 
 export const luatGT2024SectionExplainDetail = async (
   id?: string
@@ -93,7 +91,7 @@ export const luatGT2024SectionExplainComponents = async (slug: string) => {
     short1 = `Chương ${explainDetail.chuong?.cur_level || ''}`
     detail1 = `${short1}. ${explainDetail.chuong?.content || ''}`
     short2 = `Mục ${explainDetail.muc?.cur_level || ''}`
-    detail2 = `${short2}. ${await stripMarkdown(explainDetail.muc?.content || '')}`
+    detail2 = `${short2}. ${explainDetail.muc?.content_text || explainDetail.muc?.content || ''}`
     highlight = 'yellow'
   }
   if (explainDetail.type === 'dieu') {
@@ -105,7 +103,7 @@ export const luatGT2024SectionExplainComponents = async (slug: string) => {
     short1 = `Điều ${explainDetail.dieu?.cur_level || ''}`
     detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
     short2 = `${explainDetail.khoan?.cur_level || ''}`
-    detail2 = `${short2}. ${await stripMarkdown(explainDetail.khoan?.content || '')}`
+    detail2 = `${short2}. ${explainDetail.khoan?.content_text || explainDetail.khoan?.content_text || explainDetail.khoan?.content || ''}`
     short2 = `khoản ${short2}`
     highlight = 'yellow'
   }
@@ -114,11 +112,11 @@ export const luatGT2024SectionExplainComponents = async (slug: string) => {
     detail1 = `${short1}. ${explainDetail.dieu?.content || ''}`
 
     short2 = `${explainDetail.khoan?.cur_level || ''}`
-    detail2 = `${short2}. ${await stripMarkdown(explainDetail.khoan?.content || '')}`
+    detail2 = `${short2}. ${explainDetail.khoan?.content_text || explainDetail.khoan?.content || ''}`
     short2 = `khoản ${short2}`
 
     short3 = `${explainDetail.diem?.cur_level || ''}`
-    detail3 = `${short3}. ${await stripMarkdown(explainDetail.diem?.content || '')}`
+    detail3 = `${short3}. ${explainDetail.diem?.content_text || explainDetail.diem?.content || ''}`
     short3 = `điểm ${short3}`
 
     highlight = 'green'
