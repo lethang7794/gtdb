@@ -86,13 +86,12 @@ jobs:
           echo "NEXT_PUBLIC_BRAND_SHORT=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
           echo "NEXT_PUBLIC_BRAND_SLOGAN=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
           echo "NEXT_PUBLIC_DOMAIN=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
-      - name: Build with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} pnpm run build_opengraph_images_test
+      - name: Build OpenGraph Images
+        run: just build_opengraph_images
       - run: |
-          echo "Log level: $LEVEL"
-          echo "Tags: $TAGS"
           echo "Environment: $NEXT_PUBLIC_APP_ENV"
-      - run: |
+      - name: Copy OpenGraph Images
+        run: |
           just copy_opengraph_images
       - run: |
           git status
