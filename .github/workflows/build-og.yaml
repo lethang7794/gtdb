@@ -1,0 +1,14 @@
+on:
+  push:
+    tags:
+      - og-v*
+  workflow_dispatch:
+
+jobs:
+  hello:
+    runs-on: ''
+    steps:
+      - run: |
+          echo "Log level: $LEVEL"
+          echo "Tags: $TAGS"
+          echo "Environment: $ENVIRONMENT"
