@@ -53,7 +53,8 @@ export async function generateMetadata(
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
     openGraph:
-      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true'
+      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
+      env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
         ? { images: `/og${PAGE_PATH}/${decodedSlug}/og.png` }
         : { images: `${PAGE_PATH}/${decodedSlug}/og.png` },
   }
