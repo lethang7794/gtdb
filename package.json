@@ -5,8 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build_opengraph_images_test": "CF_PAGES_BRANCH='preview' just build_opengraph_images",
-    "build_opengraph_images_all": "CF_PAGES_BRANCH='main' just build_opengraph_images",
+    "build-opengraph-images-test": "NEXT_PUBLIC_OUTPUT_EXPORT='true' NEXT_PUBLIC_STATIC_PARAMS=10 just build_opengraph_images",
+    "build-opengraph-images-all": "NEXT_PUBLIC_OUTPUT_EXPORT='true' just build_opengraph_images",
     "start": "next start",
     "lint": "next lint"
   },

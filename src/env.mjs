@@ -13,6 +13,9 @@ export const env = createEnv({
     VERCEL_ENV: z.enum(['development', 'preview', 'production']).optional(),
     CF_PAGES_BRANCH: z.string().optional(),
     CI: z.coerce.boolean(),
+    NEXT_PUBLIC_OUTPUT_EXPORT: z.enum(['true', 'false']).optional(),
+    NEXT_PUBLIC_IMAGES_UNOPTIMIZED: z.enum(['true', 'false']).optional(),
+    NEXT_PUBLIC_STATIC_PARAMS: z.coerce.number().optional(),
     NEXT_PUBLIC_SECRET: z.string(),
     NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
   },
@@ -39,6 +42,8 @@ export const env = createEnv({
     NODE_ENV: process.env.NODE_ENV,
     VERCEL_ENV: process.env.VERCEL_ENV,
     CF_PAGES_BRANCH: process.env.CF_PAGES_BRANCH,
+    NEXT_PUBLIC_OUTPUT_EXPORT: process.env.NEXT_PUBLIC_OUTPUT_EXPORT,
+    NEXT_PUBLIC_STATIC_PARAMS: process.env.NEXT_PUBLIC_STATIC_PARAMS || -1,
     CI: process.env.CI || false,
     NEXT_PUBLIC_SECRET: process.env.NEXT_PUBLIC_SECRET,
     NEXT_PUBLIC_CACHE_REVALIDATION:

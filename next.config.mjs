@@ -15,11 +15,10 @@ const normalizeConfig = (phase, { defaultConfig }) => {
    * @type {import('next').NextConfig}
    */
   const nextConfig = {
-    output: process.env.CF_PAGES_BRANCH ? 'export' : undefined,
+    output:
+      process.env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' ? 'export' : undefined,
     images: {
-      unoptimized:
-        process.env.NEXT_PUBLIC_APP_ENV !== 'dev' &&
-        process.env.VERCEL_ENV !== '',
+      unoptimized: process.env.NEXT_PUBLIC_IMAGES_UNOPTIMIZED === 'true',
     },
 
     pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
