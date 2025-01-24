@@ -17,7 +17,7 @@ export async function generateStaticParams() {
   }
 
   return processStaticParams(
-    params,
+    [{ slug: '0' }, ...params],
     `${constants.paths.vbpl.LUAT_GT_2024}/[slug]/og.png`
   )
 }
