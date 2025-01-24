@@ -15,8 +15,9 @@ export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
 
+  // generateStaticParams needs at least one element
   if (env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true') {
-    return []
+    return [{ slug: '0' }]
   }
 
   return processStaticParams(
