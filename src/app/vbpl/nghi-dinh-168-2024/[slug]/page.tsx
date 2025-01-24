@@ -8,6 +8,7 @@ import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
 import Link from 'next/link'
+import { stripMarkdown } from '@/lib/strip-markdown'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -46,7 +47,7 @@ export async function generateMetadata(
       .filter(Boolean)
       .join(' | '),
     description: sectionItem
-      ? sectionItem.content
+      ? await stripMarkdown(sectionItem.content)
       : 'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
