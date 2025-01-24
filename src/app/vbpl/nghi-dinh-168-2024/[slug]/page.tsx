@@ -8,7 +8,7 @@ import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
 import Link from 'next/link'
-import { env } from '@/env.mjs'
+import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -52,11 +52,9 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
-    openGraph:
-      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
-      env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
-        ? { images: `/og${PAGE_PATH}/${decodedSlug}/og.png` }
-        : { images: `${PAGE_PATH}/${decodedSlug}/og.png` },
+    openGraph: {
+      images: getOgImage(decodedSlug),
+    },
   }
 }
 
@@ -79,7 +77,7 @@ export default async function NghiDinh1682024Page({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
-              src={`${PAGE_PATH}/${section}/og.png`}
+              src={getOgImage(section)}
               className="w-full object-contain"
             />
           </div>
@@ -98,4 +96,10 @@ export default async function NghiDinh1682024Page({
       <NghiDinh1682024 />
     </div>
   )
+}
+
+function getOgImage(section: string): string | undefined {
+  return shouldShowStaticOpenGraphImage
+    ? `/og${PAGE_PATH}/${section}/og.png`
+    : `${PAGE_PATH}/${section}/og.png`
 }
