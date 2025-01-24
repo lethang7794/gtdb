@@ -102,7 +102,7 @@ jobs:
         with:
           commit-message: update opengraph images
           title: Update OpenGraph Images
-          body: Generate open graph images to reflect release changes
+          body: 'Generate open graph images to reflect release changes from ${{ github.ref_type }}: ${{ github.ref_name }} at commit ${{ github.sha }}' 
           branch: update-og-images
           base: main
           add-paths: |
