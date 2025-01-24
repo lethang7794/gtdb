@@ -6,7 +6,7 @@ SRC_DIR_LUAT_2024 := "out/vbpl/luat-TTATGTDB-2024"
 DEST_DIR_LUAT_2024 := "public/og/vbpl/luat-TTATGTDB-2024"
 
 build_opengraph_images:
-  next build
+  pnpm run build
 
 copy_opengraph_images:
   # Use rsync to copy only .png files, preserving the directory structure
