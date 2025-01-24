@@ -11,10 +11,10 @@ export const env = createEnv({
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
     VERCEL_ENV: z.enum(['development', 'preview', 'production']).optional(),
+    CI: z.coerce.boolean(),
     NEXT_PUBLIC_OUTPUT_EXPORT: z.enum(['true', 'false']).optional(),
     NEXT_PUBLIC_IMAGES_UNOPTIMIZED: z.enum(['true', 'false']).optional(),
     NEXT_PUBLIC_STATIC_PARAMS: z.coerce.number().optional(),
-    CI: z.coerce.boolean(),
     NEXT_PUBLIC_SECRET: z.string(),
     NEXT_PUBLIC_CACHE_REVALIDATION: z.coerce.number(),
   },
