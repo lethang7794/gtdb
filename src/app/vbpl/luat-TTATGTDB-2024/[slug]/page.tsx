@@ -11,7 +11,7 @@ import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
 import Link from 'next/link'
-import { env } from '@/env.mjs'
+import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
@@ -55,11 +55,9 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
-    openGraph:
-      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
-      env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
-        ? { images: `/og${PAGE_PATH}/${decodedSlug}/og.png` }
-        : { images: `${PAGE_PATH}/${decodedSlug}/og.png` },
+    openGraph: {
+      images: getOgImage(decodedSlug),
+    },
   }
 }
 
@@ -82,7 +80,7 @@ export default async function LuatTTATGTDB2024Page({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
-              src={`${PAGE_PATH}/${section}/og.png`}
+              src={getOgImage(section)}
               className="w-full object-contain"
             />
           </div>
@@ -101,4 +99,10 @@ export default async function LuatTTATGTDB2024Page({
       <LuatTTATGTDB2024 />
     </div>
   )
+}
+
+function getOgImage(section: string): string | undefined {
+  return shouldShowStaticOpenGraphImage
+    ? `/og${PAGE_PATH}/${section}/og.png`
+    : `${PAGE_PATH}/${section}/og.png`
 }
