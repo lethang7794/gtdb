@@ -59,6 +59,17 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       # Install Just runner
       - uses: taiki-e/install-action@just
+      - name: Set Secrets
+        run: | # Secrets needed on the server
+          echo "NEXT_PUBLIC_APP_ENV=${{vars.NEXT_PUBLIC_APP_ENV}}" >> .env.production
+          echo "NEXT_PUBLIC_SECRET=${{vars.NEXT_PUBLIC_SECRET}}" >> .env.production
+          echo "NEXT_PUBLIC_CACHE_REVALIDATION=${{vars.NEXT_PUBLIC_CACHE_REVALIDATION}}" >> .env.production
+          echo "NEXT_PUBLIC_GITHUB_REPO=${{vars.NEXT_PUBLIC_GITHUB_REPO}}" >> .env.production
+          echo "NEXT_PUBLIC_BRAND=${{vars.NEXT_PUBLIC_BRAND}}" >> .env.production
+          echo "NEXT_PUBLIC_BRAND_SHORT=${{vars.NEXT_PUBLIC_BRAND_SHORT}}" >> .env.production
+          echo "NEXT_PUBLIC_BRAND_SHORT=${{vars.NEXT_PUBLIC_BRAND_SHORT}}" >> .env.production
+          echo "NEXT_PUBLIC_BRAND_SLOGAN=${{vars.NEXT_PUBLIC_BRAND_SHORT}}" >> .env.production
+          echo "NEXT_PUBLIC_DOMAIN=${{vars.NEXT_PUBLIC_BRAND_SHORT}}" >> .env.production
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} pnpm run build_opengraph_images_test
       - run: |
