@@ -11,6 +11,7 @@ import { processStaticParams } from '@/lib/static-params'
 import '../style.css'
 import { constants } from '@/constant'
 import Link from 'next/link'
+import { env } from '@/env.mjs'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
@@ -54,9 +55,11 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
-    openGraph: {
-      images: `/vbpl/luat-TTATGTDB-2024/${decodedSlug}/og.png`,
-    },
+    openGraph:
+      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
+      env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
+        ? { images: `/og${PAGE_PATH}/${decodedSlug}/og.png` }
+        : { images: `${PAGE_PATH}/${decodedSlug}/og.png` },
   }
 }
 

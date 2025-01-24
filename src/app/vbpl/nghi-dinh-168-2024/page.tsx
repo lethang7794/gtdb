@@ -2,10 +2,9 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { getToken } from '@/lib/crypto'
 import './style.css'
-import { getND168ById } from '@/service/nghi-dinh-168'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import React from 'react'
 import { constants } from '@/constant'
+import { env } from '@/env.mjs'
 
 type Props = {
   params: Promise<{ id: string }>
@@ -25,10 +24,10 @@ export async function generateMetadata(
     title: ['Nghị định 168/2024'].filter(Boolean).join(' | '),
     description:
       'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
-    openGraph: {
-      // images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
-      images: `${PAGE_PATH}/0/og.png`,
-    },
+    openGraph:
+      env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true'
+        ? { images: `/og${PAGE_PATH}/0/og.png` }
+        : { images: `${PAGE_PATH}/0/og.png` },
   }
 }
 

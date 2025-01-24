@@ -1,6 +1,7 @@
 import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { LuatGT2024PreviewRoot } from '@/components/block/luat-gt-2024-preview-root'
 import { constants } from '@/constant'
+import { env } from '@/env.mjs'
 import { luatGT2024SectionExplainComponents } from '@/lib/luat-gt-2024-section-explain-detail'
 import { processStaticParams } from '@/lib/static-params'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
@@ -13,8 +14,14 @@ import { ImageResponse } from 'next/og'
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
+
+  // generateStaticParams needs at least one element
+  if (env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true') {
+    return [{ slug: '0' }]
+  }
+
   return processStaticParams(
-    params,
+    [{ slug: '0' }, ...params],
     `${constants.paths.vbpl.LUAT_GT_2024}/[slug]/og.png`
   )
 }
