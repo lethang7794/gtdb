@@ -78,3 +78,7 @@ jobs:
           echo "Environment: $NEXT_PUBLIC_APP_ENV"
           ls out/vbpl/nghi-dinh-168-2024
           ls out/vbpl/luat-TTATGTDB-2024
+      - run: |
+          just copy_opengraph_images
+      - run: |
+          git status
