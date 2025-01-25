@@ -4,9 +4,6 @@ export const NGHI_DINH_168_PATH = 'nghi-dinh-168-2024'
 export const MARKMAPS_PATH = 'markmaps'
 
 export const PATHS = {
-  about: {
-    ROOT: '/about',
-  },
   bbgt: {
     ROOT: '/bbgt',
   },
@@ -21,6 +18,12 @@ export const PATHS = {
   },
   test: {
     ROOT: '/test',
+  },
+  thongTin: {
+    ROOT: '/thong-tin',
+    // about: '/about',
+    gioiThieu: '/thong-tin/gioi-thieu',
+    noiDung: '/thong-tin/noi-dung',
   },
   thuatNgu: {
     ROOT: '/thuat-ngu',
