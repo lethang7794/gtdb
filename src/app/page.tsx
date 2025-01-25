@@ -11,9 +11,9 @@ import Image from 'next/image'
 export default async function Home() {
   return (
     <>
-      <div className="flex h-full flex-col justify-start ">
+      <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container pb-8">
-          <div className="flex flex-col lg:flex-row h-auto lg:h-[calc(100vh-72px)] w-full items-center justify-start lg:justify-center bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)] tracking-[-2] font-bold text-center">
+          <div className="flex flex-col lg:flex-row h-auto lg:h-[calc(100vh-72px)] w-full items-center justify-start lg:justify-center tracking-[-2] font-bold text-center">
             <div className="h-16 lg:hidden" />
             <div className="flex flex-col text-4xl lg:text-[7.5rem] leading-[4rem] lg:leading-[10rem] w-full sm:w-[412px] md:w-[480px] px-8 lg:px-0">
               <div
@@ -183,7 +183,7 @@ export default async function Home() {
             </div>
           </div>
 
-          <div className="mt-16 flex flex-row md:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row sm:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
             <div
               className=""
               style={{
@@ -309,7 +309,7 @@ export default async function Home() {
               </div>
             </div>
           </div>
-          <div className="mt-16 flex flex-row md:justify-end font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row sm:justify-end font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
             <div
               className="md:pl-64 whitespace-nowrap"
               style={{
