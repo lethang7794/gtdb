@@ -12,59 +12,59 @@ export default async function Home() {
         <div className="container pb-8">
           <div className="grid gap-4">
             <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
-              <div className="row-span-4 grid place-items-center gap-4 rounded-lg bg-fuchsia-500 p-4">
+              <div className="row-span-4 grid place-items-center gap-4 rounded-lg bg-red-600 p-4">
                 <Receipt className="self-end" />
                 <div className="self-start">
                   MỨC PHẠT
-                  <div>(Nghị định 168/2024)</div>
+                  <div className="italic text-sm">(Nghị định 168/2024)</div>
                 </div>
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
-                Toàn văn
+              <div className="col-span-1 grid place-content-center rounded-lg bg-red-400 text-white p-4 dark:bg-red-800 dark:text-red-400">
+                Toàn văn 🗞️
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
+              <div className="col-span-1 grid place-content-center rounded-lg bg-red-400 text-white p-4 dark:bg-red-800 dark:text-red-400">
                 Tóm tắt
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
-                Xe ôtô
+              <div className="col-span-1 grid place-content-center rounded-lg bg-red-400 text-white p-4 dark:bg-red-800 dark:text-red-400">
+                Xe ôtô 🚘
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
-                Xe môtô
+              <div className="col-span-1 grid place-content-center rounded-lg bg-red-400 text-white p-4 dark:bg-red-800 dark:text-red-400">
+                Xe môtô 🏍️
               </div>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
-              <div className="row-span-2 grid place-items-center gap-4 rounded-lg bg-fuchsia-500 p-4">
+              <div className="row-span-2 grid place-items-center gap-4 rounded-lg bg-yellow-400 text-yellow-800 p-4">
                 <Scale className="self-end" />
                 <div>
                   LUẬT
-                  <div>(Luật TTATGTĐB 2024)</div>
+                  <div className="italic text-sm">(Luật TTATGTĐB 2024)</div>
                 </div>
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
-                Toàn văn
+              <div className="col-span-1 grid place-content-center rounded-lg p-4 bg-yellow-300 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-400">
+                Toàn văn 🗞️
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
+              <div className="col-span-1 grid place-content-center rounded-lg p-4 bg-yellow-300 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-400">
                 Tóm tắt
               </div>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
-              <div className="row-span-2 grid justify-center place-items-center gap-4 rounded-lg bg-fuchsia-500 p-4">
+              <div className="row-span-2 grid justify-center place-items-center gap-4 rounded-lg bg-green-500 text-green-800 p-4">
                 <Signpost className="self-end" />
                 <div className="self-start">BIỂN BÁO</div>
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
+              <div className="col-span-1 grid place-content-center rounded-lg bg-green-300 text-green-800 p-4 dark:bg-green-800 dark:text-green-400">
                 Danh sách
               </div>
-              <div className="col-span-1 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
+              <div className="col-span-1 grid place-content-center rounded-lg bg-green-300 text-green-800 p-4 dark:bg-green-800 dark:text-green-400">
                 So sánh
               </div>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
-              <div className="row-span-4 grid justify-center place-items-center gap-4 rounded-lg bg-fuchsia-500 p-4">
+              <div className="row-span-4 grid justify-center place-items-center gap-4 rounded-lg bg-blue-500 p-4">
                 <Paintbrush />
                 <div>VẠCH KẺ ĐƯỜNG</div>
               </div>
-              <div className="row-span-4 grid place-content-center rounded-lg bg-fuchsia-300 p-4 dark:bg-fuchsia-800 dark:text-fuchsia-400">
+              <div className="row-span-4 grid place-content-center rounded-lg bg-blue-300 text-white p-4 dark:bg-blue-800 dark:text-blue-400">
                 Danh sách
               </div>
             </div>
