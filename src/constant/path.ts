@@ -15,15 +15,20 @@ export const PATHS = {
   },
   markmaps: {
     ROOT: '/markmaps',
+    LUAT_TTATGTDB_2024: 'markmaps/luat-TTATGTDB-2024',
+    NGHI_DINH_168_2024_XE_MOTO: 'markmaps/nghi-dinh-168-2024-xe-moto',
+    NGHI_DINH_168_2024_XE_OTO: 'markmaps/nghi-dinh-168-2024-xe-oto',
+    NGHI_DINH_168_2024: 'markmaps/nghi-dinh-168-2024',
+    PTTGGT_2008: 'markmaps/PTTGGT-2008',
+    PTTGGT_2024: 'markmaps/PTTGGT-2024',
   },
   test: {
     ROOT: '/test',
   },
   thongTin: {
-    ROOT: '/thong-tin',
     // about: '/about',
-    gioiThieu: '/thong-tin/gioi-thieu',
-    noiDung: '/thong-tin/noi-dung',
+    gioiThieu: '/gioi-thieu',
+    noiDung: '/noi-dung',
   },
   thuatNgu: {
     ROOT: '/thuat-ngu',
@@ -33,11 +38,14 @@ export const PATHS = {
   },
   vbpl: {
     ROOT: '/vbpl',
-    DANH_SACH: '/vbpl/danh-sach',
-    GPLX: '/vbpl/giay-phep-lai-xe',
     LUAT_GT_2024: '/vbpl/luat-TTATGTDB-2024',
+    LUAT_GT_2008: '/vbpl/luat-GTDB-2008',
     NGHI_DINH_168: '/vbpl/nghi-dinh-168-2024',
-    TOC_DO_KHOANG_CACH: '/vbpl/toc-do-khoang-cach-an-toan',
+    TOC_DO_KHOANG_CACH_2023: '/vbpl/toc-do-khoang-cach-an-toan-2023',
+  },
+  vbplTongHop: {
+    DANH_SACH: '/vbpl-tong-hop/danh-sach',
+    GPLX: '/vbpl-tong-hop/giay-phep-lai-xe',
   },
   xmind: {
     ROOT: '/xmind',
