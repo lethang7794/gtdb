@@ -54,16 +54,16 @@ export default async function MarkingPage({
   return (
     <div
       key={slug}
-      className="flex-grow flex items-center justify-start flex-col border px-3 py-2 rounded-md"
+      className="flex flex-grow flex-col items-center justify-start rounded-md border px-3 py-2"
     >
-      <div className="flex gap-4 w-full max-w-96">
+      <div className="flex w-full max-w-96 gap-4">
         {marking.image ? (
           <div className="relative aspect-square w-full">
             <Image
               alt={slug}
               fill={true}
               src={getMarkingImage(marking)}
-              className="w-full object-contain object-center mb-1"
+              className="mb-1 w-full object-contain object-center"
             />
           </div>
         ) : null}
@@ -73,7 +73,7 @@ export default async function MarkingPage({
               fill={true}
               alt={slug}
               src={getMarkingImage(marking, { type: MarkingImage.extra })}
-              className="h-full object-contain mb-1"
+              className="mb-1 h-full object-contain"
             />
           </div>
         ) : null}

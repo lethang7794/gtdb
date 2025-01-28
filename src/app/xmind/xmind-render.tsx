@@ -41,7 +41,7 @@ export default function XmindRender({
   return (
     <div className="h-full">
       {loading ? (
-        <div className="absolute h-full w-full grid place-items-center">
+        <div className="absolute grid h-full w-full place-items-center">
           <LoadingSpinner />
         </div>
       ) : null}

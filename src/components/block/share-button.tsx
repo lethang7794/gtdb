@@ -34,7 +34,7 @@ export default function ShareButton({
           })
         }
       }}
-      className="border-2 bg-white opacity-100 hover:border-gray rounded-md p-2 shadow-sm"
+      className="rounded-md border-2 bg-white p-2 opacity-100 shadow-sm hover:border-gray"
     >
       <Share color="black" />
     </button>
@@ -46,7 +46,7 @@ export function ShareButtonWrapper({
   className,
 }: { children?: React.ReactNode; className?: string }) {
   return (
-    <div className={cn('fixed bottom-2 left-2 flex z-20', className)}>
+    <div className={cn('fixed bottom-2 left-2 z-20 flex', className)}>
       {children}
     </div>
   )

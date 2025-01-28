@@ -93,10 +93,10 @@ export default function MarkmapRender({
   })
 
   return (
-    <div className="relative grow h-full w-full markmap-wrapper">
-      <svg className={cn('h-full w-full markmap', classNameSvg)} ref={refSvg} />
+    <div className="markmap-wrapper relative h-full w-full grow">
+      <svg className={cn('markmap h-full w-full', classNameSvg)} ref={refSvg} />
       {extra}
-      <div className="absolute bottom-1 right-1" ref={refToolbar} />
+      <div className="absolute right-1 bottom-1" ref={refToolbar} />
     </div>
   )
 }

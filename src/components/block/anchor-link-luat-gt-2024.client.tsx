@@ -70,7 +70,7 @@ export default function AnchorLinkLuatGT2024Client({
         }
       }}
       className={cn(
-        'anchor-link absolute inline-block min-w-6 text-center rounded-md cursor-pointer',
+        'anchor-link absolute inline-block min-w-6 cursor-pointer rounded-md text-center',
         isDieu(id) && 'section-dieu',
         isKhoan(id) && 'section-khoan'
       )}
@@ -84,7 +84,7 @@ export default function AnchorLinkLuatGT2024Client({
         <Link2 className="absolute" />
       )}
       {hasCopiedRecently && !hasCopied ? null : (
-        <span className="tooltip absolute hidden h-min w-max -top-[2.25em] -left-[1em] py-1 px-2 bg-black text-white rounded-lg shadow-lg">
+        <span className="tooltip -top-[2.25em] -left-[1em] absolute hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
           {hasCopied ? (
             <span className="copied">Đã sao chép</span>
           ) : (

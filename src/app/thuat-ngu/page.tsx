@@ -25,17 +25,17 @@ export default async function GlossariesPage() {
           return (
             <Collapsible
               key={item.id}
-              className="border rounded-lg space-x-2"
+              className="space-x-2 rounded-lg border"
               // defaultOpen
             >
               <CollapsibleTrigger asChild>
                 <div>
-                  <div className="flex items-center justify-between space-x-4 pl-2 py-2 pr-2">
-                    <div className="flex items-center flex-wrap gap-2 text-lg font-semibold">
+                  <div className="flex items-center justify-between space-x-4 py-2 pr-2 pl-2">
+                    <div className="flex flex-wrap items-center gap-2 font-semibold text-lg">
                       <Badge
                         variant="outline"
                         className={cn(
-                          'text-lg text-left',
+                          'text-left text-lg',
                           !isLocalTerm(item?.term) && 'border-transparent'
                         )}
                       >
@@ -50,7 +50,7 @@ export default async function GlossariesPage() {
                   </div>
                   <div className="flex justify-end">
                     {item?.source_abbr ? (
-                      <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
+                      <div className="mr-8 text-balance pr-4 pb-3 pl-3 text-gray-500 text-xs italic">
                         ({item?.source_abbr})
                       </div>
                     ) : null}
@@ -58,8 +58,8 @@ export default async function GlossariesPage() {
                 </div>
               </CollapsibleTrigger>
               <CollapsibleContent className="space-y-2">
-                <div className="border-t mr-6 ml-3">
-                  <div className="pt-4 pr-4 pl-3 pb-4 font-mono text-sm whitespace-pre-wrap">
+                <div className="mr-6 ml-3 border-t">
+                  <div className="whitespace-pre-wrap pt-4 pr-4 pb-4 pl-3 font-mono text-sm">
                     {item?.explain}
                   </div>
                 </div>

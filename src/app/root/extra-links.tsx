@@ -19,9 +19,9 @@ export function ExtraLinks() {
         <div className="mt-3 flex items-center">
           <h2 className="text-2xl">Cơ sở hạ tầng GTĐB</h2>
           {isOpen ? (
-            <ChevronDown className="w-8 h-8" />
+            <ChevronDown className="h-8 w-8" />
           ) : (
-            <ChevronRight className="w-8 h-8" />
+            <ChevronRight className="h-8 w-8" />
           )}
         </div>
       </CollapsibleTrigger>
@@ -32,7 +32,7 @@ export function ExtraLinks() {
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
                   <BaseLink
-                    className="text-blue-600 dark:text-blue-500 hover:underline mr-2"
+                    className="mr-2 text-blue-600 hover:underline dark:text-blue-500"
                     href={item.url}
                   >
                     {item.name}

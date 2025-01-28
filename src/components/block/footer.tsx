@@ -5,8 +5,8 @@ import { env } from '@/env.mjs'
 
 export function Footer() {
   return (
-    <footer className="bg-white shadow dark:bg-gray-900 border-t">
-      <div className="w-full max-w-screen-xl mx-auto p-4 px-6 lg:px-8">
+    <footer className="border-t bg-white shadow dark:bg-gray-900">
+      <div className="mx-auto w-full max-w-screen-xl p-4 px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <BaseLink
             href="/"
@@ -14,11 +14,11 @@ export function Footer() {
           >
             <Logo className="min-w-24" />
           </BaseLink>
-          <ul className="flex flex-wrap items-center mb-4 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
+          <ul className="mb-4 flex flex-wrap items-center font-medium text-gray-500 text-sm sm:mb-0 dark:text-gray-400">
             <li>
               <BaseLink
                 href={constants.paths.thongTin.noiDung}
-                className="hover:underline me-4"
+                className="me-4 hover:underline"
               >
                 Nội dung
               </BaseLink>
@@ -26,7 +26,7 @@ export function Footer() {
             <li>
               <BaseLink
                 href={constants.paths.thongTin.gioiThieu}
-                className="hover:underline me-4"
+                className="me-4 hover:underline"
               >
                 Giới thiệu
               </BaseLink>
@@ -34,7 +34,7 @@ export function Footer() {
           </ul>
         </div>
         <hr className="my-4 border-gray-200 sm:mx-auto dark:border-gray-700" />
-        <span className="block text-sm text-gray-500 text-center dark:text-gray-400">
+        <span className="block text-center text-gray-500 text-sm dark:text-gray-400">
           ©{' '}
           <BaseLink href="/about" className="hover:underline">
             {env.NEXT_PUBLIC_BRAND_SHORT}

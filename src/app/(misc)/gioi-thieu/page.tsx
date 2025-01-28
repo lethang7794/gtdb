@@ -5,9 +5,9 @@ export default async function GioiThieuPage() {
     <>
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container pb-8">
-          <div className="flex flex-col lg:flex-row h-auto lg:h-[calc(100vh-72px)] w-full items-center justify-start lg:justify-center tracking-[-2] font-bold text-center">
+          <div className="flex h-auto w-full flex-col items-center justify-start text-center font-bold tracking-[-2] lg:h-[calc(100vh-72px)] lg:flex-row lg:justify-center">
             <div className="h-16 lg:hidden" />
-            <div className="flex flex-col text-4xl lg:text-[7.5rem] leading-[4rem] lg:leading-[10rem] w-full sm:w-[412px] md:w-[480px] px-8 lg:px-0">
+            <div className="flex w-full flex-col px-8 text-4xl leading-[4rem] sm:w-[412px] md:w-[480px] lg:px-0 lg:text-[7.5rem] lg:leading-[10rem]">
               <div
                 className="lg:-ml-48 text-left lg:text-center"
                 style={{
@@ -33,7 +33,7 @@ export default async function GioiThieuPage() {
                 Hiểu
               </div>
               <div
-                className="lg:-mr-28 text-right lg:text-center whitespace-nowrap"
+                className="lg:-mr-28 whitespace-nowrap text-right lg:text-center"
                 style={{
                   backgroundImage:
                     'linear-gradient(90deg, rgb(255, 77, 77), rgb(249, 203, 40))',
@@ -46,7 +46,7 @@ export default async function GioiThieuPage() {
               </div>
             </div>
             <div className="h-16 lg:hidden" />
-            <div className="ml-8 lg:ml-16 flex flex-col justify-center gap-6 text-left text-2xl lg:text-4xl">
+            <div className="ml-8 flex flex-col justify-center gap-6 text-left text-2xl lg:ml-16 lg:text-4xl">
               <div className="flex gap-3">
                 <div className="min-w-12 text-center">⚖️</div>
                 <div>Luật</div>
@@ -68,7 +68,7 @@ export default async function GioiThieuPage() {
             <div className="h-16 lg:hidden" />
           </div>
 
-          <div className="font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="font-bold text-4xl leading-[4rem] lg:text-[3rem] lg:leading-[4.5rem]">
             <div
               className="text-left"
               style={{
@@ -86,15 +86,15 @@ export default async function GioiThieuPage() {
                 Ban ngày hay ban đêm
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/moi-luc-light-mode.png"
                         alt="Đọc mọi lúc với chế độ sáng"
                       />
                     </div>
-                    <div className="absolute left-16 top-16 w-80">
-                      <div className="aspect-square rounded-[32px] overflow-hidden">
+                    <div className="absolute top-16 left-16 w-80">
+                      <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
                           fill
                           src="/assets/showcase/moi-luc-dark-mode.png"
@@ -110,15 +110,15 @@ export default async function GioiThieuPage() {
                 Máy tính hay điện thoại
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-16 mr-16">
+                    <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/moi-noi-desktop.png"
                         alt="Đọc mọi nơi trên máy tính"
                       />
                     </div>
-                    <div className="absolute left-16 top-16 w-80">
-                      <div className="aspect-square rounded-[32px] overflow-hidden">
+                    <div className="absolute top-16 left-16 w-80">
+                      <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
                           src="/assets/showcase/moi-noi-mobile.png"
                           fill
@@ -134,7 +134,7 @@ export default async function GioiThieuPage() {
                 Tóm tắt với sơ đồ...
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/tom-tat-bang-so-do.png"
@@ -148,7 +148,7 @@ export default async function GioiThieuPage() {
                 ...có thể tương tác
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <div className="relative mr-0 mb-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
@@ -162,7 +162,7 @@ export default async function GioiThieuPage() {
                 Mục lục chi tiết
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-[1/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <div className="relative mr-0 mb-0 aspect-[1/1] overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/tom-tat-muc-luc.png"
@@ -175,7 +175,7 @@ export default async function GioiThieuPage() {
             </div>
           </div>
 
-          <div className="mt-16 flex flex-row sm:justify-center font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row font-bold text-4xl leading-[4rem] sm:justify-center lg:text-[3rem] lg:leading-[4.5rem]">
             <div
               className=""
               style={{
@@ -197,7 +197,7 @@ export default async function GioiThieuPage() {
                 ... dù là quốc hiệu
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/so-hoa-chi-tiet-quoc-hieu.png"
@@ -211,7 +211,7 @@ export default async function GioiThieuPage() {
                 ...hay người ký
                 <div className="mt-4 ml-8 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                    <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/so-hoa-chi-tiet-nguoi-ky.png"
@@ -227,15 +227,15 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-32 mr-32">
+                  <div className="relative mr-32 mb-32 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/bien-bao-giao-thong-001.png"
                       alt="Biển báo giao thông - 1"
                     />
                   </div>
-                  <div className="absolute left-16 top-16 w-64">
-                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                  <div className="absolute top-16 left-16 w-64">
+                    <div className="aspect-square overflow-hidden rounded-[32px]">
                       <Image
                         fill
                         src="/assets/showcase/bien-bao-giao-thong-002.png"
@@ -244,8 +244,8 @@ export default async function GioiThieuPage() {
                       />
                     </div>
                   </div>
-                  <div className="absolute left-32 top-32 w-64">
-                    <div className="aspect-square rounded-[32px] overflow-hidden">
+                  <div className="absolute top-32 left-32 w-64">
+                    <div className="aspect-square overflow-hidden rounded-[32px]">
                       <Image
                         fill
                         src="/assets/showcase/bien-bao-giao-thong-003.png"
@@ -261,7 +261,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/vach-ke-duong.png"
@@ -276,7 +276,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/lien-ket-den-giai-thich.png"
@@ -290,7 +290,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-square rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chi-li-nhung-chi-ly.png"
@@ -301,9 +301,9 @@ export default async function GioiThieuPage() {
               </div>
             </div>
           </div>
-          <div className="mt-16 flex flex-row sm:justify-end font-bold text-4xl lg:text-[3rem] leading-[4rem] lg:leading-[4.5rem]">
+          <div className="mt-16 flex flex-row font-bold text-4xl leading-[4rem] sm:justify-end lg:text-[3rem] lg:leading-[4.5rem]">
             <div
-              className="md:pl-64 whitespace-nowrap"
+              className="whitespace-nowrap md:pl-64"
               style={{
                 backgroundImage:
                   'linear-gradient(90deg, rgb(255, 77, 77), rgb(249, 203, 40))',
@@ -321,7 +321,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-trong-mot-not-nhac.png"
@@ -337,7 +337,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-[2/1] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-den-dung-diem.png"
@@ -353,7 +353,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="mt-4 ml-8 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative aspect-[1200/630] rounded-[32px] overflow-hidden border-2 mb-0 mr-0">
+                  <div className="relative mr-0 mb-0 aspect-[1200/630] overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-xem-truoc.png"

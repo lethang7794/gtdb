@@ -8,7 +8,7 @@ export function Spinner({
     <div
       id={id}
       className={cn(
-        'fixed inset-0 flex items-center justify-center z-20',
+        'fixed inset-0 z-20 flex items-center justify-center',
         className
       )}
       style={{
@@ -16,10 +16,10 @@ export function Spinner({
         backgroundColor: 'var(--bgColor-default)',
       }}
     >
-      <div className="flex justify-center items-center space-x-1">
+      <div className="flex items-center justify-center space-x-1">
         <svg
           fill="none"
-          className="w-12 h-w-12 animate-spin"
+          className="h-w-12 w-12 animate-spin"
           viewBox="0 0 32 32"
           xmlns="http://www.w3.org/2000/svg"
         >

@@ -16,7 +16,7 @@ export default async function Home() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <h1 className="text-center text-4xl font-bold">Vạch kẻ đường</h1>
+      <h1 className="text-center font-bold text-4xl">Vạch kẻ đường</h1>
 
       <p className="text-center text-2xl text-gray-500">
         (Bao gồm tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT -{' '}
@@ -29,7 +29,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] lg:grid-cols-[repeat(auto-fill,minmax(200px,_1fr))] justify-between gap-4">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] justify-between gap-4 lg:grid-cols-[repeat(auto-fill,minmax(200px,_1fr))]">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
 
@@ -37,7 +37,7 @@ export default async function Home() {
             <Link
               href={`vach-ke-duong/${key}`}
               key={key}
-              className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
+              className="flex flex-col items-center justify-start rounded-md border px-3 py-2"
             >
               {val.image ? (
                 <div className="relative aspect-square w-full">
@@ -45,11 +45,11 @@ export default async function Home() {
                     alt={key}
                     src={imgUrl}
                     fill={true}
-                    className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                    className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                   />
                 </div>
               ) : null}
-              <div className="text-sm text-balance text-center leading-5">
+              <div className="text-balance text-center text-sm leading-5">
                 {val.full_name}
               </div>
               <div className="flex-grow" />

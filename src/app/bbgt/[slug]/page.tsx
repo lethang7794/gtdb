@@ -65,53 +65,53 @@ export default async function RoadSignPage({ params }: Props) {
   return (
     <div
       key={slug}
-      className="flex items-center justify-start flex-col px-3 py-2 mt-4 mb-4 rounded-md"
+      className="mt-4 mb-4 flex flex-col items-center justify-start rounded-md px-3 py-2"
     >
       <Link
-        className="self-start mb-4 text-blue-600 dark:text-blue-500 hover:underline"
+        className="mb-4 self-start text-blue-600 hover:underline dark:text-blue-500"
         href={'/bbgt/'}
         scroll={false}
       >
-        <div className="flex items-center min-w-24 min-h-10">
+        <div className="flex min-h-10 min-w-24 items-center">
           🔙 Danh sách biển báo
         </div>
       </Link>
-      <div className="flex justify-between w-full">
+      <div className="flex w-full justify-between">
         {prevSignKey ? (
           <Link
-            className="min-w-24 min-h-10 text-blue-600 dark:text-blue-500 hover:underline"
+            className="min-h-10 min-w-24 text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${prevSignKey}`}
           >
-            <div className="flex items-center min-w-24 min-h-10">
+            <div className="flex min-h-10 min-w-24 items-center">
               ← {prevSignKey}
             </div>
           </Link>
         ) : (
-          <div className="min-w-24 min-h-10" />
+          <div className="min-h-10 min-w-24" />
         )}
-        <div className="flex items-center text-gray-500 italic font-bold">
+        <div className="flex items-center font-bold text-gray-500 italic">
           {decodedSlug}
         </div>
         {nextSignKey ? (
           <Link
-            className="min-w-24 min-h-10 text-blue-600 dark:text-blue-500 hover:underline text-right"
+            className="min-h-10 min-w-24 text-right text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${nextSignKey}`}
           >
-            <div className="flex items-center min-w-24 min-h-10">
+            <div className="flex min-h-10 min-w-24 items-center">
               {nextSignKey} →
             </div>
           </Link>
         ) : (
-          <div className="min-w-24 min-h-10" />
+          <div className="min-h-10 min-w-24" />
         )}
       </div>
-      <div className="container py-4 px-6 mb-6 rounded-xl shadow-lg">
-        <div className="mx-auto relative aspect-square w-full max-w-72">
+      <div className="container mb-6 rounded-xl px-6 py-4 shadow-lg">
+        <div className="relative mx-auto aspect-square w-full max-w-72">
           <Image
             alt={slug}
             fill={true}
             src={getRoadSignImage(sign)}
-            className="h-[250px] w-full order-none object-contain object-bottom mb-1"
+            className="order-none mb-1 h-[250px] w-full object-contain object-bottom"
           />
         </div>
         <div className="text-balance text-center leading-5">{sign.name}</div>
@@ -122,9 +122,9 @@ export default async function RoadSignPage({ params }: Props) {
             {sign.docs_name}
           </div> */}
           <MDX source={sign.docs_mdx} />
-          <div className="w-full mb-2 text-right border-t-2 border-b-2">
-            <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
-            <div className="italic text-gray-500 text-balance">
+          <div className="mb-2 w-full border-t-2 border-b-2 text-right">
+            <div className="text-gray-700 italic">QCVN 41:2019/BGTVT</div>
+            <div className="text-balance text-gray-500 italic">
               {sign.docs_source}
             </div>
           </div>
