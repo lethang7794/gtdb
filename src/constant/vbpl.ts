@@ -1,1 +1,1 @@
-export const VBPL_SECTION_ZERO = '0';
+export const VBPL_SECTION_ZERO = '0'

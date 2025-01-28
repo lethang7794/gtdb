@@ -1,12 +1,12 @@
-import React from 'react';
-import clsx from 'clsx';
+import React from 'react'
+import clsx from 'clsx'
 
-import { getHumanizedDate } from '@/helpers/date-helpers';
+import { getHumanizedDate } from '@/helpers/date-helpers'
 
-import styles from './BlogHero.module.css';
+import styles from './BlogHero.module.css'
 
 function BlogHero({ title, publishedOn, className, ...delegated }) {
-  const humanizedDate = getHumanizedDate(publishedOn);
+  const humanizedDate = getHumanizedDate(publishedOn)
 
   return (
     <header className={clsx(styles.wrapper, className)} {...delegated}>
@@ -17,7 +17,7 @@ function BlogHero({ title, publishedOn, className, ...delegated }) {
         </p>
       </div>
     </header>
-  );
+  )
 }
 
-export default BlogHero;
+export default BlogHero

@@ -1,12 +1,12 @@
-import React from 'react';
-import clsx from 'clsx';
-import { Rss } from 'react-feather';
+import React from 'react'
+import clsx from 'clsx'
+import { Rss } from 'react-feather'
 
-import Logo from '@/components/Logo';
-import VisuallyHidden from '@/components/VisuallyHidden';
+import Logo from '@/components/Logo'
+import VisuallyHidden from '@/components/VisuallyHidden'
 
-import styles from './Header.module.css';
-import { ThemeToggle } from './ThemeToggle';
+import styles from './Header.module.css'
+import { ThemeToggle } from './ThemeToggle'
 
 function Header({ theme, className, ...delegated }) {
   return (
@@ -16,7 +16,7 @@ function Header({ theme, className, ...delegated }) {
       <div className={styles.actions}>
         <button className={styles.action}>
           <Rss
-            size='1.5rem'
+            size="1.5rem"
             style={{
               // Optical alignment
               transform: 'translate(2px, -2px)',
@@ -27,7 +27,7 @@ function Header({ theme, className, ...delegated }) {
         <ThemeToggle initialTheme={theme} />
       </div>
     </header>
-  );
+  )
 }
 
-export default Header;
+export default Header
