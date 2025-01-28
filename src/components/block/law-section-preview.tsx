@@ -1,6 +1,5 @@
-import type { TrafficLight } from '@/model/TrafficLight'
-import type { CSSProperties } from 'react'
 import { LogoBlank } from '@/components/block/logo-blank'
+import { constants } from '@/constant'
 import {
   hasDieu,
   isDiem,
@@ -8,7 +7,8 @@ import {
   isDieu,
   isKhoanFirst,
 } from '@/lib/vbpl-explain-section'
-import { constants } from '@/constant'
+import type { TrafficLight } from '@/model/TrafficLight'
+import type { CSSProperties } from 'react'
 
 export function LawSectionPreview({
   short1,

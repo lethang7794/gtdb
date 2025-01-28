@@ -1,5 +1,5 @@
-import fs from 'node:fs'
 import { unstable_cache } from 'next/cache'
+import fs from 'node:fs'
 
 const VEHICLE_XMIND_REPO_PATH = 'data/vehicles.xmind'
 

@@ -1,7 +1,7 @@
-import path, { dirname } from 'node:path'
-import matter from 'gray-matter'
-import { readDirectory, readFile } from '@/helpers/file-helper'
 import { MARKMAP_DIR_PATH } from '@/constant/path-repo'
+import { readDirectory, readFile } from '@/helpers/file-helper'
+import matter from 'gray-matter'
+import path from 'node:path'
 
 export const getMarkmaps = async () => {
   const dirPath = MARKMAP_DIR_PATH

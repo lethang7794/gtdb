@@ -1,15 +1,13 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import { constants } from '@/constant'
+import { processStaticParams } from '@/lib/static-params'
+import { MarkingImage } from '@/model/Marking'
 import {
-  getMarkings,
   getMarkingById,
   getMarkingImage,
   getMarkingsArray,
 } from '@/service/marking'
-import { MarkingImage } from '@/model/Marking'
-import { env } from '@/env.mjs'
+import type { Metadata, ResolvingMetadata } from 'next'
 import Image from 'next/image'
-import { processStaticParams } from '@/lib/static-params'
-import { constants } from '@/constant'
 
 export async function generateStaticParams() {
   const items = await getMarkingsArray()

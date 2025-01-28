@@ -1,6 +1,6 @@
-import type { Metadata, ResolvingMetadata } from 'next'
-import Link from 'next/link'
-import { serialize } from 'next-mdx-remote/serialize'
+import { MDX } from '@/components/mdx/mdx'
+import { constants } from '@/constant'
+import { processStaticParams } from '@/lib/static-params'
 import {
   getRoadSignById,
   getRoadSignImage,
@@ -8,11 +8,10 @@ import {
   getRoadSignsArray,
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
-import { MDX } from '@/components/mdx/mdx'
 import '@/style/github-markdown-road-sign.css'
+import type { Metadata, ResolvingMetadata } from 'next'
 import Image from 'next/image'
-import { processStaticParams } from '@/lib/static-params'
-import { constants } from '@/constant'
+import Link from 'next/link'
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()

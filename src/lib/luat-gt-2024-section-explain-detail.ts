@@ -1,9 +1,9 @@
 import {
   isChuong,
-  isMuc,
+  isDiem,
   isDieu,
   isKhoan,
-  isDiem,
+  isMuc,
 } from '@/lib/vbpl-explain-section'
 import type { LuatGT2024 } from '@/model/LuatGT2024'
 import type { TrafficLight } from '@/model/TrafficLight'

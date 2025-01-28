@@ -1,6 +1,6 @@
 import { MarkingImage, type Marking } from '@/model/Marking'
-import { unstable_cache } from 'next/cache'
 import file from '@data/markings.yaml'
+import { unstable_cache } from 'next/cache'
 
 const MARKINGS_PUBLIC_PATH = 'markings'
 

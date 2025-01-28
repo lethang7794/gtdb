@@ -1,6 +1,5 @@
-import React from 'react'
-import type { ReactNode } from 'react'
 import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
+import type { ReactNode } from 'react'
 import AnchorLinkClient from './anchor-link.client'
 
 type Props = {

@@ -1,14 +1,14 @@
 'use client'
-import React, { useId } from 'react'
 import clsx from 'clsx'
 import { LayoutGroup, motion } from 'framer-motion'
+import React, { useId } from 'react'
 
-import { range } from '@/utils'
 import Card from '@/components/Card'
 import SliderControl from '@/components/SliderControl'
+import { range } from '@/utils'
 
-import Equation from './Equation'
 import styles from './DivisionGroupsDemo.module.css'
+import Equation from './Equation'
 
 function DivisionGroupsDemo({
   numOfItems = 12,

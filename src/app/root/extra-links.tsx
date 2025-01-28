@@ -1,14 +1,14 @@
 'use client'
 
-import React from 'react'
 import BaseLink from '@/components/base-link'
-import { EXTRA_LINKS } from '@/constant/homepage-links'
 import {
   Collapsible,
-  CollapsibleTrigger,
   CollapsibleContent,
+  CollapsibleTrigger,
 } from '@/components/ui/collapsible'
+import { EXTRA_LINKS } from '@/constant/homepage-links'
 import { ChevronDown, ChevronRight } from 'lucide-react'
+import React from 'react'
 
 export function ExtraLinks() {
   const [isOpen, setIsOpen] = React.useState(false)

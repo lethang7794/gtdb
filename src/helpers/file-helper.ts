@@ -1,7 +1,7 @@
-import fs from 'node:fs/promises'
-import path from 'node:path'
 import { env, isDev } from '@/env.mjs'
 import { unstable_cache } from 'next/cache'
+import fs from 'node:fs/promises'
+import path from 'node:path'
 
 export function readFile(localPath: string) {
   return fs.readFile(path.join(process.cwd(), localPath), 'utf8')

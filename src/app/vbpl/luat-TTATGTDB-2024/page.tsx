@@ -1,11 +1,8 @@
-import React from 'react'
-import type { Metadata, ResolvingMetadata } from 'next'
+import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
-import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { env } from '@/env.mjs'
 import { getToken } from '@/lib/crypto'
-import { constants } from '@/constant'
+import type { Metadata, ResolvingMetadata } from 'next'
 import './style.css'
 
 const LAW = constants.laws.luatGT2024.id

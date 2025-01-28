@@ -1,5 +1,5 @@
-import type { Metadata } from 'next'
 import LuatGTDB2008 from '@/content/luat-GTDB-2008.mdx'
+import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Luật Giao thông đường bộ 2008',

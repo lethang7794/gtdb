@@ -1,14 +1,13 @@
-import React from 'react'
-import type { Metadata, ResolvingMetadata } from 'next'
-import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
-import { getToken } from '@/lib/crypto'
-import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { processStaticParams } from '@/lib/static-params'
-import '../style.css'
 import { constants } from '@/constant'
-import Link from 'next/link'
+import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import { getToken } from '@/lib/crypto'
+import { processStaticParams } from '@/lib/static-params'
+import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
+import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
+import type { Metadata, ResolvingMetadata } from 'next'
+import Link from 'next/link'
+import '../style.css'
 
 type Props = {
   params: Promise<{ slug: string }>

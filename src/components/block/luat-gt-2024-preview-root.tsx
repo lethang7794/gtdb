@@ -1,4 +1,3 @@
-import { env } from '@/env.mjs'
 import { LogoBlank } from './logo-blank'
 
 export const LuatGT2024PreviewRoot = () => (

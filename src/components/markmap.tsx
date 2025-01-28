@@ -1,17 +1,16 @@
 'use client'
 
-import type React from 'react'
-import { useRouter } from 'next/navigation'
-import { useState, useRef, useEffect, type ReactNode } from 'react'
-import { useKeyPress } from 'ahooks'
-import { loadCSS, loadJS, Markmap } from 'markmap-view'
-import { Toolbar } from 'markmap-toolbar'
-import { Transformer } from 'markmap-lib'
-import type { IMarkmapOptions } from 'markmap-common'
-import * as markmap from 'markmap-view'
-import 'markmap-toolbar/dist/style.css'
-import '@/style/markmap.css'
 import { cn } from '@/lib/utils'
+import '@/style/markmap.css'
+import { useKeyPress } from 'ahooks'
+import type { IMarkmapOptions } from 'markmap-common'
+import { Transformer } from 'markmap-lib'
+import { Toolbar } from 'markmap-toolbar'
+import 'markmap-toolbar/dist/style.css'
+import * as markmap from 'markmap-view'
+import { loadCSS, loadJS, Markmap } from 'markmap-view'
+import { useRouter } from 'next/navigation'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 
 const initValue = `# markmap
 

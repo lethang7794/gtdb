@@ -1,6 +1,6 @@
 import type { RoadSign } from '@/model/RoadSign'
-import { unstable_cache } from 'next/cache'
 import data from '@data/signs.yaml'
+import { unstable_cache } from 'next/cache'
 
 const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
 

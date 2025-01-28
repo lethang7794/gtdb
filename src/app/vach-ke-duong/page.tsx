@@ -1,9 +1,8 @@
-import Link from 'next/link'
-import type { Metadata } from 'next'
-import { getMarkingImage, getMarkingsArray } from '@/service/marking'
-import { env } from '@/env.mjs'
 import BaseLink from '@/components/base-link'
+import { getMarkingImage, getMarkingsArray } from '@/service/marking'
+import type { Metadata } from 'next'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Vạch kẻ đường',

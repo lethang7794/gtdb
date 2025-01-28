@@ -1,6 +1,6 @@
-import type { Metadata } from 'next'
 import Markmap from '@/components/markmap'
 import { getMarkmapById } from '@/service/markmap'
+import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title:

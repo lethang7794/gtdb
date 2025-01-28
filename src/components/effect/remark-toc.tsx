@@ -1,7 +1,7 @@
 'use client'
 
-import { useEffect, useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
+import { useEffect, useLayoutEffect } from 'react'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()

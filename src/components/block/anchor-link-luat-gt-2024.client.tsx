@@ -1,14 +1,14 @@
 'use client'
 
-import React from 'react'
-import type { ReactNode } from 'react'
-import { CircleCheckBig, Link2 } from 'lucide-react'
-import { useToast } from '@/hooks/use-toast'
-import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
-import { copyToClipboard } from '@/lib/copy-to-clipboard'
-import { cn } from '@/lib/utils'
 import { constants } from '@/constant'
+import { useToast } from '@/hooks/use-toast'
+import { copyToClipboard } from '@/lib/copy-to-clipboard'
+import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
+import { cn } from '@/lib/utils'
+import { isDieu, isKhoan } from '@/lib/vbpl-explain-section'
+import { CircleCheckBig, Link2 } from 'lucide-react'
+import type { ReactNode } from 'react'
+import React from 'react'
 
 const LAW_NAME = constants.laws.luatGT2024.short_name
 

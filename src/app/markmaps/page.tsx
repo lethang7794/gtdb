@@ -1,5 +1,3 @@
-import React from 'react'
-
 import BlogSummaryCard from '@/components/BlogSummaryCard'
 import { getMarkmaps } from '@/service/markmap'
 

@@ -1,17 +1,16 @@
-import React from 'react'
-import type { Metadata, ResolvingMetadata } from 'next'
+import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
+import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import { getToken } from '@/lib/crypto'
+import { processStaticParams } from '@/lib/static-params'
+import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
   getLuatGT2024ById,
   getLuatGT2024s,
 } from '@/service/luat-giao-thong-2024'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { getToken } from '@/lib/crypto'
-import { processStaticParams } from '@/lib/static-params'
-import '../style.css'
-import { constants } from '@/constant'
+import type { Metadata, ResolvingMetadata } from 'next'
 import Link from 'next/link'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import '../style.css'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024

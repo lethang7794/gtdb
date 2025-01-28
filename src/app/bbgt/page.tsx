@@ -1,10 +1,9 @@
+import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import type { Metadata } from 'next'
 
-import { getRoadSignsArray } from '@/service/road-sign'
-import { getRoadSignImage } from '@/service/road-sign'
 import BaseLink from '@/components/base-link'
+import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
 
 export const metadata: Metadata = {
   title: 'Biển báo giao thông',

@@ -1,14 +1,14 @@
-import type { Metadata } from 'next'
-import { Inter as FontSans } from 'next/font/google'
+import { PreloadResources } from '@/app/preload-resources'
+import { Footer } from '@/components/block/footer'
+import Header from '@/components/block/header'
+import { Toaster } from '@/components/ui/toaster'
+import { env, isDev } from '@/env.mjs'
+import { cn } from '@/lib/utils'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
-import { Toaster } from '@/components/ui/toaster'
-import { cn } from '@/lib/utils'
+import type { Metadata } from 'next'
+import { Inter as FontSans } from 'next/font/google'
 import './globals.css'
-import Header from '@/components/block/header'
-import { Footer } from '@/components/block/footer'
-import { PreloadResources } from '@/app/preload-resources'
-import { env, isDev } from '@/env.mjs'
 
 const fontSans = FontSans({
   subsets: ['latin'],

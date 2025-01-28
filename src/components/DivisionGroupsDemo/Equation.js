@@ -1,5 +1,3 @@
-import React from 'react'
-
 import styles from './Equation.module.css'
 
 function Equation({ dividend, divisor, remainder }) {

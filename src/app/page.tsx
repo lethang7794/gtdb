@@ -1,10 +1,6 @@
-import {
-  EXPIRE_LAWS,
-  EXTRA_LINKS,
-  LINKS,
-  USEFUL_LINKS,
-} from '@/constant/homepage-links'
 import BaseLink from '@/components/base-link'
+import { constants } from '@/constant'
+import { EXPIRE_LAWS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import {
   ChevronRight,
   Paintbrush,
@@ -12,7 +8,6 @@ import {
   Scale,
   Signpost,
 } from 'lucide-react'
-import { constants } from '@/constant'
 import { ExtraLinks } from './root/extra-links'
 
 const PATHS = constants.paths
