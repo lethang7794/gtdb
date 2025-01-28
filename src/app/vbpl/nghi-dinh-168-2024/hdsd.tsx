@@ -11,10 +11,10 @@ import Image from 'next/image'
 
 export default function NghiDinh168HDSD() {
   return (
-    <div className="fixed right-2 bottom-2 z-20 flex">
+    <div className="fixed bottom-2 right-2 z-20 flex">
       <Dialog>
         <DialogTrigger>
-          <div className="rounded-md border-2 bg-white p-2 opacity-100 shadow-sm hover:border-gray">
+          <div className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-sm">
             <CircleHelp color="black" />
           </div>
         </DialogTrigger>
@@ -54,7 +54,7 @@ export default function NghiDinh168HDSD() {
                     VD: Chương I, Mục 1 (Chương II), Điều 6
                   </div>
                   <div className="ml-3">- Sử dụng mục lục.</div>
-                  <div className="mr-4 ml-7">
+                  <div className="ml-7 mr-4">
                     <div className="relative aspect-[288/97] w-full">
                       <Image
                         fill
@@ -73,7 +73,7 @@ export default function NghiDinh168HDSD() {
                     - Bước 1: Bấm vào nội dung Chuơng/mục/Điều/khoản/điểm cần
                     chia sẻ để hiện biểu tượng chia sẻ.
                   </div>
-                  <div className="mr-4 ml-7">
+                  <div className="ml-7 mr-4">
                     <div className="relative aspect-[289/55] w-full">
                       <Image
                         fill
@@ -87,7 +87,7 @@ export default function NghiDinh168HDSD() {
                     - Bước 2: Bấm vào biểu tượng chia sẻ để sao chép link đến
                     đó.
                   </div>
-                  <div className="mr-4 ml-7">
+                  <div className="ml-7 mr-4">
                     <div className="relative aspect-[289/81] w-full">
                       <Image
                         fill
@@ -100,7 +100,7 @@ export default function NghiDinh168HDSD() {
                     - Bước 3: Gửi link cho bạn bè (Trước khi bấm Gửi nhớ chờ một
                     chút để hình ảnh xem trước được tải về)
                   </div>
-                  <div className="mr-4 ml-7">
+                  <div className="ml-7 mr-4">
                     <div className="relative aspect-video w-full">
                       <Image
                         fill

@@ -18,7 +18,7 @@ export default async function Home() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <h1 className="text-center font-bold text-4xl">
+      <h1 className="text-center text-4xl font-bold">
         Biển báo giao thông đường bộ
       </h1>
 
@@ -56,7 +56,7 @@ export default async function Home() {
                 {sign.name}
               </div>
               <div className="flex-grow" />
-              <div className="self-end text-gray-500 text-xs italic">
+              <div className="self-end text-xs italic text-gray-500">
                 {signKey}
               </div>
             </Link>

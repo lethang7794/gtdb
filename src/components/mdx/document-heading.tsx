@@ -24,7 +24,7 @@ export function DocumentHeading({
           <div className="italic">{right}</div>
         </div>
       </div>
-      <div className="text-center font-bold text-3xl">{title}</div>
+      <div className="text-center text-3xl font-bold">{title}</div>
     </div>
   )
 }

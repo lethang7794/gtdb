@@ -81,7 +81,7 @@ export default async function MarkingPage({
       <div className="line-clamp-3 text-balance text-center leading-5">
         {marking.full_name}
       </div>
-      <div className="self-end text-gray-500 text-xs italic">{slug}</div>
+      <div className="self-end text-xs italic text-gray-500">{slug}</div>
       <div className="whitespace-pre-line">{marking.docs}</div>
     </div>
   )

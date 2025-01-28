@@ -47,16 +47,18 @@ export async function GET(
     await luatGT2024SectionExplainComponents(section)
 
   return new ImageResponse(
-    <LawSectionPreview
-      short1={short1}
-      short2={short2}
-      short3={short3}
-      detail1={detail1}
-      detail2={detail2}
-      detail3={detail3}
-      highlight={highlight}
-      law={constants.laws.luatGT2024.short_name}
-    />,
+    (
+      <LawSectionPreview
+        short1={short1}
+        short2={short2}
+        short3={short3}
+        detail1={detail1}
+        detail2={detail2}
+        detail3={detail3}
+        highlight={highlight}
+        law={constants.laws.luatGT2024.short_name}
+      />
+    ),
     {
       width: 1200,
       height: 630,

@@ -8,7 +8,9 @@ const EXAMPLE_XMIND_URL = '' // TODO
 
 export default function XmindRender({
   fileURL = EXAMPLE_XMIND_URL,
-}: { fileURL?: string }) {
+}: {
+  fileURL?: string
+}) {
   const [loading, setLoading] = useState(true)
 
   const viewerRef = useRef<HTMLDivElement>(null)

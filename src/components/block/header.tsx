@@ -40,7 +40,7 @@ export default function Header() {
     <header className="bg-white">
       <nav
         aria-label="Global"
-        className="!flex mx-auto max-w-7xl items-center justify-between border-gray-200 border-b-[1px] p-6 py-3 lg:px-8"
+        className="mx-auto !flex max-w-7xl items-center justify-between border-b-[1px] border-gray-200 p-6 py-3 lg:px-8"
         style={{
           display: 'none',
         }}
@@ -65,7 +65,7 @@ export default function Header() {
         </div>
 
         <PopoverGroup
-          className="lg:!flex hidden lg:gap-x-12"
+          className="hidden lg:!flex lg:gap-x-12"
           style={{
             display: 'none',
           }}
@@ -73,7 +73,7 @@ export default function Header() {
           <Popover className="relative">
             {({ close }) => (
               <>
-                <PopoverButton className="flex items-center gap-x-1 font-semibold text-gray-900 text-sm/6">
+                <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
                   VBPL
                   <ChevronDownIcon
                     aria-hidden="true"
@@ -83,7 +83,7 @@ export default function Header() {
 
                 <PopoverPanel
                   transition
-                  className="-left-8 absolute top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
+                  className="absolute -left-8 top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
                 >
                   <div className="p-4">
                     {products.map((item) => (
@@ -115,7 +115,7 @@ export default function Header() {
           <Popover className="relative">
             {({ close }) => (
               <>
-                <PopoverButton className="flex items-center gap-x-1 font-semibold text-gray-900 text-sm/6">
+                <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
                   Tổng hợp
                   <ChevronDownIcon
                     aria-hidden="true"
@@ -125,7 +125,7 @@ export default function Header() {
 
                 <PopoverPanel
                   transition
-                  className="-left-8 absolute top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
+                  className="absolute -left-8 top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
                 >
                   <div className="p-4">
                     {others.map((item) => (
@@ -157,7 +157,7 @@ export default function Header() {
           <Popover className="relative">
             {({ close }) => (
               <>
-                <PopoverButton className="flex items-center gap-x-1 font-semibold text-gray-900 text-sm/6">
+                <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
                   Links
                   <ChevronDownIcon
                     aria-hidden="true"
@@ -167,7 +167,7 @@ export default function Header() {
 
                 <PopoverPanel
                   transition
-                  className="-left-8 absolute top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
+                  className="absolute -left-8 top-full z-30 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-[closed]:translate-y-1 data-[closed]:opacity-0 data-[enter]:duration-200 data-[leave]:duration-150 data-[enter]:ease-out data-[leave]:ease-in"
                 >
                   <div className="p-4">
                     {extra.map((item) => (
@@ -235,7 +235,7 @@ export default function Header() {
             <div className="-my-6 divide-y divide-gray-500/10">
               <div className="space-y-2 py-6">
                 <Disclosure defaultOpen as="div" className="-mx-3">
-                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pr-3.5 pl-3 font-semibold text-base/7 text-gray-900 hover:bg-gray-50">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
                     Văn bản pháp luật
                     <ChevronDownIcon
                       aria-hidden="true"
@@ -253,7 +253,7 @@ export default function Header() {
                       >
                         <BaseLink
                           href={item.href}
-                          className="block rounded-lg py-2 pr-3 pl-6 font-semibold text-gray-900 text-sm/7 hover:bg-gray-50"
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
                         >
                           {item.name}
                         </BaseLink>
@@ -263,7 +263,7 @@ export default function Header() {
                 </Disclosure>
 
                 <Disclosure defaultOpen as="div" className="-mx-3">
-                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pr-3.5 pl-3 font-semibold text-base/7 text-gray-900 hover:bg-gray-50">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
                     Tổng hợp
                     <ChevronDownIcon
                       aria-hidden="true"
@@ -281,7 +281,7 @@ export default function Header() {
                       >
                         <BaseLink
                           href={item.href}
-                          className="block rounded-lg py-2 pr-3 pl-6 font-semibold text-gray-900 text-sm/7 hover:bg-gray-50"
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
                         >
                           {item.name}
                         </BaseLink>
@@ -291,7 +291,7 @@ export default function Header() {
                 </Disclosure>
 
                 <Disclosure as="div" className="-mx-3">
-                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pr-3.5 pl-3 font-semibold text-base/7 text-gray-900 hover:bg-gray-50">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
                     Links
                     <ChevronDownIcon
                       aria-hidden="true"
@@ -309,7 +309,7 @@ export default function Header() {
                       >
                         <BaseLink
                           href={item.href}
-                          className="block rounded-lg py-2 pr-3 pl-6 font-semibold text-gray-900 text-sm/7 hover:bg-gray-50"
+                          className="block rounded-lg py-2 pl-6 pr-3 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
                         >
                           {item.name}
                         </BaseLink>
@@ -325,13 +325,13 @@ export default function Header() {
                 >
                   <BaseLink
                     href={constants.paths.thongTin.noiDung}
-                    className="-mx-3 block rounded-lg px-3 py-2 font-semibold text-base/7 text-gray-900 hover:bg-gray-50"
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                   >
                     Nội dung
                   </BaseLink>
                   <BaseLink
                     href={constants.paths.thongTin.gioiThieu}
-                    className="-mx-3 block rounded-lg px-3 py-2 font-semibold text-base/7 text-gray-900 hover:bg-gray-50"
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                   >
                     Giới thiệu
                   </BaseLink>

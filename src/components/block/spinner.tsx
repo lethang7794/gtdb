@@ -3,7 +3,10 @@ import { cn } from '@/lib/utils'
 export function Spinner({
   id = 'spinner',
   className,
-}: { id?: string; className?: string }) {
+}: {
+  id?: string
+  className?: string
+}) {
   return (
     <div
       id={id}

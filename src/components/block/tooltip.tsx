@@ -10,7 +10,10 @@ import {
 export function Tooltip({
   content,
   children,
-}: { content: ReactNode; children: ReactNode }) {
+}: {
+  content: ReactNode
+  children: ReactNode
+}) {
   return (
     <TooltipProvider>
       <TooltipRoot delayDuration={0}>

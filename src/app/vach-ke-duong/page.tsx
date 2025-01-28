@@ -16,7 +16,7 @@ export default async function Home() {
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <h1 className="text-center font-bold text-4xl">Vạch kẻ đường</h1>
+      <h1 className="text-center text-4xl font-bold">Vạch kẻ đường</h1>
 
       <p className="text-center text-2xl text-gray-500">
         (Bao gồm tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT -{' '}
@@ -53,7 +53,7 @@ export default async function Home() {
                 {val.full_name}
               </div>
               <div className="flex-grow" />
-              <div className="self-end text-gray-500 text-xs italic">{key}</div>
+              <div className="self-end text-xs italic text-gray-500">{key}</div>
             </Link>
           )
         })}

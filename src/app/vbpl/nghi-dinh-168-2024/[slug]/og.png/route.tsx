@@ -39,17 +39,19 @@ export async function GET(
   const { short1, short2, short3, detail1, detail2, detail3, highlight } =
     await nd168SectionExplainComponents(section)
   return new ImageResponse(
-    <LawSectionPreview
-      short1={short1}
-      short2={short2}
-      short3={short3}
-      detail1={detail1}
-      detail2={detail2}
-      detail3={detail3}
-      highlight={highlight}
-      law={constants.laws.nghiDinh168.short_name}
-      id={section}
-    />,
+    (
+      <LawSectionPreview
+        short1={short1}
+        short2={short2}
+        short3={short3}
+        detail1={detail1}
+        detail2={detail2}
+        detail3={detail3}
+        highlight={highlight}
+        law={constants.laws.nghiDinh168.short_name}
+        id={section}
+      />
+    ),
     {
       width: 1200,
       height: 630,

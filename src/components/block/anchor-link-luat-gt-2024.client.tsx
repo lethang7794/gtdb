@@ -84,7 +84,7 @@ export default function AnchorLinkLuatGT2024Client({
         <Link2 className="absolute" />
       )}
       {hasCopiedRecently && !hasCopied ? null : (
-        <span className="tooltip -top-[2.25em] -left-[1em] absolute hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
+        <span className="tooltip absolute -left-[1em] -top-[2.25em] hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
           {hasCopied ? (
             <span className="copied">Đã sao chép</span>
           ) : (

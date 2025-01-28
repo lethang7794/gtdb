@@ -8,7 +8,10 @@ import { Share } from 'lucide-react'
 export default function ShareButton({
   path,
   title,
-}: { path?: string; title?: string }) {
+}: {
+  path?: string
+  title?: string
+}) {
   const { toast } = useToast()
 
   return (
@@ -34,7 +37,7 @@ export default function ShareButton({
           })
         }
       }}
-      className="rounded-md border-2 bg-white p-2 opacity-100 shadow-sm hover:border-gray"
+      className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-sm"
     >
       <Share color="black" />
     </button>
@@ -44,7 +47,10 @@ export default function ShareButton({
 export function ShareButtonWrapper({
   children,
   className,
-}: { children?: React.ReactNode; className?: string }) {
+}: {
+  children?: React.ReactNode
+  className?: string
+}) {
   return (
     <div className={cn('fixed bottom-2 left-2 z-20 flex', className)}>
       {children}
