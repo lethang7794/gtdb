@@ -65,7 +65,7 @@ export const USEFUL_LINKS: HomepageLink[] = [
   //   tags: ['Danh sách', 'Chi tiết'],
   // },
   {
-    name: 'Phân loại phương tiện TGGTĐB (Luật 2024)',
+    name: 'Phân loại phương tiện GTĐB (Luật 2024)',
     url: PATHS.markmaps.PTTGGT_2024,
     description: '',
     tags: ['Tóm tắt'],
@@ -86,7 +86,7 @@ export const USEFUL_LINKS: HomepageLink[] = [
     // description: 'Tên, số hiệu, ngày ban hành, hiệu lực, nguồn, toàn văn...',
   },
   {
-    name: 'Phân loại phương tiện TGGTĐB (Luật 2008)',
+    name: 'Phân loại phương tiện GTĐB (Luật 2008)',
     url: PATHS.markmaps.PTTGGT_2008,
     tags: ['Tóm tắt'],
   },

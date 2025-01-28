@@ -18,7 +18,7 @@ export default async function Home() {
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container px-4 pb-8 md:px-8">
           <div className="grid gap-4">
-            <div className="mt-4 grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm font-bold leading-6 text-white sm:grid-cols-2">
+            <div className="mt-4 grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.vbpl.NGHI_DINH_168}
                 className="row-span-4 grid place-items-center gap-4 rounded-lg bg-red-600 p-4"
@@ -54,7 +54,7 @@ export default async function Home() {
                 Xe môtô 🏍️
               </BaseLink>
             </div>
-            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm font-bold leading-6 text-white sm:grid-cols-2">
+            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.vbpl.LUAT_GT_2024}
                 className="row-span-2 grid place-items-center gap-4 rounded-lg bg-yellow-400 p-4 text-yellow-800"
@@ -78,7 +78,7 @@ export default async function Home() {
                 Tóm tắt
               </BaseLink>
             </div>
-            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm font-bold leading-6 text-white sm:grid-cols-2">
+            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.bbgt.ROOT}
                 className="row-span-2 grid place-items-center justify-center gap-4 rounded-lg bg-green-500 p-4 text-green-800"
@@ -99,7 +99,7 @@ export default async function Home() {
                 So sánh
               </BaseLink>
             </div>
-            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm font-bold leading-6 text-white sm:grid-cols-2">
+            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.vachKeDuong.ROOT}
                 className="row-span-4 grid place-items-center justify-center gap-4 rounded-lg bg-blue-500 p-4"
@@ -131,7 +131,7 @@ export default async function Home() {
                     </BaseLink>
                   </div>
                   {item.description ? (
-                    <div className="text-base italic text-gray-500">
+                    <div className="text-base text-gray-500 italic">
                       ({item.description})
                     </div>
                   ) : null}
@@ -155,7 +155,7 @@ export default async function Home() {
                     </BaseLink>
                   </div>
                   {item.description ? (
-                    <div className="text-base italic text-gray-500">
+                    <div className="text-base text-gray-500 italic">
                       ({item.description})
                     </div>
                   ) : null}
@@ -179,7 +179,7 @@ export default async function Home() {
                     </BaseLink>
                   </div>
                   {item.description ? (
-                    <div className="text-base italic text-gray-500">
+                    <div className="text-base text-gray-500 italic">
                       ({item.description})
                     </div>
                   ) : null}
