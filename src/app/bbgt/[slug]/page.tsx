@@ -64,7 +64,7 @@ export default async function RoadSignPage({ params }: Props) {
   return (
     <div
       key={slug}
-      className="mb-4 mt-4 flex flex-col items-center justify-start rounded-md px-3 py-2"
+      className="mt-4 mb-4 flex flex-col items-center justify-start rounded-md px-3 py-2"
     >
       <Link
         className="mb-4 self-start text-blue-600 hover:underline dark:text-blue-500"
@@ -88,7 +88,7 @@ export default async function RoadSignPage({ params }: Props) {
         ) : (
           <div className="min-h-10 min-w-24" />
         )}
-        <div className="flex items-center font-bold italic text-gray-500">
+        <div className="flex items-center font-bold text-gray-500 italic">
           {decodedSlug}
         </div>
         {nextSignKey ? (
@@ -113,7 +113,7 @@ export default async function RoadSignPage({ params }: Props) {
             className="order-none mb-1 h-[250px] w-full object-contain object-bottom"
           />
         </div>
-        <div className="text-balance text-center leading-5">{sign.name}</div>
+        <div className="text-center leading-5 text-balance">{sign.name}</div>
         <br />
         <div className="grow" />
         <div className="flex flex-col">
@@ -121,9 +121,9 @@ export default async function RoadSignPage({ params }: Props) {
             {sign.docs_name}
           </div> */}
           <MDX source={sign.docs_mdx} />
-          <div className="mb-2 w-full border-b-2 border-t-2 text-right">
-            <div className="italic text-gray-700">QCVN 41:2019/BGTVT</div>
-            <div className="text-balance italic text-gray-500">
+          <div className="mb-2 w-full border-t-2 border-b-2 text-right">
+            <div className="text-gray-700 italic">QCVN 41:2019/BGTVT</div>
+            <div className="text-balance text-gray-500 italic">
               {sign.docs_source}
             </div>
           </div>

@@ -14,7 +14,7 @@ export function Footer() {
           >
             <Logo className="min-w-24" />
           </BaseLink>
-          <ul className="mb-4 flex flex-wrap items-center text-sm font-medium text-gray-500 dark:text-gray-400 sm:mb-0">
+          <ul className="mb-4 flex flex-wrap items-center text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
               <BaseLink
                 href={constants.paths.thongTin.noiDung}
@@ -33,7 +33,7 @@ export function Footer() {
             </li>
           </ul>
         </div>
-        <hr className="my-4 border-gray-200 dark:border-gray-700 sm:mx-auto" />
+        <hr className="my-4 border-gray-200 sm:mx-auto dark:border-gray-700" />
         <span className="block text-center text-sm text-gray-500 dark:text-gray-400">
           ©{' '}
           <BaseLink href="/about" className="hover:underline">

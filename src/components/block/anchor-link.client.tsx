@@ -78,7 +78,7 @@ export default function AnchorLinkClient({
         <Link2 className="absolute" />
       )}
       {hasCopiedRecently && !hasCopied ? null : (
-        <span className="tooltip absolute -left-[1em] -top-[2.25em] hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
+        <span className="tooltip absolute -top-[2.25em] -left-[1em] hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
           {hasCopied ? (
             <span className="copied">Đã sao chép</span>
           ) : (

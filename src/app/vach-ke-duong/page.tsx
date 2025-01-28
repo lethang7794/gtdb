@@ -48,11 +48,11 @@ export default async function Home() {
                   />
                 </div>
               ) : null}
-              <div className="text-balance text-center text-sm leading-5">
+              <div className="text-center text-sm leading-5 text-balance">
                 {val.full_name}
               </div>
               <div className="grow" />
-              <div className="self-end text-xs italic text-gray-500">{key}</div>
+              <div className="self-end text-xs text-gray-500 italic">{key}</div>
             </Link>
           )
         })}

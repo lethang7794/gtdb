@@ -29,7 +29,7 @@ export default async function GlossariesPage() {
             >
               <CollapsibleTrigger asChild>
                 <div>
-                  <div className="flex items-center justify-between space-x-4 py-2 pl-2 pr-2">
+                  <div className="flex items-center justify-between space-x-4 py-2 pr-2 pl-2">
                     <div className="flex flex-wrap items-center gap-2 text-lg font-semibold">
                       <Badge
                         variant="outline"
@@ -49,7 +49,7 @@ export default async function GlossariesPage() {
                   </div>
                   <div className="flex justify-end">
                     {item?.source_abbr ? (
-                      <div className="mr-8 text-balance pb-3 pl-3 pr-4 text-xs italic text-gray-500">
+                      <div className="mr-8 pr-4 pb-3 pl-3 text-xs text-balance text-gray-500 italic">
                         ({item?.source_abbr})
                       </div>
                     ) : null}
@@ -57,8 +57,8 @@ export default async function GlossariesPage() {
                 </div>
               </CollapsibleTrigger>
               <CollapsibleContent className="space-y-2">
-                <div className="ml-3 mr-6 border-t">
-                  <div className="whitespace-pre-wrap pb-4 pl-3 pr-4 pt-4 font-mono text-sm">
+                <div className="mr-6 ml-3 border-t">
+                  <div className="pt-4 pr-4 pb-4 pl-3 font-mono text-sm whitespace-pre-wrap">
                     {item?.explain}
                   </div>
                 </div>

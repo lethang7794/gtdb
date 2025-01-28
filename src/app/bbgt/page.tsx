@@ -50,11 +50,11 @@ export default async function Home() {
                   className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                 />
               </div>
-              <div className="line-clamp-3 text-balance text-center leading-5">
+              <div className="line-clamp-3 text-center leading-5 text-balance">
                 {sign.name}
               </div>
               <div className="grow" />
-              <div className="self-end text-xs italic text-gray-500">
+              <div className="self-end text-xs text-gray-500 italic">
                 {signKey}
               </div>
             </Link>
