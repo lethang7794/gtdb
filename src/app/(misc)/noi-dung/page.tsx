@@ -11,12 +11,12 @@ const EMAIL = env.NEXT_PUBLIC_EMAIL
 
 export default function ContentPage() {
   return (
-    <main className="grow flex flex-col justify-between p-6 md:p-8">
+    <main className="flex grow flex-col justify-between p-6 md:p-8">
       <div className="container">
         <h1 className="text-center text-4xl font-bold">Nội dung</h1>
         <div className="mt-4 text-2xl text-gray-500">
           Tất cả văn bản pháp luật tại{' '}
-          <Logo className="!h-8 -mb-2" display="inline-block" /> đều được trích
+          <Logo className="-mb-2 h-8!" display="inline-block" /> đều được trích
           dẫn nguyên văn từ{' '}
           <BaseLink
             href="https://vbpl.vn/"

@@ -1,4 +1,3 @@
-import React from 'react'
 import type { ReactNode } from 'react'
 import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import AnchorLinkLuatGT2024Client from './anchor-link-luat-gt-2024.client'

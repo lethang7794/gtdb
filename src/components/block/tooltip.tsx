@@ -1,16 +1,19 @@
 import type { ReactNode } from 'react'
 import {
-  Tooltip as TooltipRoot,
+  TooltipArrow,
   TooltipContent,
   TooltipProvider,
+  Tooltip as TooltipRoot,
   TooltipTrigger,
-  TooltipArrow,
 } from '@/components/ui/tooltip'
 
 export function Tooltip({
   content,
   children,
-}: { content: ReactNode; children: ReactNode }) {
+}: {
+  content: ReactNode
+  children: ReactNode
+}) {
   return (
     <TooltipProvider>
       <TooltipRoot delayDuration={0}>

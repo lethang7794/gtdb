@@ -1,12 +1,11 @@
 'use client'
 
-import React from 'react'
 import type { ReactNode } from 'react'
+import React from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { isDieu, isKhoan, vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
+import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { constants } from '@/constant'
 
 const LAW_NAME = constants.laws.nghiDinh168.short_name
@@ -68,7 +67,7 @@ export default function AnchorLinkClient({
           })
         }
       }}
-      className="anchor-link relative inline-block min-w-6 text-center rounded-md cursor-pointer"
+      className="anchor-link relative inline-block min-w-6 cursor-pointer rounded-md text-center"
     >
       {hasCopied ? (
         <CircleCheckBig
@@ -79,7 +78,7 @@ export default function AnchorLinkClient({
         <Link2 className="absolute" />
       )}
       {hasCopiedRecently && !hasCopied ? null : (
-        <span className="tooltip absolute hidden h-min w-max -top-[2.25em] -left-[1em] py-1 px-2 bg-black text-white rounded-lg shadow-lg">
+        <span className="tooltip absolute -left-[1em] -top-[2.25em] hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
           {hasCopied ? (
             <span className="copied">Đã sao chép</span>
           ) : (

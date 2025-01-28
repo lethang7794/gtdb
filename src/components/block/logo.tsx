@@ -3,7 +3,10 @@
 export function Logo({
   className,
   display,
-}: { className?: string; display?: string }) {
+}: {
+  className?: string
+  display?: string
+}) {
   return (
     <div
       style={{

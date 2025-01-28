@@ -1,14 +1,16 @@
 'use client'
 
-import { LoadingSpinner } from '@/components/ui/loading-spinner'
 import { useEffect, useRef, useState } from 'react'
 import { XMindEmbedViewer } from 'xmind-embed-viewer'
+import { LoadingSpinner } from '@/components/ui/loading-spinner'
 
 const EXAMPLE_XMIND_URL = '' // TODO
 
 export default function XmindRender({
   fileURL = EXAMPLE_XMIND_URL,
-}: { fileURL?: string }) {
+}: {
+  fileURL?: string
+}) {
   const [loading, setLoading] = useState(true)
 
   const viewerRef = useRef<HTMLDivElement>(null)
@@ -41,7 +43,7 @@ export default function XmindRender({
   return (
     <div className="h-full">
       {loading ? (
-        <div className="absolute h-full w-full grid place-items-center">
+        <div className="absolute grid h-full w-full place-items-center">
           <LoadingSpinner />
         </div>
       ) : null}

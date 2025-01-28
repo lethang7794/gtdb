@@ -1,9 +1,8 @@
-import Link from 'next/link'
 import type { Metadata } from 'next'
-import { getMarkingImage, getMarkingsArray } from '@/service/marking'
-import { env } from '@/env.mjs'
-import BaseLink from '@/components/base-link'
 import Image from 'next/image'
+import Link from 'next/link'
+import BaseLink from '@/components/base-link'
+import { getMarkingImage, getMarkingsArray } from '@/service/marking'
 
 export const metadata: Metadata = {
   title: 'Vạch kẻ đường',
@@ -29,7 +28,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] lg:grid-cols-[repeat(auto-fill,minmax(200px,_1fr))] justify-between gap-4">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] justify-between gap-4 lg:grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
 
@@ -37,7 +36,7 @@ export default async function Home() {
             <Link
               href={`vach-ke-duong/${key}`}
               key={key}
-              className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
+              className="flex flex-col items-center justify-start rounded-md border px-3 py-2"
             >
               {val.image ? (
                 <div className="relative aspect-square w-full">
@@ -45,15 +44,15 @@ export default async function Home() {
                     alt={key}
                     src={imgUrl}
                     fill={true}
-                    className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                    className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                   />
                 </div>
               ) : null}
-              <div className="text-sm text-balance text-center leading-5">
+              <div className="text-balance text-center text-sm leading-5">
                 {val.full_name}
               </div>
-              <div className="flex-grow" />
-              <div className="self-end text-gray-500 text-xs italic">{key}</div>
+              <div className="grow" />
+              <div className="self-end text-xs italic text-gray-500">{key}</div>
             </Link>
           )
         })}

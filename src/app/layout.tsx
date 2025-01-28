@@ -1,14 +1,14 @@
 import type { Metadata } from 'next'
-import { Inter as FontSans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
+import { Inter as FontSans } from 'next/font/google'
+import { Footer } from '@/components/block/footer'
+import Header from '@/components/block/header'
 import { Toaster } from '@/components/ui/toaster'
 import { cn } from '@/lib/utils'
-import './globals.css'
-import Header from '@/components/block/header'
-import { Footer } from '@/components/block/footer'
 import { PreloadResources } from '@/app/preload-resources'
 import { env, isDev } from '@/env.mjs'
+import './globals.css'
 
 const fontSans = FontSans({
   subsets: ['latin'],
@@ -43,7 +43,7 @@ export default function RootLayout({
       <body
         className={cn(
           // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
-          'flex flex-col min-h-screen bg-background font-sans antialiased body-bg-markdown',
+          'body-bg-markdown flex min-h-screen flex-col bg-background font-sans antialiased',
           fontSans.variable
         )}
       >
@@ -58,7 +58,7 @@ export default function RootLayout({
         >
           <Header />
         </div>
-        <div className="flex-grow bg-white">{children}</div>
+        <div className="grow bg-white">{children}</div>
         <Footer />
         <Toaster />
       </body>

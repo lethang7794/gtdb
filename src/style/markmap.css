@@ -12,7 +12,7 @@
 }
 
 .markmap {
-  --markmap-font: 300 16px/20px sans-serif;
+  --markmap-font: 300 16px / 20px sans-serif;
   font: var(--markmap-font);
   background-color: var(--bgColor-default);
 
@@ -29,7 +29,7 @@
 
 @media (prefers-color-scheme: dark) {
   .markmap,
-  [data-theme='dark'] {
+  [data-theme="dark"] {
     color-scheme: dark;
     --bgColor-default: hsl(212, 19%, 16%);
     --bgColor-muted: #161b22;
@@ -39,7 +39,7 @@
 }
 @media (prefers-color-scheme: light) {
   .markmap,
-  [data-theme='light'] {
+  [data-theme="light"] {
     color-scheme: light;
     --bgColor-default: #fff;
     --bgColor-muted: #f6f8fa;

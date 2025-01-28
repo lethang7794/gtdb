@@ -1,5 +1,5 @@
-import type { ND168 } from '@/model/ND168'
 import data from '@data/nghi-dinh-168.yaml'
+import type { ND168 } from '@/model/ND168'
 
 export const getND168s = async () => {
   return data as Record<string, ND168>

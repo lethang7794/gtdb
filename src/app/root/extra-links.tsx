@@ -1,14 +1,14 @@
 'use client'
 
 import React from 'react'
+import { ChevronDown, ChevronRight } from 'lucide-react'
 import BaseLink from '@/components/base-link'
-import { EXTRA_LINKS } from '@/constant/homepage-links'
 import {
   Collapsible,
-  CollapsibleTrigger,
   CollapsibleContent,
+  CollapsibleTrigger,
 } from '@/components/ui/collapsible'
-import { ChevronDown, ChevronRight } from 'lucide-react'
+import { EXTRA_LINKS } from '@/constant/homepage-links'
 
 export function ExtraLinks() {
   const [isOpen, setIsOpen] = React.useState(false)
@@ -19,9 +19,9 @@ export function ExtraLinks() {
         <div className="mt-3 flex items-center">
           <h2 className="text-2xl">Cơ sở hạ tầng GTĐB</h2>
           {isOpen ? (
-            <ChevronDown className="w-8 h-8" />
+            <ChevronDown className="h-8 w-8" />
           ) : (
-            <ChevronRight className="w-8 h-8" />
+            <ChevronRight className="h-8 w-8" />
           )}
         </div>
       </CollapsibleTrigger>
@@ -32,14 +32,14 @@ export function ExtraLinks() {
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
                   <BaseLink
-                    className="text-blue-600 dark:text-blue-500 hover:underline mr-2"
+                    className="mr-2 text-blue-600 hover:underline dark:text-blue-500"
                     href={item.url}
                   >
                     {item.name}
                   </BaseLink>
                 </div>
                 {item.description ? (
-                  <div className="text-base text-gray-500 italic">
+                  <div className="text-base italic text-gray-500">
                     ({item.description})
                   </div>
                 ) : null}

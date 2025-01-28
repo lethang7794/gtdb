@@ -1,10 +1,9 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { getToken } from '@/lib/crypto'
-import './style.css'
-import React from 'react'
 import { constants } from '@/constant'
+import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
+import './style.css'
 
 type Props = {
   params: Promise<{ id: string }>

@@ -1,9 +1,9 @@
 import {
   isChuong,
-  isMuc,
+  isDiem,
   isDieu,
   isKhoan,
-  isDiem,
+  isMuc,
   isSectionZero,
 } from '@/lib/vbpl-explain-section'
 import type { ND168 } from '@/model/ND168'

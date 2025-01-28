@@ -1,10 +1,8 @@
+import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import type { Metadata } from 'next'
-
-import { getRoadSignsArray } from '@/service/road-sign'
-import { getRoadSignImage } from '@/service/road-sign'
 import BaseLink from '@/components/base-link'
+import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
 
 export const metadata: Metadata = {
   title: 'Biển báo giao thông',
@@ -33,7 +31,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] md:grid-cols-[repeat(auto-fill,minmax(120px,_1fr))] justify-between gap-4">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
         {entries?.map(([signKey, sign]) => {
           const imgUrl = getRoadSignImage(sign)
 
@@ -41,22 +39,22 @@ export default async function Home() {
             <Link
               href={`/bbgt/${signKey}`}
               key={signKey}
-              className="flex items-center justify-start flex-col border px-3 py-2 rounded-md"
+              className="flex flex-col items-center justify-start rounded-md border px-3 py-2"
             >
               <div className="relative aspect-square w-full">
                 <Image
                   alt={signKey}
                   src={imgUrl}
                   fill={true}
-                  // placeholder="blur"
-                  className="max-h-[150px] w-full order-none object-contain object-bottom mb-1"
+                  // placeholder="blur-sm"
+                  className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                 />
               </div>
               <div className="line-clamp-3 text-balance text-center leading-5">
                 {sign.name}
               </div>
-              <div className="flex-grow" />
-              <div className="self-end text-gray-500 text-xs italic">
+              <div className="grow" />
+              <div className="self-end text-xs italic text-gray-500">
                 {signKey}
               </div>
             </Link>

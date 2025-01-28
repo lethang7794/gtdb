@@ -1,5 +1,5 @@
-import type { LuatGT2024 } from '@/model/LuatGT2024'
 import data from '@data/luat-TTATGTDT-2024.yaml'
+import type { LuatGT2024 } from '@/model/LuatGT2024'
 
 export const getLuatGT2024s = async () => {
   return data as Record<string, LuatGT2024>

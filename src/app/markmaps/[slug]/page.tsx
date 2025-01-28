@@ -1,11 +1,8 @@
-import React from 'react'
-
 import Markmap from '@/components/markmap'
 import { processStaticParams } from '@/lib/static-params'
 import { getMarkmapById, getMarkmaps } from '@/service/markmap'
-
-import styles from './slug.module.css'
 import { constants } from '@/constant'
+import styles from './slug.module.css'
 
 type Props = {
   params: Promise<{ slug: string }>

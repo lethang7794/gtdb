@@ -1,17 +1,16 @@
-import React from 'react'
 import type { Metadata, ResolvingMetadata } from 'next'
-import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
+import Link from 'next/link'
+import { getToken } from '@/lib/crypto'
+import { processStaticParams } from '@/lib/static-params'
+import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
   getLuatGT2024ById,
   getLuatGT2024s,
 } from '@/service/luat-giao-thong-2024'
-import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { getToken } from '@/lib/crypto'
-import { processStaticParams } from '@/lib/static-params'
-import '../style.css'
 import { constants } from '@/constant'
-import Link from 'next/link'
+import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import '../style.css'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
@@ -76,7 +75,7 @@ export default async function LuatTTATGTDB2024Page({
     return (
       <div className="flex flex-col items-center">
         <Link href={`${PAGE_PATH}#${section}`} className="w-full">
-          <div className="relative aspect-[1200/630] w-full">
+          <div className="relative aspect-1200/630 w-full">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
@@ -86,7 +85,7 @@ export default async function LuatTTATGTDB2024Page({
           </div>
         </Link>
         <Link href={`${PAGE_PATH}#${section}`} className="mx-auto">
-          <h2 className="!border-b-0">
+          <h2 className="border-b-0!">
             Toàn văn <i>{sectionName}</i>
           </h2>
         </Link>

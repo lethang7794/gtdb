@@ -1,8 +1,8 @@
-import type { PropsWithChildren } from 'react'
-import Link from 'next/link'
 import type { Route } from 'next'
-import { env } from '@/env.mjs'
+import type { PropsWithChildren } from 'react'
 import { ExternalLink } from 'lucide-react'
+import Link from 'next/link'
+import { env } from '@/env.mjs'
 
 export interface IBaseLinkProps extends PropsWithChildren {
   href: Route | URL
@@ -59,7 +59,11 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
   }
 
   if (isNewTab) {
-    const cleanHref = href.toString().replace(/&*new-tab=true/, '').replace("?&", "?").replace(/\?$/, "")
+    const cleanHref = href
+      .toString()
+      .replace(/&*new-tab=true/, '')
+      .replace('?&', '?')
+      .replace(/\?$/, '')
     return (
       <a
         href={cleanHref}

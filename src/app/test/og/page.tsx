@@ -28,7 +28,7 @@ Người có thẩm quyền ra quyết định thi hành biện pháp khắc ph�
   const law = 'Nghi dinh 168'
 
   return (
-    <div className="w-[1200px] h-[630px]">
+    <div className="h-[630px] w-[1200px]">
       <LawSectionPreview
         short1={short1}
         short2={short2}

@@ -14,7 +14,7 @@ export function DocumentHeading({
     : 'flex justify-between overflow-auto text-center whitespace-nowrap text-nowrap'
 
   return (
-    <div className="flex flex-col gap-4 mb-4">
+    <div className="mb-4 flex flex-col gap-4">
       <div className={wrapperClass}>
         <div className="self-start md:self-auto">{left}</div>
         <div className="self-end md:self-auto">

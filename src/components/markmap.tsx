@@ -1,17 +1,16 @@
 'use client'
 
-import type React from 'react'
-import { useRouter } from 'next/navigation'
-import { useState, useRef, useEffect, type ReactNode } from 'react'
-import { useKeyPress } from 'ahooks'
-import { loadCSS, loadJS, Markmap } from 'markmap-view'
-import { Toolbar } from 'markmap-toolbar'
-import { Transformer } from 'markmap-lib'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import type { IMarkmapOptions } from 'markmap-common'
-import * as markmap from 'markmap-view'
+import { Transformer } from 'markmap-lib'
+import { Toolbar } from 'markmap-toolbar'
+import { loadCSS, loadJS, Markmap } from 'markmap-view'
+import { useRouter } from 'next/navigation'
 import 'markmap-toolbar/dist/style.css'
-import '@/style/markmap.css'
+import { useKeyPress } from 'ahooks'
+import * as markmap from 'markmap-view'
 import { cn } from '@/lib/utils'
+import '@/style/markmap.css'
 
 const initValue = `# markmap
 
@@ -93,8 +92,8 @@ export default function MarkmapRender({
   })
 
   return (
-    <div className="relative grow h-full w-full markmap-wrapper">
-      <svg className={cn('h-full w-full markmap', classNameSvg)} ref={refSvg} />
+    <div className="markmap-wrapper relative h-full w-full grow">
+      <svg className={cn('markmap h-full w-full', classNameSvg)} ref={refSvg} />
       {extra}
       <div className="absolute bottom-1 right-1" ref={refToolbar} />
     </div>

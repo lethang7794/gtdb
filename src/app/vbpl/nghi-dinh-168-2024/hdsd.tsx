@@ -1,3 +1,5 @@
+import { CircleHelp } from 'lucide-react'
+import Image from 'next/image'
 import {
   Dialog,
   DialogContent,
@@ -6,15 +8,13 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/components/ui/dialog'
-import { CircleHelp } from 'lucide-react'
-import Image from 'next/image'
 
 export default function NghiDinh168HDSD() {
   return (
-    <div className="fixed bottom-2 right-2 flex z-20">
+    <div className="fixed bottom-2 right-2 z-20 flex">
       <Dialog>
         <DialogTrigger>
-          <div className="border-2 bg-white opacity-100 hover:border-gray rounded-md p-2 shadow-sm">
+          <div className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-xs">
             <CircleHelp color="black" />
           </div>
         </DialogTrigger>
@@ -55,11 +55,11 @@ export default function NghiDinh168HDSD() {
                   </div>
                   <div className="ml-3">- Sử dụng mục lục.</div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[288/97] w-full">
+                    <div className="relative aspect-288/97 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-muc-luc.png"
-                        className="h-full object-contain object-bottom mb-1"
+                        className="mb-1 h-full object-contain object-bottom"
                         alt="Mục lục"
                       />
                     </div>
@@ -74,11 +74,11 @@ export default function NghiDinh168HDSD() {
                     chia sẻ để hiện biểu tượng chia sẻ.
                   </div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[289/55] w-full">
+                    <div className="relative aspect-289/55 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se.png"
-                        className="h-full object-contain object-bottom mb-1"
+                        className="mb-1 h-full object-contain object-bottom"
                         alt="Chia sẻ"
                       />
                     </div>
@@ -88,7 +88,7 @@ export default function NghiDinh168HDSD() {
                     đó.
                   </div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[289/81] w-full">
+                    <div className="relative aspect-289/81 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se-da-sao-chep.png"
