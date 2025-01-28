@@ -25,17 +25,7 @@
   "linter": {
     "enabled": true,
     "rules": {
-      "recommended": true,
-      "nursery": {
-        "useSortedClasses": {
-          "fix": "safe",
-          "level": "error",
-          "options": {
-            "attributes": ["classList"],
-            "functions": ["cn", "clsx", "cva", "tw", "tw.*"]
-          }
-        }
-      }
+      "recommended": true
     }
   },
   "organizeImports": {

@@ -12,6 +12,7 @@
   "importOrder": [
     "^next*$",
     "^react*$",
+    "<BUILTIN_MODULES>",
     "<THIRD_PARTY_MODULES>",
     "^@/components/(.*)$",
     "^@/constant/(.*)$",
