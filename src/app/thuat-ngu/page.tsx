@@ -9,22 +9,22 @@ import {
 
 import { getGlossaries } from '@/service/glossary'
 import { Badge } from '@/components/ui/badge'
+import { cn } from '@/lib/utils'
 
 export const metadata: Metadata = {
   title: 'Giải thích từ ngữ',
 }
 
 export default async function GlossariesPage() {
-  const data = await getGlossaries()
-  const entries = Object.entries(data) || []
+  const items = await getGlossaries()
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
       <div className="grid grid-cols-[repeat(auto-fill,minmax(350px,_1fr))] justify-between gap-4">
-        {entries.map(([key, val]) => {
+        {items.map((item) => {
           return (
             <Collapsible
-              key={key}
+              key={item.id}
               className="border rounded-lg space-x-2"
               // defaultOpen
             >
@@ -34,11 +34,14 @@ export default async function GlossariesPage() {
                     <div className="flex items-center flex-wrap gap-2 text-lg font-semibold">
                       <Badge
                         variant="outline"
-                        className="text-lg border-transparent text-left"
+                        className={cn(
+                          'text-lg text-left',
+                          !isLocalTerm(item?.term) && 'border-transparent'
+                        )}
                       >
-                        {val?.term}
+                        {item?.term}
                       </Badge>
-                      <AkaBadges aka={val?.aka || ''} />
+                      <AkaBadges aka={item?.aka || ''} />
                     </div>
                     <Button variant="ghost" size="sm">
                       <CaretSortIcon className="h-4 w-4" />
@@ -46,9 +49,9 @@ export default async function GlossariesPage() {
                     </Button>
                   </div>
                   <div className="flex justify-end">
-                    {val?.source_abbr ? (
+                    {item?.source_abbr ? (
                       <div className="mr-8 pl-3 pb-3 pr-4 text-xs text-balance italic text-gray-500">
-                        ({val.source_abbr})
+                        ({item?.source_abbr})
                       </div>
                     ) : null}
                   </div>
@@ -57,7 +60,7 @@ export default async function GlossariesPage() {
               <CollapsibleContent className="space-y-2">
                 <div className="border-t mr-6 ml-3">
                   <div className="pt-4 pr-4 pl-3 pb-4 font-mono text-sm whitespace-pre-wrap">
-                    {val?.explain}
+                    {item?.explain}
                   </div>
                 </div>
               </CollapsibleContent>
@@ -73,14 +76,30 @@ function AkaBadges({ aka }: { aka: string | string[] }) {
   if (!aka || aka.length === 0) {
     return null
   }
+
   if (typeof aka === 'string') {
-    return <Badge className="text-lg">{aka}</Badge>
+    return (
+      <Badge
+        className="text-lg"
+        variant={isLocalTerm(aka) ? 'outline' : 'default'}
+      >
+        {aka}
+      </Badge>
+    )
   }
   if (aka.length > 0) {
     return aka.map((term) => (
-      <Badge key={term} className="text-lg">
+      <Badge
+        key={term}
+        className="text-lg"
+        variant={isLocalTerm(term) ? 'outline' : 'default'}
+      >
         {term}
       </Badge>
     ))
   }
+}
+
+function isLocalTerm(aka: string) {
+  return aka.match('"')
 }

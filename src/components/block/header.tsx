@@ -18,6 +18,7 @@ import { env } from '@/env.mjs'
 import { EXTRA_LINKS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import BaseLink from '@/components/base-link'
 import { Logo } from '@/components/block/logo'
+import { constants } from '@/constant'
 
 const products = LINKS.map((item) => ({
   ...item,
@@ -323,7 +324,13 @@ export default function Header() {
                   }}
                 >
                   <BaseLink
-                    href="/about"
+                    href={constants.paths.thongTin.noiDung}
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  >
+                    Nội dung
+                  </BaseLink>
+                  <BaseLink
+                    href={constants.paths.thongTin.gioiThieu}
                     className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                   >
                     Giới thiệu

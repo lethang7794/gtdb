@@ -1,3 +1,5 @@
+import { constants } from '.'
+
 interface HomepageLink {
   name: string
   url: string
@@ -5,94 +7,95 @@ interface HomepageLink {
   tags?: string[]
 }
 
+const PATHS = constants.paths
 export const LINKS: HomepageLink[] = [
-  {
-    name: 'Nghị định 168 (2024)',
-    url: '/vbpl/nghi-dinh-168-2024',
-    description: 'Xử phạt vi phạm trong giao thông đường bộ',
-  },
-  {
-    name: 'Nghị định 168 (2024) - Tóm tắt',
-    url: '/markmaps/nghi-dinh-168-2024',
-    tags: ['Tóm tắt'],
-  },
-  {
-    name: 'Nghị định 168 (2024) - Tóm tắt xe ôtô',
-    url: '/markmaps/nghi-dinh-168-2024-xe-oto',
-    tags: ['Tóm tắt'],
-  },
-  {
-    name: 'Nghị định 168 (2024) - Tóm tắt xe môtô',
-    url: '/markmaps/nghi-dinh-168-2024-xe-moto',
-    tags: ['Tóm tắt'],
-  },
-  {
-    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
-    url: '/vbpl/luat-TTATGTDB-2024',
-  },
-  {
-    name: 'Luật Trật tự, an toàn giao thông đường bộ (2024) - Tóm tắt',
-    tags: ['Tóm tắt'],
-    url: '/markmaps/luat-TTATGTDB-2024',
-  },
+  // {
+  //   name: 'Nghị định 168 (2024)',
+  //   url: '/vbpl/nghi-dinh-168-2024',
+  //   description: 'Xử phạt vi phạm trong giao thông đường bộ',
+  // },
+  // {
+  //   name: 'Nghị định 168 (2024) - Tóm tắt',
+  //   url: '/markmaps/nghi-dinh-168-2024',
+  //   tags: ['Tóm tắt'],
+  // },
+  // {
+  //   name: 'Nghị định 168 (2024) - Tóm tắt xe ôtô',
+  //   url: '/markmaps/nghi-dinh-168-2024-xe-oto',
+  //   tags: ['Tóm tắt'],
+  // },
+  // {
+  //   name: 'Nghị định 168 (2024) - Tóm tắt xe môtô',
+  //   url: '/markmaps/nghi-dinh-168-2024-xe-moto',
+  //   tags: ['Tóm tắt'],
+  // },
+  // {
+  //   name: 'Luật Trật tự, an toàn giao thông đường bộ (2024)',
+  //   url: '/vbpl/luat-TTATGTDB-2024',
+  // },
+  // {
+  //   name: 'Luật Trật tự, an toàn giao thông đường bộ (2024) - Tóm tắt',
+  //   tags: ['Tóm tắt'],
+  //   url: '/markmaps/luat-TTATGTDB-2024',
+  // },
   {
     name: 'Quy định về tốc độ và khoảng cách an toàn (2023)',
-    url: '/vbpl/toc-do-khoang-cach-an-toan',
+    url: PATHS.vbpl.TOC_DO_KHOANG_CACH_2023,
     description: '',
-  },
-  {
-    name: 'VBPL liên quan đến giao thông đường bộ',
-    url: '/vbpl/danh-sach',
-    description: 'Tên, số hiệu, ngày ban hành, hiệu lực, nguồn, toàn văn...',
   },
 ]
 
 export const USEFUL_LINKS: HomepageLink[] = [
+  // {
+  //   name: 'Biển báo giao thông - Danh sách, Chi tiết',
+  //   url: '/bbgt',
+  //   description: 'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT',
+  //   tags: ['Danh sách', 'Chi tiết'],
+  // },
+  // {
+  //   name: 'Biển báo giao thông - So sánh',
+  //   url: '/bbgt-so-sanh',
+  //   description: 'Hiệu lực tác dụng',
+  //   tags: ['So sánh'],
+  // },
+  // {
+  //   name: 'Vạch kẻ đường',
+  //   url: '/vach-ke-duong',
+  //   description: 'Theo QCVN 41:2019/BGTVT',
+  //   tags: ['Danh sách', 'Chi tiết'],
+  // },
   {
-    name: 'Biển báo giao thông - Danh sách, Chi tiết',
-    url: '/bbgt',
-    description: 'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT',
-    tags: ['Danh sách', 'Chi tiết'],
-  },
-  {
-    name: 'Biển báo giao thông - So sánh',
-    url: '/bbgt-so-sanh',
-    description: 'Hiệu lực tác dụng',
-    tags: ['So sánh'],
-  },
-  {
-    name: 'Vạch kẻ đường',
-    url: '/vach-ke-duong',
-    description: 'Theo QCVN 41:2019/BGTVT',
-    tags: ['Danh sách', 'Chi tiết'],
-  },
-  {
-    name: 'Phương tiện tham gia giao thông - theo luật 2024',
-    url: '/markmaps/PTTGGT-2024',
+    name: 'Phân loại phương tiện TGGTĐB (Luật 2024)',
+    url: PATHS.markmaps.PTTGGT_2024,
     description: '',
     tags: ['Tóm tắt'],
   },
   {
-    name: 'Giấy phép lái xe (bằng lái xe)',
-    url: '/vbpl/giay-phep-lai-xe',
+    name: 'Giấy phép lái xe',
+    url: PATHS.vbplTongHop.GPLX,
     tags: ['Tổng hợp'],
-    description: 'Theo luật 2024 và luật 2008',
+    // description: 'Luật 2024 và luật 2008',
   },
   {
-    name: 'Thuật ngữ',
-    url: '/thuat-ngu',
-    description: 'Giải thích các từ ngữ sử dụng trong các VBPL',
+    name: 'Giải thích từ ngữ trong các VBPL',
+    url: PATHS.thuatNgu.ROOT,
   },
+  {
+    name: 'VBPL liên quan đến giao thông đường bộ',
+    url: PATHS.vbplTongHop.DANH_SACH,
+    // description: 'Tên, số hiệu, ngày ban hành, hiệu lực, nguồn, toàn văn...',
+  },
+  {
+    name: 'Phân loại phương tiện TGGTĐB (Luật 2008)',
+    url: PATHS.markmaps.PTTGGT_2008,
+    tags: ['Tóm tắt'],
+  },
+]
+
+export const EXPIRE_LAWS: HomepageLink[] = [
   {
     name: 'Luật Giao thông đường bộ (2008)',
-    url: '/vbpl/luat-GTDB-2008',
-    description: 'Đã hết hiệu lực',
-  },
-  {
-    name: 'Phương tiện tham gia giao thông - theo luật 2008',
-    url: '/markmaps/PTTGGT-2008',
-    description: '',
-    tags: ['Tóm tắt'],
+    url: PATHS.vbpl.LUAT_GT_2008,
   },
 ]
 
