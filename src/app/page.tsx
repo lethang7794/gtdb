@@ -21,9 +21,9 @@ export default async function Home() {
   return (
     <>
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
-        <div className="container pb-8">
+        <div className="container pb-8 px-4 md:px-8">
           <div className="grid gap-4">
-            <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
+            <div className="mt-4 grid grid-cols-2 sm:grid-cols-2 gap-4 rounded-lg text-center font-mono text-sm leading-6 font-bold text-white">
               <BaseLink
                 href={PATHS.vbpl.NGHI_DINH_168}
                 className="row-span-4 grid place-items-center gap-4 rounded-lg bg-red-600 p-4"
