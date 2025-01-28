@@ -1,0 +1,25 @@
+{
+  "jsxSingleQuote": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "plugins": [
+    "@ianvs/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^@/components/(.*)$",
+    "^@/constant/(.*)$",
+    "^@/helpers/(.*)$",
+    "^@/hooks/(.*)$",
+    "^@/lib/(.*)$",
+    "^@/model/(.*)$",
+    "^@/service/(.*)$",
+    "^@/style/(.*)$",
+    "^@/(.*)$",
+    "^[./]"
+  ]
+}
