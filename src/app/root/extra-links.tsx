@@ -39,7 +39,7 @@ export function ExtraLinks() {
                   </BaseLink>
                 </div>
                 {item.description ? (
-                  <div className="text-base italic text-gray-500">
+                  <div className="text-base text-gray-500 italic">
                     ({item.description})
                   </div>
                 ) : null}

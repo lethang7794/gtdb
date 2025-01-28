@@ -43,7 +43,7 @@ export default function RootLayout({
       <body
         className={cn(
           // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
-          'body-bg-markdown flex min-h-screen flex-col bg-background font-sans antialiased',
+          'body-bg-markdown bg-background flex min-h-screen flex-col font-sans antialiased',
           fontSans.variable
         )}
       >
