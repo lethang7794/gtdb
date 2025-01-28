@@ -1,12 +1,12 @@
 'use client'
 
-import { constants } from '@/constant'
-import { useToast } from '@/hooks/use-toast'
-import { copyToClipboard } from '@/lib/copy-to-clipboard'
-import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import type { ReactNode } from 'react'
 import React from 'react'
+import { useToast } from '@/hooks/use-toast'
+import { copyToClipboard } from '@/lib/copy-to-clipboard'
+import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
+import { constants } from '@/constant'
 
 const LAW_NAME = constants.laws.nghiDinh168.short_name
 

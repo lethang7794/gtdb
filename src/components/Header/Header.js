@@ -1,9 +1,7 @@
 import clsx from 'clsx'
 import { Rss } from 'react-feather'
-
 import Logo from '@/components/Logo'
 import VisuallyHidden from '@/components/VisuallyHidden'
-
 import styles from './Header.module.css'
 import { ThemeToggle } from './ThemeToggle'
 

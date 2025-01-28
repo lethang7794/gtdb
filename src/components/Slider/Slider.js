@@ -1,5 +1,4 @@
 import clsx from 'clsx'
-
 import styles from './Slider.module.css'
 
 function Slider({ className, ...delegated }) {

@@ -1,8 +1,8 @@
+import type { Metadata, ResolvingMetadata } from 'next'
+import { getToken } from '@/lib/crypto'
 import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { env } from '@/env.mjs'
-import { getToken } from '@/lib/crypto'
-import type { Metadata, ResolvingMetadata } from 'next'
 import './style.css'
 
 const LAW = constants.laws.luatGT2024.id

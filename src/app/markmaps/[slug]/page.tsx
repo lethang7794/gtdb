@@ -1,7 +1,6 @@
 import Markmap from '@/components/markmap'
 import { processStaticParams } from '@/lib/static-params'
 import { getMarkmapById, getMarkmaps } from '@/service/markmap'
-
 import { constants } from '@/constant'
 import styles from './slug.module.css'
 

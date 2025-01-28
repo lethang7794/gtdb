@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react'
 import {
   TooltipArrow,
   TooltipContent,
@@ -5,7 +6,6 @@ import {
   Tooltip as TooltipRoot,
   TooltipTrigger,
 } from '@/components/ui/tooltip'
-import type { ReactNode } from 'react'
 
 export function Tooltip({
   content,

@@ -1,8 +1,13 @@
 import type { MDXComponents } from 'mdx/types'
 import type { Route } from 'next'
 import dynamic from 'next/dynamic'
-
+import BaseLink from '@/components/base-link'
+import AA from '@/components/block/anchor-link-luat-gt-2024.server'
+import A from '@/components/block/anchor-link.server'
 import { CollapsibleSection } from '@/components/block/collapsible'
+import { Spinner } from '@/components/block/spinner'
+import RemarkTOCEffect from '@/components/effect/remark-toc'
+import RemarkTOCEffectLuatGT2024 from '@/components/effect/remark-toc-luat-gt-2024'
 import { DocumentEnding } from '@/components/mdx/document-ending'
 import { DocumentHeading } from '@/components/mdx/document-heading'
 
@@ -23,13 +28,6 @@ const ShareButton = dynamic(() => import('@/components/block/share-button'))
 const ShareButtonWrapper = dynamic(() =>
   import('@/components/block/share-button').then((m) => m.ShareButtonWrapper)
 )
-
-import BaseLink from '@/components/base-link'
-import AA from '@/components/block/anchor-link-luat-gt-2024.server'
-import A from '@/components/block/anchor-link.server'
-import { Spinner } from '@/components/block/spinner'
-import RemarkTOCEffect from '@/components/effect/remark-toc'
-import RemarkTOCEffectLuatGT2024 from '@/components/effect/remark-toc-luat-gt-2024'
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {

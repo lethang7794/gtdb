@@ -1,8 +1,8 @@
+import type { Metadata, ResolvingMetadata } from 'next'
+import { getToken } from '@/lib/crypto'
 import { constants } from '@/constant'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { env } from '@/env.mjs'
-import { getToken } from '@/lib/crypto'
-import type { Metadata, ResolvingMetadata } from 'next'
 import './style.css'
 
 type Props = {

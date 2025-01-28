@@ -1,5 +1,5 @@
-import type { Glossary } from '@/model/Glossary'
 import file from '@data/glossaries.yaml'
+import type { Glossary } from '@/model/Glossary'
 
 export const getGlossaries = async () => {
   return (file.data || []) as Glossary[]

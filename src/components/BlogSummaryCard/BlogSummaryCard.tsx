@@ -1,9 +1,7 @@
 import Link from 'next/link'
-
 import Card from '@/components/Card'
 import { MARKMAPS_PATH } from '@/constant/path'
 import { getHumanizedDate } from '@/helpers/date-helpers'
-
 import styles from './BlogSummaryCard.module.css'
 
 type BlogSummaryCardProps = {

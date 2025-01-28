@@ -1,8 +1,8 @@
+import type { MDXRemoteSerializeResult } from 'next-mdx-remote'
+import { MDXRemote } from 'next-mdx-remote/rsc'
 import { GITHUB_MARKDOWN_CSS_CLASS } from '@/constant/github-markdown-css'
 import '@/style/github-markdown-custom.css'
 import '@/style/github-markdown.css'
-import type { MDXRemoteSerializeResult } from 'next-mdx-remote'
-import { MDXRemote } from 'next-mdx-remote/rsc'
 
 export function MDX({
   mdxSource,

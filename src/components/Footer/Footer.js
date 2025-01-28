@@ -1,7 +1,5 @@
 import Link from 'next/link'
-
 import Logo from '@/components/Logo'
-
 import DecorativeSwoops from './DecorativeSwoops'
 import styles from './Footer.module.css'
 

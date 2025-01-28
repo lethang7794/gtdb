@@ -1,12 +1,12 @@
-import { constants } from '@/constant'
-import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import type { Metadata, ResolvingMetadata } from 'next'
+import Link from 'next/link'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
-import type { Metadata, ResolvingMetadata } from 'next'
-import Link from 'next/link'
+import { constants } from '@/constant'
+import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
+import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 import '../style.css'
 
 type Props = {

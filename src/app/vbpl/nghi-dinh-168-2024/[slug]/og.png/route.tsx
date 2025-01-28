@@ -1,12 +1,12 @@
+import { ImageResponse } from 'next/og'
 import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { NghiDinh168PreviewRoot } from '@/components/block/nghi-dinh-168-preview-root'
-import { constants } from '@/constant'
-import { env } from '@/env.mjs'
 import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-detail'
 import { processStaticParams } from '@/lib/static-params'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
 import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
-import { ImageResponse } from 'next/og'
+import { constants } from '@/constant'
+import { env } from '@/env.mjs'
 
 export async function generateStaticParams() {
   const items = await getND168s()

@@ -1,7 +1,7 @@
+import type { Metadata } from 'next'
 import BaseLink from '@/components/base-link'
 import { Logo } from '@/components/block/logo'
 import { env } from '@/env.mjs'
-import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Nội dung',

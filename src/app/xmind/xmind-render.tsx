@@ -1,8 +1,8 @@
 'use client'
 
-import { LoadingSpinner } from '@/components/ui/loading-spinner'
 import { useEffect, useRef, useState } from 'react'
 import { XMindEmbedViewer } from 'xmind-embed-viewer'
+import { LoadingSpinner } from '@/components/ui/loading-spinner'
 
 const EXAMPLE_XMIND_URL = '' // TODO
 

@@ -4,10 +4,8 @@ import clsx from 'clsx'
 import { LayoutGroup, motion } from 'framer-motion'
 import React from 'react'
 import { Pause, Play, RotateCcw } from 'react-feather'
-
 import Card from '@/components/Card'
 import VisuallyHidden from '@/components/VisuallyHidden'
-
 import styles from './CircularColorsDemo.module.css'
 
 const COLORS = [

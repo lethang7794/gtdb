@@ -1,6 +1,5 @@
-import { constants } from '@/constant'
-import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import type { Metadata, ResolvingMetadata } from 'next'
+import Link from 'next/link'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
@@ -8,8 +7,9 @@ import {
   getLuatGT2024ById,
   getLuatGT2024s,
 } from '@/service/luat-giao-thong-2024'
-import type { Metadata, ResolvingMetadata } from 'next'
-import Link from 'next/link'
+import { constants } from '@/constant'
+import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
+import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 import '../style.css'
 
 const LAW = constants.laws.luatGT2024

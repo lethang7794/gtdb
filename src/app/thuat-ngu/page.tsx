@@ -1,13 +1,12 @@
+import { CaretSortIcon } from '@radix-ui/react-icons'
+import type { Metadata } from 'next'
+import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
 } from '@/components/ui/collapsible'
-import { CaretSortIcon } from '@radix-ui/react-icons'
-import type { Metadata } from 'next'
-
-import { Badge } from '@/components/ui/badge'
 import { cn } from '@/lib/utils'
 import { getGlossaries } from '@/service/glossary'
 

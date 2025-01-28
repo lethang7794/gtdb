@@ -1,7 +1,5 @@
 import Link from 'next/link'
-
 import { BLOG_TITLE } from '@/constants'
-
 import styles from './Logo.module.css'
 
 function Logo({ mobileAlignment = 'left' }) {

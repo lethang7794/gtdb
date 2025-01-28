@@ -1,6 +1,5 @@
 import BlogSummaryCard from '@/components/BlogSummaryCard'
 import { getMarkmaps } from '@/service/markmap'
-
 import styles from './homepage.module.css'
 
 export const metadata = {

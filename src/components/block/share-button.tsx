@@ -1,9 +1,9 @@
 'use client'
 
+import { Share } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 import { cn } from '@/lib/utils'
-import { Share } from 'lucide-react'
 
 export default function ShareButton({
   path,

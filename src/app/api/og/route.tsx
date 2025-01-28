@@ -1,15 +1,15 @@
+import { ImageResponse } from 'next/og'
 import { LawSectionPreview } from '@/components/block/law-section-preview'
 import { LuatGT2024PreviewRoot } from '@/components/block/luat-gt-2024-preview-root'
 import { NghiDinh168PreviewRoot } from '@/components/block/nghi-dinh-168-preview-root'
-import { constants } from '@/constant'
-import { isDev } from '@/env.mjs'
 import { key, toHex } from '@/lib/crypto'
 import { luatGT2024SectionExplainComponents } from '@/lib/luat-gt-2024-section-explain-detail'
 import { nd168SectionExplainComponents } from '@/lib/nd-168-section-explain-detail'
 import { isSectionZero } from '@/lib/vbpl-explain-section'
 import { getLuatGT2024ById } from '@/service/luat-giao-thong-2024'
 import { getND168ById } from '@/service/nghi-dinh-168'
-import { ImageResponse } from 'next/og'
+import { constants } from '@/constant'
+import { isDev } from '@/env.mjs'
 
 // export const runtime: ServerRuntime = 'edge'
 // export const preferredRegion = ['sin1']

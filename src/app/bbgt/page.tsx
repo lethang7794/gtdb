@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-
 import BaseLink from '@/components/base-link'
 import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
 

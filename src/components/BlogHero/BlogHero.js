@@ -1,7 +1,5 @@
 import clsx from 'clsx'
-
 import { getHumanizedDate } from '@/helpers/date-helpers'
-
 import styles from './BlogHero.module.css'
 
 function BlogHero({ title, publishedOn, className, ...delegated }) {
