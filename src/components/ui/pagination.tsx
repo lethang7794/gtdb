@@ -1,9 +1,9 @@
+import * as React from 'react'
 import {
   ChevronLeftIcon,
   ChevronRightIcon,
   DotsHorizontalIcon,
 } from '@radix-ui/react-icons'
-import * as React from 'react'
 import { buttonVariants, type ButtonProps } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 

@@ -1,7 +1,7 @@
-import { ExternalLink } from 'lucide-react'
 import type { Route } from 'next'
-import Link from 'next/link'
 import type { PropsWithChildren } from 'react'
+import { ExternalLink } from 'lucide-react'
+import Link from 'next/link'
 import { env } from '@/env.mjs'
 
 export interface IBaseLinkProps extends PropsWithChildren {

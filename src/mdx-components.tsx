@@ -1,5 +1,5 @@
-import type { MDXComponents } from 'mdx/types'
 import type { Route } from 'next'
+import type { MDXComponents } from 'mdx/types'
 import dynamic from 'next/dynamic'
 import BaseLink from '@/components/base-link'
 import AA from '@/components/block/anchor-link-luat-gt-2024.server'

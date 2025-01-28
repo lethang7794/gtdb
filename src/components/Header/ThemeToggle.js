@@ -1,7 +1,7 @@
 'use client'
 
-import Cookies from 'js-cookie'
 import React from 'react'
+import Cookies from 'js-cookie'
 import { Moon, Sun } from 'react-feather'
 import VisuallyHidden from '@/components/VisuallyHidden'
 import { DARK_TOKENS, LIGHT_TOKENS } from '@/constants'
