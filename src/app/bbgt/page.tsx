@@ -31,7 +31,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,_1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,_1fr))]">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
         {entries?.map(([signKey, sign]) => {
           const imgUrl = getRoadSignImage(sign)
 
@@ -46,14 +46,14 @@ export default async function Home() {
                   alt={signKey}
                   src={imgUrl}
                   fill={true}
-                  // placeholder="blur"
+                  // placeholder="blur-sm"
                   className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                 />
               </div>
               <div className="line-clamp-3 text-balance text-center leading-5">
                 {sign.name}
               </div>
-              <div className="flex-grow" />
+              <div className="grow" />
               <div className="self-end text-xs italic text-gray-500">
                 {signKey}
               </div>

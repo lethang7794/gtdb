@@ -75,7 +75,7 @@ export default async function LuatTTATGTDB2024Page({
     return (
       <div className="flex flex-col items-center">
         <Link href={`${PAGE_PATH}#${section}`} className="w-full">
-          <div className="relative aspect-[1200/630] w-full">
+          <div className="relative aspect-1200/630 w-full">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
@@ -85,7 +85,7 @@ export default async function LuatTTATGTDB2024Page({
           </div>
         </Link>
         <Link href={`${PAGE_PATH}#${section}`} className="mx-auto">
-          <h2 className="!border-b-0">
+          <h2 className="border-b-0!">
             Toàn văn <i>{sectionName}</i>
           </h2>
         </Link>

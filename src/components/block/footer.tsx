@@ -5,8 +5,8 @@ import { env } from '@/env.mjs'
 
 export function Footer() {
   return (
-    <footer className="border-t bg-white shadow dark:bg-gray-900">
-      <div className="mx-auto w-full max-w-screen-xl p-4 px-6 lg:px-8">
+    <footer className="border-t bg-white shadow-sm dark:bg-gray-900">
+      <div className="mx-auto w-full max-w-(--breakpoint-xl) p-4 px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <BaseLink
             href="/"

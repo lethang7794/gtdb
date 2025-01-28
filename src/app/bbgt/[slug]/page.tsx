@@ -115,7 +115,7 @@ export default async function RoadSignPage({ params }: Props) {
         </div>
         <div className="text-balance text-center leading-5">{sign.name}</div>
         <br />
-        <div className="flex-grow" />
+        <div className="grow" />
         <div className="flex flex-col">
           {/* <div className="text-balance text-center leading-5">
             {sign.docs_name}

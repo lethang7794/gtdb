@@ -28,7 +28,7 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,_1fr))] justify-between gap-4 lg:grid-cols-[repeat(auto-fill,minmax(200px,_1fr))]">
+      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] justify-between gap-4 lg:grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
         {entries?.map(([key, val]) => {
           const imgUrl = getMarkingImage(val)
 
@@ -51,7 +51,7 @@ export default async function Home() {
               <div className="text-balance text-center text-sm leading-5">
                 {val.full_name}
               </div>
-              <div className="flex-grow" />
+              <div className="grow" />
               <div className="self-end text-xs italic text-gray-500">{key}</div>
             </Link>
           )

@@ -148,7 +148,7 @@ export default async function GioiThieuPage() {
                 ...có thể tương tác
                 <div className="ml-8 mt-4 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative mb-0 mr-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
+                    <div className="relative mb-0 mr-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
@@ -162,7 +162,7 @@ export default async function GioiThieuPage() {
                 Mục lục chi tiết
                 <div className="ml-8 mt-4 flex justify-start">
                   <div className="relative w-96">
-                    <div className="relative mb-0 mr-0 aspect-[1/1] overflow-hidden rounded-[32px] border-2">
+                    <div className="relative mb-0 mr-0 aspect-1/1 overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
                         src="/assets/showcase/tom-tat-muc-luc.png"
@@ -321,7 +321,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="ml-8 mt-4 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative mb-0 mr-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
+                  <div className="relative mb-0 mr-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-trong-mot-not-nhac.png"
@@ -337,7 +337,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="ml-8 mt-4 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative mb-0 mr-0 aspect-[2/1] overflow-hidden rounded-[32px] border-2">
+                  <div className="relative mb-0 mr-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-den-dung-diem.png"
@@ -353,7 +353,7 @@ export default async function GioiThieuPage() {
               </div>
               <div className="ml-8 mt-4 flex justify-start">
                 <div className="relative w-96">
-                  <div className="relative mb-0 mr-0 aspect-[1200/630] overflow-hidden rounded-[32px] border-2">
+                  <div className="relative mb-0 mr-0 aspect-1200/630 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
                       src="/assets/showcase/chia-se-xem-truoc.png"

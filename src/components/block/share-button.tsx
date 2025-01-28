@@ -37,7 +37,7 @@ export default function ShareButton({
           })
         }
       }}
-      className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-sm"
+      className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-xs"
     >
       <Share color="black" />
     </button>

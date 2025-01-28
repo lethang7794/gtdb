@@ -52,7 +52,7 @@ export default async function MarkingPage({
   return (
     <div
       key={slug}
-      className="flex flex-grow flex-col items-center justify-start rounded-md border px-3 py-2"
+      className="flex grow flex-col items-center justify-start rounded-md border px-3 py-2"
     >
       <div className="flex w-full max-w-96 gap-4">
         {marking.image ? (

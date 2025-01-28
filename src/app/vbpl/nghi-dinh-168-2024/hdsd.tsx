@@ -14,7 +14,7 @@ export default function NghiDinh168HDSD() {
     <div className="fixed bottom-2 right-2 z-20 flex">
       <Dialog>
         <DialogTrigger>
-          <div className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-sm">
+          <div className="hover:border-gray rounded-md border-2 bg-white p-2 opacity-100 shadow-xs">
             <CircleHelp color="black" />
           </div>
         </DialogTrigger>
@@ -55,7 +55,7 @@ export default function NghiDinh168HDSD() {
                   </div>
                   <div className="ml-3">- Sử dụng mục lục.</div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[288/97] w-full">
+                    <div className="relative aspect-288/97 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-muc-luc.png"
@@ -74,7 +74,7 @@ export default function NghiDinh168HDSD() {
                     chia sẻ để hiện biểu tượng chia sẻ.
                   </div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[289/55] w-full">
+                    <div className="relative aspect-289/55 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se.png"
@@ -88,7 +88,7 @@ export default function NghiDinh168HDSD() {
                     đó.
                   </div>
                   <div className="ml-7 mr-4">
-                    <div className="relative aspect-[289/81] w-full">
+                    <div className="relative aspect-289/81 w-full">
                       <Image
                         fill
                         src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se-da-sao-chep.png"
