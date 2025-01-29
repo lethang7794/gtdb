@@ -1,7 +1,8 @@
-import type { Metadata } from 'next'
-import Image from 'next/image'
-import Link from 'next/link'
+import type { Metadata } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
 import BaseLink from '@/components/base-link'
+import { cn } from '@/lib/utils'
 import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
 
 export const metadata: Metadata = {
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
     'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }
 
-export default async function Home() {
+export default async function BbgtPage() {
   const entries = await getRoadSignsArray()
   // const firstTen = entries.slice(0, 30)
 
@@ -31,7 +32,12 @@ export default async function Home() {
         )
       </p>
 
-      <div className="mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
+      <div
+        className={cn(
+          'mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]',
+          styles.layout
+        )}
+      >
         {entries?.map(([signKey, sign]) => {
           const imgUrl = getRoadSignImage(sign)
 
@@ -50,7 +56,7 @@ export default async function Home() {
                   className="order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                 />
               </div>
-              <div className="line-clamp-3 text-center leading-5 text-balance">
+              <div className="line-clamp-3 text-center leading-5 text-balance text-gray-500">
                 {sign.name}
               </div>
               <div className="grow" />
