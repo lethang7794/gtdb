@@ -69,13 +69,13 @@ export function ListOptions({ children }: ListOptionsProps) {
   return (
     <>
       <div className="mt-4 flex items-center">
-        Bố cục:
+        Hiển thị:
         <div
           onClick={(e) => {
             handleChangeLayoutState(searchParams, 'one-col')
           }}
           className={cn(
-            'ml-2 flex gap-1 border p-3',
+            'ml-2 flex flex-wrap justify-center gap-1 border p-3',
             layout === 'one-col' && 'bg-gray-500 text-white'
           )}
         >
@@ -86,7 +86,7 @@ export function ListOptions({ children }: ListOptionsProps) {
             handleChangeLayoutState(searchParams, 'less-cols')
           }}
           className={cn(
-            'flex gap-1 border border-l-0 p-3',
+            'flex flex-wrap justify-center gap-1 border border-l-0 p-3',
             layout === 'less-cols' && 'bg-gray-500 text-white'
           )}
         >
@@ -98,7 +98,7 @@ export function ListOptions({ children }: ListOptionsProps) {
             handleChangeLayoutState(searchParams, 'more-cols')
           }}
           className={cn(
-            'flex gap-1 border border-l-0 p-3',
+            'flex flex-wrap justify-center gap-1 border border-l-0 p-3',
             layout === 'more-cols' && 'bg-gray-500 text-white'
           )}
         >

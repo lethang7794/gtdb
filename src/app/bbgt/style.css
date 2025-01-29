@@ -3,9 +3,33 @@
     grid-template-columns: 1fr;
   }
 
+  .bbgt {
+    flex-direction: row;
+    position: relative;
+  }
+
   .bbgt-image-wrapper {
-    max-width: 300px;
-    aspect-ratio: 16/9;
+    width: 140px;
+    flex-shrink: 0;
+    aspect-ratio: 1/1;
+  }
+
+  .bbgt-image {
+    object-position: center;
+  }
+
+  .bbgt-description {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 12px;
+    line-clamp: 5;
+    -webkit-line-clamp: 5;
+  }
+
+  .bbgt-name {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
   }
 }
 
