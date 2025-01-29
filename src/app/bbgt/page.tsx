@@ -12,7 +12,7 @@ import styles from './style.css'
 export const metadata: Metadata = {
   title: 'Biển báo giao thông',
   description:
-    'Tất cả biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
+    '398 biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }
 
 export default async function BbgtPage() {
@@ -39,16 +39,11 @@ export default async function BbgtPage() {
 
       <div
         id="layout-wrapper"
-        className={cn('more-cols opacity-0', styles.layoutWrapper)}
+        className={cn('more-cols opacity-0', styles.layout)}
       >
         <Suspense>
           <ListOptions>
-            <div
-              className={cn(
-                'layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]',
-                styles.layout
-              )}
-            >
+            <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
               {entries?.map(([signKey, sign]) => {
                 const imgUrl = getRoadSignImage(sign)
                 return (
@@ -62,7 +57,6 @@ export default async function BbgtPage() {
                         alt={signKey}
                         src={imgUrl}
                         fill={true}
-                        // placeholder="blur-sm"
                         className="item-image order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
                       />
                     </div>
