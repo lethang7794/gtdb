@@ -36,7 +36,7 @@ export function ListOptions({ children }: ListOptionsProps) {
       searchParams: ReadonlyURLSearchParams,
       layout: string = ''
     ) => {
-      const wrapper = document.getElementById('bbgt-layout-wrapper')
+      const wrapper = document.getElementById('layout-wrapper')
       if (!wrapper) {
         return
       }

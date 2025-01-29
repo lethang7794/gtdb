@@ -3,22 +3,22 @@
     grid-template-columns: 1fr;
   }
 
-  .bbgt {
+  .item {
     flex-direction: row;
     position: relative;
   }
 
-  .bbgt-image-wrapper {
+  .item-image-wrapper {
     width: 140px;
     flex-shrink: 0;
     aspect-ratio: 1/1;
   }
 
-  .bbgt-image {
+  .item-image {
     object-position: center;
   }
 
-  .bbgt-description {
+  .item-description {
     font-size: 16px;
     text-align: left;
     margin-left: 12px;
@@ -26,7 +26,7 @@
     -webkit-line-clamp: 5;
   }
 
-  .bbgt-name {
+  .item-name {
     position: absolute;
     right: 8px;
     bottom: 8px;
@@ -51,19 +51,19 @@
     grid-template-columns: repeat(auto-fill, minmax(56px, 1fr));
   }
 
-  .bbgt {
+  .item {
     padding: 2px;
   }
 
-  .bbgt-image {
+  .item-image {
     object-position: center;
   }
 
-  .bbgt-description {
+  .item-description {
     display: none;
   }
 
-  .bbgt-name {
+  .item-name {
     display: none;
   }
 }
