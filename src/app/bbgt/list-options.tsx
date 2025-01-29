@@ -14,7 +14,11 @@ type PostsSearchProps = {
   placeholder: string
 }
 
-export function ListOptions() {
+type ListOptionsProps = {
+  children?: React.ReactNode
+}
+
+export function ListOptions({ children }: ListOptionsProps) {
   const searchParams = useSearchParams()
   const pathname = usePathname()
   const { replace } = useRouter()
@@ -30,17 +34,12 @@ export function ListOptions() {
       searchParams: ReadonlyURLSearchParams,
       layout: string = ''
     ) => {
-      const el = document.getElementById('bbgt-layout')
-      if (!el) {
-        return
-      }
-
       const wrapper = document.getElementById('bbgt-layout-wrapper')
       if (!wrapper) {
         return
       }
       wrapper.className = layout
-      wrapper.classList.remove("hidden")
+      wrapper.classList.remove('opacity-0')
     }
 
     handleChangeLayout(searchParams, layout)
@@ -89,6 +88,7 @@ export function ListOptions() {
       >
         Big
       </div>
+      {children}
     </>
   )
 }
