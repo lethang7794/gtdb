@@ -1,26 +1,25 @@
 import data from '@data/signs.yaml'
-import { unstable_cache } from 'next/cache'
 import type { RoadSign } from '@/model/RoadSign'
 
 const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
 
-export const getRoadSigns = unstable_cache(async () => {
+export const getRoadSigns = (async () => {
   return data as Record<string, RoadSign>
 })
 
-export const getRoadSignsArray = unstable_cache(async () => {
+export const getRoadSignsArray = (async () => {
   const items = await getRoadSigns()
   return Object.entries(items)
 })
 
-export const getRoadSignById = unstable_cache(
+export const getRoadSignById = (
   async (id: string): Promise<RoadSign | undefined> => {
     const items = await getRoadSigns()
     return items[id]
   }
 )
 
-export const getRoadSignsWithAroundById = unstable_cache(
+export const getRoadSignsWithAroundById = (
   async (
     id: string
   ): Promise<

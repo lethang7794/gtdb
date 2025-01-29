@@ -25,7 +25,7 @@ export default async function BbgtPage() {
       </h1>
 
       <p className="text-center text-2xl text-gray-500">
-        (Bao gồm tất cả biển báo theo QCVN 41:2019/BGTVT
+        (398 biển báo theo QCVN 41:2019/BGTVT
         {/* -{' '} */}
         {/* <BaseLink
           href={'/vbpl/danh-sach'}
