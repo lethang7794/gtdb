@@ -1,4 +1,7 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata, ResolvingMetadata } from 'next';
+import Image from 'next/image'
+import Link from 'next/link'
+import { CircleArrowLeft, CircleArrowRight, Undo2 } from 'lucide-react'
 import { processStaticParams } from '@/lib/static-params'
 import {
   getRoadSignById,
@@ -8,8 +11,6 @@ import {
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
 import '@/style/github-markdown-road-sign.css'
-import Image from 'next/image'
-import Link from 'next/link'
 import { MDX } from '@/components/mdx/mdx'
 import { constants } from '@/constant'
 
@@ -66,23 +67,15 @@ export default async function RoadSignPage({ params }: Props) {
       key={slug}
       className="mt-4 mb-4 flex flex-col items-center justify-start rounded-md px-3 py-2"
     >
-      <Link
-        className="mb-4 self-start text-blue-600 hover:underline dark:text-blue-500"
-        href={'/bbgt/'}
-        scroll={false}
-      >
-        <div className="flex min-h-10 min-w-24 items-center">
-          🔙 Danh sách biển báo
-        </div>
-      </Link>
       <div className="flex w-full justify-between">
         {prevSignKey ? (
           <Link
             className="min-h-10 min-w-24 text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${prevSignKey}`}
           >
-            <div className="flex min-h-10 min-w-24 items-center">
-              ← {prevSignKey}
+            <div className="flex min-h-10 min-w-24 items-center justify-start gap-2">
+              <CircleArrowLeft />{' '}
+              <span className="text-gray-500">{prevSignKey}</span>
             </div>
           </Link>
         ) : (
@@ -96,8 +89,9 @@ export default async function RoadSignPage({ params }: Props) {
             className="min-h-10 min-w-24 text-right text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${nextSignKey}`}
           >
-            <div className="flex min-h-10 min-w-24 items-center">
-              {nextSignKey} →
+            <div className="flex min-h-10 min-w-24 items-center justify-end gap-2">
+              <span className="text-gray-500">{nextSignKey}</span>{' '}
+              <CircleArrowRight />
             </div>
           </Link>
         ) : (
@@ -130,6 +124,19 @@ export default async function RoadSignPage({ params }: Props) {
           {/* <div className="whitespace-pre-wrap text-justify">{sign.docs}</div> */}
         </div>
       </div>
+      <Link
+        className="mb-4 flex items-center gap-2 text-blue-600 hover:underline dark:text-blue-500"
+        href={'/bbgt/'}
+        scroll={false}
+      >
+        {/* <div className="flex min-h-10 min-w-24 items-center">
+          🔙 Danh sách biển báo
+        </div> */}
+        <div className="w-min rounded-full bg-neutral-800 p-2">
+          <Undo2 className="text-white" />
+        </div>
+        <div className="text-gray-500">Trở về danh sách biển báo</div>
+      </Link>
     </div>
   )
 }
