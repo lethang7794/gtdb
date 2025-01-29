@@ -27,7 +27,7 @@ type Props = {
 export async function generateMetadata(
   { params }: Props,
   parent: ResolvingMetadata
-): Promise {
+): Promise<Metadata> {
   const slug = params.slug
   const decodedSlug = slug.replace(/%2C/g, ',')
   const sign = await getRoadSignById(decodedSlug)
