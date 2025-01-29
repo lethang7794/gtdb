@@ -38,7 +38,10 @@ export default async function BbgtPage() {
 
       <ListOptions />
 
-      <div id="bbgt-layout-wrapper" className={styles.layoutWrapper}>
+      <div
+        id="bbgt-layout-wrapper"
+        className={cn('more-cols hidden', styles.layoutWrapper)}
+      >
         <div
           id="bbgt-layout"
           className={cn(
