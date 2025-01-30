@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
-import Link from 'next/link'
 import { Suspense } from 'react'
 import { ChevronRight } from 'lucide-react'
 import BaseLink from '@/components/base-link'
@@ -47,7 +46,7 @@ export default async function BbgtPage() {
               {entries?.map(([signKey, sign]) => {
                 const imgUrl = getRoadSignImage(sign)
                 return (
-                  <Link
+                  <BaseLink
                     href={`/bbgt/${signKey}`}
                     key={signKey}
                     className="item flex flex-col items-center justify-start rounded-md border px-3 py-2"
@@ -68,7 +67,7 @@ export default async function BbgtPage() {
                       {signKey}
                       <ChevronRight className="inline-block h-[1.25em] w-[1.25em] align-bottom" />
                     </div>
-                  </Link>
+                  </BaseLink>
                 )
               })}
             </div>

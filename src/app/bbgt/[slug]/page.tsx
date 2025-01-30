@@ -1,6 +1,5 @@
 import type { Metadata, ResolvingMetadata } from 'next';
 import Image from 'next/image'
-import Link from 'next/link'
 import { CircleArrowLeft, CircleArrowRight, Undo2 } from 'lucide-react'
 import { processStaticParams } from '@/lib/static-params'
 import {
@@ -13,6 +12,7 @@ import {
 import '@/style/github-markdown-road-sign.css'
 import { MDX } from '@/components/mdx/mdx'
 import { constants } from '@/constant'
+import BaseLink from '@/components/base-link';
 
 export async function generateStaticParams() {
   const roadSigns = await getRoadSignsArray()
@@ -69,7 +69,7 @@ export default async function RoadSignPage({ params }: Props) {
     >
       <div className="flex w-full justify-between">
         {prevSignKey ? (
-          <Link
+          <BaseLink
             className="min-h-10 min-w-24 text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${prevSignKey}`}
           >
@@ -77,7 +77,7 @@ export default async function RoadSignPage({ params }: Props) {
               <CircleArrowLeft />{' '}
               <span className="text-gray-500">{prevSignKey}</span>
             </div>
-          </Link>
+          </BaseLink>
         ) : (
           <div className="min-h-10 min-w-24" />
         )}
@@ -85,7 +85,7 @@ export default async function RoadSignPage({ params }: Props) {
           {decodedSlug}
         </div>
         {nextSignKey ? (
-          <Link
+          <BaseLink
             className="min-h-10 min-w-24 text-right text-blue-600 hover:underline dark:text-blue-500"
             href={`/bbgt/${nextSignKey}`}
           >
@@ -93,7 +93,7 @@ export default async function RoadSignPage({ params }: Props) {
               <span className="text-gray-500">{nextSignKey}</span>{' '}
               <CircleArrowRight />
             </div>
-          </Link>
+          </BaseLink>
         ) : (
           <div className="min-h-10 min-w-24" />
         )}
@@ -124,10 +124,9 @@ export default async function RoadSignPage({ params }: Props) {
           {/* <div className="whitespace-pre-wrap text-justify">{sign.docs}</div> */}
         </div>
       </div>
-      <Link
+      <BaseLink
         className="mb-4 flex items-center gap-2 text-blue-600 hover:underline dark:text-blue-500"
         href={'/bbgt/'}
-        scroll={false}
       >
         {/* <div className="flex min-h-10 min-w-24 items-center">
           🔙 Danh sách biển báo
@@ -136,7 +135,7 @@ export default async function RoadSignPage({ params }: Props) {
           <Undo2 className="text-white" />
         </div>
         <div className="text-gray-500">Trở về danh sách biển báo</div>
-      </Link>
+      </BaseLink>
     </div>
   )
 }

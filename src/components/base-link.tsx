@@ -1,7 +1,7 @@
 import type { Route } from 'next'
+import Link from 'next/link'
 import type { PropsWithChildren } from 'react'
 import { ExternalLink } from 'lucide-react'
-import Link from 'next/link'
 import { env } from '@/env.mjs'
 
 export interface IBaseLinkProps extends PropsWithChildren {
@@ -86,7 +86,11 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
           </a>
         </>
       ) : (
-        <Link href={href} prefetch={false} {...newLinkProps}>
+        <Link
+          href={href}
+          prefetch={env.NEXT_PUBLIC_LINK_PREFETCH === 'true'}
+          {...newLinkProps}
+        >
           {children}
         </Link>
       )}

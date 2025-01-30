@@ -1,5 +1,5 @@
-import Link from 'next/link'
 import Card from '@/components/Card'
+import BaseLink from '@/components/base-link'
 import { MARKMAPS_PATH } from '@/constant/path'
 import { getHumanizedDate } from '@/helpers/date-helpers'
 import styles from './BlogSummaryCard.module.css'
@@ -22,9 +22,9 @@ function BlogSummaryCard({
 
   return (
     <Card className={styles.wrapper}>
-      <Link href={href} className={styles.title}>
+      <BaseLink href={href} className={styles.title}>
         {title} <span className={styles.arrow}>→</span>
-      </Link>
+      </BaseLink>
       <time dateTime={publishedOn}>{humanizedDate}</time>
       {/* <p>
         {abstract}{' '}
