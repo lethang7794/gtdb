@@ -1,5 +1,4 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import Link from 'next/link'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
@@ -11,6 +10,7 @@ import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 import '../style.css'
+import BaseLink from '@/components/base-link'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
@@ -74,7 +74,7 @@ export default async function LuatTTATGTDB2024Page({
     const sectionName = `${sectionExplain} ${LAW.short_name}`
     return (
       <div className="flex flex-col items-center">
-        <Link href={`${PAGE_PATH}#${section}`} className="w-full">
+        <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
           <div className="relative aspect-1200/630 w-full">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
@@ -83,12 +83,12 @@ export default async function LuatTTATGTDB2024Page({
               className="w-full object-contain"
             />
           </div>
-        </Link>
-        <Link href={`${PAGE_PATH}#${section}`} className="mx-auto">
+        </BaseLink>
+        <BaseLink href={`${PAGE_PATH}#${section}`} className="mx-auto">
           <h2 className="border-b-0!">
             Toàn văn <i>{sectionName}</i>
           </h2>
-        </Link>
+        </BaseLink>
       </div>
     )
   }

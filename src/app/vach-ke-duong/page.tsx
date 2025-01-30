@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
-import Link from 'next/link'
 import { Suspense } from 'react'
 import { ChevronRight } from 'lucide-react'
 import BaseLink from '@/components/base-link'
@@ -45,7 +44,7 @@ export default async function Home() {
                 const imgUrl = getMarkingImage(val)
 
                 return (
-                  <Link
+                  <BaseLink
                     href={`vach-ke-duong/${key}`}
                     key={key}
                     className="flex flex-col rounded-md border px-3 py-2"
@@ -70,7 +69,7 @@ export default async function Home() {
                       Vạch {key}
                       <ChevronRight className="inline-block h-[1.25em] w-[1.25em] align-bottom" />
                     </div>
-                  </Link>
+                  </BaseLink>
                 )
               })}
             </div>
