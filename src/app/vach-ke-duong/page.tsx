@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 }
 
 export default async function Home() {
-  const entries = await getMarkingsArray()
+  const items = await getMarkingsArray()
 
   return (
     <main className="flex h-full flex-col justify-between p-6 md:p-8">
@@ -41,14 +41,14 @@ export default async function Home() {
         <Suspense>
           <ListOptions>
             <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
-              {entries?.map(([key, val]) => {
-                const imgUrl = getMarkingImage(val)
+              {items?.map((item) => {
+                const imgUrl = getMarkingImage(item)
 
-                if (val.type === 'group') {
-                  return <MarkingGroup key={key} item={val} />
+                if (item.type === 'group') {
+                  return <MarkingGroup key={item.id} item={item} />
                 }
 
-                return <MarkingItem imgUrl={imgUrl} key={key} item={val} />
+                return <MarkingItem imgUrl={imgUrl} key={item.id} item={item} />
               })}
             </div>
           </ListOptions>
@@ -71,24 +71,22 @@ function MarkingGroup({ item }: { item: Marking }) {
 
 function MarkingItem({
   imgUrl,
-  key: id,
   item,
 }: {
   imgUrl: string
-  key: string
   item: Marking
 }) {
   return (
     <BaseLink
-      href={`vach-ke-duong/${id}`}
-      key={id}
+      href={`vach-ke-duong/${item.id}`}
+      key={item.id}
       className="flex flex-col rounded-md border px-3 py-2"
     >
       <div className="item flex flex-col items-center justify-start">
         {item.image ? (
           <div className="item-image-wrapper relative aspect-video w-full">
             <Image
-              alt={id}
+              alt={item.id}
               src={imgUrl}
               fill={true}
               className="item-image order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
@@ -101,7 +99,7 @@ function MarkingItem({
       </div>
       <div className="grow" />
       <div className="item-name mt-2 flex items-center justify-end gap-1 self-end text-end text-xs text-gray-500 italic">
-        Vạch {id}
+        Vạch {item.id}
         <ChevronRight className="inline-block h-[1.25em] w-[1.25em] align-bottom" />
       </div>
     </BaseLink>
