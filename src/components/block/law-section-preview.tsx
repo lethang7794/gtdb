@@ -9,6 +9,7 @@ import {
 } from '@/lib/vbpl-explain-section'
 import type { TrafficLight } from '@/model/TrafficLight'
 import { constants } from '@/constant'
+import { env } from '@/env.mjs'
 
 export function LawSectionPreview({
   short1,
@@ -161,7 +162,7 @@ export function LawSectionPreview({
         {/* <div tw="">{showMore}</div> */}
         <div tw="ml-1 -mr-4">www.</div>
         <LogoBlank />
-        <div tw="-ml-4">.vercel.app</div>
+        <div tw="-ml-4">{env.NEXT_PUBLIC_PARENT_DOMAIN}</div>
       </div>
 
       {/* WATERMARK */}

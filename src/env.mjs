@@ -41,6 +41,7 @@ export const env = createEnv({
     NEXT_PUBLIC_BRAND_SHORT: z.string().min(1),
     NEXT_PUBLIC_BRAND_SLOGAN: z.string().min(1),
     NEXT_PUBLIC_DOMAIN: z.string().min(1),
+    NEXT_PUBLIC_PARENT_DOMAIN: z.string().min(1).optional(),
     NEXT_PUBLIC_EMAIL: z.string().email().optional(),
   },
   /*
@@ -76,6 +77,7 @@ export const env = createEnv({
     NEXT_PUBLIC_BRAND_SHORT: process.env.NEXT_PUBLIC_BRAND_SHORT,
     NEXT_PUBLIC_BRAND_SLOGAN: process.env.NEXT_PUBLIC_BRAND_SLOGAN,
     NEXT_PUBLIC_DOMAIN: process.env.NEXT_PUBLIC_DOMAIN,
+    NEXT_PUBLIC_PARENT_DOMAIN: process.env.NEXT_PUBLIC_PARENT_DOMAIN,
     NEXT_PUBLIC_EMAIL: process.env.NEXT_PUBLIC_EMAIL || 'gtdb.app@gmail.com',
   },
 })
