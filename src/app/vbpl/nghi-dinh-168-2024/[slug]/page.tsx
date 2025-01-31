@@ -89,10 +89,10 @@ export default async function NghiDinh1682024Page({
             </div>
           </BaseLink>
         </div>
-        <div className="mt-2 text-lg lg:text-3xl">Tóm tắt <i>{sectionName}</i></div>
-        <BaseLink href={`${PAGE_PATH}#${section}`} className="mx-auto">
+        <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl"><b>Tóm tắt</b> <i>{sectionName}</i></div>
+        <BaseLink href={`${PAGE_PATH}#${section}`} className="self-start sm:self-center">
           <div className="mt-2 border-b-0! text-lg lg:text-3xl">
-            Xem toàn văn <i>{sectionName}</i> tại đây
+            (Xem <b>toàn văn</b> tại đây)
           </div>
         </BaseLink>
       </div>
