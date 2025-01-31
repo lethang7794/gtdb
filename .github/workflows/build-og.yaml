@@ -108,4 +108,4 @@ jobs:
           branch: update-og-images
           base: main
           add-paths: |
-            public/og/
+            public/assets/og/
