@@ -6,6 +6,8 @@
 P:
   type: group
   name: Biển báo cấm
+  group_meaning: biểu thị các điều cấm
+  group_ref: /vbpl/luat-TTATGTDB-2024/11.5.a#11.5.a
 
 P.101:
   docs_name: 'Biển số P.101: Đường cấm'
@@ -1328,6 +1330,8 @@ P.140:
 W:
   type: group
   name: Biển báo nguy hiểm
+  group_meaning: cảnh báo các tình huống nguy hiểm có thể xảy ra
+  group_ref: /vbpl/luat-TTATGTDB-2024/11.5.b#11.5.b
 
 W.201a:
   docs_name: 'Biển số W.201(a,b): Chỗ ngoặt nguy hiểm'
@@ -2705,6 +2709,8 @@ W.247:
 R:
   type: group
   name: Biển hiệu lệnh
+  group_meaning: báo hiệu lệnh phải thi hành
+  group_ref: /vbpl/luat-TTATGTDB-2024/11.5.c#11.5.c
 
 R.122:
   docs_name: 'Biển số R.122: Dừng lại'
@@ -4357,6 +4363,8 @@ R.E,11b:
 I:
   type: group
   name: Biển chỉ dẫn
+  group_meaning: chỉ dẫn hướng đi hoặc các điều cần biết
+  group_ref: /vbpl/luat-TTATGTDB-2024/11.5.d#11.5.d
 
 I.401:
   docs_name: 'Biển số I.401: Bắt đầu đường ưu tiên'
@@ -6206,6 +6214,7 @@ I.449:
 IE:
   type: group
   name: Biển chỉ dẫn trên đường cao tốc
+  group_meaning: chỉ dẫn hướng đi hoặc các điều cần biết (trên đường cao tốc)
 
 IE.450a:
   docs_name: 'Biển số IE.450a: Chỉ dẫn khoảng cách đến nút giao với đường dẫn vào đường cao tốc'
@@ -7173,6 +7182,8 @@ IE.474:
 S:
   type: group
   name: Biển phụ
+  group_meaning: thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn
+  group_ref: /vbpl/luat-TTATGTDB-2024/11.5.d#11.5.e
 
 S.501:
   docs_name: 'Biển số S.501: Phạm vi tác dụng của biển'

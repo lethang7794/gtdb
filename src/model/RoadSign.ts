@@ -12,4 +12,6 @@ export type RoadSign = {
   note?: string
   similar?: string[]
   related?: string[]
+  group_meaning?: string
+  group_ref?: string
 }
