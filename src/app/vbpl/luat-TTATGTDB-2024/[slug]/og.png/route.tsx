@@ -11,17 +11,19 @@ import {
 import { constants } from '@/constant'
 import { env } from '@/env.mjs'
 
+const ZERO_SECTION = constants.laws.VBPL_SECTION_ZERO
+
 export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
 
   // generateStaticParams needs at least one element
   if (env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true') {
-    return [{ slug: '0' }]
+    return [{ slug: ZERO_SECTION }]
   }
 
   return processStaticParams(
-    [{ slug: '0' }, ...params],
+    [{ slug: ZERO_SECTION }, ...params],
     `${constants.paths.vbpl.LUAT_GT_2024}/[slug]/og.png`
   )
 }
