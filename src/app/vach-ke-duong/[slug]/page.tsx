@@ -11,7 +11,7 @@ import { constants } from '@/constant'
 
 export async function generateStaticParams() {
   const items = await getMarkingsArray()
-  const params = items.map((item) => ({ slug: item.id }))
+  const params = items.map((item) => ({ slug: `${item.id}` }))
   return processStaticParams(params, constants.paths.vachKeDuong.ROOT)
 }
 

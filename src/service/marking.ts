@@ -9,7 +9,7 @@ export const getMarkingsArray = async (): Promise<Marking[]> => {
 
 export const getMarkingById = async (id: string): Promise<Marking | undefined> => {
   const items = await getMarkingsArray()
-  return items.find((item) => item.id === id)
+  return items.find((item) => item.id == id)
 }
 
 export function getMarkingImage(item: Marking, opts?: { type?: MarkingImage }) {
