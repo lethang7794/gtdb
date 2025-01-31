@@ -1,19 +1,18 @@
 import file from '@data/markings.yaml'
-import { unstable_cache } from 'next/cache'
 import { MarkingImage, type Marking } from '@/model/Marking'
 
 const MARKINGS_PUBLIC_PATH = 'assets/markings'
 
-export const getMarkings = unstable_cache(async () => {
+export const getMarkings = (async () => {
   return file as Record<string, Marking>
 })
 
-export const getMarkingsArray = unstable_cache(async () => {
+export const getMarkingsArray = (async () => {
   const data = await getMarkings()
   return Object.entries(data)
 })
 
-export const getMarkingById = unstable_cache(
+export const getMarkingById = (
   async (id: string): Promise<Marking | undefined> => {
     const items = await getMarkings()
     return items[id]

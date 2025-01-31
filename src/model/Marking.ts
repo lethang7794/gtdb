@@ -1,4 +1,8 @@
+type MarkingType = 'group' | 'item'
+
 export type Marking = {
+  type: MarkingType
+  group_name: string
   short_name: string
   full_name: string
   aka: string
