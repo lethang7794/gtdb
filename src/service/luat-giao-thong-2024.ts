@@ -17,7 +17,7 @@ export const getLuatGT2024ById = async (
   return items[id]
 }
 
-export function getLuatGT2024OgImageById(section: string): string | undefined {
+export function getLuatGT2024OgImageById(section: string): string {
   if (!section) {
     return ''
   }
