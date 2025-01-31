@@ -1,4 +1,4 @@
-import data from '@data/signs.yaml'
+import data from '@data/road-signs.yaml'
 import type { RoadSign } from '@/model/RoadSign'
 
 const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
