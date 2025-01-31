@@ -15,7 +15,7 @@ export const getND168ById = async (id: string): Promise<ND168 | undefined> => {
   return items[id]
 }
 
-export function getND168OgImageById(section: string): string | undefined {
+export function getND168OgImageById(section: string): string {
   if (!section) {
     return ''
   }
