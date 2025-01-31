@@ -31,8 +31,8 @@ def resize_and_center_jpeg(input_dir, output_dir, target_width=1200, target_heig
         print(f"Processed {file_name}")
 
 # Specify input and output directories
-input_directory = "public/road-signs"
-output_directory = "public/output-jpeg-center"
+input_directory = "public/assets/road-signs"
+output_directory = "public/assets/output-jpeg-center"
 
 # Run the script
 resize_and_center_jpeg(input_directory, output_directory)
