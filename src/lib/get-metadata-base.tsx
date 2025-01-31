@@ -21,13 +21,13 @@ export function getMetadataBase(): URL {
   // For Vercel, use production url (public without authentication)
   if (env.VERCEL_ENV) {
     if (env.VERCEL_ENV === 'production' && env.VERCEL_PROJECT_PRODUCTION_URL) {
-      return new URL(env.VERCEL_PROJECT_PRODUCTION_URL)
+      return new URL(`https://${env.VERCEL_PROJECT_PRODUCTION_URL}`)
     }
     if (env.VERCEL_ENV === 'preview' && env.VERCEL_BRANCH_URL) {
-      return new URL(env.VERCEL_BRANCH_URL)
+      return new URL(`https://${env.VERCEL_BRANCH_URL}`)
     }
     if (env.VERCEL_URL) {
-      return new URL(env.VERCEL_URL)
+      return new URL(`https://${env.VERCEL_URL}`)
     }
   }
 
