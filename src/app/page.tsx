@@ -66,7 +66,7 @@ export default async function Home() {
                 </div>
               </BaseLink>
               <BaseLink
-                href={PATHS.markmaps.LUAT_TTATGTDB_2024}
+                href={PATHS.vbpl.LUAT_GT_2024}
                 className="col-span-1 grid place-content-center rounded-lg bg-yellow-300 p-4 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-400"
               >
                 Toàn văn 🗞️
