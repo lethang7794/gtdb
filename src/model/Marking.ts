@@ -8,6 +8,7 @@ export type Marking = {
   full_name: string
   aka: string
   image: string
+  image_orientation: Orientation
   image_alt?: string
   image_extra?: string
   image_extra_alt?: string
@@ -16,6 +17,8 @@ export type Marking = {
   meaning: string | string[]
   docs: string
 }
+
+type Orientation = 'portrait' | 'landscape' | 'square'
 
 export enum MarkingImage {
   main = 'main',

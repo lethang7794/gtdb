@@ -69,13 +69,7 @@ function MarkingGroup({ item }: { item: Marking }) {
   )
 }
 
-function MarkingItem({
-  imgUrl,
-  item,
-}: {
-  imgUrl: string
-  item: Marking
-}) {
+function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
   return (
     <BaseLink
       href={`vach-ke-duong/${item.id}`}
@@ -84,12 +78,21 @@ function MarkingItem({
     >
       <div className="item flex flex-col items-center justify-start">
         {item.image ? (
-          <div className="item-image-wrapper relative aspect-video w-full">
+          <div
+            className={cn(
+              'item-image-wrapper relative w-full',
+              item.image_orientation === 'portrait'
+                ? 'aspect-9/16'
+                : item.image_orientation === 'square'
+                  ? 'aspect-square'
+                  : 'aspect-video'
+            )}
+          >
             <Image
               alt={item.id}
               src={imgUrl}
               fill={true}
-              className="item-image order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
+              className="item-image order-none mb-1 object-contain object-bottom"
             />
           </div>
         ) : null}

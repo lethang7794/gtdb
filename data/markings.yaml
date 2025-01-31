@@ -12,6 +12,7 @@ data:
     short_name: Vạch 1.1.
     full_name: Vạch tim đường (dạng vạch đơn, nét đứt)
     image: Vach-1.1.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đơn
       type: nét đứt
@@ -36,6 +37,7 @@ data:
     short_name: Vạch 1.2
     full_name: Vạch tim đường (dạng vạch đơn, nét liền)
     image: Vach-1.2.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đơn
       type: nét liền
@@ -60,6 +62,7 @@ data:
     short_name: Vạch 1.3
     full_name: Vạch tim đường (dạng vạch đôi, nét liền)
     image: Vach-1.3.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đôi
       type: nét liền
@@ -86,6 +89,7 @@ data:
     short_name: Vạch 1.3b
     full_name: Vạch tim đường (dạng vạch đôi, nét đứt)
     image: Vach-1.3b.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đôi
       type: nét đứt
@@ -103,6 +107,7 @@ data:
     short_name: Vạch 1.4
     full_name: 'Vạch tim đường (dạng vạch kép: 1 vạch nét liền, 1 vạch nét đứt)'
     image: Vach-1.4.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch kép
       type: 1 nét liền, 1 nét đứt
@@ -125,6 +130,7 @@ data:
     full_name: Vạch xác định ranh giới làn đường có thể thay đổi hướng xe chạy
     aka:
     image: Vach-1.5.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đôi
       type: nét đứt
@@ -150,6 +156,7 @@ data:
     full_name: Vạch phân chia các làn xe cùng chiều (dạng vạch đơn, nét đứt)
     aka:
     image: Vach-2.1.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -170,6 +177,7 @@ data:
     full_name: Vạch phân chia các làn xe cùng chiều (dạng vạch đơn, nét liền)
     aka:
     image: Vach-2.2.png
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đơn
       type: nét liền
@@ -188,6 +196,7 @@ data:
     full_name: Vạch giới hạn làn đường dành riêng hoặc làn đường ưu tiên
     aka:
     image: Vach-2.3.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines: vạch đơn
       type: nét liền hoặc nét đứt
@@ -220,6 +229,7 @@ data:
     full_name: 'Vạch phân chia các làn xe cùng chiều (dạng vạch kép: một vạch liền, một vạch đứt nét)'
     aka:
     image: Vach-2.4.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -238,6 +248,7 @@ data:
     full_name: Vạch phân cách làn xe cơ giới và làn xe thô sơ
     aka:
     image: Vach-3.1.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -265,7 +276,8 @@ data:
     short_name: Vạch 4.1
     full_name: Vạch kênh hóa dòng xe dạng gạch chéo
     aka:
-    image: Vach-4.1a.png
+    image: Vach-4.1b.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -285,7 +297,8 @@ data:
     short_name: Vạch 4.1
     full_name: Vạch kênh hóa dòng xe dạng gạch chéo
     aka:
-    image: Vach-4.1b.png
+    image: Vach-4.1a.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -299,6 +312,7 @@ data:
     full_name: Vạch kênh hóa dòng xe dạng chữ V
     aka:
     image: Vach-4.2a.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -321,6 +335,7 @@ data:
     full_name: Vạch kênh hóa dòng xe dạng chữ V
     aka:
     image: Vach-4.2b.png
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -334,6 +349,7 @@ data:
     full_name: Vạch kênh hóa dòng xe dạng vành khuyên
     aka:
     image: Vach-4.3a.jpeg
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -355,6 +371,7 @@ data:
     full_name: Vạch kênh hóa dòng xe dạng vành khuyên
     aka:
     image: Vach-4.3b.jpeg
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -368,6 +385,7 @@ data:
     full_name: Vạch kẻ kiểu mắt võng
     aka:
     image: Vach-4.4a2.jpeg
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -395,6 +413,7 @@ data:
     full_name: Vạch kẻ kiểu mắt võng
     aka:
     image: Vach-4.4b2.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -408,6 +427,7 @@ data:
     full_name: Vạch dẫn hướng rẽ trái qua phạm vi nút giao
     aka:
     image: Vach-5.1.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -433,6 +453,7 @@ data:
     full_name: Vạch phân làn đường kéo dài qua phạm vi nút giao
     aka:
     image: Vach-5.2.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -455,6 +476,7 @@ data:
     full_name: Vạch làn chờ rẽ trái trong nút giao
     aka:
     image: Vach-5.3.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -477,6 +499,7 @@ data:
     full_name: Vạch cấm đỗ xe trên đường
     aka:
     image: Vach-6.1-2.jpeg
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -500,6 +523,7 @@ data:
     full_name: Vạch cấm dừng xe, cấm đỗ xe trên đường
     aka:
     image: Vach-6.2-2.jpeg
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -637,6 +661,7 @@ data:
     full_name: Vạch đi bộ qua đường
     aka: Vạch ngựa vằn (dạng vuông gốc)
     image: Vach-7.3a1.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -664,6 +689,7 @@ data:
     full_name: Vạch đi bộ qua đường (dạng cắt chéo)
     aka: Vạch ngựa vằn (dạng cắt chéo)
     image: Vach-7.3a2.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -677,6 +703,7 @@ data:
     full_name: Vạch đi bộ qua đường
     aka:
     image: Vach-7.3b.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -690,6 +717,7 @@ data:
     full_name: Vạch xe đạp qua đường
     aka:
     image: Vach-7.4.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -713,6 +741,7 @@ data:
     full_name: Vạch xác định khu vực cấm xe thô sơ trong nút giao
     aka:
     image: Vach-7.5.jpeg
+    image_orientation: square
     image_alt: Vạch 7.5
     image_extra: Vach-7.5-Minh-hoa.jpeg
     image_extra_alt: Minh họa Vạch 7.5
@@ -738,6 +767,7 @@ data:
     full_name: Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường
     aka:
     image: Vach-7.6.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -759,6 +789,7 @@ data:
     full_name: Vạch báo gần chỗ giao nhau với đường sắt
     aka:
     image: Vach-7.7.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -783,6 +814,7 @@ data:
     full_name: Vạch xác định khoảng cách xe trên đường.
     aka:
     image: Vach-7.8.jpeg
+    image_orientation: portrait
     image_extra:
     attribute:
       number_of_lines:
@@ -823,6 +855,7 @@ data:
     full_name: Vạch đứng trên mốc cố định
     aka:
     image: Vach-8.1a.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -852,6 +885,7 @@ data:
     full_name: Vạch đứng trên mốc cố định
     aka:
     image: Vach-8.1b.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -885,6 +919,7 @@ data:
     full_name: Vạch kẻ xung quanh các cột tròn đặt trên các đảo an toàn, trên dải phân cách và các vị trí tương tự
     aka:
     image: Vach-8.3.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -905,6 +940,7 @@ data:
     full_name: Vạch kẻ trên cột tín hiệu, cột rào chắn, cột tiêu
     aka:
     image: Vach-8.4.png
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -924,6 +960,7 @@ data:
     full_name: Vạch kẻ ở thanh ngang trên cùng của hàng rào chắn chỗ đường cong có bán kính nhỏ, đường cao hơn so với khu vực xung quanh, đường dốc xuống và những nơi nguy hiểm khác
     aka:
     image: Vach-8.5.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -942,6 +979,7 @@ data:
     full_name: Vạch kẻ ở thanh trên cùng của rào chắn ở những nơi đặc biệt nguy hiểm
     aka:
     image: Vach-8.6.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -959,6 +997,7 @@ data:
     full_name: Vạch kẻ ở hàng vỉa các vỉa hè nơi nguy hiểm hoặc hàng vỉa của đảo an toàn
     aka:
     image: Vach-8.7.png
+    image_orientation: landscape
     attribute:
       number_of_lines:
       type:
@@ -993,6 +1032,7 @@ data:
     full_name: Vạch cấm xe quay đầu
     aka:
     image: Vach-9.1.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
@@ -1013,6 +1053,7 @@ data:
     full_name: Vạch quy định vị trí dừng đỗ của phương tiện giao thông công cộng trên đường
     aka:
     image: Vach-9.2.jpeg
+    image_orientation: portrait
     attribute:
       number_of_lines:
       type:
