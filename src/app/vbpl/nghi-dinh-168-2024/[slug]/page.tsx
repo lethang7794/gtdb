@@ -2,11 +2,10 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
-import { getND168ById, getND168s } from '@/service/nghi-dinh-168'
+import { getND168ById, getND168OgImageById, getND168s } from '@/service/nghi-dinh-168'
 import { constants } from '@/constant'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import BaseLink from '@/components/base-link'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
 import '../style.css'
 
 type Props = {
@@ -16,13 +15,14 @@ type Props = {
 
 const LAW = constants.laws.nghiDinh168
 const PAGE_PATH = constants.paths.vbpl.NGHI_DINH_168
+const SECTION_ZERO = constants.laws.VBPL_SECTION_ZERO
 
 export async function generateStaticParams() {
   const items = await getND168s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
   return processStaticParams(
-    [{ slug: '0' }, ...params],
-    `${constants.paths.vbpl.LUAT_GT_2024}/[slug]`
+    [{ slug: SECTION_ZERO }, ...params],
+    `${PAGE_PATH}/[slug]`
   )
 }
 
@@ -52,7 +52,7 @@ export async function generateMetadata(
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
     openGraph: {
-      images: getOgImage(decodedSlug),
+      images: getND168OgImageById(decodedSlug),
     },
   }
 }
@@ -65,7 +65,7 @@ export default async function NghiDinh1682024Page({
   const decodedSlug = decodeURI(slug)
   const section = decodedSlug
 
-  if (section !== '0') {
+  if (section !== SECTION_ZERO) {
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
@@ -76,7 +76,7 @@ export default async function NghiDinh1682024Page({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
-              src={getOgImage(section)}
+              src={getND168OgImageById(section)}
               className="w-full object-contain"
             />
           </div>
@@ -97,8 +97,3 @@ export default async function NghiDinh1682024Page({
   )
 }
 
-function getOgImage(section: string): string | undefined {
-  return shouldShowStaticOpenGraphImage
-    ? `/og${PAGE_PATH}/${section}/og.png`
-    : `${PAGE_PATH}/${section}/og.png`
-}
