@@ -78,6 +78,7 @@ jobs:
         run: | # Secrets needed on the server
           echo "NEXT_PUBLIC_OUTPUT_EXPORT=${{ vars.NEXT_PUBLIC_OUTPUT_EXPORT }}" >> .env.production
           echo "NEXT_PUBLIC_IMAGES_UNOPTIMIZED=${{ vars.NEXT_PUBLIC_IMAGES_UNOPTIMIZED }}" >> .env.production
+          echo "NEXT_PUBLIC_BUILD_OG_IMAGES=${{ vars.NEXT_PUBLIC_BUILD_OG_IMAGES }}" >> .env.production
           echo "NEXT_PUBLIC_STATIC_PARAMS=${{ env.STATIC_PARAMS }}" >> .env.production
           echo "NEXT_PUBLIC_SECRET=${{ vars.NEXT_PUBLIC_SECRET }}" >> .env.production
           echo "NEXT_PUBLIC_CACHE_REVALIDATION=${{ vars.NEXT_PUBLIC_CACHE_REVALIDATION }}" >> .env.production
@@ -87,7 +88,8 @@ jobs:
           echo "NEXT_PUBLIC_BRAND=${{ vars.NEXT_PUBLIC_BRAND }}" >> .env.production
           echo "NEXT_PUBLIC_BRAND_SHORT=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
           echo "NEXT_PUBLIC_BRAND_SLOGAN=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
-          echo "NEXT_PUBLIC_DOMAIN=${{ vars.NEXT_PUBLIC_BRAND_SHORT }}" >> .env.production
+          echo "NEXT_PUBLIC_DOMAIN=${{ vars.NEXT_PUBLIC_DOMAIN }}" >> .env.production
+          echo "NEXT_PUBLIC_PARENT_DOMAIN=${{ vars.NEXT_PUBLIC_PARENT_DOMAIN }}" >> .env.production
       - name: Build OpenGraph Images
         run: just build_opengraph_images
       - run: |
