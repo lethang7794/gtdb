@@ -1,10 +1,12 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
 import { Suspense } from 'react'
-import { ChevronRight } from 'lucide-react'
+import { ChevronRight, Info } from 'lucide-react'
 import BaseLink from '@/components/base-link'
 import { cn } from '@/lib/utils'
+import { RoadSign } from '@/model/RoadSign'
 import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
+import { constants } from '@/constant'
 import { ListOptions } from './list-options'
 import styles from './style.css'
 
@@ -44,30 +46,24 @@ export default async function BbgtPage() {
           <ListOptions>
             <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
               {entries?.map(([signKey, sign]) => {
+                if (sign.type === 'group') {
+                  return (
+                    <RoadSignGroup
+                      key={signKey}
+                      sign={sign}
+                      signKey={signKey}
+                    />
+                  )
+                }
+
                 const imgUrl = getRoadSignImage(sign)
                 return (
-                  <BaseLink
-                    href={`/bbgt/${signKey}`}
+                  <RoadSignItem
                     key={signKey}
-                    className="item flex flex-col items-center justify-start rounded-md border px-3 py-2"
-                  >
-                    <div className="item-image-wrapper relative aspect-square w-full">
-                      <Image
-                        alt={signKey}
-                        src={imgUrl}
-                        fill={true}
-                        className="item-image order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
-                      />
-                    </div>
-                    <div className="item-description line-clamp-3 text-center text-xs leading-5 text-balance text-gray-500">
-                      {sign.name}
-                    </div>
-                    <div className="grow" />
-                    <div className="item-name flex items-center gap-1 self-end text-xs text-gray-500 italic">
-                      {signKey}
-                      <ChevronRight className="inline-block h-[1.25em] w-[1.25em] align-bottom" />
-                    </div>
-                  </BaseLink>
+                    imgUrl={imgUrl}
+                    sign={sign}
+                    signKey={signKey}
+                  />
                 )
               })}
             </div>
@@ -75,5 +71,59 @@ export default async function BbgtPage() {
         </Suspense>
       </div>
     </main>
+  )
+}
+
+function RoadSignGroup({ sign, signKey }: { sign: RoadSign; signKey: string }) {
+  return (
+    <div key={signKey} className="col-span-full mt-6 mb-2 border-b-1 text-2xl">
+      <div className="pb-1">
+        <b className="uppercase">{sign.name}</b>
+        <span className="text-base text-gray-500">: {sign.group_meaning}</span>
+        {sign.group_ref ? (
+          <BaseLink
+            href={sign.group_ref}
+            newTab
+            className="-mb-0.5 ml-1 inline-block"
+          >
+            <Info className="" size="16" />
+          </BaseLink>
+        ) : null}
+      </div>
+    </div>
+  )
+}
+
+function RoadSignItem({
+  imgUrl,
+  sign,
+  signKey,
+}: {
+  imgUrl: string
+  sign: RoadSign
+  signKey: string
+}) {
+  return (
+    <BaseLink
+      href={`${constants.paths.bbgt.ROOT}/${signKey}`}
+      className="item flex flex-col items-center justify-start rounded-md border px-3 py-2"
+    >
+      <div className="item-image-wrapper relative aspect-square w-full">
+        <Image
+          alt={signKey}
+          src={imgUrl}
+          fill={true}
+          className="item-image order-none mb-1 max-h-[150px] w-full object-contain object-bottom"
+        />
+      </div>
+      <div className="item-description line-clamp-3 text-center text-xs leading-5 text-balance text-gray-500">
+        {sign.name}
+      </div>
+      <div className="grow" />
+      <div className="item-name flex items-center gap-1 self-end text-xs text-gray-500 italic">
+        {signKey}
+        <ChevronRight className="inline-block h-[1.25em] w-[1.25em] align-bottom" />
+      </div>
+    </BaseLink>
   )
 }

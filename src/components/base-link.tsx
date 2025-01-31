@@ -9,6 +9,7 @@ export interface IBaseLinkProps extends PropsWithChildren {
   target?: string
   rel?: string
   className?: string
+  newTab?: boolean
 }
 
 const isNewTabUrl = (url: string): boolean => {
@@ -46,7 +47,7 @@ const isExternalUrl = (url: string, domain: string): boolean => {
 }
 
 const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
-  const { href, children, ...linkProps } = props
+  const { href, children, newTab,...linkProps } = props
 
   const isExternal = isExternalUrl(href.toString(), env.NEXT_PUBLIC_DOMAIN)
   const isNewTab = isNewTabUrl(href.toString())
@@ -58,7 +59,7 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
     newLinkProps.target = '_blank'
   }
 
-  if (isNewTab) {
+  if (isNewTab || newTab) {
     const cleanHref = href
       .toString()
       .replace(/&*new-tab=true/, '')
