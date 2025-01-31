@@ -74,7 +74,14 @@ function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
     <BaseLink
       href={`vach-ke-duong/${item.id}`}
       key={item.id}
-      className="flex flex-col rounded-md border px-3 py-2"
+      className={cn(
+        'item-wrapper flex flex-col rounded-md border px-3 py-2',
+        item.image_orientation === 'portrait'
+          ? 'row-span-2'
+          : item.image_orientation === 'square'
+            ? 'col-span-2 row-span-2'
+            : 'col-span-2'
+      )}
     >
       <div className="item flex flex-col items-center justify-start">
         {item.image ? (
@@ -92,6 +99,7 @@ function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
               alt={item.id}
               src={imgUrl}
               fill={true}
+              quality={100}
               className="item-image order-none mb-1 object-contain object-bottom"
             />
           </div>

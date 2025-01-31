@@ -3,6 +3,11 @@
     grid-template-columns: 1fr;
   }
 
+  .item-wrapper {
+    grid-row: span 1 / span 1;
+    grid-column: span 1 / span 1;
+  }
+
   .item {
     flex-direction: row;
     position: relative;
