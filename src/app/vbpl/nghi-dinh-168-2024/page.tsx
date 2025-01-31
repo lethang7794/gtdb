@@ -1,5 +1,4 @@
 import type { Metadata, ResolvingMetadata } from 'next'
-import { getToken } from '@/lib/crypto'
 import { constants } from '@/constant'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
@@ -17,7 +16,6 @@ export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const token = getToken(LAW)
 
   return {
     title: ['Nghị định 168/2024'].filter(Boolean).join(' | '),

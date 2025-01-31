@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, ResolvingMetadata } from 'next'
 import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import { getLuatGT2024OgImageById } from '@/service/luat-giao-thong-2024'
@@ -16,7 +16,6 @@ export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const token = getToken(LAW)
 
   return {
     title: ['Luật TTATGTĐB 2024'].filter(Boolean).join(' | '),
