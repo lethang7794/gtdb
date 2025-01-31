@@ -1,7 +1,7 @@
-import data from '@data/signs.yaml'
+import data from '@data/road-signs.yaml'
 import type { RoadSign } from '@/model/RoadSign'
 
-const ROAD_SIGNS_PUBLIC_PATH = 'road-signs'
+const ROAD_SIGNS_PUBLIC_PATH = 'assets/road-signs'
 
 export const getRoadSigns = (async () => {
   return data as Record<string, RoadSign>

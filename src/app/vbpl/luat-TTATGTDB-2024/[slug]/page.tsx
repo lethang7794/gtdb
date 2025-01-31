@@ -4,16 +4,17 @@ import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
   getLuatGT2024ById,
+  getLuatGT2024OgImageById,
   getLuatGT2024s,
 } from '@/service/luat-giao-thong-2024'
 import { constants } from '@/constant'
 import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
-import '../style.css'
 import BaseLink from '@/components/base-link'
+import '../style.css'
 
 const LAW = constants.laws.luatGT2024
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
+const SECTION_ZERO = constants.laws.VBPL_SECTION_ZERO
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -24,8 +25,8 @@ export async function generateStaticParams() {
   const items = await getLuatGT2024s()
   const params = Object.keys(items).map((key) => ({ slug: key }))
   return processStaticParams(
-    [{ slug: '0' }, ...params],
-    `${constants.paths.vbpl.LUAT_GT_2024}/[slug]`
+    [{ slug: SECTION_ZERO }, ...params],
+    `${PAGE_PATH}/[slug]`
   )
 }
 
@@ -55,7 +56,7 @@ export async function generateMetadata(
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
     openGraph: {
-      images: getOgImage(decodedSlug),
+      images: getLuatGT2024OgImageById(decodedSlug),
     },
   }
 }
@@ -68,7 +69,7 @@ export default async function LuatTTATGTDB2024Page({
   const decodedSlug = decodeURI(slug)
   const section = decodedSlug
 
-  if (section !== '0') {
+  if (section !== SECTION_ZERO) {
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
@@ -79,7 +80,7 @@ export default async function LuatTTATGTDB2024Page({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={sectionName}
-              src={getOgImage(section)}
+              src={getLuatGT2024OgImageById(section)}
               className="w-full object-contain"
             />
           </div>
@@ -98,10 +99,4 @@ export default async function LuatTTATGTDB2024Page({
       <LuatTTATGTDB2024 />
     </div>
   )
-}
-
-function getOgImage(section: string): string | undefined {
-  return shouldShowStaticOpenGraphImage
-    ? `/og${PAGE_PATH}/${section}/og.png`
-    : `${PAGE_PATH}/${section}/og.png`
 }

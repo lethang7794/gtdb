@@ -10,8 +10,15 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
+    
     VERCEL_ENV: z.enum(['development', 'preview', 'production']).optional(),
+    VERCEL_PROJECT_PRODUCTION_URL: z.string().optional(),
+    VERCEL_BRANCH_URL: z.string().optional(),
+    VERCEL_URL: z.string().optional(),
+    
     CF_PAGES_BRANCH: z.string().optional(),
+    CF_PAGES_URL: z.string().optional(),
+    
     CI: z.coerce.boolean(),
 
     NEXT_PUBLIC_OUTPUT_EXPORT: z.enum(['true', 'false']).optional(),
@@ -44,8 +51,14 @@ export const env = createEnv({
    */
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
+    
     VERCEL_ENV: process.env.VERCEL_ENV,
+    VERCEL_PROJECT_PRODUCTION_URL: process.env.VERCEL_PROJECT_PRODUCTION_URL,
+    VERCEL_BRANCH_URL: process.env.VERCEL_BRANCH_URL,
+    VERCEL_URL: process.env.VERCEL_URL,
+    
     CF_PAGES_BRANCH: process.env.CF_PAGES_BRANCH,
+    CF_PAGES_URL: process.env.CF_PAGES_URL,
 
     NEXT_PUBLIC_OUTPUT_EXPORT: process.env.NEXT_PUBLIC_OUTPUT_EXPORT,
     NEXT_PUBLIC_BUILD_OG_IMAGES: process.env.NEXT_PUBLIC_BUILD_OG_IMAGES,

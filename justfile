@@ -1,9 +1,9 @@
 #!/usr/bin/env just --justfile
 
 SRC_DIR_ND_168 := "out/vbpl/nghi-dinh-168-2024"
-DEST_DIR_ND_168 := "public/og/vbpl/nghi-dinh-168-2024"
+DEST_DIR_ND_168 := "public/assets/og/vbpl/nghi-dinh-168-2024"
 SRC_DIR_LUAT_2024 := "out/vbpl/luat-TTATGTDB-2024"
-DEST_DIR_LUAT_2024 := "public/og/vbpl/luat-TTATGTDB-2024"
+DEST_DIR_LUAT_2024 := "public/assets/og/vbpl/luat-TTATGTDB-2024"
 
 build_opengraph_images:
   pnpm run build

@@ -2,7 +2,7 @@ import file from '@data/markings.yaml'
 import { unstable_cache } from 'next/cache'
 import { MarkingImage, type Marking } from '@/model/Marking'
 
-const MARKINGS_PUBLIC_PATH = 'markings'
+const MARKINGS_PUBLIC_PATH = 'assets/markings'
 
 export const getMarkings = unstable_cache(async () => {
   return file as Record<string, Marking>

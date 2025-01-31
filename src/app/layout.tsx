@@ -6,8 +6,9 @@ import { Footer } from '@/components/block/footer'
 import Header from '@/components/block/header'
 import { Toaster } from '@/components/ui/toaster'
 import { cn } from '@/lib/utils'
+import { getMetadataBase } from '@/lib/get-metadata-base'
 import { PreloadResources } from '@/app/preload-resources'
-import { env, isDev } from '@/env.mjs'
+import { env } from '@/env.mjs'
 import './globals.css'
 
 const fontSans = FontSans({
@@ -19,9 +20,7 @@ const rootPageTitle: string = [
   `${env.NEXT_PUBLIC_BRAND_SHORT}`,
   `${env.NEXT_PUBLIC_BRAND_SLOGAN}`,
 ].join(' - ')
-const metadataBase: URL = isDev
-  ? new URL('http://localhost:3000')
-  : new URL(`https://${env.NEXT_PUBLIC_DOMAIN}`)
+const metadataBase: URL = getMetadataBase()
 
 export const metadata: Metadata = {
   title: {

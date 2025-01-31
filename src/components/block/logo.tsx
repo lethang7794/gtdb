@@ -21,7 +21,7 @@ export function Logo({
     >
       <img
         alt="gtdb logo"
-        src="/logo-landscape.svg"
+        src="/assets/branding/logo-landscape.svg"
         className="h-full w-auto"
         style={{
           height: '100%',

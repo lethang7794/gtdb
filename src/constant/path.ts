@@ -50,4 +50,8 @@ export const PATHS = {
   xmind: {
     ROOT: '/xmind',
   },
+  assets: {
+    ROOT: '/assets',
+    OG: '/assets/og',
+  },
 } as const
