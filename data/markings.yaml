@@ -519,59 +519,6 @@ data:
       - Vạch 5.3 gồm hai vạch đơn, đứt nét, màu trắng chạy song song hơi cong về bên trái và một vạch dừng xe (vạch 7.1) ở đầu các vạch đơn đứt nét. 
       - Vạch đơn đứt nét có bề rộng nét vẽ b = 15 cm, chiều dài đoạn nét liền L1 = (0,5 m - 1,0 m); chiều dài nét đứt L2 = (0,5 m - 1,0 m). Tỷ lệ L1/L2 = 1:1. 
 
-  - id: 6.0
-    type: sub_group
-    group_name: Vạch "cấm đỗ xe" trên đường
-
-  - id: 6.1
-    short_name: Vạch 6.1
-    full_name: Vạch cấm đỗ xe trên đường
-    aka:
-    image: Vach-6.1-2.jpeg
-    image_orientation: landscape
-    attribute:
-      number_of_lines:
-      type:
-      color:
-    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
-    meaning:
-    docs: |+
-      Vạch 6.1: Vạch cấm đỗ xe trên đường
-
-      Ý nghĩa sử dụng:
-      - Vạch được sử dụng để báo hiệu không được phép đỗ xe bên đường. 
-      - Vạch 6.1 được sử dụng độc lập hoặc phối hợp với ký hiệu chữ “Cấm đỗ xe” trên mặt đường và biển báo “Cấm đỗ xe”; ngoài ra, căn cứ theo nhu cầu có thể đặt thêm biển báo phụ ghi rõ thời gian cấm đỗ xe và phạm vi, đối tượng cấm đỗ xe.
-
-      Quy cách vạch:
-      - Vạch 6.1 là vạch đứt khúc màu vàng được sơn trên bó vỉa sát mép mặt đường phía cấm đỗ xe hoặc sơn trên mặt đường phía cấm đỗ xe, cách mép mặt đường 30 cm khi không có bó vỉa sát mép mặt đường.
-      - Khi vạch 6.1 được bố trí trên bó vỉa, bề rộng phần sơn vàng được lấy bằng bề rộng viên đá vỉa hoặc tối thiểu 15 cm; ngoài ra bề rộng phần sơn vàng được kéo dài trên toàn bộ mặt vát hoặc mặt đứng của viên đá vỉa phía tiếp giáp với mặt đường. 
-      - Trường hợp bố trí trên mặt đường, bề rộng vạch là 15 cm. Chiều dài của nét liền (màu vàng) L1 là 100 cm hoặc bằng chiều dài của viên bó vỉa (khi bố trí vạch 6.1 trên bó vỉa), chiều dài nét đứt (không sơn) L2 bằng chiều dài nét liền L1.
-
-  - id: 6.2
-    short_name: Vạch 6.2
-    full_name: Vạch cấm dừng xe, cấm đỗ xe trên đường
-    aka:
-    image: Vach-6.2-2.jpeg
-    image_orientation: landscape
-    attribute:
-      number_of_lines:
-      type:
-      color:
-    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
-    meaning:
-    docs: |+
-      Vạch 6.2: Vạch cấm dừng xe, cấm đỗ xe trên đường
-
-      Ý nghĩa sử dụng: 
-      - Vạch được sử dụng để báo hiệu không được phép dừng xe, đỗ xe bên đường. 
-      - Vạch 6.2 có thể sử dụng phối hợp với ký hiệu chữ “cấm dừng, đỗ xe” trên mặt đường và biển báo “Cấm dừng, đỗ xe”; ngoài ra căn cứ theo nhu cầu đặt thêm biển báo phụ ghi rõ thời gian cấm dừng đỗ xe và phạm vi, đối tượng cấm dừng đỗ xe.
-
-      Quy cách vạch:
-      - Vạch 6.2 là vạch liền nét màu vàng được sơn trên bó vỉa sát mép mặt đường phía cấm dừng xe hoặc đỗ xe hoặc sơn trên mặt đường phía cấm dừng xe hoặc đỗ xe, cách mép mặt đường 30 cm khi không có bó vỉa sát mép mặt đường.
-      - Khi vạch 6.2 được bố trí trên bó vỉa, bề rộng phần sơn vàng được lấy bằng bề rộng viên đá vỉa hoặc tối thiểu 15 cm; ngoài ra bề rộng phần sơn vàng được kéo dài trên toàn bộ mặt vát hoặc mặt đứng của viên đá vỉa phía tiếp giáp với mặt đường.
-      - Trường hợp bố trí trên mặt đường, bề rộng vạch là 15 cm.
-
-
   ###############################################################################
   ###############################################################################
   #                              Vạch ngang đường
@@ -905,6 +852,10 @@ data:
     type: group
     group_name: Vạch đứng
 
+  - id: 8.1
+    type: sub_group
+    group_name: '"Vạch đứng"'
+
   - id: 8.1a
     short_name: Vạch 8.1
     full_name: Vạch đứng trên mốc cố định
@@ -949,26 +900,6 @@ data:
     meaning:
     docs: |+
 
-  - id: 8.2
-    short_name: Vạch 8.2
-    full_name: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
-    aka:
-    image: Vach-8.2.png
-    attribute:
-      number_of_lines:
-      type:
-      color:
-    group: ['vạch đứng']
-    meaning:
-    docs: |+
-      Vạch 8.2: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
-
-      Ý nghĩa sử dụng: 
-      - Sử dụng vạch 8.2 để xác định mép dưới cùng của cầu vượt đường hoặc công trình tương tự nhằm cảnh báo cho người tham gia giao thông về các công trình này.
-
-      Quy cách vạch như sau:
-      - Vạch 8.2 cấu tạo gồm những nét vạch đỏ – trắng xen kẽ thẳng đứng có chiều rộng là 20 cm, cao 50 cm, bề rộng của phần vạch toàn bộ là 1 m.
-
   - id: 8.3
     short_name: Vạch 8.3
     full_name: Vạch kẻ xung quanh các cột tròn đặt trên các đảo an toàn, trên dải phân cách và các vị trí tương tự
@@ -1010,6 +941,10 @@ data:
       - Độ xiên của vạch hướng về phía mặt đường
       - Vạch kẻ trên cột tín hiệu, cột rào chắn, cột tiêu.
 
+  - id: 8.5.0
+    type: sub_group
+    group_name: '"Vạch ngang"'
+
   - id: 8.5
     short_name: Vạch 8.5
     full_name: Vạch kẻ ở thanh ngang trên cùng của hàng rào chắn chỗ đường cong có bán kính nhỏ, đường cao hơn so với khu vực xung quanh, đường dốc xuống và những nơi nguy hiểm khác
@@ -1047,6 +982,87 @@ data:
       Quy cách vạch:
       - Vạch đỏ liên tục chạy giữa bề mặt rào chắn rộng 10 cm.
 
+  - id: 8.2
+    short_name: Vạch 8.2
+    full_name: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
+    aka:
+    image: Vach-8.2.png
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch đứng']
+    meaning:
+    docs: |+
+      Vạch 8.2: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
+
+      Ý nghĩa sử dụng: 
+      - Sử dụng vạch 8.2 để xác định mép dưới cùng của cầu vượt đường hoặc công trình tương tự nhằm cảnh báo cho người tham gia giao thông về các công trình này.
+
+      Quy cách vạch như sau:
+      - Vạch 8.2 cấu tạo gồm những nét vạch đỏ – trắng xen kẽ thẳng đứng có chiều rộng là 20 cm, cao 50 cm, bề rộng của phần vạch toàn bộ là 1 m.
+
+  ###############################################################################
+  ###############################################################################
+  #                              Vạch loại khác
+  ###############################################################################
+  ###############################################################################
+  - id: 9.0
+    type: group
+    group_name: Vạch loại khác
+
+  - id: 6.0
+    type: sub_group
+    group_name: "Vạch ở mép vỉa hè"
+
+  - id: 6.1
+    short_name: Vạch 6.1
+    full_name: Vạch cấm đỗ xe trên đường
+    aka:
+    image: Vach-6.1-2.jpeg
+    image_orientation: landscape
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
+    meaning:
+    docs: |+
+      Vạch 6.1: Vạch cấm đỗ xe trên đường
+
+      Ý nghĩa sử dụng:
+      - Vạch được sử dụng để báo hiệu không được phép đỗ xe bên đường. 
+      - Vạch 6.1 được sử dụng độc lập hoặc phối hợp với ký hiệu chữ “Cấm đỗ xe” trên mặt đường và biển báo “Cấm đỗ xe”; ngoài ra, căn cứ theo nhu cầu có thể đặt thêm biển báo phụ ghi rõ thời gian cấm đỗ xe và phạm vi, đối tượng cấm đỗ xe.
+
+      Quy cách vạch:
+      - Vạch 6.1 là vạch đứt khúc màu vàng được sơn trên bó vỉa sát mép mặt đường phía cấm đỗ xe hoặc sơn trên mặt đường phía cấm đỗ xe, cách mép mặt đường 30 cm khi không có bó vỉa sát mép mặt đường.
+      - Khi vạch 6.1 được bố trí trên bó vỉa, bề rộng phần sơn vàng được lấy bằng bề rộng viên đá vỉa hoặc tối thiểu 15 cm; ngoài ra bề rộng phần sơn vàng được kéo dài trên toàn bộ mặt vát hoặc mặt đứng của viên đá vỉa phía tiếp giáp với mặt đường. 
+      - Trường hợp bố trí trên mặt đường, bề rộng vạch là 15 cm. Chiều dài của nét liền (màu vàng) L1 là 100 cm hoặc bằng chiều dài của viên bó vỉa (khi bố trí vạch 6.1 trên bó vỉa), chiều dài nét đứt (không sơn) L2 bằng chiều dài nét liền L1.
+
+  - id: 6.2
+    short_name: Vạch 6.2
+    full_name: Vạch cấm dừng xe, cấm đỗ xe trên đường
+    aka:
+    image: Vach-6.2-2.jpeg
+    image_orientation: landscape
+    attribute:
+      number_of_lines:
+      type:
+      color:
+    group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
+    meaning:
+    docs: |+
+      Vạch 6.2: Vạch cấm dừng xe, cấm đỗ xe trên đường
+
+      Ý nghĩa sử dụng: 
+      - Vạch được sử dụng để báo hiệu không được phép dừng xe, đỗ xe bên đường. 
+      - Vạch 6.2 có thể sử dụng phối hợp với ký hiệu chữ “cấm dừng, đỗ xe” trên mặt đường và biển báo “Cấm dừng, đỗ xe”; ngoài ra căn cứ theo nhu cầu đặt thêm biển báo phụ ghi rõ thời gian cấm dừng đỗ xe và phạm vi, đối tượng cấm dừng đỗ xe.
+
+      Quy cách vạch:
+      - Vạch 6.2 là vạch liền nét màu vàng được sơn trên bó vỉa sát mép mặt đường phía cấm dừng xe hoặc đỗ xe hoặc sơn trên mặt đường phía cấm dừng xe hoặc đỗ xe, cách mép mặt đường 30 cm khi không có bó vỉa sát mép mặt đường.
+      - Khi vạch 6.2 được bố trí trên bó vỉa, bề rộng phần sơn vàng được lấy bằng bề rộng viên đá vỉa hoặc tối thiểu 15 cm; ngoài ra bề rộng phần sơn vàng được kéo dài trên toàn bộ mặt vát hoặc mặt đứng của viên đá vỉa phía tiếp giáp với mặt đường.
+      - Trường hợp bố trí trên mặt đường, bề rộng vạch là 15 cm.
+
   - id: 8.7
     short_name: Vạch 8.7
     full_name: Vạch kẻ ở hàng vỉa các vỉa hè nơi nguy hiểm hoặc hàng vỉa của đảo an toàn
@@ -1072,15 +1088,6 @@ data:
           + L1 = 0,5 m - 2,0 m 
           + L2 = 0,5 m - 2,0 m 
           + Tỷ lệ L1:L2 = 1:1.
-
-  ###############################################################################
-  ###############################################################################
-  #                              Vạch loại khác
-  ###############################################################################
-  ###############################################################################
-  - id: 9.0
-    type: group
-    group_name: Vạch loại khác
 
   - id: 9.0.1
     type: sub_group
