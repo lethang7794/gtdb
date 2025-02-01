@@ -42,6 +42,11 @@
 
   .item-meaning {
     color: var(--color-gray-500);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    line-clamp: 3;
+    -webkit-line-clamp: 3;
   }
 }
 @media (width >= 48rem /* 768px */) {

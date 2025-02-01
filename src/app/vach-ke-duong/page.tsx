@@ -123,15 +123,17 @@ function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
           <div className="item-description line-clamp-3 text-base leading-5 font-bold text-gray-500">
             {item.full_name}
           </div>
-          <div className="item-meaning text-sm whitespace-pre-wrap">
-            {Array.isArray(item.meaning)
-              ? item.meaning.map((m) => (
-                  <div key={m.type} className="mt-2">
-                    <span className="font-bold">{m.type}</span>:{' '}
-                    <span className="whitespace-pre-wrap">{m.meaning}</span>
-                  </div>
-                ))
-              : item.meaning}
+          <div className="text-sm whitespace-pre-wrap">
+            {Array.isArray(item.meaning) ? (
+              item.meaning.map((m) => (
+                <div key={m.type} className="item-meaning mt-2">
+                  <span className="font-bold">{m.type}</span>:{' '}
+                  <span className="whitespace-pre-wrap">{m.meaning}</span>
+                </div>
+              ))
+            ) : (
+              <div className="item-meaning">{item.meaning}</div>
+            )}
           </div>
         </div>
       </div>
