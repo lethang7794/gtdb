@@ -35,7 +35,7 @@ export const env = createEnv({
    * 💡 You'll get type errors if these are not prefixed with NEXT_PUBLIC_.
    */
   client: {
-    VERCEL: z.coerce.number(),
+    VERCEL: z.string().optional(),
 
     NEXT_PUBLIC_APP_ENV: z.enum(['dev', 'preview', 'prod']),
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
