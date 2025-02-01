@@ -31,7 +31,12 @@ export async function generateMetadata(
 
   return {
     title: `Vạch ${slug}: ${item.full_name}`,
-    description: Array.isArray(item.meaning) ? item.meaning[0] : item.meaning,
+    description: Array.isArray(item.meaning)
+      ? item.meaning.reduce(
+          (prev, cur) => prev + [cur.type, cur.meaning].join(': '),
+          ''
+        )
+      : item.meaning,
     openGraph: {
       images: [item.image ? getMarkingImage(item) : ''],
     },
@@ -60,6 +65,7 @@ export default async function MarkingPage({
             <Image
               alt={slug}
               fill={true}
+              quality={100}
               src={getMarkingImage(marking)}
               className="mb-1 w-full object-contain object-center"
             />
