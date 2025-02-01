@@ -6,6 +6,7 @@ export type Marking = {
   group_name: string
   short_name: string
   full_name: string
+  official_name: string
   aka: string
   image: string
   image_orientation: Orientation
