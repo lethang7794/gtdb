@@ -35,7 +35,9 @@ export const env = createEnv({
    * 💡 You'll get type errors if these are not prefixed with NEXT_PUBLIC_.
    */
   client: {
-    VERCEL: z.string().optional(),
+    NEXT_PUBLIC_VERCEL_ENV: z
+      .enum(['development', 'preview', 'production'])
+      .optional(),
 
     NEXT_PUBLIC_APP_ENV: z.enum(['dev', 'preview', 'prod']),
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
@@ -73,7 +75,8 @@ export const env = createEnv({
       constants.cache.CACHE_REVALIDATION_DEFAULT,
     NEXT_PUBLIC_LINK_PREFETCH: process.env.NEXT_PUBLIC_LINK_PREFETCH || 'false',
 
-    VERCEL: process.env.VERCEL,
+    NEXT_PUBLIC_VERCEL_ENV: process.env.NEXT_PUBLIC_VERCEL_ENV,
+
     NEXT_PUBLIC_APP_ENV: process.env.NEXT_PUBLIC_APP_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,
     NEXT_PUBLIC_BRAND: process.env.NEXT_PUBLIC_BRAND,
@@ -92,4 +95,4 @@ export const shouldShowStaticOpenGraphImage =
   env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
   env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
 
-export const shouldEnableVercelAnalytics = env.VERCEL == 1
+export const shouldEnableVercelAnalytics = Boolean(env.NEXT_PUBLIC_VERCEL_ENV)
