@@ -1,14 +1,14 @@
 import type { Metadata } from 'next'
+import { Inter as FontSans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
-import { Inter as FontSans } from 'next/font/google'
 import { Footer } from '@/components/block/footer'
 import Header from '@/components/block/header'
 import { Toaster } from '@/components/ui/toaster'
-import { cn } from '@/lib/utils'
 import { getMetadataBase } from '@/lib/get-metadata-base'
+import { cn } from '@/lib/utils'
 import { PreloadResources } from '@/app/preload-resources'
-import { env } from '@/env.mjs'
+import { env, shouldEnableVercelAnalytics } from '@/env.mjs'
 import './globals.css'
 
 const fontSans = FontSans({
@@ -47,8 +47,12 @@ export default function RootLayout({
         )}
       >
         <PreloadResources />
-        <Analytics />
-        <SpeedInsights />
+        {shouldEnableVercelAnalytics ? (
+          <>
+            <Analytics />
+            <SpeedInsights />
+          </>
+        ) : null}
         <div
           style={{
             height: '72px', // Use css variable will cause a delay because the css need time to load

@@ -10,15 +10,15 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(['development', 'test', 'production']),
-    
+
     VERCEL_ENV: z.enum(['development', 'preview', 'production']).optional(),
     VERCEL_PROJECT_PRODUCTION_URL: z.string().optional(),
     VERCEL_BRANCH_URL: z.string().optional(),
     VERCEL_URL: z.string().optional(),
-    
+
     CF_PAGES_BRANCH: z.string().optional(),
     CF_PAGES_URL: z.string().optional(),
-    
+
     CI: z.coerce.boolean(),
 
     NEXT_PUBLIC_OUTPUT_EXPORT: z.enum(['true', 'false']).optional(),
@@ -35,6 +35,10 @@ export const env = createEnv({
    * 💡 You'll get type errors if these are not prefixed with NEXT_PUBLIC_.
    */
   client: {
+    NEXT_PUBLIC_VERCEL_ENV: z
+      .enum(['development', 'preview', 'production'])
+      .optional(),
+
     NEXT_PUBLIC_APP_ENV: z.enum(['dev', 'preview', 'prod']),
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
     NEXT_PUBLIC_BRAND: z.string().min(1),
@@ -52,12 +56,12 @@ export const env = createEnv({
    */
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
-    
+
     VERCEL_ENV: process.env.VERCEL_ENV,
     VERCEL_PROJECT_PRODUCTION_URL: process.env.VERCEL_PROJECT_PRODUCTION_URL,
     VERCEL_BRANCH_URL: process.env.VERCEL_BRANCH_URL,
     VERCEL_URL: process.env.VERCEL_URL,
-    
+
     CF_PAGES_BRANCH: process.env.CF_PAGES_BRANCH,
     CF_PAGES_URL: process.env.CF_PAGES_URL,
 
@@ -70,6 +74,8 @@ export const env = createEnv({
       process.env.NEXT_PUBLIC_CACHE_REVALIDATION ||
       constants.cache.CACHE_REVALIDATION_DEFAULT,
     NEXT_PUBLIC_LINK_PREFETCH: process.env.NEXT_PUBLIC_LINK_PREFETCH || 'false',
+
+    NEXT_PUBLIC_VERCEL_ENV: process.env.NEXT_PUBLIC_VERCEL_ENV,
 
     NEXT_PUBLIC_APP_ENV: process.env.NEXT_PUBLIC_APP_ENV,
     NEXT_PUBLIC_GITHUB_REPO: process.env.NEXT_PUBLIC_GITHUB_REPO,
@@ -88,3 +94,5 @@ export const isProd = env.NEXT_PUBLIC_APP_ENV === 'prod'
 export const shouldShowStaticOpenGraphImage =
   env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' &&
   env.NEXT_PUBLIC_BUILD_OG_IMAGES !== 'true'
+
+export const shouldEnableVercelAnalytics = Boolean(env.NEXT_PUBLIC_VERCEL_ENV)
