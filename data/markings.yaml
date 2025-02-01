@@ -28,7 +28,9 @@ data:
         'vạch phân chia 2 chiều xe chạy ngược chiều',
         'vạch tim đường',
       ]
-    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều nhau. Xe được phép cắt qua để sử dụng làn ngược chiều từ cả hai phía.
+    meaning: |+
+      Dùng để phân chia hai chiều xe chạy ngược chiều.
+      - Xe được phép cắt qua để sử dụng làn ngược chiều từ cả hai phía.
     docs: |+
       Vạch 1.1: Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, đứt nét
 
@@ -54,7 +56,9 @@ data:
         'vạch phân chia 2 chiều xe chạy ngược chiều',
         'vạch tim đường',
       ]
-    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều; xe không được lấn làn, không được đè lên vạch.
+    meaning: |+
+      Dùng để phân chia hai chiều xe chạy ngược chiều. 
+      - Xe không được lấn làn, không được đè lên vạch.
     docs: |+
       Vạch 1.2: Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, nét liền
 
@@ -80,7 +84,9 @@ data:
         'vạch phân chia 2 chiều xe chạy ngược chiều',
         'vạch tim đường',
       ]
-    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều, xe không được lấn làn, không được đè lên vạch
+    meaning: |+
+      Dùng để phân chia hai chiều xe chạy ngược chiều.
+      - Xe không được lấn làn, không được đè lên vạch
     docs: |+
       Vạch 1.3: Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đôi, nét liền
 
@@ -108,8 +114,20 @@ data:
         'vạch phân chia 2 chiều xe chạy ngược chiều',
         'vạch tim đường',
       ]
-    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều, xe được cắt ngang qua
+    meaning: |+
+      Dùng để phân chia hai chiều xe chạy ngược chiều.
+      - Xe được cắt ngang qua
     docs: |+
+      Vạch 1.3: Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đôi, nét liền
+
+      Ý nghĩa sử dụng: Dùng để phân chia hai chiều xe chạy ngược chiều, xe không được lấn làn, không được đè lên vạch.
+
+      Quy cách: 
+      - Vạch 1.3 là vạch đôi song song, liền nét, màu vàng, bề rộng nét vẽ b = 15 cm, khoảng cách phía trong hai mép vạch đơn nhỏ nhất là 15 cm; lớn nhất là 50 cm. Nếu  khoảng cách hai mép phía trong của các vạch đơn lớn hơn 50 cm thì sử dụng vạch kênh hóa dòng xe dạng gạch chéo, màu vàng (vạch 4.1).
+      - Vạch này thường dùng để phân chia hai chiều xe chạy ngược chiều cho đường có từ 4 làn xe cơ giới trở lên, không có dải phân cách giữa trên đoạn đường không đảm bảo tầm nhìn vượt xe, nguy cơ tai nạn giao thông đối đầu lớn hoặc ở các vị trí cần thiết khác.
+      - Trường hợp các đường có 2 hoặc 3 làn xe cơ giới, không có dải phân cách giữa có thể sử dụng vạch 1.3 ở các vị trí cần thiết để nhấn mạnh mức độ nguy hiểm, không được lấn làn, không được đè lên vạch. Tác dụng của vạch 1.3 trong trường hợp này tương tự vạch 1.2. 
+
+      * Trong trường hợp tại các vị trí cần thiết để cho xe cắt ngang qua thì sử dụng vạch đứt nét màu vàng.
 
   - id: 1.4
     short_name: Vạch 1.4
@@ -122,7 +140,10 @@ data:
       type: 1 nét liền, 1 nét đứt
       color: màu vàng
     group: vạch dọc đường
-    meaning: Dùng để phân chia hai chiều xe chạy ngược chiều. Xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua và sử dụng làn ngược chiều khi cần thiết; xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch.
+    meaning: |+
+      Dùng để phân chia hai chiều xe chạy ngược chiều. 
+      - Xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua và sử dụng làn ngược chiều khi cần thiết
+      - Xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch.
     docs: |+
       Vạch 1.4: Vạch phân chia hai chiều xe chạy, dạng vạch đôi gồm một vạch nét liền, một vạch nét đứt
 
@@ -151,7 +172,9 @@ data:
         'vạch phân chia 2 chiều xe chạy (ngược chiều)',
         'vạch tim đường',
       ]
-    meaning:
+    meaning: |+
+      Dùng để xác định ranh giới làn đường có thể thay đổi hướng xe chạy trên đó theo thời gian. 
+      - Hướng xe chạy ở một thời điểm trên làn đường có thể đổi chiều được quy định bởi người điều khiển giao thông, tín hiệu đèn, biển báo hoặc các báo hiệu khác phù hợp.
     docs: |+
       Vạch 1.5: Vạch xác định ranh giới làn đường có thể thay đổi hướng xe chạy
 
@@ -177,7 +200,9 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
-    meaning: Dùng để phân chia các làn xe cùng chiều. Trong trường hợp này, xe được phép thực hiện việc chuyển làn đường qua vạch 2.1.
+    meaning: |+
+      Dùng để phân chia các làn xe cùng chiều. 
+      - Xe được phép thực hiện việc chuyển làn đường.
     docs: |+
       Vạch 2.1: Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, đứt nét
 
@@ -199,7 +224,10 @@ data:
       type: nét liền
       color: màu trắng
     group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
-    meaning: Dùng để phân chia các làn xe cùng chiều trong trường hợp không cho phép xe chuyển làn hoặc sử dụng làn khác; xe không được lấn làn, không được đè lên vạch.
+    meaning: |+
+      Dùng để phân chia các làn xe cùng chiều.
+      - Xe không được chuyển làn hoặc sử dụng làn khác
+      - Xe không được lấn làn, không được đè lên vạch
     docs: |+
       Vạch 2.2: Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, liền nét.
 
@@ -220,9 +248,17 @@ data:
       color: màu trắng
     group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
     meaning:
-      Vạch liền nét: Vạch giới hạn làn đường dành riêng cho một loại xe cơ giới nhất định, các loại xe khác không được đi vào làn xe này trừ những trường hợp khẩn cấp theo Luật Giao thông đường bộ.
-      Vạch đứt nét: Vạch giới hạn làn đường ưu tiên cho một loại xe cơ giới nhất định, các xe khác có thể sử dụng làn đường này nhưng phải nhường đường cho xe được ưu tiên sử dụng làn khi xuất hiện loại xe này trên làn xe.
-      Cả hai: Xe trên làn đường dành riêng hoặc làn đường ưu tiên có thể cắt qua các vạch này khi làn đường hoặc phần đường xe chạy liền kề không cấm sử dụng loại xe này.
+      - type: Vạch liền nét
+        meaning: |+
+          Vạch giới hạn làn đường dành riêng cho một loại xe cơ giới nhất định, 
+          - các loại xe khác không được đi vào làn xe này trừ những trường hợp khẩn cấp theo Luật Giao thông đường bộ.
+      - type: Vạch đứt nét
+        meaning: |+
+          Vạch giới hạn làn đường ưu tiên cho một loại xe cơ giới nhất định,
+          - các xe khác có thể sử dụng làn đường này nhưng phải nhường đường cho xe được ưu tiên sử dụng làn khi xuất hiện loại xe này trên làn xe.
+      - type: Cả hai
+        meaning: |+
+          Xe trên làn đường dành riêng hoặc làn đường ưu tiên có thể cắt qua các vạch này khi làn đường hoặc phần đường xe chạy liền kề không cấm sử dụng loại xe này.
     docs: |+
       Vạch 2.3: Vạch giới hạn làn đường dành riêng hoặc làn đường ưu tiên
 
@@ -253,7 +289,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch phân chia các làn xe chạy (cùng chiều)']
-    meaning:
+    meaning: |+
+      Dùng để phân chia các làn xe cùng chiều, 
+      - xe trên làn đường tiếp giáp với vạch đứt nét được phép cắt qua khi cần thiết; 
+      - xe trên làn đường tiếp giáp với vạch liền nét không được lấn làn hoặc đè lên vạch.
     docs: |+
       Vạch 2.4: Vạch phân chia các làn xe cùng chiều, dạng vạch kép (một vạch liền, một vạch đứt nét).
 
@@ -277,7 +316,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch giới hạn mép phần đường xe chạy']
-    meaning:
+    meaning: |+
+      - Xác định mép ngoài phần đường xe chạy; hoặc 
+      - Phân cách làn xe cơ giới và xe thô sơ,
+        + Xe chạy được phép đè lên vạch khi cần thiết và phải nhường đường cho xe thô sơ.
     docs: |+
       Vạch 3.1: Vạch giới hạn mép ngoài phần đường xe chạy hoặc vạch phân cách làn xe cơ giới và làn xe thô sơ
 
@@ -311,7 +353,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Giới hạn các phần mặt đường không sử dụng cho xe chạy mà sử dụng để kênh hóa các dòng giao thông giao thông trên đường. 
+      - Các phương tiện giao thông phải đi theo tuyến đường quy định, không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
       Vạch 4.1: Vạch kênh hóa dòng xe dạng gạch chéo
 
@@ -333,13 +378,16 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Giới hạn các phần mặt đường không sử dụng cho xe chạy mà sử dụng để kênh hóa các dòng giao thông giao thông trên đường. 
+      - Các phương tiện giao thông phải đi theo tuyến đường quy định, không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
 
   - id: 4.2a
     short_name: Vạch 4.2
     full_name: Vạch kênh hóa dòng xe dạng chữ V
-    official_name: 
+    official_name:
     aka:
     image: Vach-4.2a.png
     image_orientation: portrait
@@ -348,7 +396,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Giới hạn các phần mặt đường không sử dụng cho xe chạy mà sử dụng để kênh hóa các dòng giao thông giao thông trên đường. 
+      - Các phương tiện giao thông phải đi theo tuyến đường quy định, không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
       Vạch 4.2: vạch kênh hóa dòng xe dạng chữ V
 
@@ -372,7 +423,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Giới hạn các phần mặt đường không sử dụng cho xe chạy mà sử dụng để kênh hóa các dòng giao thông giao thông trên đường. 
+      - Các phương tiện giao thông phải đi theo tuyến đường quy định, không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
 
   - id: 4.3a
@@ -387,12 +441,15 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ. 
+      - Các phương tiện giao thông không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
       Vạch 4.3: Vạch kênh hóa dòng xe dạng vành khuyên
 
       Ý nghĩa sử dụng: 
-      - Vạch kênh hóa dòng xe dạng vàch khuyên được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ. 
+      - Vạch kênh hóa dòng xe dạng vành khuyên được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ. 
       - Khi vạch 4.3 được sử dụng, các phương tiện giao thông không được lấn vạch hoặc cắt qua vạch trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
 
       Quy cách vạch:
@@ -410,7 +467,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      Được kẻ ở trung tâm ngã tư giao nhau cùng mức để chỉ thị cho các phương tiện phải đi vòng qua phạm vi kẻ vạch theo chiều ngược chiều kim đồng hồ. 
+      - Các phương tiện giao thông không được lấn vạch hoặc cắt qua vạch 
+        + trừ những trường hợp khẩn cấp theo quy định tại Luật Giao thông đường bộ.
     docs: |+
 
 
@@ -430,7 +490,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      - Vạch kẻ kiểu mắt võng được sử dụng để báo cho người điều khiển không được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông. 
+      - Tùy theo sự cần thiết mà có thể sử dụng vạch kẻ kiểu mắt võng ở các vị trí thích hợp. Vạch kẻ kiểu mắt võng có thể sử dụng để xác định phạm vi cấm dừng trong phạm vi nút giao giao cùng mức, trên nhánh dẫn cửa vào hoặc cửa ra của nút giao hoặc những vị trí mặt đường cần thiết không cho phép dừng xe. 
+      - Tùy theo mặt bằng nút giao rộng, hẹp để bố trí vạch 4.4 như dưới đây để đảm bảo cân đối, mỹ quan.
     docs: |+
       Vạch 4.4: Vạch kẻ kiểu mắt võng
 
@@ -459,7 +522,11 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
-    meaning:
+    meaning: |+
+      (Tương tự vạch 4.4a)
+      - Vạch kẻ kiểu mắt võng được sử dụng để báo cho người điều khiển không được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông. 
+      - Tùy theo sự cần thiết mà có thể sử dụng vạch kẻ kiểu mắt võng ở các vị trí thích hợp. Vạch kẻ kiểu mắt võng có thể sử dụng để xác định phạm vi cấm dừng trong phạm vi nút giao giao cùng mức, trên nhánh dẫn cửa vào hoặc cửa ra của nút giao hoặc những vị trí mặt đường cần thiết không cho phép dừng xe. 
+      - Tùy theo mặt bằng nút giao rộng, hẹp để bố trí vạch 4.4 như dưới đây để đảm bảo cân đối, mỹ quan.
     docs: |+
 
   - id: 5.0
@@ -478,7 +545,12 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
-    meaning:
+    meaning: |+
+      - Dùng để định hướng quỹ đạo cho dòng xe rẽ trái theo giải pháp tổ chức làn đường được sử dụng trong nút. 
+      - Mục đích sử dụng vạch là tăng tính dẫn hướng cho xe chạy; xe có thể cắt qua vạch khi cần thiết. 
+          + Vạch dẫn hướng rẽ trái qua phạm vi nút giao là đoạn kéo dài của vạch phân cách hai chiều xe chạy (vạch tim đường) hoặc vạch phân chia các làn đường cùng chiều. 
+          + Không nhất thiết phải sử dụng cả hai loại vạch kéo dài nói trên để định hướng quỹ đạo dòng xe rẽ trái. 
+      - Chỉ sử dụng vạch khi quỹ đạo xe chạy được định hướng bởi vạch 5.1 phù hợp với ý đồ tổ chức giao thông và không gây khó hiểu cho các phương tiện qua nút.
     docs: |+
       Vạch 5.1: Vạch dẫn hướng rẽ trái qua phạm vi nút giao
 
@@ -505,7 +577,9 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
-    meaning:
+    meaning: |+
+      - Sử dụng ở các nút giao lệch để định hướng quỹ đạo cho dòng xe đi thẳng. 
+      - Mục đích sử dụng vạch là tăng tính dẫn hướng cho xe chạy; xe có thể cắt qua vạch khi cần thiết.
     docs: |+
       Vạch 5.2: Vạch phân làn đường kéo dài qua phạm vi nút giao
 
@@ -529,7 +603,9 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch kéo dài qua phạm vi nút giao']
-    meaning:
+    meaning: |+
+      - Vạch được sử dụng để tạo không gian dừng chờ cho các xe rẽ trái sau khi xe đã vượt qua vạch dừng xe trên nhánh dẫn của nút giao có sử dụng đèn tín hiệu điều khiển, nhưng không thể vượt qua nút trong thời gian tín hiệu đèn cho phép rẽ trái. 
+      - Khi hết thời gian cho phép rẽ trái mà xe đã vượt qua vạch dừng xe trên nhánh dẫn nhưng chưa vượt quá khu vực giới hạn bởi làn xe chờ rẽ trái trong nút giao thì phải dừng lại trong khu vực làn chờ.
     docs: |+
       Vạch 5.3: Vạch làn chờ rẽ trái trong nút giao
 
@@ -565,7 +641,10 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      - Dùng để xác định vị trí dừng xe để chờ tín hiệu cho phép đi tiếp. 
+      - Vạch dùng để xác định vị trí người điều khiển phương tiện phải dừng lại khi có tín hiệu đèn đỏ hoặc khi có biển số R.122. 
+      - Vạch cũng dùng để xác định vị trí người điều khiển phải dừng lại trong các điều kiện nhất định ở một số vị trí như: trên nhánh dẫn tới nút giao cùng mức với đường sắt, trên làn chờ rẽ trái trong phạm vi nút giao, trước vị trí vạch người đi bộ qua đường.
     docs: |+
       Vạch 7.1: Vạch dừng xe
 
@@ -597,7 +676,11 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      (Tương tự vạch 7.1a)
+      - Dùng để xác định vị trí dừng xe để chờ tín hiệu cho phép đi tiếp. 
+      - Vạch dùng để xác định vị trí người điều khiển phương tiện phải dừng lại khi có tín hiệu đèn đỏ hoặc khi có biển số R.122. 
+      - Vạch cũng dùng để xác định vị trí người điều khiển phải dừng lại trong các điều kiện nhất định ở một số vị trí như: trên nhánh dẫn tới nút giao cùng mức với đường sắt, trên làn chờ rẽ trái trong phạm vi nút giao, trước vị trí vạch người đi bộ qua đường.
     docs: |+
 
   - id: 7.2
@@ -615,7 +698,9 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      - Dùng để báo hiệu cho xe phải đi chậm hoặc dừng lại khi cần thiết để nhường đường cho các phương tiện hoặc người trên các hướng giao thông khác được di chuyển trước. 
+      - Vạch 7.2 được sử dụng kết hợp với biển W.208 – “Giao với đường ưu tiên”.
     docs: |+
       Vạch 7.2: Vạch nhường đường
 
@@ -646,7 +731,10 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      (Tương tự vạch 7.2a)
+      - Dùng để báo hiệu cho xe phải đi chậm hoặc dừng lại khi cần thiết để nhường đường cho các phương tiện hoặc người trên các hướng giao thông khác được di chuyển trước. 
+      - Vạch 7.2 được sử dụng kết hợp với biển W.208 – “Giao với đường ưu tiên”.
     docs: |+
       Vạch 7.2: Vạch nhường đường
 
@@ -682,7 +770,13 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      Mẫu 1: Vạch đi bộ qua đường là các đường vạch đậm liền song song màu trắng (còn gọi là vạch ngựa vằn)
+
+      - Vạch đi bộ qua đường xác định phạm vi phần đường dành cho người đi bộ cắt qua đường.
+      - Trước vạch đi bộ qua đường cần sử dụng vạch dừng xe. 
+        + Các phương tiện phải dừng lại trước vạch dừng xe nói trên trong thời gian tín hiệu đèn đỏ hoặc phải dừng lại quan sát trước khi cắt qua vạch dừng xe nếu biển số R.122 – “Dừng xe” được sử dụng kèm theo. 
+        + Trường hợp không có đèn tín hiệu điều khiển và không sử dụng biển số R.122 – “Dừng xe”, các phương tiện phải dừng lại nhường đường cho người đi bộ qua đường khi có dấu hiệu người đi bộ qua đường trong khu vực kẻ vạch dừng xe.
     docs: |+
       Vạch 7.3: Vạch đi bộ qua đường
 
@@ -711,7 +805,15 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      (Tương tự vạch 7.3a1)
+
+      Mẫu 1: Vạch đi bộ qua đường là các đường vạch đậm liền song song màu trắng (còn gọi là vạch ngựa vằn)
+
+      - Vạch đi bộ qua đường xác định phạm vi phần đường dành cho người đi bộ cắt qua đường.
+      - Trước vạch đi bộ qua đường cần sử dụng vạch dừng xe. 
+        + Các phương tiện phải dừng lại trước vạch dừng xe nói trên trong thời gian tín hiệu đèn đỏ hoặc phải dừng lại quan sát trước khi cắt qua vạch dừng xe nếu biển số R.122 – “Dừng xe” được sử dụng kèm theo. 
+        + Trường hợp không có đèn tín hiệu điều khiển và không sử dụng biển số R.122 – “Dừng xe”, các phương tiện phải dừng lại nhường đường cho người đi bộ qua đường khi có dấu hiệu người đi bộ qua đường trong khu vực kẻ vạch dừng xe.
     docs: |+
 
   - id: 7.3b
@@ -726,7 +828,14 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      Mẫu 2: Sử dụng hai vạch liền, màu trắng, bề rộng nét vẽ b = 40 cm kẻ song song theo phương ngang đường để xác định phần đường dành cho người đi bộ.
+      - Ap dụng ở những nơi có đèn tín hiệu phân định thời gian người đi bộ được phép qua đường.
+
+      - Vạch đi bộ qua đường xác định phạm vi phần đường dành cho người đi bộ cắt qua đường.
+      - Trước vạch đi bộ qua đường cần sử dụng vạch dừng xe. 
+        + Các phương tiện phải dừng lại trước vạch dừng xe nói trên trong thời gian tín hiệu đèn đỏ hoặc phải dừng lại quan sát trước khi cắt qua vạch dừng xe nếu biển số R.122 – “Dừng xe” được sử dụng kèm theo. 
+        + Trường hợp không có đèn tín hiệu điều khiển và không sử dụng biển số R.122 – “Dừng xe”, các phương tiện phải dừng lại nhường đường cho người đi bộ qua đường khi có dấu hiệu người đi bộ qua đường trong khu vực kẻ vạch dừng xe.
     docs: |+
 
   - id: 7.4.0
@@ -745,7 +854,10 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      - Vạch đi bộ qua đường xác định phạm vi phần đường dành cho xe đạp cắt qua đường. 
+      - Ở nơi đường giao nhau không có người, tín hiệu điều khiển giao thông thì xe đạp phải nhường đường cho phương tiện cơ giới chạy trên đường cắt ngang đường xe đạp.
+      - (Vạch xác định vị trí chỗ xe đạp đi ngang qua đường trên những chỗ giao nhau. Nơi không có điều khiển bằng đèn tín hiệu thì xe đạp phải nhường cho xe cơ giới khác chạy trên đường.)
     docs: |+
       Vạch 7.4: Vạch xe đạp qua đường
 
@@ -777,7 +889,8 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      Báo cho người điều khiển xe thô sơ biết phạm vi cấm khi đi vào nút giao ngã tư có sử dụng đèn tín hiệu điều khiển.
     docs: |+
       Vạch 7.5: Vạch xác định khu vực cấm xe thô sơ trong nút giao
 
@@ -805,7 +918,8 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường; đặc biệt đối với các chỗ bố trí vạch đi bộ qua đường ở giữa đoạn đường nối hai nút để cảnh báo người lái xe phải nhường đường cho người đi bộ qua đường.
     docs: |+
       Vạch 7.6: Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường
 
@@ -829,7 +943,9 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      - Báo cho người tham gia giao thông biết phía trước có chỗ giao nhau với đường sắt, nhắc người điều khiển phương tiện thận trọng. 
+      - Chỉ dùng ở chỗ không có người gác chắn đường sắt.
     docs: |+
       Vạch 7.7: Vạch báo gần chỗ giao nhau với đường sắt
 
@@ -856,7 +972,10 @@ data:
       type:
       color:
     group: ['vạch ngang đường']
-    meaning:
+    meaning: |+
+      - Xác định khoảng cách trên đường, giúp cho lái xe biết cần phải giãn cách cự ly để đảm bảo an toàn với xe chạy phía trước. 
+      - Sử dụng trên đường ôtô cao tốc ở những nơi hay xảy ra tai nạn do vượt xe hoặc đâm va từ phía sau hoặc ở những vị trí có yêu cầu đặc biệt. 
+      - Sử dụng kèm biển báo ghi khoảng cách giữa các vạch theo phương dọc đường.
     docs: |+
       Vạch 7.8: Vạch xác định khoảng cách xe trên đường.
 
@@ -891,7 +1010,7 @@ data:
 
   - id: 8.1a
     short_name: Vạch 8.1
-    full_name: Vạch đứng trên mốc cố định
+    full_name: Vạch đứng trên "chướng ngại vật"
     official_name: Vạch đứng trên mốc cố định
     aka:
     image: Vach-8.1a.png
@@ -901,7 +1020,17 @@ data:
       type:
       color:
     group: ['vạch đứng']
-    meaning:
+    meaning: |+
+      (Màu vàng, đen được sử dụng cho các đường ngoài khu vực đô thị)
+
+      - Cảnh báo người điều khiển phương tiện chú ý, trên đường đi phía trước có chướng ngại vật cao hơn mặt đường để đề phòng va quệt phải. 
+      - Vạch này kẻ trên bề mặt phần đứng của chướng ngại vật có khả năng gây nguy hiểm đối với phương tiện giao thông như: 
+          + trụ cầu vượt qua đường 
+          + mặt trước của hai bên tường ở chỗ cầu vượt, đường chui qua đường hoặc ở cửa đường hầm
+          + trên kết cấu dải phân cách
+          + trên đảo an toàn của đường ngang dành cho người đi bộ
+          + trên đảo phân làn tại trạm thu phí
+          + ...
     docs: |+
       Vạch 8.1: Vạch đứng trên mốc cố định
 
@@ -922,7 +1051,7 @@ data:
 
   - id: 8.1b
     short_name: Vạch 8.1
-    full_name: Vạch đứng trên mốc cố định
+    full_name: Vạch đứng trên "chướng ngại vật"
     official_name: Vạch đứng trên mốc cố định
     aka:
     image: Vach-8.1b.png
@@ -932,7 +1061,17 @@ data:
       type:
       color:
     group: ['vạch đứng']
-    meaning:
+    meaning: |+
+      (Màu đỏ, trắng được sử dụng cho các đường trong khu vực đô thị)
+
+      - Cảnh báo người điều khiển phương tiện chú ý, trên đường đi phía trước có chướng ngại vật cao hơn mặt đường để đề phòng va quệt phải. 
+      - Vạch này kẻ trên bề mặt phần đứng của chướng ngại vật có khả năng gây nguy hiểm đối với phương tiện giao thông như: 
+          + trụ cầu vượt qua đường 
+          + mặt trước của hai bên tường ở chỗ cầu vượt, đường chui qua đường hoặc ở cửa đường hầm
+          + trên kết cấu dải phân cách
+          + trên đảo an toàn của đường ngang dành cho người đi bộ
+          + trên đảo phân làn tại trạm thu phí
+          + ...
     docs: |+
 
   - id: 8.3
@@ -1032,7 +1171,8 @@ data:
       type:
       color:
     group: ['vạch đứng']
-    meaning:
+    meaning: |+
+      Xác định mép dưới cùng của cầu vượt đường hoặc công trình tương tự nhằm cảnh báo cho người tham gia giao thông về các công trình này.
     docs: |+
       Vạch 8.2: Vạch xác định mép dưới thấp nhất của kết cấu cầu vượt qua đường hoặc công trình khác đi phía trên đường
 
@@ -1067,7 +1207,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
-    meaning:
+    meaning: |+
+      - Báo hiệu không được phép đỗ xe bên đường. 
+      - Được sử dụng độc lập hoặc phối hợp với ký hiệu chữ “Cấm đỗ xe” trên mặt đường và biển báo “Cấm đỗ xe”; 
+        + ngoài ra, căn cứ theo nhu cầu có thể đặt thêm biển báo phụ ghi rõ thời gian cấm đỗ xe và phạm vi, đối tượng cấm đỗ xe.
     docs: |+
       Vạch 6.1: Vạch cấm đỗ xe trên đường
 
@@ -1092,7 +1235,10 @@ data:
       type:
       color:
     group: ['vạch dọc đường', 'vạch cấm "dừng" xe trên đường']
-    meaning:
+    meaning: |+
+      - Báo hiệu không được phép dừng xe, đỗ xe bên đường. 
+      - Có thể sử dụng phối hợp với ký hiệu chữ “cấm dừng, đỗ xe” trên mặt đường và biển báo “Cấm dừng, đỗ xe”; 
+        + ngoài ra căn cứ theo nhu cầu đặt thêm biển báo phụ ghi rõ thời gian cấm dừng đỗ xe và phạm vi, đối tượng cấm dừng đỗ xe.
     docs: |+
       Vạch 6.2: Vạch cấm dừng xe, cấm đỗ xe trên đường
 
@@ -1148,7 +1294,10 @@ data:
       type:
       color:
     group: ['vạch loại khác']
-    meaning:
+    meaning: |+
+      Sử dụng ở 
+      - những vị trí cấm quay đầu xe tại nút giao, hoặc 
+      - chỗ mở dải phân cách hai chiều xe chạy.
     docs: |+
       Vạch 9.1: Vạch cấm xe quay đầu
 
@@ -1170,7 +1319,9 @@ data:
       type:
       color:
     group: ['vạch loại khác']
-    meaning:
+    meaning: |+
+      - Quy định vị trí dừng xe của các phương tiện vận tải hành khách công cộng trên đường như xe buýt, xe tắc xi ... 
+      - Các loại phương tiện khác và người đi bộ không được dừng, đỗ trong phạm vi kẻ vạch và trong khoảng cách 15 m từ vị trí vạch về hai phía theo phương dọc đường.
     docs: |+
       Vạch 9.2: Vạch quy định vị trí dừng đỗ của phương tiện giao thông công cộng trên đường
 
@@ -1195,7 +1346,10 @@ data:
       type:
       color:
     group: ['vạch loại khác']
-    meaning:
+    meaning: |+
+      - Chỉ hướng xe phải đi. 
+        + Chủ yếu sử dụng ở các nút giao có tách nhập làn và trên đường có nhiều làn xe. 
+        + Có thể được sử dụng cho các phần đường xe chạy một chiều để xác nhận hướng giao thông.
     docs: |+
       Vạch 9.3: Vạch mũi tên chỉ hướng trên mặt đường
 
@@ -1226,7 +1380,10 @@ data:
       type:
       color:
     group: ['vạch loại khác']
-    meaning:
+    meaning: |+
+      Báo cho người điều khiển phương tiện biết 
+      - số làn xe theo hướng mũi tên bị giảm, và 
+      - phải chuyển làn đi theo hướng mũi tên.
     docs: |+
       Vạch 9.4: Vạch mũi tên báo số làn xe phía trước bị giảm
 
@@ -1257,7 +1414,8 @@ data:
       type:
       color:
     group: ['vạch loại khác', 'vạch dạng chữ viết, chữ số']
-    meaning:
+    meaning: |+ 
+      Sử dụng đi kèm với các loại báo hiệu khác nhằm tăng tính rõ ràng về ý nghĩa của các báo hiệu. 
     docs: |+
       Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường
 
@@ -1282,7 +1440,7 @@ data:
 
   - id: 9.5b
     short_name: 'Vạch 9.5b'
-    full_name: 'Vạch chữ “ÔTÔ”: Làn đường dành riêng cho “ÔTÔ”'
+    full_name: 'Vạch chữ “ÔTÔ”'
     official_name: 'Vạch chữ “ÔTÔ”: Làn đường dành riêng cho “ÔTÔ”'
     aka:
     image: Vach-9.5b.png
@@ -1291,7 +1449,7 @@ data:
       type:
       color:
     group: ['vạch loại khác', 'vạch dạng chữ viết, chữ số']
-    meaning:
+    meaning: Làn đường dành riêng cho “ÔTÔ”'
     docs: |+
       Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường
 
@@ -1316,7 +1474,7 @@ data:
 
   - id: 9.5c
     short_name: 'Vạch 9.5c'
-    full_name: 'Vạch chữ “XE MÁY”: Làn đường dành riêng cho “XE MÁY”'
+    full_name: 'Vạch chữ “XE MÁY”'
     official_name: 'Vạch chữ “XE MÁY”: Làn đường dành riêng cho “XE MÁY”'
     aka:
     image: Vach-9.5c.png
@@ -1325,7 +1483,8 @@ data:
       type:
       color:
     group: ['vạch loại khác', 'vạch dạng chữ viết, chữ số']
-    meaning:
+    meaning: |+
+      Làn đường dành riêng cho “XE MÁY”
     docs: |+
       Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường
 
@@ -1350,8 +1509,8 @@ data:
 
   - id: 9.5d
     short_name: Vạch 9.5d
-    full_name: 'Vạch chữ “XE BUÝT”: Làn đường dành riêng cho “XE BUÝT'
-    official_name: 'Vạch chữ “XE BUÝT”: Làn đường dành riêng cho “XE BUÝT'
+    full_name: 'Vạch chữ “XE BUÝT”'
+    official_name: 'Vạch chữ “XE BUÝT”: Làn đường dành riêng cho “XE BUÝT”'
     aka:
     image: Vach-9.5d.png
     attribute:
@@ -1359,7 +1518,8 @@ data:
       type:
       color:
     group: ['vạch loại khác', 'vạch dạng chữ viết, chữ số']
-    meaning:
+    meaning: |+
+      Làn đường dành riêng cho “XE BUÝT”
     docs: |+
       Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường
 
@@ -1384,7 +1544,7 @@ data:
 
   - id: 9.5e
     short_name: Vạch 9.5e
-    full_name: 'Vạch chữ “XE ĐẠP”: Làn đường dành riêng cho “XE ĐẠP”'
+    full_name: 'Vạch chữ “XE ĐẠP”'
     official_name: 'Vạch chữ “XE ĐẠP”: Làn đường dành riêng cho “XE ĐẠP”'
     aka:
     image: Vach-9.5e.png
@@ -1393,7 +1553,8 @@ data:
       type:
       color:
     group: ['vạch loại khác', 'vạch dạng chữ viết, chữ số']
-    meaning:
+    meaning: |+
+      Làn đường dành riêng cho “XE ĐẠP”
     docs: |+
       Vạch dạng chữ viết, chữ số, hoặc màu sắc trên mặt đường
 
@@ -1427,7 +1588,8 @@ data:
       type:
       color:
     group: ['vạch loại khác']
-    meaning:
+    meaning: |+
+      Sử dụng trên các làn đường dành riêng cho xe đạp.
     docs: |+
       Vạch 9.6: Vạch ký hiệu xe đạp trên mặt đường
       Ý nghĩa sử dụng: 

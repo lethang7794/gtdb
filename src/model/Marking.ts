@@ -15,7 +15,7 @@ export type Marking = {
   image_extra_alt?: string
   attribute: MarkingAttribute
   group: string[]
-  meaning: string | string[]
+  meaning: string | { type: string, meaning: string }[]
   docs: string
 }
 
