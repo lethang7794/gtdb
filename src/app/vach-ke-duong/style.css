@@ -40,6 +40,10 @@
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   }
 
+  .item-image-wrapper {
+    max-height: 320px;
+  }
+
   .item-meaning {
     color: var(--color-gray-500);
     overflow: hidden;
