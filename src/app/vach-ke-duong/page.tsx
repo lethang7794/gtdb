@@ -94,8 +94,8 @@ function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
         item.image_orientation === 'portrait'
           ? 'row-span-2'
           : item.image_orientation === 'square'
-            ? 'col-span-2 row-span-2'
-            : 'col-span-2'
+            ? 'col-span-full row-span-2 md:col-span-2'
+            : 'col-span-full md:col-span-2'
       )}
     >
       <div className="item flex flex-col items-center justify-start">
@@ -106,8 +106,8 @@ function MarkingItem({ imgUrl, item }: { imgUrl: string; item: Marking }) {
               item.image_orientation === 'portrait'
                 ? 'aspect-9/16'
                 : item.image_orientation === 'square'
-                  ? 'aspect-square'
-                  : 'aspect-video'
+                  ? 'aspect-square @min-lg:max-w-96'
+                  : 'aspect-video @min-lg:max-w-96'
             )}
           >
             <Image
