@@ -1,4 +1,4 @@
-type MarkingType = 'group' | 'item'
+type MarkingType = 'group' | 'sub_group' | 'item'
 
 export type Marking = {
   id: string

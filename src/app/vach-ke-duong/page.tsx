@@ -48,6 +48,10 @@ export default async function Home() {
                   return <MarkingGroup key={item.id} item={item} />
                 }
 
+                if (item.type === 'sub_group') {
+                  return <MarkingSubGroup key={item.id} item={item} />
+                }
+
                 return <MarkingItem imgUrl={imgUrl} key={item.id} item={item} />
               })}
             </div>
@@ -61,6 +65,17 @@ export default async function Home() {
 function MarkingGroup({ item }: { item: Marking }) {
   return (
     <div className="col-span-full mt-6 mb-2 border-b-1 text-2xl">
+      <div className="pb-1">
+        <b className="uppercase">{item.group_name}</b>
+        {/* <span className="text-base text-gray-500">: {item.group_meaning}</span> */}
+      </div>
+    </div>
+  )
+}
+
+function MarkingSubGroup({ item }: { item: Marking }) {
+  return (
+    <div className="col-span-full mt-2 mb-1 border-b-1 text-xl">
       <div className="pb-1">
         <b className="uppercase">{item.group_name}</b>
         {/* <span className="text-base text-gray-500">: {item.group_meaning}</span> */}

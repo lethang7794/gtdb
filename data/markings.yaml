@@ -1,12 +1,16 @@
 data:
-###############################################################################
-###############################################################################
-#                              Vạch dọc đường
-###############################################################################
-###############################################################################
+  ###############################################################################
+  ###############################################################################
+  #                              Vạch dọc đường
+  ###############################################################################
+  ###############################################################################
   - id: 1.0
     type: group
     group_name: Vạch dọc đường
+
+  - id: 1.0.1
+    type: sub_group
+    group_name: Vạch phân chia 2 chiều xe chạy (ngược chiều)
 
   - id: 1.1
     short_name: Vạch 1.1.
@@ -151,6 +155,10 @@ data:
       - Vạch 1.5 là vạch đôi, đứt nét, màu vàng, bề rộng nét vẽ b = 15 cm; khoảng cách phía trong hai mép vạch đơn là 15 cm - 20 cm; khoảng cách nét liền L1 = (1  m – 2 m), khoảng cách nét đứt L2 = ( 3m – 6m), tỷ lệ L1:L2 = 1:3.
       - Tốc độ vận hành càng cao, chọn chiều dài đoạn nét liền L1 và chiều dài đoạn nét đứt L2 càng lớn. Chọn giá trị chiều dài đoạn nét liền L1 và đoạn nét đứt L2 nhỏ trong các trường hợp cần tăng tính dẫn hướng xe chạy (ví dụ trong phạm vi đường cong nằm bán kính nhỏ).
 
+  - id: 2.0
+    type: sub_group
+    group_name: Vạch phân chia các làn xe chạy (cùng chiều)
+
   - id: 2.1
     short_name: Vạch 2.1
     full_name: Vạch phân chia các làn xe cùng chiều (dạng vạch đơn, nét đứt)
@@ -243,6 +251,10 @@ data:
 
       Quy cách: Gồm Vạch 2.1 kết hợp với Vạch 2.2.
 
+  - id: 3.0
+    type: sub_group
+    group_name: Vạch giới hạn mép phần đường xe chạy
+
   - id: 3.1
     short_name: Vạch 3.1
     full_name: Vạch phân cách làn xe cơ giới và làn xe thô sơ
@@ -271,6 +283,10 @@ data:
       Quy cách vạch:
       - Vạch 3.1a là vạch đơn, liền nét, bề rộng vạch b = 15 cm - 20 cm. khoảng cách nét liền L1 = 0,6 m.
       - Vạch 3.1b là vạch đơn, nét đứt, bề rộng vạch b = (15 cm - 20 cm); khoảng cách nét đứt L2 = 0,6 m. Tỷ lệ L1/L2 = 1:1.
+
+  - id: 4.0
+    type: sub_group
+    group_name: Vạch kênh hóa dòng xe
 
   - id: 4.1a
     short_name: Vạch 4.1
@@ -380,6 +396,11 @@ data:
     meaning:
     docs: |+
 
+
+  - id: 4.4
+    type: sub_group
+    group_name: Vạch "cấm dừng xe" trên đường
+
   - id: 4.4a
     short_name: Vạch 4.4
     full_name: Vạch kẻ kiểu mắt võng
@@ -421,6 +442,10 @@ data:
     group: ['vạch dọc đường', 'vạch kênh hóa dòng xe']
     meaning:
     docs: |+
+
+  - id: 5.0
+    type: sub_group
+    group_name: Vạch kéo dài qua phạm vi nút giao
 
   - id: 5.1
     short_name: Vạch 5.1
@@ -476,7 +501,7 @@ data:
     full_name: Vạch làn chờ rẽ trái trong nút giao
     aka:
     image: Vach-5.3.jpeg
-    image_orientation: portrait
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
@@ -493,6 +518,10 @@ data:
       Quy cách vạch:
       - Vạch 5.3 gồm hai vạch đơn, đứt nét, màu trắng chạy song song hơi cong về bên trái và một vạch dừng xe (vạch 7.1) ở đầu các vạch đơn đứt nét. 
       - Vạch đơn đứt nét có bề rộng nét vẽ b = 15 cm, chiều dài đoạn nét liền L1 = (0,5 m - 1,0 m); chiều dài nét đứt L2 = (0,5 m - 1,0 m). Tỷ lệ L1/L2 = 1:1. 
+
+  - id: 6.0
+    type: sub_group
+    group_name: Vạch "cấm đỗ xe" trên đường
 
   - id: 6.1
     short_name: Vạch 6.1
@@ -552,6 +581,11 @@ data:
     type: group
     group_name: Vạch ngang đường
 
+
+  - id: 7.1
+    type: sub_group
+    group_name: Vạch dừng xe
+
   - id: 7.1a
     short_name: Vạch 7.1
     full_name: Vạch dừng xe
@@ -595,6 +629,10 @@ data:
     group: ['vạch ngang đường']
     meaning:
     docs: |+
+
+  - id: 7.2
+    type: sub_group
+    group_name: Vạch nhường đường
 
   - id: 7.2a
     short_name: Vạch 7.2
@@ -656,6 +694,10 @@ data:
         + Tại các nút giao cùng mức, vạch nhường đường nên đặt trùng với đường kéo dài của bó vỉa trục đường giao khi trên nhánh dẫn không bố trí vạch đi bộ cắt qua đường. 
         + Nếu trên nhánh dẫn có bố trí vạch đi bộ cắt qua đường thì vạch giảm tốc độ nhường đường nên đặt cách mép vạch người đi bộ qua đường (1,5 m - 3,0 m).
 
+  - id: 7.3
+    type: sub_group
+    group_name: Vạch đi bộ qua đường 
+
   - id: 7.3a1
     short_name: Vạch 7.3
     full_name: Vạch đi bộ qua đường
@@ -712,6 +754,10 @@ data:
     meaning:
     docs: |+
 
+  - id: 7.4.0
+    type: sub_group
+    group_name: Vạch xe đạp qua đường
+
   - id: 7.4
     short_name: Vạch 7.4
     full_name: Vạch xe đạp qua đường
@@ -735,6 +781,10 @@ data:
       Quy cách vạch như sau:
       - Hai vạch đứt quãng chạy song song rộng bằng nhau bằng 40 cm, chiều dài vạch đứt quãng là 40 cm và cách nhau 40 cm. 
       - Hai mép ngoài của 2 vạch cách nhau 1,8 m. 
+
+  - id: 7.5.0
+    type: sub_group
+    group_name: Vạch "cấm xe thô sơ"
 
   - id: 7.5
     short_name: Vạch 7.5
@@ -762,6 +812,10 @@ data:
       - Phạm vi làn cấm xe thô sơ lấy ranh giới là vạch giới hạn làn xe cơ giới. 
       - Phần kéo dài của vạch qua phạm vi làn xe thô sơ được vẽ bằng nét liền màu vàng có cùng bề rộng với phần nét đứt là 20 cm.
 
+  - id: 7.6.0
+    type: sub_group
+    group_name: Vạch khoảng cách "sắp đến" ...
+
   - id: 7.6
     short_name: Vạch 7.6
     full_name: Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường
@@ -783,6 +837,7 @@ data:
       Quy cách vạch:
       - Vạch có dạng hình thoi, màu trắng. 
       - Kích thước vạch xem trên Hình G.56.
+
 
   - id: 7.7
     short_name: Vạch 7.7
@@ -1027,6 +1082,10 @@ data:
     type: group
     group_name: Vạch loại khác
 
+  - id: 9.0.1
+    type: sub_group
+    group_name: Vạch "mũi tên" ...
+
   - id: 9.1
     short_name: Vạch 9.1
     full_name: Vạch cấm xe quay đầu
@@ -1128,6 +1187,10 @@ data:
 
       Đơn vị: cm
       Hình G.76 - Kích thước vạch mũi tên báo số làn xe phía trước bị giảm
+
+  - id: 9.5
+    type: sub_group
+    group_name: Vạch chữ ...
 
   - id: 9.5a
     short_name: 'Vạch 9.5a'
@@ -1317,6 +1380,10 @@ data:
           + 75 cm x 120 cm
           + 110 cm x 170 cm
           + 170 cm x 275 cm.
+
+  - id: 9.0.1
+    type: sub_group
+    group_name: Màu sắc mặt đường
 
   - id: 9.7
     short_name: Màu sắc mặt đường
