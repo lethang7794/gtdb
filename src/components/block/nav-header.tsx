@@ -16,7 +16,7 @@ export function NavHeader({
   title?: string
 }) {
   return (
-    <nav className="container -ml-4 flex h-[72px] items-center">
+    <nav className="container flex h-[72px] items-center">
       {isHome ? (
         <BaseLink href={constants.paths.root} className="-m-1.5 p-1.5">
           <span className="sr-only">

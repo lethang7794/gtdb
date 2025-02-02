@@ -1,6 +1,7 @@
 import type { Metadata, ResolvingMetadata } from 'next'
 import Image from 'next/image'
 import BaseLink from '@/components/base-link'
+import { NavHeader } from '@/components/block/nav-header'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
@@ -75,27 +76,38 @@ export default async function LuatTTATGTDB2024Page({
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
     return (
-      <div className="container flex flex-col items-center">
-        <div className="w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
-          <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
-            <div className="relative aspect-1200/630 w-full">
-              <Image
-                fill={true}
-                quality={100}
-                alt={sectionName}
-                src={getLuatGT2024OgImageById(section)}
-                className="w-full object-contain"
-              />
+      <>
+        <NavHeader
+          backHref={constants.paths.vbpl.LUAT_GT_2024}
+          title={`[Tóm tắt] ${sectionName}`}
+        />
+        <div className="container flex flex-col items-center">
+          <div className="w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
+            <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
+              <div className="relative aspect-1200/630 w-full">
+                <Image
+                  fill={true}
+                  quality={100}
+                  alt={sectionName}
+                  src={getLuatGT2024OgImageById(section)}
+                  className="w-full object-contain"
+                />
+              </div>
+            </BaseLink>
+          </div>
+          <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
+            <b>Tóm tắt</b> <i>{sectionName}</i>
+          </div>
+          <BaseLink
+            href={`${PAGE_PATH}#${section}`}
+            className="self-start sm:self-center"
+          >
+            <div className="mt-2 border-b-0! text-lg lg:text-3xl">
+              (Xem <b>toàn văn</b> tại đây)
             </div>
           </BaseLink>
         </div>
-        <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl"><b>Tóm tắt</b> <i>{sectionName}</i></div>
-        <BaseLink href={`${PAGE_PATH}#${section}`} className="self-start sm:self-center">
-          <div className="mt-2 border-b-0! text-lg lg:text-3xl">
-            (Xem <b>toàn văn</b> tại đây)
-          </div>
-        </BaseLink>
-      </div>
+      </>
     )
   }
 
