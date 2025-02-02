@@ -53,14 +53,14 @@ export default function RootLayout({
             <SpeedInsights />
           </>
         ) : null}
-        <div
+        {/* <div
           style={{
             height: '72px', // Use css variable will cause a delay because the css need time to load
             minHeight: '72px',
           }}
         >
           <Header />
-        </div>
+        </div> */}
         <div className="grow bg-white">{children}</div>
         <Footer />
         <Toaster />
