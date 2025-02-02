@@ -33,7 +33,7 @@ async function MarkmapPost({ params }: Props) {
     <div>
       <NavHeader
         backHref={constants.paths.root}
-        title={item.frontmatter.title || ''}
+        title={`[Sơ đồ] ${item.frontmatter.title}` || ''}
       />
       <Markmap data={item.content} classNameSvg={styles.markmapSVG} />
     </div>
