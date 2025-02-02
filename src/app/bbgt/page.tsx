@@ -10,6 +10,7 @@ import { constants } from '@/constant'
 import { ListOptions } from './list-options'
 import styles from './style.css'
 import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
 
 const PAGE_TITLE = 'Biển báo giao thông'
 
@@ -26,7 +27,7 @@ export default async function BbgtPage() {
   return (
     <>
       <NavHeader backToHome title={PAGE_TITLE} />
-      <main className="flex h-full flex-col justify-between p-6 md:p-8">
+      <MainLayout>
         <h1 className="text-center text-4xl font-bold">
           Biển báo giao thông đường bộ
         </h1>
@@ -72,7 +73,7 @@ export default async function BbgtPage() {
             </ListOptions>
           </Suspense>
         </div>
-      </main>
+      </MainLayout>
     </>
   )
 }
