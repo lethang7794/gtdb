@@ -3,6 +3,7 @@ import { processStaticParams } from '@/lib/static-params'
 import { getMarkmapById, getMarkmaps } from '@/service/markmap'
 import { constants } from '@/constant'
 import styles from './slug.module.css'
+import { NavHeader } from '@/components/block/nav-header'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -30,6 +31,10 @@ async function MarkmapPost({ params }: Props) {
 
   return (
     <div>
+      <NavHeader
+        backHref={constants.paths.root}
+        title={item.frontmatter.title || ''}
+      />
       <Markmap data={item.content} classNameSvg={styles.markmapSVG} />
     </div>
   )
