@@ -82,7 +82,7 @@ export default async function LuatTTATGTDB2024Page({
           title={`[Tóm tắt] ${sectionName}`}
         />
         <div className="container flex flex-col items-center">
-          <div className="w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
+          <div className="mt-8 w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
             <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
               <div className="relative aspect-1200/630 w-full">
                 <Image
