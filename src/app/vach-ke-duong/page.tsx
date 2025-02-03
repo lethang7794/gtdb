@@ -9,6 +9,7 @@ import { getMarkingImage, getMarkingsArray } from '@/service/marking'
 import { ListOptions } from './list-options'
 import styles from './style.css'
 import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
 
 const PAGE_TITLE = 'Vạch kẻ đường'
 
@@ -24,7 +25,7 @@ export default async function Home() {
   return (
     <>
       <NavHeader backToHome title={PAGE_TITLE} />
-      <main className="flex h-full flex-col justify-between p-6 md:p-8">
+      <MainLayout>
         <h1 className="text-center text-4xl font-bold">Vạch kẻ đường</h1>
         <p className="text-center text-2xl text-gray-500">
           (Bao gồm tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT
@@ -60,7 +61,7 @@ export default async function Home() {
             </ListOptions>
           </Suspense>
         </div>
-      </main>
+      </MainLayout>
     </>
   )
 }
