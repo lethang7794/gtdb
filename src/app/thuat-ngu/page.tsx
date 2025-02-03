@@ -9,6 +9,9 @@ import {
 } from '@/components/ui/collapsible'
 import { cn } from '@/lib/utils'
 import { getGlossaries } from '@/service/glossary'
+import { MainLayout } from '@/components/layout/main-layout'
+import { constants } from '@/constant'
+import { NavHeader } from '@/components/block/nav-header'
 
 export const metadata: Metadata = {
   title: 'Giải thích từ ngữ',
@@ -18,56 +21,59 @@ export default async function GlossariesPage() {
   const items = await getGlossaries()
 
   return (
-    <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(350px,1fr))] justify-between gap-4">
-        {items.map((item) => {
-          return (
-            <Collapsible
-              key={item.id}
-              className="space-x-2 rounded-lg border"
-              // defaultOpen
-            >
-              <CollapsibleTrigger asChild>
-                <div>
-                  <div className="flex items-center justify-between space-x-4 py-2 pr-2 pl-2">
-                    <div className="flex flex-wrap items-center gap-2 text-lg font-semibold">
-                      <Badge
-                        variant="outline"
-                        className={cn(
-                          'text-left text-lg',
-                          !isLocalTerm(item?.term) && 'border-transparent'
-                        )}
-                      >
-                        {item?.term}
-                      </Badge>
-                      <AkaBadges aka={item?.aka || ''} />
-                    </div>
-                    <Button variant="ghost" size="sm">
-                      <CaretSortIcon className="h-4 w-4" />
-                      <span className="sr-only">Toggle</span>
-                    </Button>
-                  </div>
-                  <div className="flex justify-end">
-                    {item?.source_abbr ? (
-                      <div className="mr-8 pr-4 pb-3 pl-3 text-xs text-balance text-gray-500 italic">
-                        ({item?.source_abbr})
+    <>
+      <NavHeader backHref={constants.paths.root} title="Giải thích từ ngữ" />
+      <MainLayout>
+        <div className="grid grid-cols-[repeat(auto-fill,minmax(350px,1fr))] justify-between gap-4">
+          {items.map((item) => {
+            return (
+              <Collapsible
+                key={item.id}
+                className="space-x-2 rounded-lg border"
+                // defaultOpen
+              >
+                <CollapsibleTrigger asChild>
+                  <div>
+                    <div className="flex items-center justify-between space-x-4 py-2 pr-2 pl-2">
+                      <div className="flex flex-wrap items-center gap-2 text-lg font-semibold">
+                        <Badge
+                          variant="outline"
+                          className={cn(
+                            'text-left text-lg',
+                            !isLocalTerm(item?.term) && 'border-transparent'
+                          )}
+                        >
+                          {item?.term}
+                        </Badge>
+                        <AkaBadges aka={item?.aka || ''} />
                       </div>
-                    ) : null}
+                      <Button variant="ghost" size="sm">
+                        <CaretSortIcon className="h-4 w-4" />
+                        <span className="sr-only">Toggle</span>
+                      </Button>
+                    </div>
+                    <div className="flex justify-end">
+                      {item?.source_abbr ? (
+                        <div className="mr-8 pr-4 pb-3 pl-3 text-xs text-balance text-gray-500 italic">
+                          ({item?.source_abbr})
+                        </div>
+                      ) : null}
+                    </div>
                   </div>
-                </div>
-              </CollapsibleTrigger>
-              <CollapsibleContent className="space-y-2">
-                <div className="mr-6 ml-3 border-t">
-                  <div className="pt-4 pr-4 pb-4 pl-3 font-mono text-sm whitespace-pre-wrap">
-                    {item?.explain}
+                </CollapsibleTrigger>
+                <CollapsibleContent className="space-y-2">
+                  <div className="mr-6 ml-3 border-t">
+                    <div className="pt-4 pr-4 pb-4 pl-3 font-mono text-sm whitespace-pre-wrap">
+                      {item?.explain}
+                    </div>
                   </div>
-                </div>
-              </CollapsibleContent>
-            </Collapsible>
-          )
-        })}
-      </div>
-    </main>
+                </CollapsibleContent>
+              </Collapsible>
+            )
+          })}
+        </div>
+      </MainLayout>
+    </>
   )
 }
 

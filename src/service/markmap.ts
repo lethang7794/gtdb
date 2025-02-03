@@ -28,5 +28,5 @@ export const getMarkmapById = async (slug: string) => {
   const filePath = path.join(MARKMAP_DIR_PATH, `${slug}.md`)
   const rawContent = await readFile(filePath)
   const { data: frontmatter, content } = matter(rawContent)
-  return { frontmatter, content: rawContent }
+  return { frontmatter, content }
 }

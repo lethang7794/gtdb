@@ -2,6 +2,9 @@ import type { Metadata } from 'next'
 import BaseLink from '@/components/base-link'
 import { Logo } from '@/components/block/logo'
 import { env } from '@/env.mjs'
+import { MainLayout } from '@/components/layout/main-layout'
+import { NavHeader } from '@/components/block/nav-header'
+import { constants } from '@/constant'
 
 export const metadata: Metadata = {
   title: 'Nội dung',
@@ -11,9 +14,10 @@ const EMAIL = env.NEXT_PUBLIC_EMAIL
 
 export default function ContentPage() {
   return (
-    <main className="flex grow flex-col justify-between p-6 md:p-8">
-      <div className="container">
-        <h1 className="text-center text-4xl font-bold">Nội dung</h1>
+    <>
+      <NavHeader backHref={constants.paths.root} title="Nội dung" />
+      <MainLayout className="container">
+        {/* <h1 className="text-center text-4xl font-bold">Nội dung</h1> */}
         <div className="mt-4 text-2xl text-gray-500">
           Tất cả văn bản pháp luật tại{' '}
           <Logo className="-mb-2 h-8!" display="inline-block" /> đều được trích
@@ -32,7 +36,7 @@ export default function ContentPage() {
             {EMAIL}
           </a>
         </div>
-      </div>
-    </main>
+      </MainLayout>
+    </>
   )
 }

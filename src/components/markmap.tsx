@@ -49,7 +49,7 @@ export default function MarkmapRender({
     // Create markmap and save to refMm
     if (refMm.current || !refToolbar.current || !refSvg.current) return
     const mm = Markmap.create(refSvg.current, {
-      autoFit: true,
+      autoFit: false,
       spacingVertical: 12,
       ...options,
     })
@@ -69,7 +69,7 @@ export default function MarkmapRender({
 
     const { root } = transformer.transform(value)
     mm.setData(root)
-    // mm.fit()
+    mm.fit()
   }, [value])
 
   useKeyPress('f', () => {

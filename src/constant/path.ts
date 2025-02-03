@@ -4,6 +4,7 @@ export const NGHI_DINH_168_PATH = 'nghi-dinh-168-2024'
 export const MARKMAPS_PATH = 'markmaps'
 
 export const PATHS = {
+  root: "/",
   bbgt: {
     ROOT: '/bbgt',
   },

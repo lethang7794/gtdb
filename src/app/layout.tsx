@@ -1,14 +1,14 @@
 import type { Metadata } from 'next'
+import { Inter as FontSans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
-import { Inter as FontSans } from 'next/font/google'
 import { Footer } from '@/components/block/footer'
 import Header from '@/components/block/header'
 import { Toaster } from '@/components/ui/toaster'
-import { cn } from '@/lib/utils'
 import { getMetadataBase } from '@/lib/get-metadata-base'
+import { cn } from '@/lib/utils'
 import { PreloadResources } from '@/app/preload-resources'
-import { env } from '@/env.mjs'
+import { env, shouldEnableVercelAnalytics } from '@/env.mjs'
 import './globals.css'
 
 const fontSans = FontSans({
@@ -42,22 +42,28 @@ export default function RootLayout({
       <body
         className={cn(
           // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
-          'body-bg-markdown bg-background flex min-h-screen flex-col font-sans antialiased',
+          'body-bg-markdown bg-background h-full flex flex-col font-sans antialiased',
           fontSans.variable
         )}
       >
         <PreloadResources />
-        <Analytics />
-        <SpeedInsights />
-        <div
+        {shouldEnableVercelAnalytics ? (
+          <>
+            <Analytics />
+            <SpeedInsights />
+          </>
+        ) : null}
+        {/* <div
           style={{
             height: '72px', // Use css variable will cause a delay because the css need time to load
             minHeight: '72px',
           }}
         >
           <Header />
+        </div> */}
+        <div className="grow flex flex-col bg-white">
+          <div className="grow">{children}</div>
         </div>
-        <div className="grow bg-white">{children}</div>
         <Footer />
         <Toaster />
       </body>

@@ -13,7 +13,7 @@ export default function AnchorLinkLuatGT2024({ id, children }: Props) {
 
   return (
     <>
-      <span id={id} />
+      <span id={id} className="anchor-link-target" />
       <AnchorLinkLuatGT2024Client id={id} explain={explain} element={El}>
         {children}
       </AnchorLinkLuatGT2024Client>

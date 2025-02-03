@@ -4,6 +4,8 @@ import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
 import { getND168OgImageById } from '@/service/nghi-dinh-168'
 import './style.css'
+import { NavHeader } from '@/components/block/nav-header'
+import { VbplLayout } from '@/components/layout/vbpl-layout'
 
 const LAW = constants.laws.nghiDinh168.id
 
@@ -16,14 +18,13 @@ export async function generateMetadata(
   { params, searchParams }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-
   return {
     title: ['Nghị định 168/2024'].filter(Boolean).join(' | '),
     description:
       'Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm phục hồi điểm giấy phép lái xe',
     openGraph: {
-       images: getND168OgImageById(VBPL_SECTION_ZERO)
-    }
+      images: getND168OgImageById(VBPL_SECTION_ZERO),
+    },
   }
 }
 
@@ -32,8 +33,13 @@ export default async function NghiDinh1682024Page({
   searchParams,
 }: Props) {
   return (
-    <div className="toc-hidden">
-      <NghiDinh1682024 />
-    </div>
+    <>
+      <NavHeader backHref={'/'} title="Nghị định 168/2024" />
+      <VbplLayout>
+        <div className="toc-hidden">
+          <NghiDinh1682024 />
+        </div>
+      </VbplLayout>
+    </>
   )
 }

@@ -1,10 +1,11 @@
 import type { Route } from 'next'
-import type { MDXComponents } from 'mdx/types'
 import dynamic from 'next/dynamic'
+import type { MDXComponents } from 'mdx/types'
 import BaseLink from '@/components/base-link'
 import AA from '@/components/block/anchor-link-luat-gt-2024.server'
 import A from '@/components/block/anchor-link.server'
 import { CollapsibleSection } from '@/components/block/collapsible'
+import { NavHeader } from '@/components/block/nav-header'
 import { Spinner } from '@/components/block/spinner'
 import RemarkTOCEffect from '@/components/effect/remark-toc'
 import RemarkTOCEffectLuatGT2024 from '@/components/effect/remark-toc-luat-gt-2024'
@@ -49,6 +50,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     Spinner,
     ShareButton,
     ShareButtonWrapper,
+    NavHeader,
     ...components,
   }
 }
