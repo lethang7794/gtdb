@@ -2,13 +2,7 @@
 
 import { useEffect, useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
-import {
-  isChuong,
-  isDiem,
-  isDieu,
-  isKhoan,
-  isMuc,
-} from '@/lib/vbpl-explain-section'
+import { extractSectionIds } from '@/lib/extract-section-ids'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
@@ -33,35 +27,12 @@ export default function RemarkTOCEffect() {
 
     const hash = window.location.hash
     const id = decodeURI(hash.replace('#', ''))
-    console.log('🚀 ~ useLayoutEffect ~ id:', id)
 
-    let first, second, third: Element | null
-    let firstId, secondId, thirdId: string
-    if (isDiem(id)) {
-      const [dieuId, khoanId] = id.split('.')
-      firstId = dieuId
-      secondId = `${dieuId}.${khoanId}`
-      thirdId = id
-    }
-    if (isKhoan(id)) {
-      const [diemId, khoanId] = id.split('.')
-      firstId = diemId
-      secondId = `${diemId}.${khoanId}`
-    }
-    if (isDieu(id)) {
-      const [dieuId] = id.split('.')
-      firstId = dieuId
-    }
-    if (isChuong(id)) {
-      const [chuongId] = id.split('.')
-      firstId = chuongId
-    }
-    if (isMuc(id)) {
-      const [chuongId, mucId] = id.split('.')
-      firstId = chuongId
-      secondId = mucId
-    }
+    let { firstId, secondId, thirdId } = extractSectionIds(id)
 
+    let first: Element | null = null
+    let second: Element | null = null
+    let third: Element | null = null
     first =
       document.querySelector(`h4:has(.anchor-link[id*="${firstId}"])`) ||
       document.querySelector(`h2:has(.anchor-link[id*="${firstId}"])`)
