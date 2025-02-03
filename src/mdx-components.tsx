@@ -30,6 +30,8 @@ const ShareButtonWrapper = dynamic(() =>
   import('@/components/block/share-button').then((m) => m.ShareButtonWrapper)
 )
 
+const GoTo = dynamic(() => import('@/components/block/go-to'))
+
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
     a: ({ children, href, ...props }) => (
@@ -51,6 +53,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     ShareButton,
     ShareButtonWrapper,
     NavHeader,
+    GoTo,
     ...components,
   }
 }

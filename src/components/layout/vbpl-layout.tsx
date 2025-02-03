@@ -9,7 +9,7 @@ export function VbplLayout({
   className?: string
 }) {
   return (
-    <MainLayout className={cn('relative', className)}>
+    <MainLayout className={cn('relative px-0 md:px-0', className)}>
       <div className="container pr-4 pl-8">{children}</div>
     </MainLayout>
   )
