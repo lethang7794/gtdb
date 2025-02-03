@@ -9,7 +9,7 @@ export default async function GioiThieuPage() {
       <NavHeader backHref={constants.paths.root} title="Giới thiệu" />
       <MainLayout className="bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container pb-8">
-          <div className="flex h-auto w-full flex-col items-center justify-start text-center font-bold tracking-[-2] lg:h-[calc(100vh-72px)] lg:flex-row lg:justify-center">
+          <div className="flex h-auto w-full flex-col items-center justify-start text-center font-bold tracking-[-2] lg:h-[calc(100vh-var(--header-height))] lg:flex-row lg:justify-center">
             <div className="h-16 lg:hidden" />
             <div className="flex w-full flex-col px-8 text-4xl leading-[4rem] sm:w-[412px] md:w-[480px] lg:px-0 lg:text-[7.5rem] lg:leading-[10rem]">
               <div

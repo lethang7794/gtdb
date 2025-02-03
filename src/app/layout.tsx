@@ -55,6 +55,8 @@ export default function RootLayout({
         ) : null}
         {/* <div
           style={{
+            height: 'var(--header-height)',
+            minHeight: 'var(--header-height)',
             height: '72px', // Use css variable will cause a delay because the css need time to load
             minHeight: '72px',
           }}

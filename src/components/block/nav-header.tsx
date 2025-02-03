@@ -21,17 +21,17 @@ export function NavHeader({
   return (
     <nav
       className={cn(
-        'sticky top-0 bg-white z-50 h-[72px] shadow-md flex items-center',
+        'sticky top-0 bg-white z-50 h-(--header-height) shadow-md flex items-center',
         className
       )}
     >
-      <div className="container flex items-center">
+      <div className="ml-1.5 grow md:container flex items-center">
         {isHome ? (
           <BaseLink href={constants.paths.root} className="-m-1.5 p-1.5">
             <span className="sr-only">
               {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
             </span>
-            <Logo className="min-w-24 text-accent-foreground" />
+            <Logo className="min-w-24 bg-transparent! text-accent-foreground" />
           </BaseLink>
         ) : null}
         {backToHome || backHref ? (
@@ -43,7 +43,7 @@ export function NavHeader({
               <ChevronLeft size="32" />
             </BaseLink>
             <div className="grow" />
-            <div className="mx-4 font-bold line-clamp-3 text-black">
+            <div className="mx-1.5 font-bold line-clamp-2 text-black">
               {title}
             </div>
             <div className="grow" />

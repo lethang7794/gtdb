@@ -155,8 +155,14 @@
 
 /* Custom variables */
 :root {
-  --header-height: 72px;
+  --header-height: 48px;
   --scroll-margin-top: calc(var(--header-height) + 12px);
+}
+
+@media (width >= 64rem) {
+  :root {
+    --header-height: 48px;
+  }
 }
 
 /* BaseLink */
@@ -221,8 +227,8 @@ html {
 
 .section-first {
   background-color: red;
-  padding: 8px 8px 8px 20px;
-  margin: 16px -8px 8px -20px !important;
+  padding: 4px 8px 4px 20px;
+  margin: 20px -8px 12px -20px !important;
   /*      24px 0px 16px 0px */
   border-radius: 8px;
   color: white;
