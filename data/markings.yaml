@@ -822,7 +822,7 @@ data:
     official_name: Vạch đi bộ qua đường
     aka:
     image: Vach-7.3b.png
-    image_orientation: landscape
+    image_orientation: square
     attribute:
       number_of_lines:
       type:
