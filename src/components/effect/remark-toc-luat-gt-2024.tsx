@@ -40,12 +40,10 @@ export default function RemarkTOCEffect() {
     let third: Element | null = null
     third = document.querySelector(`p:has(.anchor-link[id*="${thirdId!}"])`)
     second = document.querySelector(`p:has(.anchor-link[id*="${secondId}"])`)
-    first =
-      document.querySelector(`h4:has(.anchor-link[id*="${firstId}"])`) ||
-      document.querySelector(`h2:has(.anchor-link[id*="${firstId}"])`)
+    first = document.querySelector(`h3:has(.anchor-link[id*="${firstId}"])`)
     third!?.classList.add('luat-2024-section-third')
     second!?.classList.add('luat-2024-section-second')
-    // first!?.classList.add('luat-2024-section-first')
+    first!?.classList.add('luat-2024-section-first')
   }, [router])
 
   useEffect(() => {

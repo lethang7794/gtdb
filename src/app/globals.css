@@ -242,17 +242,7 @@ html {
 }
 
 /* Luat 2024 */
-
 .luat-2024-section-third {
-  /* &::before {
-    margin-top: 16px;
-    content: '';
-  }
-  &::after {
-    content: '';
-    margin-bottom: 16px;
-  } */
-
   background-color: green;
   padding: 4px 8px 4px 36px;
   margin: -4px -8px -4px -36px !important;
@@ -265,6 +255,7 @@ html {
     text-decoration: underline !important;
   }
 }
+
 .luat-2024-section-second {
   background-color: yellow;
   padding: 4px 8px 4px 36px;
@@ -280,4 +271,16 @@ li:has(.luat-2024-section-second) {
   &::marker {
     color: black;
   }
+}
+
+.luat-2024-section-first {
+  background-color: red;
+  padding: 4px 8px 4px 20px;
+  margin: 20px -8px -4px -20px !important;
+  /*      24px 0px 16px 0px */
+  border-radius: 8px;
+  color: white;
+}
+.luat-2024-section-first + ol .luat-2024-section-second {
+  margin-top: 12px !important;
 }
