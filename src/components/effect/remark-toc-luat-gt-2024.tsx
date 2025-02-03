@@ -2,6 +2,7 @@
 
 import { useEffect, useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
+import { extractSectionIds } from '@/lib/extract-section-ids'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
@@ -23,6 +24,28 @@ export default function RemarkTOCEffect() {
     // return () => {
     //   body.classList.remove('body-bg-markdown')
     // }
+
+    const hash = window.location.hash
+    const id = decodeURI(hash.replace('#', ''))
+
+    let { firstId, secondId, thirdId } = extractSectionIds(id)
+    console.log('🚀 ~ useLayoutEffect ~ { firstId, secondId, thirdId }:', {
+      firstId,
+      secondId,
+      thirdId,
+    })
+
+    let first: Element | null = null
+    let second: Element | null = null
+    let third: Element | null = null
+    third = document.querySelector(`p:has(.anchor-link[id*="${thirdId!}"])`)
+    second = document.querySelector(`p:has(.anchor-link[id*="${secondId}"])`)
+    first =
+      document.querySelector(`h4:has(.anchor-link[id*="${firstId}"])`) ||
+      document.querySelector(`h2:has(.anchor-link[id*="${firstId}"])`)
+    third!?.classList.add('luat-2024-section-third')
+    second!?.classList.add('luat-2024-section-second')
+    // first!?.classList.add('luat-2024-section-first')
   }, [router])
 
   useEffect(() => {
