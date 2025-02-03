@@ -2,6 +2,7 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import Image from 'next/image'
 import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
@@ -81,7 +82,7 @@ export default async function LuatTTATGTDB2024Page({
           backHref={constants.paths.vbpl.LUAT_GT_2024}
           title={`[Tóm tắt] ${sectionName}`}
         />
-        <div className="container flex flex-col items-center">
+        <MainLayout className="items-center container">
           <div className="mt-8 w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
             <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
               <div className="relative aspect-1200/630 w-full">
@@ -96,7 +97,7 @@ export default async function LuatTTATGTDB2024Page({
             </BaseLink>
           </div>
           <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
-            <b>Tóm tắt</b> <i>{sectionName}</i>
+            <b>[Tóm tắt]</b> <i>{sectionName}</i>
           </div>
           <BaseLink
             href={`${PAGE_PATH}#${section}`}
@@ -106,7 +107,7 @@ export default async function LuatTTATGTDB2024Page({
               (Xem <b>toàn văn</b> tại đây)
             </div>
           </BaseLink>
-        </div>
+        </MainLayout>
       </>
     )
   }

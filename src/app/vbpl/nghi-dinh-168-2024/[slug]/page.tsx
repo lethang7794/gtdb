@@ -82,8 +82,8 @@ export default async function NghiDinh1682024Page({
           backHref={constants.paths.vbpl.NGHI_DINH_168}
           title={`[Tóm tắt] ${sectionName}`}
         />
-        <MainLayout className="py-4">
-          <div className="w-full max-w-[1200px] overflow-hidden rounded-xl lg:rounded-4xl border-2 lg:border-4">
+        <MainLayout className="items-center container">
+          <div className="w-full max-w-[1200px]  overflow-hidden rounded-xl lg:rounded-4xl border-2 lg:border-4">
             <BaseLink href={`${PAGE_PATH}#${section}`} className="">
               <div className="relative aspect-1200/630 w-full">
                 <Image
@@ -97,7 +97,7 @@ export default async function NghiDinh1682024Page({
             </BaseLink>
           </div>
           <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
-            <b>Tóm tắt</b> <i>{sectionName}</i>
+            <b>[Tóm tắt]</b> <i>{sectionName}</i>
           </div>
           <BaseLink
             href={`${PAGE_PATH}#${section}`}

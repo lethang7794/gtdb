@@ -9,6 +9,8 @@ export default function MarkdownLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className={`${GITHUB_MARKDOWN_CSS_CLASS} font-sans`}>{children}</div>
+    <div className={`${GITHUB_MARKDOWN_CSS_CLASS} font-sans h-full`}>
+      {children}
+    </div>
   )
 }

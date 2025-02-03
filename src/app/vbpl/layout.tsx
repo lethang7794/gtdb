@@ -1,4 +1,5 @@
 import MarkdownLayout from '@/components/layout/markdown-layout'
+import './style.css'
 
 export default function VbplShareLayout({
   children,
