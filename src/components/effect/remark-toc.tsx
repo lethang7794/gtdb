@@ -32,7 +32,7 @@ export default function RemarkTOCEffect() {
     // }
 
     const hash = window.location.hash
-    const id = hash.replace('#', '')
+    const id = decodeURI(hash.replace('#', ''))
     console.log('🚀 ~ useLayoutEffect ~ id:', id)
 
     let first, second, third: Element | null
