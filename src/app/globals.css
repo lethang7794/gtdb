@@ -194,10 +194,9 @@ html {
 }
 
 .section-third {
-  box-sizing: content-box;
   background-color: green;
-  padding: 8px 8px 8px 24px;
-  margin: -8px -8px -8px 8px !important;
+  padding: 4px 8px 4px 24px;
+  margin: -4px -8px -4px 8px !important;
   /*      0px 0px 16px 32px */
   border-radius: 8px;
   color: white;
@@ -207,11 +206,14 @@ html {
     text-decoration: underline !important;
   }
 }
+.section-third + p {
+  margin-top: 16px !important;
+}
 
 .section-second {
   background-color: yellow;
-  padding: 2px 0px 2px 24px;
-  margin: -2px 0px 14px -8px !important;
+  padding: 2px 8px 2px 24px;
+  margin: -2px -8px 14px -8px !important;
   /*      16px 0px 16px 16px */
   border-radius: 8px;
   color: black;
@@ -223,5 +225,18 @@ html {
   margin: 16px -8px 8px -20px !important;
   /*      24px 0px 16px 0px */
   border-radius: 8px;
+  color: white;
+}
+
+.go-to-section-third {
+  background-color: green;
+  color: white;
+}
+.go-to-section-second {
+  background-color: yellow;
+  color: black;
+}
+.go-to-section-first {
+  background-color: red;
   color: white;
 }
