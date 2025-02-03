@@ -93,6 +93,15 @@ p .anchor-link > svg {
   height: 2.75em;
 }
 
+h2:has(.anchor-link),
+h3:has(.anchor-link),
+h4:has(.anchor-link),
+h5:has(.anchor-link),
+h6:has(.anchor-link),
+p:has(.anchor-link) {
+  scroll-margin-top: var(--scroll-margin-top);
+}
+
 h2:has(.anchor-link):hover .anchor-link > svg,
 h3:has(.anchor-link):hover .anchor-link > svg,
 h4:has(.anchor-link):hover .anchor-link > svg,

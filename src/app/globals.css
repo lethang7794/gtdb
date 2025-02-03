@@ -156,6 +156,7 @@
 /* Custom variables */
 :root {
   --header-height: 72px;
+  --scroll-margin-top: calc(var(--header-height) + 12px);
 }
 
 /* BaseLink */
@@ -185,4 +186,42 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+/* VBPL */
+.anchor-link-target {
+  scroll-margin-top: var(--scroll-margin-top);
+}
+
+.section-third {
+  box-sizing: content-box;
+  background-color: green;
+  padding: 8px 8px 8px 24px;
+  margin: -8px -8px -8px 8px !important;
+  /*      0px 0px 16px 32px */
+  border-radius: 8px;
+  color: white;
+
+  a {
+    color: white !important;
+    text-decoration: underline !important;
+  }
+}
+
+.section-second {
+  background-color: yellow;
+  padding: 2px 0px 2px 24px;
+  margin: -2px 0px 14px -8px !important;
+  /*      16px 0px 16px 16px */
+  border-radius: 8px;
+  color: black;
+}
+
+.section-first {
+  background-color: red;
+  padding: 8px 8px 8px 20px;
+  margin: 16px -8px 8px -20px !important;
+  /*      24px 0px 16px 0px */
+  border-radius: 8px;
+  color: white;
 }

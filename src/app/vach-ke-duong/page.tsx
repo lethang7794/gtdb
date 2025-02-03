@@ -8,9 +8,13 @@ import { Marking } from '@/model/Marking'
 import { getMarkingImage, getMarkingsArray } from '@/service/marking'
 import { ListOptions } from './list-options'
 import styles from './style.css'
+import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
+
+const PAGE_TITLE = 'Vạch kẻ đường'
 
 export const metadata: Metadata = {
-  title: 'Vạch kẻ đường',
+  title: PAGE_TITLE,
   description:
     'Tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }
@@ -19,46 +23,46 @@ export default async function Home() {
   const items = await getMarkingsArray()
 
   return (
-    <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <h1 className="text-center text-4xl font-bold">Vạch kẻ đường</h1>
-
-      <p className="text-center text-2xl text-gray-500">
-        (Bao gồm tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT
-        {/* -{' '}
-        <BaseLink
-          href={'/vbpl/danh-sach'}
-          className="text-blue-500 hover:underline"
+    <>
+      <NavHeader backToHome title={PAGE_TITLE} />
+      <MainLayout>
+        <h1 className="text-center text-4xl font-bold">Vạch kẻ đường</h1>
+        <p className="text-center text-2xl text-gray-500">
+          (Bao gồm tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT
+          {/* -{' '}
+          <BaseLink
+            href={'/vbpl/danh-sach'}
+            className="text-blue-500 hover:underline"
+          >
+            Nguồn
+          </BaseLink> */}
+          )
+        </p>
+        <div
+          id="layout-wrapper"
+          className={cn('more-cols opacity-0', styles.layout)}
         >
-          Nguồn
-        </BaseLink> */}
-        )
-      </p>
-
-      <div
-        id="layout-wrapper"
-        className={cn('more-cols opacity-0', styles.layout)}
-      >
-        <Suspense>
-          <ListOptions>
-            <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
-              {items?.map((item) => {
-                const imgUrl = getMarkingImage(item)
-
-                if (item.type === 'group') {
-                  return <MarkingGroup key={item.id} item={item} />
-                }
-
-                if (item.type === 'sub_group') {
-                  return <MarkingSubGroup key={item.id} item={item} />
-                }
-
-                return <MarkingItem imgUrl={imgUrl} key={item.id} item={item} />
-              })}
-            </div>
-          </ListOptions>
-        </Suspense>
-      </div>
-    </main>
+          <Suspense>
+            <ListOptions>
+              <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
+                {items?.map((item) => {
+                  const imgUrl = getMarkingImage(item)
+                  if (item.type === 'group') {
+                    return <MarkingGroup key={item.id} item={item} />
+                  }
+                  if (item.type === 'sub_group') {
+                    return <MarkingSubGroup key={item.id} item={item} />
+                  }
+                  return (
+                    <MarkingItem imgUrl={imgUrl} key={item.id} item={item} />
+                  )
+                })}
+              </div>
+            </ListOptions>
+          </Suspense>
+        </div>
+      </MainLayout>
+    </>
   )
 }
 

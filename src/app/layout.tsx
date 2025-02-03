@@ -42,7 +42,7 @@ export default function RootLayout({
       <body
         className={cn(
           // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
-          'body-bg-markdown bg-background flex min-h-screen flex-col font-sans antialiased',
+          'body-bg-markdown bg-background h-full flex flex-col font-sans antialiased',
           fontSans.variable
         )}
       >
@@ -53,15 +53,17 @@ export default function RootLayout({
             <SpeedInsights />
           </>
         ) : null}
-        <div
+        {/* <div
           style={{
             height: '72px', // Use css variable will cause a delay because the css need time to load
             minHeight: '72px',
           }}
         >
           <Header />
+        </div> */}
+        <div className="grow flex flex-col bg-white">
+          <div className="grow">{children}</div>
         </div>
-        <div className="grow bg-white">{children}</div>
         <Footer />
         <Toaster />
       </body>

@@ -9,9 +9,13 @@ import { getRoadSignImage, getRoadSignsArray } from '@/service/road-sign'
 import { constants } from '@/constant'
 import { ListOptions } from './list-options'
 import styles from './style.css'
+import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
+
+const PAGE_TITLE = 'Biển báo giao thông'
 
 export const metadata: Metadata = {
-  title: 'Biển báo giao thông',
+  title: PAGE_TITLE,
   description:
     '398 biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
 }
@@ -21,56 +25,56 @@ export default async function BbgtPage() {
   // const firstTen = entries.slice(0, 30)
 
   return (
-    <main className="flex h-full flex-col justify-between p-6 md:p-8">
-      <h1 className="text-center text-4xl font-bold">
-        Biển báo giao thông đường bộ
-      </h1>
-
-      <p className="text-center text-2xl text-gray-500">
-        (398 biển báo theo QCVN 41:2019/BGTVT
-        {/* -{' '} */}
-        {/* <BaseLink
-          href={'/vbpl/danh-sach'}
-          className="text-blue-500 hover:underline"
+    <>
+      <NavHeader backToHome title={PAGE_TITLE} />
+      <MainLayout>
+        <h1 className="text-center text-4xl font-bold">
+          Biển báo giao thông đường bộ
+        </h1>
+        <p className="text-center text-2xl text-gray-500">
+          (398 biển báo theo QCVN 41:2019/BGTVT
+          {/* -{' '} */}
+          {/* <BaseLink
+            href={'/vbpl/danh-sach'}
+            className="text-blue-500 hover:underline"
+          >
+            Nguồn
+          </BaseLink> */}
+          )
+        </p>
+        <div
+          id="layout-wrapper"
+          className={cn('more-cols opacity-0', styles.layout)}
         >
-          Nguồn
-        </BaseLink> */}
-        )
-      </p>
-
-      <div
-        id="layout-wrapper"
-        className={cn('more-cols opacity-0', styles.layout)}
-      >
-        <Suspense>
-          <ListOptions>
-            <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
-              {entries?.map(([signKey, sign]) => {
-                if (sign.type === 'group') {
+          <Suspense>
+            <ListOptions>
+              <div className="layout mt-8 grid grid-cols-[repeat(auto-fill,minmax(100px,1fr))] justify-between gap-4 md:grid-cols-[repeat(auto-fill,minmax(120px,1fr))]">
+                {entries?.map(([signKey, sign]) => {
+                  if (sign.type === 'group') {
+                    return (
+                      <RoadSignGroup
+                        key={signKey}
+                        sign={sign}
+                        signKey={signKey}
+                      />
+                    )
+                  }
+                  const imgUrl = getRoadSignImage(sign)
                   return (
-                    <RoadSignGroup
+                    <RoadSignItem
                       key={signKey}
+                      imgUrl={imgUrl}
                       sign={sign}
                       signKey={signKey}
                     />
                   )
-                }
-
-                const imgUrl = getRoadSignImage(sign)
-                return (
-                  <RoadSignItem
-                    key={signKey}
-                    imgUrl={imgUrl}
-                    sign={sign}
-                    signKey={signKey}
-                  />
-                )
-              })}
-            </div>
-          </ListOptions>
-        </Suspense>
-      </div>
-    </main>
+                })}
+              </div>
+            </ListOptions>
+          </Suspense>
+        </div>
+      </MainLayout>
+    </>
   )
 }
 

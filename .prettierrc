@@ -5,10 +5,6 @@
   "tabWidth": 2,
   "trailingComma": "es5",
   "useTabs": false,
-  "plugins": [
-    "@ianvs/prettier-plugin-sort-imports",
-    "prettier-plugin-tailwindcss"
-  ],
   "importOrder": [
     "^next(.*)$",
     "^react(.*)$",

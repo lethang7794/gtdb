@@ -9,4 +9,9 @@ export const LAWS = {
     short_name: 'Nghị định 168/2024',
     full_name: 'Nghị định 168/2024',
   },
+  luatGT2008: {
+    id: 'luat2008',
+    short_name: 'Luật GTĐB 2008',
+    full_name: 'Luật Giao thông đường bộ 2008',
+  },
 } as const

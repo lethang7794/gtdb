@@ -6,6 +6,7 @@ import {
   Signpost,
 } from 'lucide-react'
 import BaseLink from '@/components/base-link'
+import { NavHeader } from '@/components/block/nav-header'
 import { EXPIRE_LAWS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
 import { constants } from '@/constant'
 import { ExtraLinks } from './root/extra-links'
@@ -15,6 +16,7 @@ const PATHS = constants.paths
 export default async function Home() {
   return (
     <>
+      <NavHeader isHome />
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container px-4 pb-8 md:px-8">
           <div className="grid gap-4">
