@@ -2,6 +2,7 @@
 
 import { useEffect, useLayoutEffect } from 'react'
 import { useRouter } from 'next/navigation'
+import { isDiem, isDieu } from '@/lib/vbpl-explain-section'
 
 export default function RemarkTOCEffect() {
   const router = useRouter()
@@ -23,6 +24,26 @@ export default function RemarkTOCEffect() {
     // return () => {
     //   body.classList.remove('body-bg-markdown')
     // }
+
+    const hash = window.location.hash
+    const id = hash.replace('#', '')
+    console.log('🚀 ~ useLayoutEffect ~ id:', id)
+
+    let first, second, third: Element | null
+    let firstId, secondId, thirdId: string
+    if (isDiem(id)) {
+      const [diemId, khoanId, dieuId] = id.split('.')
+      firstId = diemId
+      secondId = `${diemId}.${khoanId}`
+      thirdId = id
+
+      first = document.querySelector(`h4[id*="${firstId}"]`)
+      second = document.querySelector(`h5[id*="${secondId}"]`)
+      third = document.querySelector(`p:has(.anchor-link[id*="${thirdId}"])`)
+    }
+    third!?.classList.add('section-third')
+    second!?.classList.add('section-second')
+    first!?.classList.add('section-first')
   }, [router])
 
   useEffect(() => {
