@@ -12,7 +12,7 @@ export function MainLayout({
 }) {
   return (
     <main
-      className={cn('grow h-full flex flex-col p-6 md:p-8', className)}
+      className={cn('grow flex flex-col p-6 md:p-8', className)}
       style={style}
     >
       {children}
