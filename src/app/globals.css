@@ -156,6 +156,7 @@
 /* Custom variables */
 :root {
   --header-height: 72px;
+  --scroll-margin-top: calc(var(--header-height) + 12px);
 }
 
 /* BaseLink */
@@ -185,4 +186,8 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+.anchor-link-target {
+  scroll-margin-top: var(--scroll-margin-top);
 }

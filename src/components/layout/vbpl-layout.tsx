@@ -1,7 +1,16 @@
-export function VbplLayout({ children }: { children: React.ReactNode }) {
+import { cn } from '@/lib/utils'
+import { MainLayout } from './main-layout'
+
+export function VbplLayout({
+  children,
+  className,
+}: {
+  children?: React.ReactNode
+  className?: string
+}) {
   return (
-    <div className="relative flex h-full flex-col justify-between py-6 md:py-8">
+    <MainLayout className={cn('relative', className)}>
       <div className="container pr-4 pl-8">{children}</div>
-    </div>
+    </MainLayout>
   )
 }

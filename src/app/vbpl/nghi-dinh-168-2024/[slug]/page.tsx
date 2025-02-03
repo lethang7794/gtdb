@@ -2,6 +2,7 @@ import type { Metadata, ResolvingMetadata } from 'next'
 import Image from 'next/image'
 import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
+import { MainLayout } from '@/components/layout/main-layout'
 import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
@@ -81,7 +82,7 @@ export default async function NghiDinh1682024Page({
           backHref={constants.paths.vbpl.NGHI_DINH_168}
           title={`[Tóm tắt] ${sectionName}`}
         />
-        <div className="container flex flex-col items-center">
+        <MainLayout className="py-4">
           <div className="w-full max-w-[1200px] overflow-hidden rounded-xl lg:rounded-4xl border-2 lg:border-4">
             <BaseLink href={`${PAGE_PATH}#${section}`} className="">
               <div className="relative aspect-1200/630 w-full">
@@ -106,7 +107,7 @@ export default async function NghiDinh1682024Page({
               (Xem <b>toàn văn</b> tại đây)
             </div>
           </BaseLink>
-        </div>
+        </MainLayout>
       </>
     )
   }

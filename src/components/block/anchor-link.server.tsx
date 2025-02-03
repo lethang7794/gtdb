@@ -13,7 +13,7 @@ export default function AnchorLink({ id, children }: Props) {
 
   return (
     <>
-      <span id={id} />
+      <span id={id} className="anchor-link-target" />
       <AnchorLinkClient id={id} explain={explain} element={El}>
         {children}
       </AnchorLinkClient>
