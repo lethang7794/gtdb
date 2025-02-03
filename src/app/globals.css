@@ -210,8 +210,8 @@ html {
 .section-second {
   background-color: yellow;
   padding: 2px 0px 2px 24px;
-  margin: -2px 0px -2px -8px !important;
-  /*      16px 0px 0px 16px */
+  margin: -2px 0px 14px -8px !important;
+  /*      16px 0px 16px 16px */
   border-radius: 8px;
   color: black;
 }
