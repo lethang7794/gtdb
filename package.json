@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "post-build": "next-sitemap",
     "build-opengraph-images-test": "NEXT_PUBLIC_BUILD_OG_IMAGES='true' NEXT_PUBLIC_OUTPUT_EXPORT='true' NEXT_PUBLIC_STATIC_PARAMS=10 just build_opengraph_images",
     "build-opengraph-images-all": "NEXT_PUBLIC_BUILD_OG_IMAGES='true' NEXT_PUBLIC_OUTPUT_EXPORT='true' just build_opengraph_images",
     "start": "next start",
@@ -67,6 +68,7 @@
     "markmap-view": "^0.17.0",
     "next": "14.2.21",
     "next-mdx-remote": "^5.0.0",
+    "next-sitemap": "^4.2.3",
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-day-picker": "8.10.1",
