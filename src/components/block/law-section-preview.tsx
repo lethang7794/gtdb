@@ -160,7 +160,7 @@ export function LawSectionPreview({
       ) : null}
       <div tw="absolute flex bottom-1 right-16 text-white items-center">
         {/* <div tw="">{showMore}</div> */}
-        <div tw="ml-1 -mr-4">www.</div>
+        {/* <div tw="ml-1 -mr-4">www.</div> */}
         <LogoBlank />
         <div tw="-ml-4">{env.NEXT_PUBLIC_PARENT_DOMAIN}</div>
       </div>

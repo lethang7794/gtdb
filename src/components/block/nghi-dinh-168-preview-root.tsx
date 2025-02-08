@@ -83,7 +83,7 @@ export const NghiDinh168PreviewRoot = () => {
         }}
       >
         <div tw="">Xem chi tiết tại:</div>
-        <div tw="ml-1 -mr-4">www.</div>
+        {/* <div tw="ml-1 -mr-4">www.</div> */}
         <LogoBlank />
         <div tw="-ml-4">{env.NEXT_PUBLIC_PARENT_DOMAIN}</div>
       </div>
