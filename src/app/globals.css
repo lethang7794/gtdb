@@ -314,7 +314,6 @@ li:has(.luat-2024-section-second) {
 }
 
 li:has(+ li .luat-2024-section-second) p {
-  background-color: deeppink;
   margin-top: 12px !important;
 }
 
