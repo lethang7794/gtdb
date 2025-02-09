@@ -89,7 +89,7 @@ export default async function GioiThieuPage() {
               <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Ban ngày hay ban đêm
                 <div className="mt-4 ml-8 flex justify-start">
-                  <div className="relative w-96">
+                  <div className="relative w-64 m:w-96">
                     <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
@@ -97,7 +97,7 @@ export default async function GioiThieuPage() {
                         alt="Đọc mọi lúc với chế độ sáng"
                       />
                     </div>
-                    <div className="absolute top-16 left-16 w-80">
+                    <div className="absolute top-16 left-16 w-52 m:w-80">
                       <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
                           fill
@@ -113,7 +113,7 @@ export default async function GioiThieuPage() {
               <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Máy tính hay điện thoại
                 <div className="mt-4 ml-8 flex justify-start">
-                  <div className="relative w-96">
+                  <div className="relative w-64 m:w-96">
                     <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
@@ -121,7 +121,7 @@ export default async function GioiThieuPage() {
                         alt="Đọc mọi nơi trên máy tính"
                       />
                     </div>
-                    <div className="absolute top-16 left-16 w-80">
+                    <div className="absolute top-16 left-16 w-52 m:w-80">
                       <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
                           src="/assets/showcase/moi-noi-mobile.png"
@@ -200,7 +200,7 @@ export default async function GioiThieuPage() {
               <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 ... dù là quốc hiệu
                 <div className="mt-4 ml-8 flex justify-start">
-                  <div className="relative w-96">
+                  <div className="relative w-64 m:w-96">
                     <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
@@ -214,7 +214,7 @@ export default async function GioiThieuPage() {
               <div className="mt-4 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 ...hay người ký
                 <div className="mt-4 ml-8 flex justify-start">
-                  <div className="relative w-96">
+                  <div className="relative w-64 m:w-96">
                     <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
@@ -229,7 +229,7 @@ export default async function GioiThieuPage() {
               <div className="mt-8 text-3xl lg:text-[2.5rem] lg:leading-[4rem]">
                 Không thiếu một biển báo
               </div>
-              <div className="mt-4 ml-8 flex justify-start">
+              <div className="mt-4 -ml-8 m:ml-8 flex justify-start">
                 <div className="relative w-96">
                   <div className="relative mr-32 mb-32 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
@@ -264,7 +264,7 @@ export default async function GioiThieuPage() {
                 Bất kỳ vạch kẻ đường
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-64 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
@@ -279,7 +279,7 @@ export default async function GioiThieuPage() {
                 Liên kết đến giải thích
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-64 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
@@ -293,7 +293,7 @@ export default async function GioiThieuPage() {
                 Chi li nhưng chí lý
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-64 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
@@ -324,7 +324,7 @@ export default async function GioiThieuPage() {
                 Trong một nốt nhạc
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-80 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
@@ -340,7 +340,7 @@ export default async function GioiThieuPage() {
                 Đến đúng điểm
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-80 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
@@ -356,7 +356,7 @@ export default async function GioiThieuPage() {
                 Xem trước nội dung
               </div>
               <div className="mt-4 ml-8 flex justify-start">
-                <div className="relative w-96">
+                <div className="relative w-80 m:w-96">
                   <div className="relative mr-0 mb-0 aspect-1200/630 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
