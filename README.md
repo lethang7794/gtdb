@@ -4,7 +4,7 @@
 
 View online at:
 
-- Production: [gtdb.app, gtdb-2jt.pages.dev](https://gtdb-2jt.pages.dev/)
+- Production: [gtdb.app](https://gtdb.app), [gtdb-2jt.pages.dev](https://gtdb-2jt.pages.dev/)
 - Staging: [gtdb.vercel.app](https://gtdb.vercel.app/)
 - Dev (local): [localhost:3000](http:localhost:3000)
 
