@@ -250,8 +250,8 @@ html {
 /* Luat 2024 */
 .luat-2024-section-third {
   background-color: green;
-  padding: 4px 8px 4px 36px;
-  margin: -4px -8px -4px -36px !important;
+  padding: 4px 8px 4px 20px !important;
+  margin: -4px -8px -4px -20px !important;
   /*      16px 0px 16px 0px */
   border-radius: 8px;
   color: white;
@@ -261,21 +261,43 @@ html {
     text-decoration: underline !important;
   }
 }
+@supports (-webkit-touch-callout: none) {
+  .luat-2024-section-third {
+    padding-left: 4px !important;
+    margin-left: -4px !important;
+  }
+}
 
 .luat-2024-section-second {
   background-color: yellow;
-  padding: 4px 8px 4px 36px;
+  padding: 4px 8px 4px 36px !important;
   margin: -4px -8px -4px -36px !important;
   /*      16px 0px 16px 0px */
   border-radius: 8px;
   color: black;
 }
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices */
+  .luat-2024-section-second {
+    padding: 4px 8px 4px 4px !important;
+    margin: -4px -8px -4px -4px !important;
+  }
+}
+
 .luat-2024-section-second + .luat-2024-section-third {
   margin-top: 12px !important;
 }
 li:has(.luat-2024-section-second) {
   &::marker {
     color: black;
+  }
+}
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices */
+  li:has(.luat-2024-section-second) {
+    &::marker {
+      color: white;
+    }
   }
 }
 
@@ -289,4 +311,13 @@ li:has(.luat-2024-section-second) {
 }
 .luat-2024-section-first + ol .luat-2024-section-second {
   margin-top: 12px !important;
+}
+
+li:has(+ li .luat-2024-section-second) p {
+  background-color: deeppink;
+  margin-top: 12px !important;
+}
+
+h3.luat-2024-section-first:has(.anchor-link) + p {
+  margin-top: 16px !important;
 }
