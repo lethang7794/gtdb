@@ -32,7 +32,7 @@ export function ExtraLinks() {
               <li key={item.name + item.url}>
                 <div className="flex gap-2">
                   <BaseLink
-                    className="mr-2 text-blue-600 hover:underline dark:text-blue-500"
+                    className="mr-2 text-gray-800 hover:underline"
                     href={item.url}
                   >
                     {item.name}
