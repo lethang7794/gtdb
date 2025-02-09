@@ -50,7 +50,7 @@ export default async function Home() {
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.NGHI_DINH_168_2024_XE_OTO}
-                className="col-span-1 grid place-content-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                className="col-span-1 grid place-content-start text-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
               >
                 [Tóm tắt] Xe ôtô 🚘
               </BaseLink>
