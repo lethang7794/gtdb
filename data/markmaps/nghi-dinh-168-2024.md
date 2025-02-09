@@ -8,25 +8,25 @@ markmap:
   maxWidth: 400
 ---
 
-# [Nghị định 168/2024] <br/>... xử phạt ... giao thông đường bộ ...
+# [Nghị định 168/2024] <br/>‥ xử phạt ‥ giao thông đường bộ ‥
 
-## [Chương I]. ... QUY ĐỊNH CHUNG <!-- markmap: fold -->
+## [Chương I]. ‥ QUY ĐỊNH CHUNG <!-- markmap: fold -->
 
 ### [Điều 1]. Phạm vi _điều chỉnh_
 
 ### [Điều 2]. _Đối tượng_ áp dụng
 
-### [Điều 3]. _Hình thức xử phạt_ ...
+### [Điều 3]. _Hình thức xử phạt_ ‥
 
-### [Điều 4]. _Thời hiệu xử phạt_ ...
+### [Điều 4]. _Thời hiệu xử phạt_ ‥
 
-### [Điều 5]. _Tước quyền_ ...
+### [Điều 5]. _Tước quyền_ ‥
 
-## [Chương II]. ... VI PHẠM ... XỬ PHẠT...
+## [Chương II]. ‥ VI PHẠM ‥ XỬ PHẠT‥
 
-### [Mục 1][2.1]. ... _QUY TẮC GIAO THÔNG_ ...
+### [Mục 1][2.1]. ‥ _QUY TẮC GIAO THÔNG_ ‥
 
-#### [Điều 6]. ... _xe ô tô_ ... <!-- markmap: fold -->
+#### [Điều 6]. ‥ _xe ô tô_ ‥ <!-- markmap: fold -->
 
 ##### [6.1][6.1]. ‥ 400.000 ‥ 600.000 đồng ‥
 
@@ -246,21 +246,21 @@ markmap:
 - [d][6.16.d]. ‥ 10 điểm. <!-- markmap: fold -->
   - ‥ điểm a khoản 9,<br/>khoản 10,<br/>điểm đ khoản 11 Điều này
 
-#### [Điều 7]. ... _xe mô tô, xe gắn máy_...
+#### [Điều 7]. ‥ _xe mô tô, xe gắn máy_‥
 
-#### [Điều 8]. ... _xe máy chuyên dùng_ ...
+#### [Điều 8]. ‥ _xe máy chuyên dùng_ ‥
 
-#### [Điều 9]. ... _xe đạp, xe đạp máy_ ...
+#### [Điều 9]. ‥ _xe đạp, xe đạp máy_ ‥
 
-#### [Điều 10]. ... _người đi bộ_ ...
+#### [Điều 10]. ‥ _người đi bộ_ ‥
 
-#### [Điều 11]. ... _dắt vật nuôi_, ... _xe vật nuôi kéo_ ...
+#### [Điều 11]. ‥ _dắt vật nuôi_, ‥ _xe vật nuôi kéo_ ‥
 
-#### [Điều 12]. ... _vi phạm khác_ ... _lòng đường, vỉa hè_ ...
+#### [Điều 12]. ‥ _vi phạm khác_ ‥ _lòng đường, vỉa hè_ ‥
 
-### [Mục 2][2.2]. ... _PHƯƠNG TIỆN_ ...
+### [Mục 2][2.2]. ‥ _PHƯƠNG TIỆN_ ‥
 
-#### [Điều 13]. ... _xe ô tô_ ... <!-- markmap: fold -->
+#### [Điều 13]. ‥ _xe ô tô_ ‥ <!-- markmap: fold -->
 
 ##### [13.1][13.1]. ‥ 200.000 ‥ 400.000 đồng
 
@@ -345,99 +345,99 @@ markmap:
   - bị trừ điểm giấy phép lái xe 06 điểm;
 - [c][13.13.c]. ‥ điểm a khoản 8 Điều này - bị trừ điểm giấy phép lái xe 10 điểm.
 
-#### [Điều 14]. ... _xe mô tô, xe gắn máy_ ...
+#### [Điều 14]. ‥ _xe mô tô, xe gắn máy_ ‥
 
-#### [Điều 15]. ... _xe thô sơ_ ...
+#### [Điều 15]. ‥ _xe thô sơ_ ‥
 
-#### [Điều 16]. ... _xe máy chuyên dùng_ ...
+#### [Điều 16]. ‥ _xe máy chuyên dùng_ ‥
 
-#### [Điều 17]. ... _bảo vệ môi trường_ ...
+#### [Điều 17]. ‥ _bảo vệ môi trường_ ‥
 
-### [Mục 3][2.3]. ... _NGƯỜI ĐIỀU KHIỂN_ ...
+### [Mục 3][2.3]. ‥ _NGƯỜI ĐIỀU KHIỂN_ ‥
 
-#### [Điều 18]. ... _xe cơ giới_
+#### [Điều 18]. ‥ _xe cơ giới_
 
-#### [Điều 19]. ... _xe máy chuyên dùng_
+#### [Điều 19]. ‥ _xe máy chuyên dùng_
 
-### [Mục 4][2.4]. ... _XE Ô TÔ VẬN CHUYỂN HÀNH KHÁCH, HÀNG HÓA_ ... <!-- markmap: fold -->
+### [Mục 4][2.4]. ‥ _XE Ô TÔ VẬN CHUYỂN HÀNH KHÁCH, HÀNG HÓA_ ‥ <!-- markmap: fold -->
 
-#### [Điều 20]. ... _xe ô tô chở hành khách_ ...
+#### [Điều 20]. ‥ _xe ô tô chở hành khách_ ‥
 
-#### [Điều 21]. ... _xe ô tô tải, máy kéo_ ...
+#### [Điều 21]. ‥ _xe ô tô tải, máy kéo_ ‥
 
-#### [Điều 22]. ... _hàng siêu trường, siêu trọng_
+#### [Điều 22]. ‥ _hàng siêu trường, siêu trọng_
 
-#### [Điều 23]. ... _hàng hóa nguy hiểm_
+#### [Điều 23]. ‥ _hàng hóa nguy hiểm_
 
-#### [Điều 24]. ... _động vật sống, thực phẩm tươi sống_
+#### [Điều 24]. ‥ _động vật sống, thực phẩm tươi sống_
 
-#### [Điều 25]. ... _xe vệ sinh môi trường_ ...
+#### [Điều 25]. ‥ _xe vệ sinh môi trường_ ‥
 
-#### [Điều 26]. ... _vận tải đường bộ_...
+#### [Điều 26]. ‥ _vận tải đường bộ_‥
 
-#### [Điều 27]. ... _đưa đón trẻ em mầm non, học sinh_
+#### [Điều 27]. ‥ _đưa đón trẻ em mầm non, học sinh_
 
-#### [Điều 28]. ... _bốn bánh có gắn động cơ_ ...
+#### [Điều 28]. ‥ _bốn bánh có gắn động cơ_ ‥
 
-#### [Điều 29]. ... _xe cứu hộ_ ...
+#### [Điều 29]. ‥ _xe cứu hộ_ ‥
 
-#### [Điều 30]. ... _xe cứu thương_
+#### [Điều 30]. ‥ _xe cứu thương_
 
-### [Mục 5][2.5]. ... VI PHẠM KHÁC ...
+### [Mục 5][2.5]. ‥ VI PHẠM KHÁC ‥
 
-#### [Điều 31]. ... _sản xuất, lắp ráp_ ... _mua, bán biển số_ ...
+#### [Điều 31]. ‥ _sản xuất, lắp ráp_ ‥ _mua, bán biển số_ ‥
 
-#### [Điều 32]. ... _chủ phương tiện_ ...
+#### [Điều 32]. ‥ _chủ phương tiện_ ‥
 
-#### [Điều 33]. ... _hành khách đi xe_ ...
+#### [Điều 33]. ‥ _hành khách đi xe_ ‥
 
-#### [Điều 34]. ... _quá khổ giới hạn, xe quá tải trọng_ ...
+#### [Điều 34]. ‥ _quá khổ giới hạn, xe quá tải trọng_ ‥
 
-#### [Điều 35]. ... _đua xe trái phép_ ... _cổ vũ_ ...
+#### [Điều 35]. ‥ _đua xe trái phép_ ‥ _cổ vũ_ ‥
 
-#### [Điều 36]. ... _xe mô tô_ ... _vận chuyển ... khách, hàng hóa_
+#### [Điều 36]. ‥ _xe mô tô_ ‥ _vận chuyển ‥ khách, hàng hóa_
 
-#### [Điều 37]. ... _biển số nước ngoài_
+#### [Điều 37]. ‥ _biển số nước ngoài_
 
-#### [Điều 38]. ... _Khu kinh tế_ ...
+#### [Điều 38]. ‥ _Khu kinh tế_ ‥
 
-#### [Điều 39]. ... _đào tạo, sát hạch lái xe_
+#### [Điều 39]. ‥ _đào tạo, sát hạch lái xe_
 
-#### [Điều 40]. ... _đăng kiểm_ ...
+#### [Điều 40]. ‥ _đăng kiểm_ ‥
 
-## [Chương III]. THẨM QUYỀN, THỦ TỤC XỬ PHẠT...
+## [Chương III]. THẨM QUYỀN, THỦ TỤC XỬ PHẠT‥
 
 ### [Mục 1][3.1]. _THẨM QUYỀN_ XỬ PHẠT <!-- markmap: fold -->
 
-#### [Điều 41]. _Phân định thẩm quyền xử phạt_ ...
+#### [Điều 41]. _Phân định thẩm quyền xử phạt_ ‥
 
-#### [Điều 42]. ... _Chủ tịch Ủy ban nhân dân_ ...
+#### [Điều 42]. ‥ _Chủ tịch Ủy ban nhân dân_ ‥
 
-#### [Điều 43]. ... _Công an nhân dân_
+#### [Điều 43]. ‥ _Công an nhân dân_
 
-#### [Điều 44]. ... _Thanh tra chuyên ngành_
+#### [Điều 44]. ‥ _Thanh tra chuyên ngành_
 
-#### [Điều 45]. _Nguyên tắc xác định thẩm quyền xử phạt_ ...
+#### [Điều 45]. _Nguyên tắc xác định thẩm quyền xử phạt_ ‥
 
-#### [Điều 46]. ... _lập biên bản_ ...
+#### [Điều 46]. ‥ _lập biên bản_ ‥
 
 ### [Mục 2][3.2]. THỦ TỤC _XỬ PHẠT_
 
-#### [Điều 47]. ... _chủ phương tiện, người điều khiển_ ...
+#### [Điều 47]. ‥ _chủ phương tiện, người điều khiển_ ‥
 
-#### [Điều 48]. _Tạm giữ phương tiện, giấy tờ_ ...
+#### [Điều 48]. _Tạm giữ phương tiện, giấy tờ_ ‥
 
-### [Mục 3][3.3]. ... _TRỪ ĐIỂM, PHỤC HỒI ĐIỂM_
+### [Mục 3][3.3]. ‥ _TRỪ ĐIỂM, PHỤC HỒI ĐIỂM_
 
-#### [Điều 49]. _Dữ liệu về điểm_ ...
+#### [Điều 49]. _Dữ liệu về điểm_ ‥
 
-#### [Điều 50]. ... _trừ điểm_ ...
+#### [Điều 50]. ‥ _trừ điểm_ ‥
 
-#### [Điều 51]. ... _phục hồi điểm_ ...
+#### [Điều 51]. ‥ _phục hồi điểm_ ‥
 
 ## [Chương IV]. ĐIỀU KHOẢN _THI HÀNH_ <!-- markmap: fold -->
 
-### [Điều 52]. _Sửa đổi, bổ sung_ ...
+### [Điều 52]. _Sửa đổi, bổ sung_ ‥
 
 ### [Điều 53]. _Hiệu lực_ thi hành
 
