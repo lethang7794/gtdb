@@ -44,6 +44,15 @@ h2#mục-lục + ul a:hover .anchor-link {
   text-decoration: underline;
 }
 
+h2#mục-lục ~ :is(h2, h3, h4, h5, h6, p) a {
+  color: var(--fgColor-default);
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration-color: var(--fgColor-accent);
+  }
+}
+
 .anchor-link {
   svg {
     position: absolute;
