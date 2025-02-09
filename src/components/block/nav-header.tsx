@@ -11,12 +11,14 @@ export function NavHeader({
   backHref = '',
   title = '',
   className = '',
+  rightItems,
 }: {
   isHome?: boolean
   backToHome?: boolean
   backHref?: string
   title?: string
   className?: string
+  rightItems?: React.ReactNode
 }) {
   return (
     <nav
@@ -47,6 +49,7 @@ export function NavHeader({
               {title}
             </div>
             <div className="grow" />
+            {rightItems ? rightItems : null}
           </>
         ) : null}
       </div>
