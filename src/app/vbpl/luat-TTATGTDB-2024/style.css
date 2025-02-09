@@ -111,6 +111,10 @@ p:has(.anchor-link) {
   scroll-margin-top: var(--scroll-margin-top);
 }
 
+h3:has(.anchor-link) + p {
+  margin-top: 16px !important;
+}
+
 h2:has(.anchor-link):hover .anchor-link > svg,
 h3:has(.anchor-link):hover .anchor-link > svg,
 h4:has(.anchor-link):hover .anchor-link > svg,
