@@ -20,8 +20,12 @@ export default function ContentPage() {
         {/* <h1 className="text-center text-4xl font-bold">Nội dung</h1> */}
         <div className="mt-4 text-2xl text-gray-500">
           Tất cả văn bản pháp luật tại{' '}
-          <Logo className="-mb-2 h-8!" display="inline-block" /> đều được trích
-          dẫn nguyên văn từ{' '}
+          <Logo
+            withBackground
+            classNameWrapper="-mb-2 inline-block"
+            className="h-8 w-16"
+          />{' '}
+          đều được trích dẫn nguyên văn từ{' '}
           <BaseLink
             href="https://vbpl.vn/"
             className="text-blue-500 hover:underline"

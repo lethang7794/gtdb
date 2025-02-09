@@ -16,14 +16,14 @@ export function ExtraLinks() {
   return (
     <Collapsible open={isOpen} onOpenChange={setIsOpen}>
       <CollapsibleTrigger asChild>
-        <div className="mt-3 flex items-center">
+        <button className="mt-3 flex items-center">
           <h2 className="text-2xl">Cơ sở hạ tầng GTĐB</h2>
           {isOpen ? (
             <ChevronDown className="h-8 w-8" />
           ) : (
             <ChevronRight className="h-8 w-8" />
           )}
-        </div>
+        </button>
       </CollapsibleTrigger>
       <CollapsibleContent>
         <ol className="flex flex-col gap-2 p-2">
