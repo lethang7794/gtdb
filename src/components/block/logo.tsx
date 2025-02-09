@@ -1,33 +1,30 @@
 /* eslint-disable @next/next/no-img-element */
 
+import { cn } from '@/lib/utils'
+
 export function Logo({
+  classNameWrapper,
   className,
-  display,
+  withBackground,
 }: {
+  classNameWrapper?: string
   className?: string
-  display?: string
+  withBackground?: boolean
 }) {
   return (
-    <div
+    <span
       style={{
         position: 'relative',
-        backgroundColor: '#353535',
         borderRadius: '1.5rem',
-        height: '3rem',
-        aspectRatio: '2/1',
-        display,
+        ...(withBackground ? { backgroundColor: '#353535' } : {}),
       }}
-      className={className}
+      className={classNameWrapper}
     >
       <img
         alt="gtdb logo"
         src="/assets/branding/logo-landscape.svg"
-        className="h-full w-auto"
-        style={{
-          height: '100%',
-          width: 'auto',
-        }}
+        className={cn('aspect-2/1 w-24 h-12', className)}
       />
-    </div>
+    </span>
   )
 }

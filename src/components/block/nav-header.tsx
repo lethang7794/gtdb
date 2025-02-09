@@ -31,7 +31,7 @@ export function NavHeader({
             <span className="sr-only">
               {`${env.NEXT_PUBLIC_BRAND_SHORT} - ${env.NEXT_PUBLIC_BRAND_SLOGAN}`}
             </span>
-            <Logo className="min-w-24 bg-transparent! text-accent-foreground" />
+            <Logo className="w-24 h-12" />
           </BaseLink>
         ) : null}
         {backToHome || backHref ? (

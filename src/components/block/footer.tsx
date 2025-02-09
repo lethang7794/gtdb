@@ -12,7 +12,7 @@ export function Footer() {
             href="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <Logo className="min-w-24" />
+            <Logo withBackground className="min-w-24" />
           </BaseLink>
           <ul className="mb-4 flex flex-wrap items-center text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
