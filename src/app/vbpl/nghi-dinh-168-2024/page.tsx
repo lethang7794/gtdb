@@ -6,6 +6,7 @@ import { getND168OgImageById } from '@/service/nghi-dinh-168'
 import './style.css'
 import { NavHeader } from '@/components/block/nav-header'
 import { VbplLayout } from '@/components/layout/vbpl-layout'
+import NghiDinh168HDSD from './hdsd'
 
 const LAW = constants.laws.nghiDinh168.id
 
@@ -34,7 +35,11 @@ export default async function NghiDinh1682024Page({
 }: Props) {
   return (
     <>
-      <NavHeader backHref={'/'} title="Nghị định 168/2024" />
+      <NavHeader
+        backHref={'/'}
+        title="Nghị định 168/2024"
+        rightItems={<NghiDinh168HDSD />}
+      />
       <VbplLayout>
         <div className="toc-hidden">
           <NghiDinh1682024 />

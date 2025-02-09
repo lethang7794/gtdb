@@ -6,6 +6,7 @@ import LuatTTATGTDB2024 from '@/content/luat-TTATGTDB-2024.mdx'
 import './style.css'
 import { NavHeader } from '@/components/block/nav-header'
 import { VbplLayout } from '@/components/layout/vbpl-layout'
+import NghiDinh168HDSD from '../nghi-dinh-168-2024/hdsd'
 
 const LAW = constants.laws.luatGT2024
 
@@ -31,7 +32,11 @@ export async function generateMetadata(
 export default async function LuatTTATGTDB2024Page() {
   return (
     <>
-      <NavHeader backHref={'/'} title={LAW.short_name} />
+      <NavHeader
+        backHref={'/'}
+        title={LAW.short_name}
+        rightItems={<NghiDinh168HDSD />}
+      />
       <VbplLayout>
         <div className="toc-hidden">
           <LuatTTATGTDB2024 />
