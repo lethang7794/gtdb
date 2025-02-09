@@ -4,8 +4,9 @@
 
 View online at:
 
-- [https://gtdb-2jt.pages.dev/](https://gtdb-2jt.pages.dev/)
-- [https://gtdb.vercel.app/](https://gtdb.vercel.app/)
+- Production: [gtdb.app, gtdb-2jt.pages.dev](https://gtdb-2jt.pages.dev/)
+- Staging: [gtdb.vercel.app](https://gtdb.vercel.app/)
+- Dev (local): [localhost:3000](http:localhost:3000)
 
 Summary: A collection of resources to be a better driver in Vietnam.
 
@@ -46,6 +47,7 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
 </details>
 
 ## License
