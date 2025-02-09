@@ -4,7 +4,7 @@ export const NGHI_DINH_168_PATH = 'nghi-dinh-168-2024'
 export const MARKMAPS_PATH = 'markmaps'
 
 export const PATHS = {
-  root: "/",
+  root: '/',
   bbgt: {
     ROOT: '/bbgt',
   },
@@ -39,8 +39,8 @@ export const PATHS = {
   },
   vbpl: {
     ROOT: '/vbpl',
-    LUAT_GT_2024: '/vbpl/luat-TTATGTDB-2024',
     LUAT_GT_2008: '/vbpl/luat-GTDB-2008',
+    LUAT_GT_2024: '/vbpl/luat-TTATGTDB-2024',
     NGHI_DINH_168: '/vbpl/nghi-dinh-168-2024',
     TOC_DO_KHOANG_CACH_2023: '/vbpl/toc-do-khoang-cach-an-toan-2023',
   },
@@ -54,5 +54,9 @@ export const PATHS = {
   assets: {
     ROOT: '/assets',
     OG: '/assets/og',
+  },
+  externals: {
+    LUAT_GT_2024: '/luat-ttatgtdb-2024',
+    NGHI_DINH_168: '/nghi-dinh-168',
   },
 } as const
