@@ -36,7 +36,7 @@ export function Footer() {
         <hr className="my-4 border-gray-200 sm:mx-auto dark:border-gray-700" />
         <span className="block text-center text-sm text-gray-500 dark:text-gray-400">
           ©{' '}
-          <BaseLink href="/about" className="hover:underline">
+          <BaseLink href={constants.paths.thongTin.gioiThieu} className="hover:underline">
             {env.NEXT_PUBLIC_BRAND_SHORT}
           </BaseLink>
         </span>
