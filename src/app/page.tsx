@@ -52,13 +52,13 @@ export default async function Home() {
                 href={PATHS.markmaps.NGHI_DINH_168_2024_XE_OTO}
                 className="col-span-1 grid place-content-start text-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
-                [Tóm tắt] Xe ôtô 🚘
+                <span className="font-normal">[Tóm tắt]</span> Xe ôtô 🚘
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.NGHI_DINH_168_2024_XE_MOTO}
                 className="col-span-1 grid place-content-start text-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
-                [Tóm tắt] Xe môtô 🏍️
+                <span className="font-normal">[Tóm tắt]</span> Xe môtô 🏍️
               </BaseLink>
               {env.NEXT_PUBLIC_DOMAIN_LAWS ? (
                 <BaseLink
@@ -66,7 +66,8 @@ export default async function Home() {
                   className="col-span-1 flex items-center justify-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
                 >
                   <span className="text-start">
-                    Toàn văn (tối ưu cho việc đọc)
+                    Toàn văn{' '}
+                    <span className="font-normal">(tối ưu để đọc)</span>
                   </span>
                 </BaseLink>
               ) : null}
@@ -103,7 +104,8 @@ export default async function Home() {
                   className="col-span-1 flex items-center justify-start rounded-lg border-2 border-yellow-100 bg-yellow-100 hover:border-yellow-300 text-black p-4"
                 >
                   <span className="text-start">
-                    Toàn văn (tối ưu cho việc đọc)
+                    Toàn văn{' '}
+                    <span className="font-normal">(tối ưu để đọc)</span>
                   </span>
                 </BaseLink>
               ) : null}
@@ -118,13 +120,13 @@ export default async function Home() {
               </BaseLink>
               <BaseLink
                 href={PATHS.bbgt.ROOT}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
+                className="col-span-1 grid place-content-start content-center rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
               >
                 Danh sách
               </BaseLink>
               <BaseLink
                 href={PATHS.bbgtSoSanh.ROOT}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
+                className="col-span-1 grid place-content-start content-center rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
               >
                 So sánh
               </BaseLink>
