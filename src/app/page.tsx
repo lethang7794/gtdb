@@ -26,7 +26,7 @@ export default async function Home() {
               <BaseLink
                 href={PATHS.vbpl.NGHI_DINH_168}
                 className={cn(
-                  'grid place-items-center gap-4 rounded-lg bg-red-600 p-4',
+                  'grid place-items-center gap-4 rounded-lg bg-red-600 border-2 border-transparent hover:border-black p-4',
                   env.NEXT_PUBLIC_DOMAIN_LAWS ? 'row-span-5' : 'row-span-4'
                 )}
               >
@@ -38,32 +38,32 @@ export default async function Home() {
               </BaseLink>
               <BaseLink
                 href={PATHS.vbpl.NGHI_DINH_168}
-                className="col-span-1 grid place-content-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                className="col-span-1 grid place-content-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
                 Toàn văn 🗞️
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.NGHI_DINH_168_2024}
-                className="col-span-1 grid place-content-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                className="col-span-1 grid place-content-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
                 Tóm tắt
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.NGHI_DINH_168_2024_XE_OTO}
-                className="col-span-1 grid place-content-start text-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                className="col-span-1 grid place-content-start text-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
                 [Tóm tắt] Xe ôtô 🚘
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.NGHI_DINH_168_2024_XE_MOTO}
-                className="col-span-1 grid place-content-start text-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                className="col-span-1 grid place-content-start text-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
               >
                 [Tóm tắt] Xe môtô 🏍️
               </BaseLink>
               {env.NEXT_PUBLIC_DOMAIN_LAWS ? (
                 <BaseLink
                   href={`https://${env.NEXT_PUBLIC_DOMAIN_LAWS}${PATHS.externals.NGHI_DINH_168}`}
-                  className="col-span-1 flex items-center justify-start rounded-lg border-4 border-red-600 bg-transparent text-black p-4"
+                  className="col-span-1 flex items-center justify-start rounded-lg border-2 border-red-100 bg-red-100 hover:border-red-500 text-black p-4"
                 >
                   <span className="text-start">
                     Toàn văn (tối ưu cho việc đọc)
@@ -75,7 +75,7 @@ export default async function Home() {
               <BaseLink
                 href={PATHS.vbpl.LUAT_GT_2024}
                 className={cn(
-                  'grid place-items-center gap-4 rounded-lg bg-yellow-300 p-4 text-black',
+                  'grid place-items-center gap-4 rounded-lg bg-yellow-300 border-2 border-transparent hover:border-black p-4 text-black',
                   env.NEXT_PUBLIC_DOMAIN_LAWS ? 'row-span-3' : 'row-span-2'
                 )}
               >
@@ -87,20 +87,20 @@ export default async function Home() {
               </BaseLink>
               <BaseLink
                 href={PATHS.vbpl.LUAT_GT_2024}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-4 border-yellow-300 bg-transparent text-black"
+                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-yellow-100 bg-yellow-100 hover:border-yellow-300 text-black"
               >
                 Toàn văn 🗞️
               </BaseLink>
               <BaseLink
                 href={PATHS.markmaps.LUAT_TTATGTDB_2024}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-4 border-yellow-300 bg-transparent text-black"
+                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-yellow-100 bg-yellow-100 hover:border-yellow-300 text-black"
               >
                 Tóm tắt
               </BaseLink>
               {env.NEXT_PUBLIC_DOMAIN_LAWS ? (
                 <BaseLink
                   href={`https://${env.NEXT_PUBLIC_DOMAIN_LAWS}${PATHS.externals.LUAT_GT_2024}`}
-                  className="col-span-1 flex items-center justify-start rounded-lg border-4 border-yellow-300 bg-transparent text-black p-4"
+                  className="col-span-1 flex items-center justify-start rounded-lg border-2 border-yellow-100 bg-yellow-100 hover:border-yellow-300 text-black p-4"
                 >
                   <span className="text-start">
                     Toàn văn (tối ưu cho việc đọc)
@@ -111,20 +111,20 @@ export default async function Home() {
             <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-base leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.bbgt.ROOT}
-                className="row-span-2 grid place-items-center justify-center gap-4 rounded-lg bg-green-400 p-4 text-black"
+                className="row-span-2 grid place-items-center justify-center gap-4 rounded-lg bg-green-400 border-2 border-transparent hover:border-black p-4 text-black"
               >
                 <Signpost className="h-20 w-20 self-end" />
                 <div className="self-start">BIỂN BÁO</div>
               </BaseLink>
               <BaseLink
                 href={PATHS.bbgt.ROOT}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-4 border-green-400 bg-transparent text-black"
+                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
               >
                 Danh sách
               </BaseLink>
               <BaseLink
                 href={PATHS.bbgtSoSanh.ROOT}
-                className="col-span-1 grid place-content-start rounded-lg p-4 border-4 border-green-400 bg-transparent text-black"
+                className="col-span-1 grid place-content-start rounded-lg p-4 border-2 border-green-100 bg-green-100 hover:border-green-500 text-black"
               >
                 So sánh
               </BaseLink>
@@ -132,14 +132,14 @@ export default async function Home() {
             <div className="grid grid-cols-2 gap-4 rounded-lg text-start font-mono text-base leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.vachKeDuong.ROOT}
-                className="row-span-4 grid place-items-center justify-center gap-4 rounded-lg bg-blue-500 p-4"
+                className="row-span-4 grid place-items-center justify-center gap-4 rounded-lg bg-blue-500 border-2 border-transparent hover:border-black p-4"
               >
                 <Paintbrush className="h-20 w-20" />
                 <div>VẠCH KẺ ĐƯỜNG</div>
               </BaseLink>
               <BaseLink
                 href={PATHS.vachKeDuong.ROOT}
-                className="row-span-4 grid place-content-center justify-start rounded-lg p-4 border-4 border-blue-500 bg-transparent text-black"
+                className="row-span-4 grid place-content-center justify-start rounded-lg p-4 border-2 border-blue-100 bg-blue-100 hover:border-blue-500 text-black"
               >
                 Danh sách
               </BaseLink>
