@@ -7,7 +7,13 @@ import {
 } from 'lucide-react'
 import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
-import { EXPIRE_LAWS, LINKS, USEFUL_LINKS } from '@/constant/homepage-links'
+import {
+  EXPIRE_LAWS,
+  HIGHLIGHTS_LAW,
+  HIGHLIGHTS_SIGNS,
+  LINKS,
+  USEFUL_LINKS,
+} from '@/constant/homepage-links'
 import { constants } from '@/constant'
 import { ExtraLinks } from './root/extra-links'
 import { env } from '@/env.mjs'
@@ -22,7 +28,58 @@ export default async function Home() {
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container px-4 pb-8 md:px-8">
           <div className="grid gap-4">
-            <div className="mt-4 grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-base leading-6 font-bold text-white sm:grid-cols-2">
+            <div className="mt-4 rounded-lg text-center font-mono leading-6 font-bold">
+              <div className="self-start text-base">Nổi bật</div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-8 rounded-lg border border-pink-500 p-4 row-span-4 text-sm">
+                <ol className="[&>*:nth-child(even)]:hidden md:[&>*:nth-child(even)]:block col-span-1 flex flex-col gap-1 md:gap-2 ml-2">
+                  {HIGHLIGHTS_LAW.map((item) => {
+                    return (
+                      <li key={item.name + item.url}>
+                        <div className="flex gap-2">
+                          <BaseLink
+                            className="grow flex justify-between mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
+                            href={item.url}
+                            newTab
+                          >
+                            {item.name}
+                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
+                          </BaseLink>
+                        </div>
+                        {item.description ? (
+                          <div className="text-base text-gray-500 italic">
+                            ({item.description})
+                          </div>
+                        ) : null}
+                      </li>
+                    )
+                  })}
+                </ol>
+                <ol className="[&>*:nth-child(odd)]:hidden md:[&>*:nth-child(odd)]:block col-span-1 flex flex-col gap-1 md:gap-2 ml-2">
+                  {HIGHLIGHTS_SIGNS.map((item) => {
+                    return (
+                      <li key={item.name + item.url}>
+                        <div className="flex gap-2">
+                          <BaseLink
+                            className="grow flex justify-between mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
+                            href={item.url}
+                            newTab
+                          >
+                            <div>{item.name}</div>
+                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
+                          </BaseLink>
+                        </div>
+                        {item.description ? (
+                          <div className="text-base text-gray-500 italic">
+                            ({item.description})
+                          </div>
+                        ) : null}
+                      </li>
+                    )
+                  })}
+                </ol>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 gap-4 rounded-lg text-center font-mono text-base leading-6 font-bold text-white sm:grid-cols-2">
               <BaseLink
                 href={PATHS.vbpl.NGHI_DINH_168}
                 className={cn(
@@ -149,17 +206,17 @@ export default async function Home() {
           </div>
 
           <h2 className="mt-8 text-2xl">Tổng hợp</h2>
-          <ol className="flex flex-col gap-2 p-2">
+          <ol className="list-disc flex flex-col gap-2 p-2">
             {USEFUL_LINKS.map((item) => {
               return (
                 <li key={item.name + item.url}>
                   <div className="flex gap-2">
                     <BaseLink
-                      className="mr-2 py-2 text-gray-800 hover:underline"
+                      className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500"
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom" />
+                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (
@@ -173,17 +230,17 @@ export default async function Home() {
           </ol>
 
           <h2 className="mt-4 text-2xl">VBPL khác</h2>
-          <ol className="flex flex-col gap-2 p-2">
+          <ol className="list-disc flex flex-col gap-2 p-2">
             {LINKS.map((item) => {
               return (
                 <li key={item.name + item.url}>
                   <div className="flex gap-2">
                     <BaseLink
-                      className="mr-2 py-2 text-gray-800 hover:underline"
+                      className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500"
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom" />
+                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (
@@ -197,17 +254,17 @@ export default async function Home() {
           </ol>
 
           <h2 className="mt-4 text-2xl">VBPL đã hết hiệu lực</h2>
-          <ol className="flex flex-col gap-2 p-2">
+          <ol className="list-disc flex flex-col gap-2 p-2">
             {EXPIRE_LAWS.map((item) => {
               return (
                 <li key={item.name + item.url}>
                   <div className="flex gap-2">
                     <BaseLink
-                      className="mr-2 py-2 text-gray-800 hover:underline"
+                      className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500"
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom" />
+                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (

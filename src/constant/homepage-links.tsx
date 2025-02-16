@@ -45,6 +45,76 @@ export const LINKS: HomepageLink[] = [
   },
 ]
 
+export const HIGHLIGHTS_LAW: HomepageLink[] = [
+  {
+    name: 'Người đi bộ bắt buộc vẫy tay qua đường?',
+    url: `${PATHS.vbpl.LUAT_GT_2024}/30.1.b`,
+    description: '',
+  },
+  {
+    name: 'Đèn xanh không nhường đường cho người đi bộ có tính là vượt đèn đỏ?',
+    url: `${PATHS.vbpl.LUAT_GT_2024}/11.4.a`,
+    description: '',
+  },
+  // {
+  //   name: 'Mức phạt: Người đi bộ không vẫy tay qua đường',
+  //   url: `${PATHS.vbpl.NGHI_DINH_168}/10.1.a`,
+  //   description: '',
+  // },
+  {
+    name: '[Xe ôtô] Mức phạt vượt đèn đỏ: 18-20tr',
+    url: `${PATHS.vbpl.NGHI_DINH_168}/6.9.b`,
+    description: '',
+  },
+  {
+    name: '[Xe mô tô] Mức phạt vượt đèn đỏ: 4-6tr',
+    url: `${PATHS.vbpl.NGHI_DINH_168}/7.7.c`,
+    description: '',
+  },
+  // {
+  //   name: 'Mức phạt: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông - Xe máy chuyên dùng: 6-8tr',
+  //   url: `${PATHS.vbpl.NGHI_DINH_168}/8.7.c`,
+  //   description: '',
+  // },
+  // {
+  //   name: 'Mức phạt: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông - Xe đạp: 150-250k',
+  //   url: `${PATHS.vbpl.NGHI_DINH_168}/9.2.đ`,
+  //   description: '',
+  // },
+  // {
+  //   name: 'Mức phạt: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông - Người đi bộ: 150-250k',
+  //   url: `${PATHS.vbpl.NGHI_DINH_168}/10.1.b`,
+  //   description: '',
+  // },
+]
+export const HIGHLIGHTS_SIGNS: HomepageLink[] = [
+  {
+    name: `Biển 'Cấm quay đầu xe'`,
+    url: `${PATHS.bbgt.ROOT}/P.124a1`,
+    description: '',
+  },
+  {
+    name: `Biển 'Cấm rẽ trái và quay đầu xe'`,
+    url: `${PATHS.bbgt.ROOT}/P.124c`,
+    description: '',
+  },
+  {
+    name: 'Vạch dừng xe "chờ đèn đỏ"',
+    url: `${PATHS.vachKeDuong.ROOT}/7.1a`,
+    description: '',
+  },
+  {
+    name: 'Vạch mắt võng "cấm dừng ở nút giao"',
+    url: `${PATHS.vachKeDuong.ROOT}/4.4a`,
+    description: '',
+  },
+  {
+    name: 'Vạch "xương cá"',
+    url: `${PATHS.vachKeDuong.ROOT}/4.1a`,
+    description: '',
+  },
+]
+
 export const USEFUL_LINKS: HomepageLink[] = [
   // {
   //   name: 'Biển báo giao thông - Danh sách, Chi tiết',
