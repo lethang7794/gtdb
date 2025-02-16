@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   title: PAGE_TITLE,
   description:
     'Tất cả vạch kẻ đường theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
+  keywords: ['Vạch kẻ đường', 'QCVN 41:2019/BGTVT', 'Giao thông đường bộ'],
 }
 
 export default async function Home() {

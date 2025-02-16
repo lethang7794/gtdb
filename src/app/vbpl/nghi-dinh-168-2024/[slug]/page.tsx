@@ -58,6 +58,18 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
+    keywords: [
+      sectionItem && sectionExplain,
+      'Nghị định 168/2024',
+      'Quy định xử phạt',
+      'Xử phạt vi phạm hành chính',
+      'Trật tự, an toàn giao thông',
+      'Trừ điểm giấy phép lái xe',
+      'Nghị định 168',
+      '2024',
+      'Nghị định',
+      'Giao thông đường bộ',
+    ].filter(Boolean) as string[],
     openGraph: {
       images: getND168OgImageById(decodedSlug),
     },

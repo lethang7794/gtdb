@@ -38,6 +38,13 @@ export async function generateMetadata(
           ''
         )
       : item.meaning,
+    keywords: [
+      `Vạch ${slug}`,
+      `${item.full_name}`,
+      'Vạch kẻ đường',
+      'QCVN 41:2019/BGTVT',
+      'Giao thông đường bộ',
+    ],
     openGraph: {
       images: [item.image ? getMarkingImage(item) : ''],
     },
