@@ -54,9 +54,10 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
-          // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
           fontSans.variable,
-          'body-bg-markdown bg-background h-full flex flex-col font-sans antialiased'
+          'font-sans antialiased',
+          // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
+          'body-bg-markdown bg-background h-full flex flex-col'
         )}
       >
         <PreloadResources />
