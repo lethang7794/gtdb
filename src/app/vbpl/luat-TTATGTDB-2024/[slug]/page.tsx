@@ -76,6 +76,7 @@ export default async function LuatTTATGTDB2024Page({
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
+    const sectionContent = (await getLuatGT2024ById(section))?.content || ''
     return (
       <>
         <NavHeader
@@ -96,8 +97,9 @@ export default async function LuatTTATGTDB2024Page({
               </div>
             </BaseLink>
           </div>
-          <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
-            <b>[Tóm tắt]</b> <i>{sectionName}</i>
+          <div className="self-start sm:self-center mt-4 text-lg lg:text-3xl">
+            <div className="italic font-bold">{sectionName}</div>
+            <div>&ldquo;{sectionContent}&rdquo;</div>
           </div>
           <BaseLink
             href={`${PAGE_PATH}#${section}`}
