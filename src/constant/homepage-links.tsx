@@ -47,13 +47,13 @@ export const LINKS: HomepageLink[] = [
 
 export const HIGHLIGHTS_LAW: HomepageLink[] = [
   {
-    name: 'Người đi bắt buộc vẫy tay qua đường?',
+    name: 'Người đi bộ bắt buộc vẫy tay qua đường?',
     url: `${PATHS.vbpl.LUAT_GT_2024}/30.1.b`,
     description: '',
   },
   {
     name: 'Đèn xanh không nhường đường cho người đi bộ có tính là vượt đèn đỏ?',
-    url: `${PATHS.vbpl.NGHI_DINH_168}/11.4.a`,
+    url: `${PATHS.vbpl.LUAT_GT_2024}/11.4.a`,
     description: '',
   },
   // {
@@ -62,12 +62,12 @@ export const HIGHLIGHTS_LAW: HomepageLink[] = [
   //   description: '',
   // },
   {
-    name: 'Mức phạt: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông - Xe ôtô: 18-20tr',
+    name: '[Xe ôtô] Mức phạt vượt đèn đỏ: 18-20tr',
     url: `${PATHS.vbpl.NGHI_DINH_168}/6.9.b`,
     description: '',
   },
   {
-    name: 'Mức phạt: Không chấp hành hiệu lệnh của đèn tín hiệu giao thông - Xe mô tô, xe gắn máy: 4-6tr',
+    name: '[Xe mô tô] Mức phạt vượt đèn đỏ: 4-6tr',
     url: `${PATHS.vbpl.NGHI_DINH_168}/7.7.c`,
     description: '',
   },
@@ -101,7 +101,7 @@ export const HIGHLIGHTS_SIGNS: HomepageLink[] = [
   {
     name: 'Vạch dừng xe "chờ đèn đỏ"',
     url: `${PATHS.vachKeDuong.ROOT}/7.1a`,
-  description: '',
+    description: '',
   },
   {
     name: 'Vạch mắt võng "cấm dừng ở nút giao"',

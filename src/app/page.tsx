@@ -28,9 +28,9 @@ export default async function Home() {
       <div className="flex h-full flex-col justify-start bg-[linear-gradient(to_bottom,#dbf4ff,#fff1f1)]">
         <div className="container px-4 pb-8 md:px-8">
           <div className="grid gap-4">
-            <div className="mt-4 rounded-lg text-center font-mono text-base leading-6 font-bold">
-              <div className="self-start">Nổi bật</div>
-              <div className="grid grid-cols-2 gap-8 rounded-lg border border-pink-500 p-4 row-span-4">
+            <div className="mt-4 rounded-lg text-center font-mono leading-6 font-bold">
+              <div className="self-start text-base">Nổi bật</div>
+              <div className="grid grid-cols-2 gap-8 rounded-lg border border-pink-500 p-4 row-span-4 text-sm">
                 <ol className="col-span-1 list-disc flex flex-col gap-2 p-2">
                   {HIGHLIGHTS_LAW.map((item) => {
                     return (
@@ -39,6 +39,7 @@ export default async function Home() {
                           <BaseLink
                             className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
                             href={item.url}
+                            newTab
                           >
                             {item.name}
                             <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
@@ -61,6 +62,7 @@ export default async function Home() {
                           <BaseLink
                             className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
                             href={item.url}
+                            newTab
                           >
                             {item.name}
                             <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
