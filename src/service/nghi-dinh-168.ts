@@ -1,7 +1,7 @@
 import data from '@data/nghi-dinh-168.yaml'
 import type { ND168 } from '@/model/ND168'
 import { constants } from '@/constant'
-import { shouldShowStaticOpenGraphImage } from '@/env.mjs'
+import { env, shouldShowStaticOpenGraphImage } from '@/env.mjs'
 
 const OG_PATH = constants.paths.assets.OG
 const PAGE_PATH = constants.paths.vbpl.NGHI_DINH_168
@@ -21,6 +21,8 @@ export function getND168OgImageById(section: string): string {
   }
 
   return shouldShowStaticOpenGraphImage
-    ? `${OG_PATH}${PAGE_PATH}/${section}/og.png`
-    : `${PAGE_PATH}/${section}/og.png`
+    ? [env.NEXT_PUBLIC_DOMAIN, `${OG_PATH}${PAGE_PATH}/${section}/og.png`].join(
+        '/'
+      )
+    : [env.NEXT_PUBLIC_DOMAIN, `${PAGE_PATH}/${section}/og.png`].join('/')
 }
