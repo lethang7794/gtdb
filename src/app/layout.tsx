@@ -12,7 +12,7 @@ import { env, shouldEnableVercelAnalytics } from '@/env.mjs'
 import './globals.css'
 
 const fontSans = FontSans({
-  subsets: ['latin'],
+  subsets: ['latin', 'vietnamese'],
   variable: '--font-sans',
 })
 
@@ -54,9 +54,10 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body
         className={cn(
+          fontSans.variable,
+          'font-sans antialiased',
           // To prevent the flicking when scrolling too fast in vbpl, use body-bg-markdown for body, then bg-white for it's children
-          'body-bg-markdown bg-background h-full flex flex-col font-sans antialiased',
-          fontSans.variable
+          'body-bg-markdown bg-background h-full flex flex-col'
         )}
       >
         <PreloadResources />
