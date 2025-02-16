@@ -30,8 +30,8 @@ export default async function Home() {
           <div className="grid gap-4">
             <div className="mt-4 rounded-lg text-center font-mono leading-6 font-bold">
               <div className="self-start text-base">Nổi bật</div>
-              <div className="grid grid-cols-2 gap-8 rounded-lg border border-pink-500 p-4 row-span-4 text-sm">
-                <ol className="col-span-1 list-disc flex flex-col gap-2 p-2">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-8 rounded-lg border border-pink-500 p-4 row-span-4 text-sm">
+                <ol className="[&>*:nth-child(even)]:hidden md:[&>*:nth-child(even)]:block col-span-1 list-disc flex flex-col gap-1 md:gap-2 ml-2">
                   {HIGHLIGHTS_LAW.map((item) => {
                     return (
                       <li key={item.name + item.url}>
@@ -54,7 +54,7 @@ export default async function Home() {
                     )
                   })}
                 </ol>
-                <ol className="col-span-1 list-disc flex flex-col gap-2 p-2">
+                <ol className="[&>*:nth-child(odd)]:hidden md:[&>*:nth-child(odd)]:block col-span-1 list-disc flex flex-col gap-1 md:gap-2 ml-2">
                   {HIGHLIGHTS_SIGNS.map((item) => {
                     return (
                       <li key={item.name + item.url}>
