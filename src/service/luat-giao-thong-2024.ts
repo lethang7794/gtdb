@@ -22,7 +22,11 @@ export function getLuatGT2024OgImageById(section: string): string {
     return ''
   }
 
+  const fullDomain = env.NEXT_PUBLIC_DOMAIN
+    ? `https://${env.NEXT_PUBLIC_DOMAIN}`
+    : ''
+
   return shouldShowStaticOpenGraphImage
-    ? `${env.NEXT_PUBLIC_DOMAIN}${OG_PATH}${PAGE_PATH}/${section}/og.png`
-    : `${env.NEXT_PUBLIC_DOMAIN}${PAGE_PATH}/${section}/og.png`
+    ? `${fullDomain}${OG_PATH}${PAGE_PATH}/${section}/og.png`
+    : `${fullDomain}${PAGE_PATH}/${section}/og.png`
 }
