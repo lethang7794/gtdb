@@ -31,18 +31,18 @@ export default async function Home() {
             <div className="mt-4 rounded-lg text-center font-mono leading-6 font-bold">
               <div className="self-start text-base">Nổi bật</div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-8 rounded-lg border border-pink-500 p-4 row-span-4 text-sm">
-                <ol className="[&>*:nth-child(even)]:hidden md:[&>*:nth-child(even)]:block col-span-1 list-disc flex flex-col gap-1 md:gap-2 ml-2">
+                <ol className="[&>*:nth-child(even)]:hidden md:[&>*:nth-child(even)]:block col-span-1 flex flex-col gap-1 md:gap-2 ml-2">
                   {HIGHLIGHTS_LAW.map((item) => {
                     return (
                       <li key={item.name + item.url}>
                         <div className="flex gap-2">
                           <BaseLink
-                            className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
+                            className="grow flex justify-between mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
                             href={item.url}
                             newTab
                           >
                             {item.name}
-                            <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
+                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
                           </BaseLink>
                         </div>
                         {item.description ? (
@@ -54,18 +54,18 @@ export default async function Home() {
                     )
                   })}
                 </ol>
-                <ol className="[&>*:nth-child(odd)]:hidden md:[&>*:nth-child(odd)]:block col-span-1 list-disc flex flex-col gap-1 md:gap-2 ml-2">
+                <ol className="[&>*:nth-child(odd)]:hidden md:[&>*:nth-child(odd)]:block col-span-1 flex flex-col gap-1 md:gap-2 ml-2">
                   {HIGHLIGHTS_SIGNS.map((item) => {
                     return (
                       <li key={item.name + item.url}>
                         <div className="flex gap-2">
                           <BaseLink
-                            className="mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
+                            className="grow flex justify-between mr-2 py-2 text-gray-800 hover:underline hover:decoration-blue-500 text-left"
                             href={item.url}
                             newTab
                           >
-                            {item.name}
-                            <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
+                            <div>{item.name}</div>
+                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
                           </BaseLink>
                         </div>
                         {item.description ? (
