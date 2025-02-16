@@ -55,6 +55,18 @@ export async function generateMetadata(
       sectionItem?.content_text ||
       sectionItem?.content ||
       'Luật này quy định về quy tắc, phương tiện, người tham gia giao thông đường bộ, chỉ huy, điều khiển, tuần tra, kiểm soát, giải quyết tai nạn giao thông đường bộ, trách nhiệm quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến trật tự, an toàn giao thông đường bộ.',
+    keywords: [
+      sectionExplain,
+      'Luật Trật tự, an toàn giao thông đường bộ 2024',
+      'Luật TTATGTĐB 2024',
+      'Trật tự, an toàn giao thông',
+      'Luật giao thông đường bộ 2024',
+      'Luật giao thông 2024',
+      'Luật GT 2024',
+      '2024',
+      'Luật',
+      'Giao thông đường bộ',
+    ],
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
@@ -76,11 +88,12 @@ export default async function LuatTTATGTDB2024Page({
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
+    const sectionContent = (await getLuatGT2024ById(section))?.content || ''
     return (
       <>
         <NavHeader
           backHref={constants.paths.vbpl.LUAT_GT_2024}
-          title={`[Tóm tắt] ${sectionName}`}
+          title={sectionName}
         />
         <MainLayout className="items-center container">
           <div className="mt-8 w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
@@ -96,8 +109,9 @@ export default async function LuatTTATGTDB2024Page({
               </div>
             </BaseLink>
           </div>
-          <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
-            <b>[Tóm tắt]</b> <i>{sectionName}</i>
+          <div className="self-start sm:self-center mt-4 text-lg lg:text-3xl">
+            <div className="italic font-bold">{sectionName}</div>
+            <div>&ldquo;{sectionContent}&rdquo;</div>
           </div>
           <BaseLink
             href={`${PAGE_PATH}#${section}`}

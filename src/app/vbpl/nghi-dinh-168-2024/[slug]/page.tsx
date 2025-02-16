@@ -58,6 +58,18 @@ export async function generateMetadata(
     // openGraph: {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
+    keywords: [
+      sectionItem && sectionExplain,
+      'Nghị định 168/2024',
+      'Quy định xử phạt',
+      'Xử phạt vi phạm hành chính',
+      'Trật tự, an toàn giao thông',
+      'Trừ điểm giấy phép lái xe',
+      'Nghị định 168',
+      '2024',
+      'Nghị định',
+      'Giao thông đường bộ',
+    ].filter(Boolean) as string[],
     openGraph: {
       images: getND168OgImageById(decodedSlug),
     },
@@ -76,11 +88,12 @@ export default async function NghiDinh1682024Page({
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
+    const sectionContent = (await getND168ById(section))?.content || ''
     return (
       <>
         <NavHeader
           backHref={constants.paths.vbpl.NGHI_DINH_168}
-          title={`[Tóm tắt] ${sectionName}`}
+          title={sectionName}
         />
         <MainLayout className="items-center container">
           <div className="w-full max-w-[1200px]  overflow-hidden rounded-xl lg:rounded-4xl border-2 lg:border-4">
@@ -96,8 +109,9 @@ export default async function NghiDinh1682024Page({
               </div>
             </BaseLink>
           </div>
-          <div className="self-start sm:self-center mt-2 text-lg lg:text-3xl">
-            <b>[Tóm tắt]</b> <i>{sectionName}</i>
+          <div className="self-start sm:self-center mt-4 text-lg lg:text-3xl">
+            <div className="italic font-bold">{sectionName}</div>
+            <div>&ldquo;{sectionContent}&rdquo;</div>
           </div>
           <BaseLink
             href={`${PAGE_PATH}#${section}`}

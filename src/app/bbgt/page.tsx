@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: PAGE_TITLE,
   description:
     '398 biển báo giao thông đường bộ theo QCVN 41:2019/BGTVT và chi tiết từng biển báo',
+  keywords: [
+    'Biển báo giao thông',
+    'QCVN 41:2019/BGTVT',
+    'Giao thông đường bộ',
+  ],
 }
 
 export default async function BbgtPage() {

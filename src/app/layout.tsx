@@ -28,7 +28,20 @@ export const metadata: Metadata = {
     default: rootPageTitle,
   },
   description:
-    'Tra cứu VBPL về giao thông đường bộ (GTĐB): Nghị định 168/2024, Luật Trật tự, an toàn GTĐB 2024...; biển báo giao thông, vạch kẻ đường (theo QCVN 41:2019/BGTVT), thuật ngữ GTĐB...',
+    'Tra cứu VBPL về giao thông đường bộ: Nghị định 168/2024, Luật Trật tự, an toàn GTĐB 2024...; biển báo giao thông, vạch kẻ đường (theo QCVN 41:2019/BGTVT), thuật ngữ GTĐB...',
+  keywords: [
+    'Thông tin Giao thông đường bộ',
+    'Giao thông đường bộ',
+    'Thông tin',
+    'Luật',
+    'Văn bản pháp luật',
+    'Nghị định 168/2024',
+    'Luật Trật tự, an toàn giao thông đường bộ 2024',
+    'Luật TTATGTĐB 2024',
+    'Biển báo giao thông',
+    'Vạch kẻ đường',
+    'QCVN 41:2019/BGTVT',
+  ],
   metadataBase: metadataBase,
 }
 

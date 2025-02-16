@@ -26,5 +26,5 @@ export function getND168OgImageById(section: string): string {
 
   return shouldShowStaticOpenGraphImage
     ? `${fullDomain}${OG_PATH}${PAGE_PATH}/${section}/og.png`
-    : `${fullDomain}${PAGE_PATH}/${section}/og.png`
+    : `${PAGE_PATH}/${section}/og.png`
 }

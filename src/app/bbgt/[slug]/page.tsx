@@ -43,6 +43,13 @@ export async function generateMetadata(
   return {
     title: pageTitle,
     description: sign.docs,
+    keywords: [
+      `Biển ${decodedSlug}`,
+      sign.name,
+      'Biển báo giao thông',
+      'QCVN 41:2019/BGTVT',
+      'Giao thông đường bộ',
+    ],
     openGraph: {
       images: getRoadSignOgImage(sign),
     },
