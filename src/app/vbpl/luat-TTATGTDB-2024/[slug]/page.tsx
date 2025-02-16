@@ -81,7 +81,7 @@ export default async function LuatTTATGTDB2024Page({
       <>
         <NavHeader
           backHref={constants.paths.vbpl.LUAT_GT_2024}
-          title={`[Tóm tắt] ${sectionName}`}
+          title={sectionName}
         />
         <MainLayout className="items-center container">
           <div className="mt-8 w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
