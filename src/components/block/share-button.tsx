@@ -5,6 +5,8 @@ import { useToast } from '@/hooks/use-toast'
 import { copyToClipboard } from '@/lib/copy-to-clipboard'
 import { cn } from '@/lib/utils'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 export default function ShareButton({
   path,
   title,
@@ -20,7 +22,7 @@ export default function ShareButton({
       onClick={() => {
         const shareTitle = title || document?.title || ''
         const link = path
-          ? window?.location?.origin + path
+          ? window?.location?.origin + basePath + path
           : window?.location?.origin + window?.location?.pathname
         const shareData = {
           title: shareTitle,

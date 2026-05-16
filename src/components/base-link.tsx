@@ -4,6 +4,8 @@ import type { PropsWithChildren } from 'react'
 import { ExternalLink } from 'lucide-react'
 import { env } from '@/env.mjs'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 export interface IBaseLinkProps extends PropsWithChildren {
   href: Route | URL
   target?: string
@@ -65,9 +67,10 @@ const BaseLink: React.FC<IBaseLinkProps> = (props): JSX.Element => {
       .replace(/&*new-tab=true/, '')
       .replace('?&', '?')
       .replace(/\?$/, '')
+    const prefixedHref = cleanHref.startsWith('/') ? `${basePath}${cleanHref}` : cleanHref
     return (
       <a
-        href={cleanHref}
+        href={prefixedHref}
         {...newLinkProps}
         target="_blank"
         rel="noopener noreferrer"
