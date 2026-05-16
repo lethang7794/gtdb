@@ -31,5 +31,5 @@ export function getMetadataBase(): URL {
     }
   }
 
-  return new URL(`https://${env.NEXT_PUBLIC_DOMAIN}`)
+  return new URL(`https://${env.NEXT_PUBLIC_DOMAIN}${env.NEXT_PUBLIC_BASE_PATH || ''}`)
 }

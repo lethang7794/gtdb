@@ -2,6 +2,8 @@
 
 import { cn } from '@/lib/utils'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 export function Logo({
   classNameWrapper,
   className,
@@ -22,7 +24,7 @@ export function Logo({
     >
       <img
         alt="gtdb logo"
-        src="/assets/branding/logo-landscape.svg"
+        src={`${basePath}/assets/branding/logo-landscape.svg`}
         className={cn('aspect-2/1 w-24 h-12', className)}
       />
     </span>

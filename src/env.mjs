@@ -40,6 +40,7 @@ export const env = createEnv({
       .optional(),
 
     NEXT_PUBLIC_APP_ENV: z.enum(['dev', 'preview', 'prod']),
+    NEXT_PUBLIC_BASE_PATH: z.string().optional(),
     NEXT_PUBLIC_GITHUB_REPO: z.string().min(1),
     NEXT_PUBLIC_BRAND: z.string().min(1),
     NEXT_PUBLIC_BRAND_SHORT: z.string().min(1),
@@ -67,6 +68,7 @@ export const env = createEnv({
     CF_PAGES_URL: process.env.CF_PAGES_URL,
 
     NEXT_PUBLIC_OUTPUT_EXPORT: process.env.NEXT_PUBLIC_OUTPUT_EXPORT,
+    NEXT_PUBLIC_BASE_PATH: process.env.NEXT_PUBLIC_BASE_PATH || '',
     NEXT_PUBLIC_BUILD_OG_IMAGES: process.env.NEXT_PUBLIC_BUILD_OG_IMAGES,
     NEXT_PUBLIC_STATIC_PARAMS: process.env.NEXT_PUBLIC_STATIC_PARAMS || -1,
     CI: process.env.CI || false,

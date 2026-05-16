@@ -11,12 +11,15 @@ import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
 import { PHASE_DEVELOPMENT_SERVER } from 'next/constants.js'
 
 const normalizeConfig = (phase, { defaultConfig }) => {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
   /**
    * @type {import('next').NextConfig}
    */
   const nextConfig = {
     output:
       process.env.NEXT_PUBLIC_OUTPUT_EXPORT === 'true' ? 'export' : undefined,
+    basePath: basePath || undefined,
     images: {
       unoptimized: process.env.NEXT_PUBLIC_IMAGES_UNOPTIMIZED === 'true',
     },
