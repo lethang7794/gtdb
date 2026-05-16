@@ -12,6 +12,8 @@ import * as markmap from 'markmap-view'
 import { cn } from '@/lib/utils'
 import '@/style/markmap.css'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 const initValue = `# markmap
 
 - beautiful
@@ -67,7 +69,12 @@ export default function MarkmapRender({
     loadCSS(styles)
     loadJS(scripts, { getMarkmap: () => markmap })
 
-    const { root } = transformer.transform(value)
+    // Prepend basePath to absolute link references (e.g. [id]: /path -> [id]: /gtdb/path)
+    const valueWithBasePath = basePath
+      ? value.replace(/^(\[.*?\]:\s*)(\/)/gm, `$1${basePath}/`)
+      : value
+
+    const { root } = transformer.transform(valueWithBasePath)
     mm.setData(root)
     mm.fit()
   }, [value])
