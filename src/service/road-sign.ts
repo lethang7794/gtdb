@@ -1,6 +1,7 @@
 import data from '@data/road-signs.yaml'
 import type { RoadSign } from '@/model/RoadSign'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
 const ROAD_SIGNS_PUBLIC_PATH = 'assets/road-signs'
 
 export const getRoadSigns = async () => {
@@ -51,8 +52,8 @@ export const getRoadSignsWithAroundById = async (
 }
 
 export function getRoadSignImage(sign: RoadSign) {
-  return `/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`
+  return `${basePath}/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`
 }
 export function getRoadSignOgImage(sign: RoadSign) {
-  return `/${ROAD_SIGNS_PUBLIC_PATH}/og/${sign.image}`.replace('.svg', '.png')
+  return `${basePath}/${ROAD_SIGNS_PUBLIC_PATH}/og/${sign.image}`.replace('.svg', '.png')
 }

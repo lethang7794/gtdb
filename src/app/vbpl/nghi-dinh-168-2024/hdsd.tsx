@@ -9,6 +9,8 @@ import {
   DialogTrigger,
 } from '@/components/ui/dialog'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 export default function NghiDinh168HDSD() {
   return (
     <Dialog>
@@ -28,7 +30,7 @@ export default function NghiDinh168HDSD() {
                   <div className="relative aspect-video w-full">
                     <Image
                       fill
-                      src="/assets/nghi-dinh-168/nghi-dinh-168-mind-map.png"
+                      src={`${basePath}/assets/nghi-dinh-168/nghi-dinh-168-mind-map.png`}
                       alt="Tóm tắt - Sơ đồ tư duy"
                     />
                   </div>
@@ -53,7 +55,7 @@ export default function NghiDinh168HDSD() {
                   <div className="relative aspect-288/97 w-full">
                     <Image
                       fill
-                      src="/assets/nghi-dinh-168/nghi-dinh-168-muc-luc.png"
+                      src={`${basePath}/assets/nghi-dinh-168/nghi-dinh-168-muc-luc.png`}
                       className="mb-1 h-full object-contain object-bottom"
                       alt="Mục lục"
                     />
@@ -72,7 +74,7 @@ export default function NghiDinh168HDSD() {
                   <div className="relative aspect-289/55 w-full">
                     <Image
                       fill
-                      src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se.png"
+                      src={`${basePath}/assets/nghi-dinh-168/nghi-dinh-168-chia-se.png`}
                       className="mb-1 h-full object-contain object-bottom"
                       alt="Chia sẻ"
                     />
@@ -85,7 +87,7 @@ export default function NghiDinh168HDSD() {
                   <div className="relative aspect-289/81 w-full">
                     <Image
                       fill
-                      src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se-da-sao-chep.png"
+                      src={`${basePath}/assets/nghi-dinh-168/nghi-dinh-168-chia-se-da-sao-chep.png`}
                       alt="Chia sẻ - Đã sao chép"
                     />
                   </div>
@@ -98,7 +100,7 @@ export default function NghiDinh168HDSD() {
                   <div className="relative aspect-video w-full">
                     <Image
                       fill
-                      src="/assets/nghi-dinh-168/nghi-dinh-168-chia-se-preview.png"
+                      src={`${basePath}/assets/nghi-dinh-168/nghi-dinh-168-chia-se-preview.png`}
                       alt="Chia sẻ - Xem trước"
                     />
                   </div>

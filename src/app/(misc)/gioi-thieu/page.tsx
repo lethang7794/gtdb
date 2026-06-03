@@ -3,6 +3,8 @@ import { MainLayout } from '@/components/layout/main-layout'
 import { constants } from '@/constant'
 import Image from 'next/image'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
+
 export default async function GioiThieuPage() {
   return (
     <>
@@ -93,7 +95,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/moi-luc-light-mode.png"
+                        src={`${basePath}/assets/showcase/moi-luc-light-mode.png`}
                         alt="Đọc mọi lúc với chế độ sáng"
                       />
                     </div>
@@ -101,7 +103,7 @@ export default async function GioiThieuPage() {
                       <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
                           fill
-                          src="/assets/showcase/moi-luc-dark-mode.png"
+                          src={`${basePath}/assets/showcase/moi-luc-dark-mode.png`}
                           alt="Đọc mọi lúc với chế độ tối"
                           className="rounded-[32px]"
                         />
@@ -117,14 +119,14 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-16 mb-16 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/moi-noi-desktop.png"
+                        src={`${basePath}/assets/showcase/moi-noi-desktop.png`}
                         alt="Đọc mọi nơi trên máy tính"
                       />
                     </div>
                     <div className="absolute top-16 left-16 w-52 m:w-80">
                       <div className="aspect-square overflow-hidden rounded-[32px]">
                         <Image
-                          src="/assets/showcase/moi-noi-mobile.png"
+                          src={`${basePath}/assets/showcase/moi-noi-mobile.png`}
                           fill
                           alt="Đọc mọi nơi trên điện thoại"
                           className="rounded-[32px]"
@@ -141,7 +143,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/tom-tat-bang-so-do.png"
+                        src={`${basePath}/assets/showcase/tom-tat-bang-so-do.png`}
                         alt="Tóm tắt với sơ đồ tư duy"
                       />
                     </div>
@@ -155,7 +157,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-0 mb-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/tom-tat-bang-so-do-tuong-tac.png"
+                        src={`${basePath}/assets/showcase/tom-tat-bang-so-do-tuong-tac.png`}
                         alt="Tương tác với sơ đồ tư duy"
                       />
                     </div>
@@ -169,7 +171,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-0 mb-0 aspect-1/1 overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/tom-tat-muc-luc.png"
+                        src={`${basePath}/assets/showcase/tom-tat-muc-luc.png`}
                         alt="Mục lục chi tiết"
                       />
                     </div>
@@ -204,7 +206,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/so-hoa-chi-tiet-quoc-hieu.png"
+                        src={`${basePath}/assets/showcase/so-hoa-chi-tiet-quoc-hieu.png`}
                         alt="Đọc mọi lúc với chế độ sáng"
                       />
                     </div>
@@ -218,7 +220,7 @@ export default async function GioiThieuPage() {
                     <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                       <Image
                         fill
-                        src="/assets/showcase/so-hoa-chi-tiet-nguoi-ky.png"
+                        src={`${basePath}/assets/showcase/so-hoa-chi-tiet-nguoi-ky.png`}
                         alt="Đọc mọi lúc với chế độ sáng"
                       />
                     </div>
@@ -234,7 +236,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-32 mb-32 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/bien-bao-giao-thong-001.png"
+                      src={`${basePath}/assets/showcase/bien-bao-giao-thong-001.png`}
                       alt="Biển báo giao thông - 1"
                     />
                   </div>
@@ -242,7 +244,7 @@ export default async function GioiThieuPage() {
                     <div className="aspect-square overflow-hidden rounded-[32px]">
                       <Image
                         fill
-                        src="/assets/showcase/bien-bao-giao-thong-002.png"
+                        src={`${basePath}/assets/showcase/bien-bao-giao-thong-002.png`}
                         alt="Biển báo giao thông - 2"
                         className="rounded-[32px]"
                       />
@@ -252,7 +254,7 @@ export default async function GioiThieuPage() {
                     <div className="aspect-square overflow-hidden rounded-[32px]">
                       <Image
                         fill
-                        src="/assets/showcase/bien-bao-giao-thong-003.png"
+                        src={`${basePath}/assets/showcase/bien-bao-giao-thong-003.png`}
                         alt="Biển báo giao thông - 3"
                         className="rounded-[32px]"
                       />
@@ -268,7 +270,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/vach-ke-duong.png"
+                      src={`${basePath}/assets/showcase/vach-ke-duong.png`}
                       alt="Vạch kẻ đường"
                     />
                   </div>
@@ -283,7 +285,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/lien-ket-den-giai-thich.png"
+                      src={`${basePath}/assets/showcase/lien-ket-den-giai-thich.png`}
                       alt="Liên kết đến giải thích"
                     />
                   </div>
@@ -297,7 +299,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-square overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/chi-li-nhung-chi-ly.png"
+                      src={`${basePath}/assets/showcase/chi-li-nhung-chi-ly.png`}
                       alt="Chi li nhưng chí lý"
                     />
                   </div>
@@ -328,7 +330,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/chia-se-trong-mot-not-nhac.png"
+                      src={`${basePath}/assets/showcase/chia-se-trong-mot-not-nhac.png`}
                       alt="Chia sẻ trong một nốt nhác"
                       className="object-cover object-top"
                     />
@@ -344,7 +346,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-2/1 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/chia-se-den-dung-diem.png"
+                      src={`${basePath}/assets/showcase/chia-se-den-dung-diem.png`}
                       alt="Đến đúng điểm"
                       className="object-cover object-top"
                     />
@@ -360,7 +362,7 @@ export default async function GioiThieuPage() {
                   <div className="relative mr-0 mb-0 aspect-1200/630 overflow-hidden rounded-[32px] border-2">
                     <Image
                       fill
-                      src="/assets/showcase/chia-se-xem-truoc.png"
+                      src={`${basePath}/assets/showcase/chia-se-xem-truoc.png`}
                       alt="Xem trước nội dung"
                       className="object-cover object-top"
                     />

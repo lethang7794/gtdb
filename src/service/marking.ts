@@ -1,6 +1,7 @@
 import file from '@data/markings.yaml'
 import { MarkingImage, type Marking } from '@/model/Marking'
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
 const MARKINGS_PUBLIC_PATH = 'assets/markings'
 
 export const getMarkingsArray = async (): Promise<Marking[]> => {
@@ -14,7 +15,7 @@ export const getMarkingById = async (id: string): Promise<Marking | undefined> =
 
 export function getMarkingImage(item: Marking, opts?: { type?: MarkingImage }) {
   if (opts?.type === MarkingImage.extra) {
-    return `/${MARKINGS_PUBLIC_PATH}/${item.image_extra}`
+    return `${basePath}/${MARKINGS_PUBLIC_PATH}/${item.image_extra}`
   }
-  return `/${MARKINGS_PUBLIC_PATH}/${item.image}`
+  return `${basePath}/${MARKINGS_PUBLIC_PATH}/${item.image}`
 }
