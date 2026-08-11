@@ -1,9 +1,9 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata } from 'next'
 import Image from 'next/image'
+import { notFound } from 'next/navigation'
 import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
 import { MainLayout } from '@/components/layout/main-layout'
-import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
@@ -17,7 +17,6 @@ import '../style.css'
 
 type Props = {
   params: Promise<{ slug: string }>
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
 const LAW = constants.laws.nghiDinh168
@@ -33,11 +32,7 @@ export async function generateStaticParams() {
   )
 }
 
-export async function generateMetadata(
-  { params, searchParams }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  const token = getToken(LAW.id)
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
 
@@ -46,6 +41,9 @@ export async function generateMetadata(
 
   const section = decodedSlug
   const sectionItem = await getND168ById(section || '')
+  if (section !== SECTION_ZERO && !sectionItem) {
+    return { title: 'Not Found' }
+  }
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
@@ -76,10 +74,7 @@ export async function generateMetadata(
   }
 }
 
-export default async function NghiDinh1682024Page({
-  params,
-  searchParams,
-}: Props) {
+export default async function NghiDinh1682024Page({ params }: Props) {
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
   const section = decodedSlug
@@ -88,7 +83,11 @@ export default async function NghiDinh1682024Page({
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
-    const sectionContent = (await getND168ById(section))?.content || ''
+    const sectionItem = await getND168ById(section)
+    if (!sectionItem) {
+      notFound()
+    }
+    const sectionContent = sectionItem.content
     return (
       <>
         <NavHeader

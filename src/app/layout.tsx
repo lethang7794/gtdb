@@ -3,7 +3,6 @@ import { Inter as FontSans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Footer } from '@/components/block/footer'
-import Header from '@/components/block/header'
 import { Toaster } from '@/components/ui/toaster'
 import { getMetadataBase } from '@/lib/get-metadata-base'
 import { cn } from '@/lib/utils'
@@ -42,7 +41,7 @@ export const metadata: Metadata = {
     'Vạch kẻ đường',
     'QCVN 41:2019/BGTVT',
   ],
-  metadataBase: metadataBase,
+  metadataBase,
 }
 
 export default function RootLayout({
@@ -51,7 +50,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className="h-full">
+    <html lang="vi" className="h-full">
       <body
         className={cn(
           fontSans.variable,

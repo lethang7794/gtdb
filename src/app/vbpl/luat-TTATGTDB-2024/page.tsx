@@ -1,4 +1,4 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata } from 'next'
 import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
 import { getLuatGT2024OgImageById } from '@/service/luat-giao-thong-2024'
 import { constants } from '@/constant'
@@ -10,15 +10,7 @@ import NghiDinh168HDSD from '../nghi-dinh-168-2024/hdsd'
 
 const LAW = constants.laws.luatGT2024
 
-type Props = {
-  params: Promise<{ slug: string }>
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>
-}
-
-export async function generateMetadata(
-  { params, searchParams }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
+export async function generateMetadata(): Promise<Metadata> {
   return {
     title: LAW.short_name,
     description:

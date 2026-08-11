@@ -13,11 +13,17 @@ export const getRoadSignsArray = async () => {
   return Object.entries(items)
 }
 
+export const getRoadSignItemsArray = async () => {
+  const items = await getRoadSignsArray()
+  return items.filter(([, item]) => item.type !== 'group')
+}
+
 export const getRoadSignById = async (
   id: string
 ): Promise<RoadSign | undefined> => {
   const items = await getRoadSigns()
-  return items[id]
+  const item = items[id]
+  return item?.type === 'group' ? undefined : item
 }
 
 export const getRoadSignsWithAroundById = async (
@@ -36,9 +42,7 @@ export const getRoadSignsWithAroundById = async (
     return undefined
   }
 
-  const arr = (await getRoadSignsArray()).filter(
-    ([, item]) => item.type !== 'group'
-  )
+  const arr = await getRoadSignItemsArray()
   const foundIdx = arr.findIndex(([key]) => key === id)
   if (foundIdx === -1) {
     return undefined
@@ -47,7 +51,7 @@ export const getRoadSignsWithAroundById = async (
   return {
     prev: foundIdx === 0 ? undefined : arr[foundIdx - 1],
     cur: arr[foundIdx],
-    next: foundIdx === arr.length ? undefined : arr[foundIdx + 1],
+    next: foundIdx === arr.length - 1 ? undefined : arr[foundIdx + 1],
   }
 }
 
@@ -55,5 +59,8 @@ export function getRoadSignImage(sign: RoadSign) {
   return `${basePath}/${ROAD_SIGNS_PUBLIC_PATH}/${sign.image}`
 }
 export function getRoadSignOgImage(sign: RoadSign) {
-  return `${basePath}/${ROAD_SIGNS_PUBLIC_PATH}/og/${sign.image}`.replace('.svg', '.png')
+  return `${basePath}/${ROAD_SIGNS_PUBLIC_PATH}/og/${sign.image}`.replace(
+    '.svg',
+    '.png'
+  )
 }

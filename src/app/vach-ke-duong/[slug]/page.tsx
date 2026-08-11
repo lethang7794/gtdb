@@ -1,17 +1,18 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata } from 'next'
 import Image from 'next/image'
+import { notFound } from 'next/navigation'
 import { processStaticParams } from '@/lib/static-params'
 import { MarkingImage } from '@/model/Marking'
 import {
   getMarkingById,
   getMarkingImage,
-  getMarkingsArray,
+  getMarkingItemsArray,
 } from '@/service/marking'
 import { constants } from '@/constant'
 import { NavHeader } from '@/components/block/nav-header'
 
 export async function generateStaticParams() {
-  const items = await getMarkingsArray()
+  const items = await getMarkingItemsArray()
   const params = items.map((item) => ({ slug: `${item.id}` }))
   return processStaticParams(params, constants.paths.vachKeDuong.ROOT)
 }
@@ -20,10 +21,7 @@ type Props = {
   params: { slug: string }
 }
 
-export async function generateMetadata(
-  { params }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const slug = params.slug
   const item = await getMarkingById(slug)
   if (!item) {
@@ -59,7 +57,7 @@ export default async function MarkingPage({
   const slug = params.slug
   const marking = await getMarkingById(slug)
   if (!marking) {
-    return <>Not Found</>
+    notFound()
   }
 
   return (

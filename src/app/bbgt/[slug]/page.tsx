@@ -1,12 +1,13 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata } from 'next'
 import Image from 'next/image'
+import { notFound } from 'next/navigation'
 import { CircleArrowLeft, CircleArrowRight, Undo2 } from 'lucide-react'
 import { processStaticParams } from '@/lib/static-params'
 import {
   getRoadSignById,
   getRoadSignImage,
   getRoadSignOgImage,
-  getRoadSignsArray,
+  getRoadSignItemsArray,
   getRoadSignsWithAroundById,
 } from '@/service/road-sign'
 import '@/style/github-markdown-road-sign.css'
@@ -16,7 +17,7 @@ import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
 
 export async function generateStaticParams() {
-  const roadSigns = await getRoadSignsArray()
+  const roadSigns = await getRoadSignItemsArray()
   const params = roadSigns.map(([key]) => ({ slug: key }))
   return processStaticParams(params, constants.paths.bbgt.ROOT)
 }
@@ -25,19 +26,12 @@ type Props = {
   params: { slug: string }
 }
 
-export async function generateMetadata(
-  { params }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  const slug = params.slug
-  const decodedSlug = slug.replace(/%2C/g, ',')
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const decodedSlug = decodeURIComponent(params.slug)
   const sign = await getRoadSignById(decodedSlug)
   if (!sign) {
     return { title: 'Not Found' }
   }
-
-  const img = getRoadSignImage(sign)
-  const imgIsSupportByOg = img.match(/.png|.jpg|.jpeg/)
 
   const pageTitle = `${decodedSlug}: ${sign.name}`
   return {
@@ -58,10 +52,10 @@ export async function generateMetadata(
 
 export default async function RoadSignPage({ params }: Props) {
   const slug = params.slug
-  const decodedSlug = slug.replace(/%2C/g, ',')
+  const decodedSlug = decodeURIComponent(slug)
   const signWithAround = await getRoadSignsWithAroundById(decodedSlug)
   if (!signWithAround) {
-    return <>Not Found</>
+    notFound()
   }
   const sign = signWithAround.cur[1]
   const prev = signWithAround.prev

@@ -1,9 +1,9 @@
-import type { Metadata, ResolvingMetadata } from 'next'
+import type { Metadata } from 'next'
 import Image from 'next/image'
+import { notFound } from 'next/navigation'
 import BaseLink from '@/components/base-link'
 import { NavHeader } from '@/components/block/nav-header'
 import { MainLayout } from '@/components/layout/main-layout'
-import { getToken } from '@/lib/crypto'
 import { processStaticParams } from '@/lib/static-params'
 import { vbplSectionExplain } from '@/lib/vbpl-explain-section'
 import {
@@ -21,7 +21,6 @@ const SECTION_ZERO = constants.laws.VBPL_SECTION_ZERO
 
 type Props = {
   params: Promise<{ slug: string }>
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
 export async function generateStaticParams() {
@@ -33,12 +32,7 @@ export async function generateStaticParams() {
   )
 }
 
-export async function generateMetadata(
-  { params, searchParams }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  const token = getToken(LAW.id)
-
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // const s = (await searchParams).s || ''
   // const section = decodeURI(Array.isArray(s) ? s[0] : s)
 
@@ -47,6 +41,9 @@ export async function generateMetadata(
   const section = decodedSlug
 
   const sectionItem = await getLuatGT2024ById(section || '')
+  if (section !== SECTION_ZERO && !sectionItem) {
+    return { title: 'Not Found' }
+  }
   const sectionExplain = vbplSectionExplain(section).path
 
   return {
@@ -76,10 +73,7 @@ export async function generateMetadata(
   }
 }
 
-export default async function LuatTTATGTDB2024Page({
-  params,
-  searchParams,
-}: Props) {
+export default async function LuatTTATGTDB2024Page({ params }: Props) {
   const slug = (await params).slug
   const decodedSlug = decodeURI(slug)
   const section = decodedSlug
@@ -88,7 +82,11 @@ export default async function LuatTTATGTDB2024Page({
     const sectionExplain = vbplSectionExplain(section).path
 
     const sectionName = `${sectionExplain} ${LAW.short_name}`
-    const sectionContent = (await getLuatGT2024ById(section))?.content || ''
+    const sectionItem = await getLuatGT2024ById(section)
+    if (!sectionItem) {
+      notFound()
+    }
+    const sectionContent = sectionItem.content
     return (
       <>
         <NavHeader

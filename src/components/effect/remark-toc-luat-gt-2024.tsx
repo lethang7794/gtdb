@@ -28,12 +28,7 @@ export default function RemarkTOCEffect() {
     const hash = window.location.hash
     const id = decodeURI(hash.replace('#', ''))
 
-    let { firstId, secondId, thirdId } = extractSectionIds(id)
-    console.log('🚀 ~ useLayoutEffect ~ { firstId, secondId, thirdId }:', {
-      firstId,
-      secondId,
-      thirdId,
-    })
+    const { firstId, secondId, thirdId } = extractSectionIds(id)
 
     let first: Element | null = null
     let second: Element | null = null

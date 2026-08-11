@@ -2,7 +2,7 @@ type MarkingType = 'group' | 'sub_group' | 'item'
 
 export type Marking = {
   id: string
-  type: MarkingType
+  type?: MarkingType
   group_name: string
   short_name: string
   full_name: string
@@ -15,7 +15,7 @@ export type Marking = {
   image_extra_alt?: string
   attribute: MarkingAttribute
   group: string[]
-  meaning: string | { type: string, meaning: string }[]
+  meaning: string | { type: string; meaning: string }[]
   docs: string
 }
 

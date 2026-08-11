@@ -42,7 +42,7 @@ export default async function Home() {
                             newTab
                           >
                             {item.name}
-                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
+                            <ChevronRight className="shrink-0 w-6 inline-block h-6 align-bottom text-blue-500" />
                           </BaseLink>
                         </div>
                         {item.description ? (
@@ -65,7 +65,7 @@ export default async function Home() {
                             newTab
                           >
                             <div>{item.name}</div>
-                            <ChevronRight className="shrink-0 w6 inline-block h-6 align-bottom text-blue-500" />
+                            <ChevronRight className="shrink-0 w-6 inline-block h-6 align-bottom text-blue-500" />
                           </BaseLink>
                         </div>
                         {item.description ? (
@@ -216,7 +216,7 @@ export default async function Home() {
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
+                      <ChevronRight className="w-6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (
@@ -240,7 +240,7 @@ export default async function Home() {
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
+                      <ChevronRight className="w-6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (
@@ -264,7 +264,7 @@ export default async function Home() {
                       href={item.url}
                     >
                       {item.name}
-                      <ChevronRight className="w6 inline-block h-6 align-bottom text-blue-500" />
+                      <ChevronRight className="w-6 inline-block h-6 align-bottom text-blue-500" />
                     </BaseLink>
                   </div>
                   {item.description ? (

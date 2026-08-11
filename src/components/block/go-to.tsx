@@ -26,7 +26,6 @@ export default function GoTo() {
   useLayoutEffect(() => {
     const hash = window.location.hash
     const id = decodeURI(hash.replace('#', ''))
-    console.log('🚀 ~ useLayoutEffect ~ id:', id)
 
     if (!id) {
       return
@@ -83,10 +82,6 @@ export default function GoTo() {
       firstPrefix = 'Chương'
       secondPrefix = 'Mục'
     }
-
-    const first = document.querySelector(`.anchor-link[id*="${firstId}"]`)
-    const second = document.querySelector(`.anchor-link[id*="${secondId}"]`)
-    const third = document.querySelector(`.anchor-link[id*="${thirdId!}"]`)
 
     setSections({
       firstId,

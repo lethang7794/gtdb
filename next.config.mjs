@@ -7,10 +7,8 @@ import rehypeSlug from 'rehype-slug'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkGfm from 'remark-gfm'
 import rehypeStringify from 'rehype-stringify'
-import { VBPL_SECTION_ZERO } from './src/constant/vbpl.mjs'
-import { PHASE_DEVELOPMENT_SERVER } from 'next/constants.js'
 
-const normalizeConfig = (phase, { defaultConfig }) => {
+const normalizeConfig = () => {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
 
   /**

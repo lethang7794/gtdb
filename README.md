@@ -6,7 +6,7 @@ View online at:
 
 - Production: [gtdb.app](https://gtdb.app), [gtdb-2jt.pages.dev](https://gtdb-2jt.pages.dev/)
 - Staging: [gtdb.vercel.app](https://gtdb.vercel.app/)
-- Dev (local): [localhost:3000](http:localhost:3000)
+- Dev (local): [localhost:3000](http://localhost:3000)
 
 Summary: A collection of resources to be a better driver in Vietnam.
 
@@ -24,22 +24,13 @@ Summary: A collection of resources to be a better driver in Vietnam.
 See more
 </summary>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 

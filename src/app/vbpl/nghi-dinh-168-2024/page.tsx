@@ -1,5 +1,4 @@
-import type { Metadata, ResolvingMetadata } from 'next'
-import { constants } from '@/constant'
+import type { Metadata } from 'next'
 import NghiDinh1682024 from '@/content/nghi-dinh-168.mdx'
 import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
 import { getND168OgImageById } from '@/service/nghi-dinh-168'
@@ -8,17 +7,7 @@ import { NavHeader } from '@/components/block/nav-header'
 import { VbplLayout } from '@/components/layout/vbpl-layout'
 import NghiDinh168HDSD from './hdsd'
 
-const LAW = constants.laws.nghiDinh168.id
-
-type Props = {
-  params: Promise<{ id: string }>
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>
-}
-
-export async function generateMetadata(
-  { params, searchParams }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
+export async function generateMetadata(): Promise<Metadata> {
   return {
     title: ['Nghị định 168/2024'].filter(Boolean).join(' | '),
     description:
@@ -40,10 +29,7 @@ export async function generateMetadata(
   }
 }
 
-export default async function NghiDinh1682024Page({
-  params,
-  searchParams,
-}: Props) {
+export default async function NghiDinh1682024Page() {
   return (
     <>
       <NavHeader
