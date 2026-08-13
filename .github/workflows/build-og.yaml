@@ -78,6 +78,7 @@ jobs:
         run: | # Secrets needed on the server
           echo "NEXT_PUBLIC_OUTPUT_EXPORT=${{ vars.NEXT_PUBLIC_OUTPUT_EXPORT }}" >> .env.production
           echo "NEXT_PUBLIC_IMAGES_UNOPTIMIZED=${{ vars.NEXT_PUBLIC_IMAGES_UNOPTIMIZED }}" >> .env.production
+          echo "NEXT_PUBLIC_BASE_PATH=/gtdb" >> .env.production
           echo "NEXT_PUBLIC_BUILD_OG_IMAGES=${{ vars.NEXT_PUBLIC_BUILD_OG_IMAGES }}" >> .env.production
           echo "NEXT_PUBLIC_STATIC_PARAMS=${{ env.STATIC_PARAMS }}" >> .env.production
           echo "NEXT_PUBLIC_SECRET=${{ vars.NEXT_PUBLIC_SECRET }}" >> .env.production

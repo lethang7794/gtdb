@@ -48,6 +48,11 @@ jobs:
 
       - name: Build
         run: pnpm run build
+        env:
+          NEXT_PUBLIC_OUTPUT_EXPORT: 'true'
+          NEXT_PUBLIC_IMAGES_UNOPTIMIZED: 'true'
+          NEXT_PUBLIC_BASE_PATH: /gtdb
+          NEXT_PUBLIC_DOMAIN: lethang7794.github.io
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
