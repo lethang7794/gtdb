@@ -44,3 +44,13 @@ To learn more about Next.js, take a look at the following resources:
 ## License
 
 This project is licensed under the terms of the [MIT license](/LICENSE).
+
+## Regression checks
+
+Use Node.js 22.18 or newer and run `npm test`; no dependency installation is needed for these checks. Tests cover legal section identifiers, chapter navigation, article matching, share-link encoding, and native sharing/clipboard failures. The checked-in YAML identifiers are included in the tests.
+
+When changing a provision's identifier, update both its YAML entry and MDX anchor, and preserve previously shared URLs where possible. Keep dotted identifiers such as `6.10` quoted as YAML strings without embedding quote characters in their values.
+
+These checks validate navigation and data structure, not the current legal accuracy of the content. Verify legal amendments against their official sources before editing the text. Run `pnpm build` after installing dependencies to validate the complete site.
+
+The point labels corrected in Articles 16 and 40 of Decree 168 were checked against the [Government's published original text](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm). This does not establish whether later amendments have been incorporated throughout the site.

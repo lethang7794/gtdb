@@ -2,7 +2,7 @@
 
 import { Share } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { copyToClipboard } from '@/lib/copy-to-clipboard'
+import { shareOrCopy } from '@/lib/copy-to-clipboard'
 import { cn } from '@/lib/utils'
 
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
@@ -19,7 +19,8 @@ export default function ShareButton({
   return (
     <button
       type="button"
-      onClick={() => {
+      aria-label="Chia sẻ trang này"
+      onClick={async () => {
         const shareTitle = title || document?.title || ''
         const link = path
           ? window?.location?.origin + basePath + path
@@ -29,13 +30,15 @@ export default function ShareButton({
           text: `Xem chi tiết ${shareTitle} tại: `,
           url: link,
         }
-        if (navigator.share && navigator.canShare(shareData)) {
-          navigator.share(shareData)
-        } else {
-          copyToClipboard(link)
+        try {
+          if ((await shareOrCopy(shareData)) === 'copied') {
+            toast({ title: `✅ Đã sao chép: ${shareTitle}`, description: link })
+          }
+        } catch {
           toast({
-            title: `✅ Đã sao chép: ${shareTitle}`,
-            description: `${link}`,
+            title: 'Không thể chia sẻ hoặc sao chép liên kết',
+            description: link,
+            variant: 'destructive',
           })
         }
       }}

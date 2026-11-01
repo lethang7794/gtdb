@@ -9,7 +9,8 @@
     "build-opengraph-images-test": "NEXT_PUBLIC_BUILD_OG_IMAGES='true' NEXT_PUBLIC_OUTPUT_EXPORT='true' NEXT_PUBLIC_STATIC_PARAMS=10 just build_opengraph_images",
     "build-opengraph-images-all": "NEXT_PUBLIC_BUILD_OG_IMAGES='true' NEXT_PUBLIC_OUTPUT_EXPORT='true' just build_opengraph_images",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "node --import ./tests/register.mjs --test tests/*.test.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.0",

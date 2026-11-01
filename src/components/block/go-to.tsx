@@ -76,7 +76,7 @@ export default function GoTo() {
     if (isMuc(id)) {
       const [chuongId, mucId] = id.split('.')
       firstId = chuongId
-      secondId = `${chuongId}${mucId}`
+      secondId = `${chuongId}.${mucId}`
       firstShortId = chuongId
       secondShortId = mucId
       firstPrefix = 'Chương'

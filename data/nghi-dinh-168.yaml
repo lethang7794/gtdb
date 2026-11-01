@@ -766,7 +766,7 @@ II.1:
   content: 'Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển "Cấm đi ngược chiều”, trừ các hành vi vi phạm quy định tại điểm đ khoản 11 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định.'
 
 "6.10":
-  id: '"6.10"'
+  id: '6.10'
   cur_level: 10
   content: "Phạt tiền từ 20.000.000 đồng đến 22.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:"
 
@@ -1221,7 +1221,7 @@ II.1:
   content: "Sử dụng còi, rú ga (nẹt pô) liên tục trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định."
 
 "7.10":
-  id: '"7.10"'
+  id: '7.10'
   cur_level: 10
   content: "Phạt tiền từ 10.000.000 đồng đến 14.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:"
 
@@ -1991,7 +1991,7 @@ II.1:
   content: "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với cá nhân, từ 6.000.000 đồng đến 10.000.000 đồng đối với tổ chức thực hiện hành vi bày, bán máy móc, thiết bị, vật tư hoặc sản xuất, gia công hàng hóa trên lòng đường, vỉa hè,"
 
 "12.10":
-  id: '"12.10"'
+  id: '12.10'
   cur_level: 10
   content: "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 12.000.000 đồng đối với tổ chức thực hiện hành vi không chấp hành yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ, trừ các hành vi vi phạm quy định tại điểm b, điểm d khoản 11 Điều 6; điểm đ, điểm g khoản 9 Điều 7; điểm b, điểm d khoản 9 Điều 8; điểm c khoản 4 Điều 9; điểm b khoản 5 Điều 34 của Nghị định này."
 
@@ -2231,7 +2231,7 @@ II.2:
   content: "Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông (bao gồm cả xe công nông thuộc diện bị đình chỉ tham gia giao thông, rơ moóc và sơ mi rơ moóc được kéo theo)."
 
 "13.10":
-  id: '"13.10"'
+  id: '13.10'
   cur_level: 10
   content: "Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:"
 
@@ -2761,7 +2761,7 @@ II.3:
   content: "Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực."
 
 "18.10":
-  id: '"18.10"'
+  id: '18.10'
   cur_level: 10
   content: "Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 5, điểm b khoản 7, điểm b khoản 9 Điều này còn bị áp dụng biện pháp khắc phục hậu quả buộc nộp lại giấy phép lái xe bị tẩy xóa."
 
@@ -2986,7 +2986,7 @@ II.4:
   content: "Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều này bị thu hồi phù hiệu đã hết giá trị sử dụng hoặc phù hiệu không do cơ quan có thẩm quyền cấp."
 
 "20.10":
-  id: '"20.10"'
+  id: '20.10'
   cur_level: 10
   content: "Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe như sau:"
 
@@ -3186,7 +3186,7 @@ II.4:
   content: "Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe thực hiện hành vi nhận, trả hàng trên đường cao tốc."
 
 "21.10":
-  id: '"21.10"'
+  id: '21.10'
   cur_level: 10
   content: "Phạt tiền từ 18.000.000 đồng đến 22.000.000 đồng đối với một trong các hành vi vi phạm sau đây:"
 
@@ -3616,7 +3616,7 @@ II.4:
   content: "Đơn vị sản xuất, lắp ráp, nhập khẩu thiết bị giám sát hành trình của xe ô tô không báo cáo về việc cập nhật, thay đổi phần mềm của thiết bị theo quy định."
 
 "26.10":
-  id: '"26.10"'
+  id: '26.10'
   cur_level: 10
   content: "Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với đơn vị sản xuất, lắp ráp, nhập khẩu thiết bị ghi nhận hình ảnh người lái xe lắp trên xe ô tô, đơn vị cung cấp dịch vụ liên quan đến giám sát hành trình, ghi nhận hình ảnh người lái xe thực hiện một trong các hành vi vi phạm sau đây:"
 
@@ -4081,7 +4081,7 @@ II.5:
   content: "Không thực hiện đúng quy định về biển số, quy định về kẻ hoặc dán chữ, số biển số, thông tin trên thành xe, cửa xe (kể cả rơ moóc và sơ mi rơ moóc), trừ các hành vi vi phạm quy định tại điểm b, điểm c khoản 12; điểm d khoản 13 Điều này và các hành vi vi phạm quy định tại điểm b khoản 3 Điều 39 của Nghị định này."
 
 "32.10":
-  id: '"32.10"'
+  id: '32.10'
   cur_level: 10
   content: "Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với cá nhân, từ 16.000.000 đồng đến 20.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện hành vi vi phạm giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 56 của Luật Trật tự, an toàn giao thông đường bộ điều khiển xe tham gia giao thông (bao gồm cả trường hợp người điều khiển phương tiện có giấy phép lái xe nhưng đang trong thời gian bị tước quyền sử dụng)."
 
@@ -4376,7 +4376,7 @@ II.5:
   content: "Thực hiện hành vi vi phạm quy định tại điểm o khoản 7 Điều này buộc lắp đặt dụng cụ, thiết bị chuyên dùng để cứu hộ, hỗ trợ cứu hộ trên xe theo đúng quy định."
 
 "32.20":
-  id: '"32.20"'
+  id: '32.20'
   cur_level: 20
   content: "Ngoài việc bị áp dụng hình thức xử phạt, cá nhân, tổ chức thực hiện hành vi vi phạm quy định tại điểm a, điểm d khoản 7; điểm a, điểm e khoản 8; điểm đ khoản 9 Điều này bị thu hồi hồ sơ đăng ký xe bị tẩy xóa, sửa chữa hoặc giả mạo; giấy tờ, tài liệu giả để được cấp lại biển số xe, chứng nhận đăng ký xe, giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường; chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không do cơ quan có thẩm quyền cấp hoặc không đúng với số khung, số động cơ (số máy); giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe không do cơ quan có thẩm quyền cấp."
 
@@ -5061,7 +5061,7 @@ II.5:
   content: "Trung tâm sát hạch lái xe thực hiện hành vi quy định tại điểm k khoản 5, khoản 7 Điều này bị tước quyền sử dụng giấy phép sát hạch từ 02 tháng đến 04 tháng."
 
 "39.10":
-  id: '"39.10"'
+  id: '39.10'
   cur_level: 10
   content: "Ngoài việc bị áp dụng hình thức xử phạt, cá nhân thực hiện hành vi vi phạm quy định tại điểm i khoản 3 Điều này còn bị áp dụng biện pháp khắc phục hậu quả thu hồi giấy tờ, tài liệu giả mạo."
 
@@ -5162,7 +5162,7 @@ II.5:
 
 40.3.e:
   id: '40.3.e'
-  cur_level: c
+  cur_level: e
   content: "Lưu trữ hồ sơ, tài liệu, dữ liệu chứng nhận không đúng quy định."
 
 40.4:
@@ -6051,7 +6051,7 @@ III.2:
   content: "Người có thẩm quyền xử phạt được sử dụng các thông tin trong Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ theo quy định của Luật Trật tự, an toàn giao thông đường bộ, Luật Xử lý vi phạm hành chính, pháp luật về đo lường để làm căn cứ xác định hành vi vi phạm đối với cá nhân, tổ chức khi thực hiện một trong các hành vi vi phạm quy định tại Nghị định này."
 
 "47.10":
-  id: '"47.10"'
+  id: '47.10'
   cur_level: 10
   content: "Việc xác minh để phát hiện hành vi vi phạm quy định tại điểm a khoản 3, điểm h khoản 7 Điều 32 của Nghị định này được thực hiện thông qua công tác điều tra, giải quyết vụ tai nạn giao thông; qua công tác đăng ký xe; qua công tác xử lý vụ việc vi phạm hành chính tại trụ sở đơn vị."
 

@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (section !== SECTION_ZERO && !sectionItem) {
     return { title: 'Not Found' }
   }
-  const sectionExplain = vbplSectionExplain(section).path
+  const sectionExplain = vbplSectionExplain(sectionItem?.id || section).path
 
   return {
     title: [sectionExplain, LAW.short_name].filter(Boolean).join(' | '),
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     //   images: `/api/og?l=${LAW}&s=${section}&t=${token}`,
     // },
     openGraph: {
-      images: getLuatGT2024OgImageById(decodedSlug),
+      images: getLuatGT2024OgImageById(sectionItem?.id || decodedSlug),
     },
   }
 }
@@ -79,10 +79,9 @@ export default async function LuatTTATGTDB2024Page({ params }: Props) {
   const section = decodedSlug
 
   if (section !== SECTION_ZERO) {
-    const sectionExplain = vbplSectionExplain(section).path
-
-    const sectionName = `${sectionExplain} ${LAW.short_name}`
     const sectionItem = await getLuatGT2024ById(section)
+    const sectionExplain = vbplSectionExplain(sectionItem?.id || section).path
+    const sectionName = `${sectionExplain} ${LAW.short_name}`
     if (!sectionItem) {
       notFound()
     }
@@ -95,13 +94,16 @@ export default async function LuatTTATGTDB2024Page({ params }: Props) {
         />
         <MainLayout className="items-center container">
           <div className="mt-8 w-full max-w-[1200px] overflow-hidden rounded-xl border-2 lg:rounded-4xl lg:border-4">
-            <BaseLink href={`${PAGE_PATH}#${section}`} className="w-full">
+            <BaseLink
+              href={`${PAGE_PATH}#${sectionItem.id || section}`}
+              className="w-full"
+            >
               <div className="relative aspect-1200/630 w-full">
                 <Image
                   fill={true}
                   quality={100}
                   alt={sectionName}
-                  src={getLuatGT2024OgImageById(section)}
+                  src={getLuatGT2024OgImageById(sectionItem.id || section)}
                   className="w-full object-contain"
                 />
               </div>
@@ -112,7 +114,7 @@ export default async function LuatTTATGTDB2024Page({ params }: Props) {
             <div>&ldquo;{sectionContent}&rdquo;</div>
           </div>
           <BaseLink
-            href={`${PAGE_PATH}#${section}`}
+            href={`${PAGE_PATH}#${sectionItem.id || section}`}
             className="self-start sm:self-center"
           >
             <div className="mt-2 border-b-0! text-lg lg:text-3xl">

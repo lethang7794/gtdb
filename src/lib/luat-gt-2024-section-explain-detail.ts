@@ -25,6 +25,7 @@ export const luatGT2024SectionExplainDetail = async (
   }
 
   const curDetail = await getLuatGT2024ById(id)
+  id = curDetail?.id || id
 
   if (isChuong(id)) {
     return {

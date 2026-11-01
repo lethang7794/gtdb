@@ -4,7 +4,7 @@ import type { ReactNode } from 'react'
 import React from 'react'
 import { CircleCheckBig, Link2 } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
-import { copyToClipboard } from '@/lib/copy-to-clipboard'
+import { shareOrCopy } from '@/lib/copy-to-clipboard'
 import { getShareLinkFromId } from '@/lib/get-share-link-from-id'
 import { cn } from '@/lib/utils'
 import { isDieu, isKhoan } from '@/lib/vbpl-explain-section'
@@ -28,26 +28,26 @@ export default function AnchorLinkLuatGT2024Client({
   const { toast } = useToast()
 
   const [hasCopied, setHasCopied] = React.useState(false)
-  const [hasCopiedRecently, setHasCopiedRecently] = React.useState(false)
 
   React.useEffect(() => {
-    if (hasCopied) {
-      setTimeout(() => {
-        setHasCopied(false)
-      }, 2000)
-    }
-
-    if (hasCopied) {
-      setTimeout(() => {
-        setHasCopiedRecently(false)
-      }, 5500)
-    }
+    if (!hasCopied) return
+    const timer = setTimeout(() => setHasCopied(false), 2000)
+    return () => clearTimeout(timer)
   }, [hasCopied])
 
   return (
     <El
       id={`${id}`}
-      onClick={(e: React.SyntheticEvent) => {
+      role={El === 'span' ? 'button' : undefined}
+      tabIndex={El === 'span' ? 0 : undefined}
+      aria-label={`Chia sẻ ${explain || id}`}
+      onKeyDown={(event: React.KeyboardEvent<HTMLElement>) => {
+        if (El === 'span' && (event.key === 'Enter' || event.key === ' ')) {
+          event.preventDefault()
+          event.currentTarget.click()
+        }
+      }}
+      onClick={async (e: React.SyntheticEvent) => {
         e.preventDefault()
         e.stopPropagation()
         const shareLink = getShareLinkFromId(id)
@@ -57,15 +57,19 @@ export default function AnchorLinkLuatGT2024Client({
           text: `Xem chi tiết ${explain} ${LAW_NAME} tại: `,
           url: shareLink,
         }
-        if (navigator.share && navigator.canShare(shareData)) {
-          navigator.share(shareData)
-        } else {
-          copyToClipboard(shareLink)
-          setHasCopied(true)
-          setHasCopiedRecently(true)
+        try {
+          if ((await shareOrCopy(shareData)) === 'copied') {
+            setHasCopied(true)
+            toast({
+              title: `✅ Đã sao chép: ${explain}`,
+              description: shareLink,
+            })
+          }
+        } catch {
           toast({
-            title: `✅ Đã sao chép: ${explain}`,
-            description: `${shareLink}`,
+            title: 'Không thể chia sẻ hoặc sao chép liên kết',
+            description: shareLink,
+            variant: 'destructive',
           })
         }
       }}
@@ -83,17 +87,6 @@ export default function AnchorLinkLuatGT2024Client({
       ) : (
         <Link2 className="absolute" />
       )}
-      {/* {hasCopiedRecently && !hasCopied ? null : (
-        <span className="tooltip absolute -top-[2.25em] -left-[1em] hidden h-min w-max rounded-lg bg-black px-2 py-1 text-white shadow-lg">
-          {hasCopied ? (
-            <span className="copied">Đã sao chép</span>
-          ) : (
-            <span className="copy">
-              Sao chép đường dẫn: <em>{explain}</em>
-            </span>
-          )}
-        </span>
-      )} */}
       {children}
     </El>
   )

@@ -1,13 +1,15 @@
 import data from '@data/luat-TTATGTDT-2024.yaml'
 import type { LuatGT2024 } from '@/model/LuatGT2024'
+import { withLegacyLawSections } from '@/lib/legacy-law-sections'
 import { constants } from '@/constant'
 import { env, shouldShowStaticOpenGraphImage } from '@/env.mjs'
 
 const OG_PATH = constants.paths.assets.OG
 const PAGE_PATH = constants.paths.vbpl.LUAT_GT_2024
 
-export const getLuatGT2024s = async () => {
-  return data as Record<string, LuatGT2024>
+export const getLuatGT2024s = async (): Promise<Record<string, LuatGT2024>> => {
+  const items = data as Record<string, LuatGT2024>
+  return withLegacyLawSections(items)
 }
 
 export const getLuatGT2024ById = async (

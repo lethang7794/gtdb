@@ -1,4 +1,4 @@
-import { VBPL_SECTION_ZERO } from '@/constant/vbpl'
+import { VBPL_SECTION_ZERO } from '../constant/vbpl'
 
 export function vbplSectionExplain(id?: string):
   | {
@@ -70,11 +70,16 @@ export function isSectionZero(id: string) {
 }
 
 export function isChuong(id: string) {
-  return id.match(/^(I|II|III|IV)$/)
+  return id.match(
+    /^(?=[IVXLCDM]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/
+  )
 }
 
 export function isMuc(id: string) {
-  return id.match(/^(I|II|III|IV)\.(\d+)$/)
+  const [chapter, section, ...rest] = id.split('.')
+  return Boolean(
+    isChuong(chapter) && section && /^\d+$/.test(section) && rest.length === 0
+  )
 }
 
 export function isDieu(id: string) {
@@ -82,22 +87,24 @@ export function isDieu(id: string) {
 }
 
 export function hasDieu(id: string, dieu: number) {
-  const regex = new RegExp(`^${dieu}`)
-  return id.match(regex)
+  return (
+    (isDieu(id) || isKhoan(id) || isDiem(id)) &&
+    id.split('.')[0] === String(dieu)
+  )
 }
 
 export function isKhoan(id: string) {
-  return id.match(/^\d+.\d+$/)
+  return id.match(/^\d+\.\d+$/)
 }
 
 export function isKhoanFirst(id: string) {
-  return id.match(/^\d+.1/)
+  return Boolean((isKhoan(id) || isDiem(id)) && id.split('.')[1] === '1')
 }
 
 export function isDiem(id: string) {
-  return id.match(/^\d+.\d+.(\w|đ)$/)
+  return id.match(/^\d+\.\d+\.[a-zđ]$/)
 }
 
 export function isDiemFirst(id: string) {
-  return id.match(/^\d+.\d+.a$/)
+  return id.match(/^\d+\.\d+\.a$/)
 }
